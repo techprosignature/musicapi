@@ -1,0 +1,34 @@
+name: Daily Node Fetch and Process
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs at midnight UTC every day
+
+  workflow_dispatch: # Allows manual runs
+
+jobs:
+  fetch-and-process:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '22' # Adjust as needed
+
+      - name: Install dependencies
+        run: npm install jsdom
+
+      - name: Run fetch and process script
+        run: node fetchProcess.js
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add sacredmusic/
+          git commit -m "Daily update: $(date -u +'%Y-%m-%d')"
+          git push
