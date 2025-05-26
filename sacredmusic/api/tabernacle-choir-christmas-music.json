@@ -1,0 +1,1823 @@
+[
+  {
+    "title": "Joy to the World",
+    "slug": "joy-to-the-world-wilberg",
+    "bookSlug": "tabernacle-choir-christmas-music",
+    "songNumber": "1",
+    "arrangers": [
+      {
+        "personName": "Mack Wilberg"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Orchestra at Temple Square"
+      },
+      {
+        "personName": "Tabernacle Choir at Temple Square, The"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Isaac Watts"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "George F. Handel"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Choir"
+      },
+      {
+        "name": "Orchestra"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": false,
+    "tags": [
+      "Christmas",
+      "Jesus Christ",
+      "Second Coming",
+      "joy",
+      "praise"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL_CONGREGATION",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "4fff15718eeb11eebd6ceeeeac1eefc30602f94b",
+          "attributes": {},
+          "composer": [],
+          "description": "Joy to the World",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/4fff15718eeb11eebd6ceeeeac1eefc30602f94b-256k-en.mp3",
+          "duration": 172272,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Wed Apr 16 22:40:31 EDT 2025",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "0000018c-1d46-d8ea-a98c-fd7eb5cd0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "0000018c-1d46-d8ea-a98c-fd7eb5cd0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicDownload": [],
+          "$publishDate": "Wed Nov 29 17:50:22 EST 2023",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "Joy to the World",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Joy to the World",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "Joy to the World",
+          "shareableTitle": "Joy to the World",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "8579708e676c11ec9419eeeeac1eed190b412945",
+            "attributes": {},
+            "description": "Tabernacle Choir Christmas Concert: Choir",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/1920,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "1 - Not IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Tue Nov 26 19:33:04 EST 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "0000018b-aeea-d705-a7ab-feee27a20000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "0000018b-aeea-d705-a7ab-feee27a20000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "A photo of the tabernacle choir singing with the iconic organ pipes behind them.",
+            "publicDownload": [],
+            "$publishDate": "Wed Nov 08 07:31:03 EST 2023",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!320%2C213/0/default",
+                "height": 213,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!320%2C213/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!640%2C427/0/default",
+                "height": 427,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!640%2C427/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!800%2C533/0/default",
+                "height": 533,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!800%2C533/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1280%2C853/0/default",
+                "height": 853,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1280%2C853/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1600%2C1067/0/default",
+                "height": 1067,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1600%2C1067/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1920%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1920%2C1280/0/default",
+                "width": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!60%2C40/0/default",
+                "height": 40,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!60%2C40/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!250%2C167/0/default",
+                "height": 167,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!250%2C167/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!200%2C133/0/default",
+                "height": 133,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!200%2C133/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!100%2C67/0/default",
+                "height": 67,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!100%2C67/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!500%2C333/0/default",
+                "height": 333,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!500%2C333/0/default",
+                "width": 500
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Tabernacle Choir Christmas Concert: Choir",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Tabernacle Choir Christmas Concert: Choir",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Tabernacle Choir Christmas Concert: Choir",
+            "shareableTitle": "Tabernacle Choir Christmas Concert: Choir",
+            "title": "Tabernacle Choir Christmas Concert: Choir"
+          },
+          "title": "Joy to the World",
+          "translator": []
+        },
+        "$id": "00000196-c6e2-d455-a9f6-deee6f320000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6e2-d455-a9f6-deee6f320000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Hark! The Herald Angels Sing",
+    "slug": "hark-the-herald-angels-sing-wilberg",
+    "bookSlug": "tabernacle-choir-christmas-music",
+    "songNumber": "2",
+    "arrangers": [
+      {
+        "personName": "Mack Wilberg"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Orchestra at Temple Square"
+      },
+      {
+        "personName": "Tabernacle Choir at Temple Square, The"
+      },
+      {
+        "personName": "The Gabriel Trumpet Ensemble"
+      },
+      {
+        "personName": "The Bells at Temple Square"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Charles Wesley"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Felix Mendelssohn"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Choir"
+      },
+      {
+        "name": "Orchestra"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": false,
+    "tags": [
+      "Christmas"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL_CONGREGATION",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "4f2900c98eeb11eebebeeeeeac1e721234b3c122",
+          "attributes": {},
+          "composer": [],
+          "description": "Hark! The herald Angels Sing",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/4f2900c98eeb11eebebeeeeeac1e721234b3c122-32k-en.m4a",
+          "duration": 227000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Sat May 24 17:37:27 EDT 2025",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "0000018c-1d47-d8ea-a98c-fd7f45110000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "0000018c-1d47-d8ea-a98c-fd7f45110000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicDownload": [],
+          "$publishDate": "Wed Nov 29 17:50:59 EST 2023",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "Hark! The herald Angels Sing",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Hark! The herald Angels Sing",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "Hark! The herald Angels Sing",
+          "shareableTitle": "Hark! The herald Angels Sing",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "8579708e676c11ec9419eeeeac1eed190b412945",
+            "attributes": {},
+            "description": "Tabernacle Choir Christmas Concert: Choir",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/1920,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "1 - Not IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Tue Nov 26 19:33:04 EST 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "0000018b-aeea-d705-a7ab-feee27a20000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "0000018b-aeea-d705-a7ab-feee27a20000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "A photo of the tabernacle choir singing with the iconic organ pipes behind them.",
+            "publicDownload": [],
+            "$publishDate": "Wed Nov 08 07:31:03 EST 2023",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!320%2C213/0/default",
+                "height": 213,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!320%2C213/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!640%2C427/0/default",
+                "height": 427,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!640%2C427/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!800%2C533/0/default",
+                "height": 533,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!800%2C533/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1280%2C853/0/default",
+                "height": 853,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1280%2C853/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1600%2C1067/0/default",
+                "height": 1067,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1600%2C1067/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1920%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1920%2C1280/0/default",
+                "width": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!60%2C40/0/default",
+                "height": 40,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!60%2C40/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!250%2C167/0/default",
+                "height": 167,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!250%2C167/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!200%2C133/0/default",
+                "height": 133,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!200%2C133/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!100%2C67/0/default",
+                "height": 67,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!100%2C67/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!500%2C333/0/default",
+                "height": 333,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!500%2C333/0/default",
+                "width": 500
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Tabernacle Choir Christmas Concert: Choir",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Tabernacle Choir Christmas Concert: Choir",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Tabernacle Choir Christmas Concert: Choir",
+            "shareableTitle": "Tabernacle Choir Christmas Concert: Choir",
+            "title": "Tabernacle Choir Christmas Concert: Choir"
+          },
+          "title": "Hark! The herald Angels Sing",
+          "translator": []
+        },
+        "$id": "00000196-c6e2-d455-a9f6-deee6f4f0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6e2-d455-a9f6-deee6f4f0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Oh, Come, All Ye Faithful",
+    "slug": "oh-come-all-ye-faithful-cardon",
+    "bookSlug": "tabernacle-choir-christmas-music",
+    "songNumber": "3",
+    "arrangers": [
+      {
+        "personName": "Sam Cardon"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Orchestra at Temple Square"
+      },
+      {
+        "personName": "Tabernacle Choir at Temple Square, The"
+      },
+      {
+        "personName": "Laura Osnes"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "John F. Wade"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "John F. Wade"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Choir"
+      },
+      {
+        "name": "Orchestra"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": false,
+    "tags": [
+      "Christmas",
+      "Jesus Christ",
+      "joy",
+      "music",
+      "praise"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "4ffbba118eeb11eeb5d2eeeeac1ef13c9ca6d187",
+          "attributes": {},
+          "composer": [],
+          "description": "Oh, Come, All Ye Faithful",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2023-music-and-the-spoken-word/2023-12-1040-oh-come-all-ye-faithful-256k-eng.mp3",
+          "duration": 253460,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Tue Nov 26 19:32:58 EST 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "0000018c-3706-d653-a1bc-f73731d90000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "0000018c-3706-d653-a1bc-f73731d90000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicDownload": [],
+          "$publishDate": "Mon Dec 04 17:50:02 EST 2023",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "Oh, Come, All Ye Faithful",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Oh, Come, All Ye Faithful",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "Oh, Come, All Ye Faithful",
+          "shareableTitle": "Oh, Come, All Ye Faithful",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "8579708e676c11ec9419eeeeac1eed190b412945",
+            "attributes": {},
+            "description": "Tabernacle Choir Christmas Concert: Choir",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/1920,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "1 - Not IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Tue Nov 26 19:33:04 EST 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "0000018b-aeea-d705-a7ab-feee27a20000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "0000018b-aeea-d705-a7ab-feee27a20000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "A photo of the tabernacle choir singing with the iconic organ pipes behind them.",
+            "publicDownload": [],
+            "$publishDate": "Wed Nov 08 07:31:03 EST 2023",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!320%2C213/0/default",
+                "height": 213,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!320%2C213/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!640%2C427/0/default",
+                "height": 427,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!640%2C427/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!800%2C533/0/default",
+                "height": 533,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!800%2C533/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1280%2C853/0/default",
+                "height": 853,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1280%2C853/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1600%2C1067/0/default",
+                "height": 1067,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1600%2C1067/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1920%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1920%2C1280/0/default",
+                "width": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!60%2C40/0/default",
+                "height": 40,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!60%2C40/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!250%2C167/0/default",
+                "height": 167,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!250%2C167/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!200%2C133/0/default",
+                "height": 133,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!200%2C133/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!100%2C67/0/default",
+                "height": 67,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!100%2C67/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!500%2C333/0/default",
+                "height": 333,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!500%2C333/0/default",
+                "width": 500
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Tabernacle Choir Christmas Concert: Choir",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Tabernacle Choir Christmas Concert: Choir",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Tabernacle Choir Christmas Concert: Choir",
+            "shareableTitle": "Tabernacle Choir Christmas Concert: Choir",
+            "title": "Tabernacle Choir Christmas Concert: Choir"
+          },
+          "title": "Oh, Come, All Ye Faithful",
+          "translator": []
+        },
+        "$id": "00000196-c6e2-d455-a9f6-deee6f6e0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6e2-d455-a9f6-deee6f6e0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "We Three Kings",
+    "slug": "we-three-kings-elliott",
+    "bookSlug": "tabernacle-choir-christmas-music",
+    "songNumber": "4",
+    "arrangers": [
+      {
+        "personName": "Richard Elliott"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Clay Christiansen"
+      },
+      {
+        "personName": "Richard Elliott"
+      },
+      {
+        "personName": "Andrew Unsworth"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "John Henry Hopkins Jr."
+      }
+    ],
+    "composers": [
+      {
+        "personName": "John Henry Hopkins Jr."
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Organ"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": false,
+    "tags": [
+      "Christmas"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_INSTRUMENTAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "5117633c8eeb11eeb250eeeeac1e66f355154ce7",
+          "attributes": {},
+          "composer": [],
+          "description": "We Three Kings",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2023-music-and-the-spoken-word/2023-12-1050-we-three-kings-256k-eng.mp3",
+          "duration": 229683,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Tue Nov 26 19:32:58 EST 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "0000018c-3706-d7b3-a1ad-bfe6ab460000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "0000018c-3706-d7b3-a1ad-bfe6ab460000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicDownload": [],
+          "$publishDate": "Mon Dec 04 17:50:33 EST 2023",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "We Three Kings",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "We Three Kings",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "We Three Kings",
+          "shareableTitle": "We Three Kings",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "8579708e676c11ec9419eeeeac1eed190b412945",
+            "attributes": {},
+            "description": "Tabernacle Choir Christmas Concert: Choir",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/1920,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "1 - Not IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Tue Nov 26 19:33:04 EST 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "0000018b-aeea-d705-a7ab-feee27a20000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "0000018b-aeea-d705-a7ab-feee27a20000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "A photo of the tabernacle choir singing with the iconic organ pipes behind them.",
+            "publicDownload": [],
+            "$publishDate": "Wed Nov 08 07:31:03 EST 2023",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!320%2C213/0/default",
+                "height": 213,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!320%2C213/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!640%2C427/0/default",
+                "height": 427,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!640%2C427/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!800%2C533/0/default",
+                "height": 533,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!800%2C533/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1280%2C853/0/default",
+                "height": 853,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1280%2C853/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1600%2C1067/0/default",
+                "height": 1067,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1600%2C1067/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1920%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1920%2C1280/0/default",
+                "width": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!60%2C40/0/default",
+                "height": 40,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!60%2C40/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!250%2C167/0/default",
+                "height": 167,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!250%2C167/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!200%2C133/0/default",
+                "height": 133,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!200%2C133/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!100%2C67/0/default",
+                "height": 67,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!100%2C67/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!500%2C333/0/default",
+                "height": 333,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!500%2C333/0/default",
+                "width": 500
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Tabernacle Choir Christmas Concert: Choir",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Tabernacle Choir Christmas Concert: Choir",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Tabernacle Choir Christmas Concert: Choir",
+            "shareableTitle": "Tabernacle Choir Christmas Concert: Choir",
+            "title": "Tabernacle Choir Christmas Concert: Choir"
+          },
+          "title": "We Three Kings",
+          "translator": []
+        },
+        "$id": "00000196-c6e2-d455-a9f6-deee6f890000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6e2-d455-a9f6-deee6f890000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Merry, Merry Christmas!",
+    "slug": "merry-merry-christmas-wilberg",
+    "bookSlug": "tabernacle-choir-christmas-music",
+    "songNumber": "5",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "Orchestra at Temple Square"
+      },
+      {
+        "personName": "Tabernacle Choir at Temple Square, The"
+      },
+      {
+        "personName": "The Muppets from Sesame Street"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Mack Wilberg"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Mack Wilberg"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Choir"
+      },
+      {
+        "name": "Orchestra"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": false,
+    "tags": [
+      "Christmas"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL_CONGREGATION",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "4fc540c08eeb11eebd6ceeeeac1eefc36ec9f46c",
+          "attributes": {},
+          "composer": [],
+          "description": "Merry, Merry Christmas!",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/4fc540c08eeb11eebd6ceeeeac1eefc36ec9f46c-256k-en.mp3",
+          "duration": 181152,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Sat May 24 21:21:44 EDT 2025",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "0000018c-3707-dc77-a1be-7f5f05c40000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "0000018c-3707-dc77-a1be-7f5f05c40000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicDownload": [],
+          "$publishDate": "Mon Dec 04 17:50:56 EST 2023",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "Merry, Merry Christmas!",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Merry, Merry Christmas!",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "Merry, Merry Christmas!",
+          "shareableTitle": "Merry, Merry Christmas!",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "8579708e676c11ec9419eeeeac1eed190b412945",
+            "attributes": {},
+            "description": "Tabernacle Choir Christmas Concert: Choir",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/1920,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "1 - Not IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Tue Nov 26 19:33:04 EST 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "0000018b-aeea-d705-a7ab-feee27a20000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "0000018b-aeea-d705-a7ab-feee27a20000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "A photo of the tabernacle choir singing with the iconic organ pipes behind them.",
+            "publicDownload": [],
+            "$publishDate": "Wed Nov 08 07:31:03 EST 2023",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!320%2C213/0/default",
+                "height": 213,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!320%2C213/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!640%2C427/0/default",
+                "height": 427,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!640%2C427/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!800%2C533/0/default",
+                "height": 533,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!800%2C533/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1280%2C853/0/default",
+                "height": 853,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1280%2C853/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1600%2C1067/0/default",
+                "height": 1067,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1600%2C1067/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1920%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1920%2C1280/0/default",
+                "width": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!60%2C40/0/default",
+                "height": 40,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!60%2C40/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!250%2C167/0/default",
+                "height": 167,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!250%2C167/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!200%2C133/0/default",
+                "height": 133,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!200%2C133/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!100%2C67/0/default",
+                "height": 67,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!100%2C67/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!500%2C333/0/default",
+                "height": 333,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!500%2C333/0/default",
+                "width": 500
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Tabernacle Choir Christmas Concert: Choir",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Tabernacle Choir Christmas Concert: Choir",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Tabernacle Choir Christmas Concert: Choir",
+            "shareableTitle": "Tabernacle Choir Christmas Concert: Choir",
+            "title": "Tabernacle Choir Christmas Concert: Choir"
+          },
+          "title": "Merry, Merry Christmas!",
+          "translator": []
+        },
+        "$id": "00000196-c6e2-d455-a9f6-deee6fa40000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6e2-d455-a9f6-deee6fa40000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "A Christmas Meditation",
+    "slug": "a-christmas-meditation-wilberg",
+    "bookSlug": "tabernacle-choir-christmas-music",
+    "songNumber": "6",
+    "arrangers": [
+      {
+        "personName": "Mack Wilberg"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Orchestra at Temple Square"
+      },
+      {
+        "personName": "Tabernacle Choir at Temple Square, The"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Anon."
+      },
+      {
+        "personName": "French carol"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Anon."
+      },
+      {
+        "personName": "French carol"
+      },
+      {
+        "personName": "William J. Kirkpatrick"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Choir"
+      },
+      {
+        "name": "Orchestra"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": false,
+    "tags": [
+      "Christmas",
+      "Jesus Christ",
+      "comfort",
+      "eternal life",
+      "joy",
+      "love",
+      "praise",
+      "prayer",
+      "worship"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_INSTRUMENTAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "52fb17628eeb11eeb5d2eeeeac1ef13c4a52d47e",
+          "attributes": {},
+          "composer": [],
+          "description": "A Christmas Meditation",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/52fb17628eeb11eeb5d2eeeeac1ef13c4a52d47e-128k-en.mp3",
+          "duration": 267048,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Sun May 25 09:55:33 EDT 2025",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "0000018c-3707-df72-a58e-b7a753e00000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "0000018c-3707-df72-a58e-b7a753e00000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicDownload": [],
+          "$publishDate": "Mon Dec 04 17:51:16 EST 2023",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "A Christmas Meditation",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "A Christmas Meditation",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "A Christmas Meditation",
+          "shareableTitle": "A Christmas Meditation",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "8579708e676c11ec9419eeeeac1eed190b412945",
+            "attributes": {},
+            "description": "Tabernacle Choir Christmas Concert: Choir",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/1920,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "1 - Not IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Tue Nov 26 19:33:04 EST 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "0000018b-aeea-d705-a7ab-feee27a20000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "0000018b-aeea-d705-a7ab-feee27a20000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "A photo of the tabernacle choir singing with the iconic organ pipes behind them.",
+            "publicDownload": [],
+            "$publishDate": "Wed Nov 08 07:31:03 EST 2023",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!320%2C213/0/default",
+                "height": 213,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!320%2C213/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!640%2C427/0/default",
+                "height": 427,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!640%2C427/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!800%2C533/0/default",
+                "height": 533,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!800%2C533/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1280%2C853/0/default",
+                "height": 853,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1280%2C853/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1600%2C1067/0/default",
+                "height": 1067,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1600%2C1067/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1920%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1920%2C1280/0/default",
+                "width": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!60%2C40/0/default",
+                "height": 40,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!60%2C40/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!250%2C167/0/default",
+                "height": 167,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!250%2C167/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!200%2C133/0/default",
+                "height": 133,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!200%2C133/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!100%2C67/0/default",
+                "height": 67,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!100%2C67/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!500%2C333/0/default",
+                "height": 333,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!500%2C333/0/default",
+                "width": 500
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Tabernacle Choir Christmas Concert: Choir",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Tabernacle Choir Christmas Concert: Choir",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Tabernacle Choir Christmas Concert: Choir",
+            "shareableTitle": "Tabernacle Choir Christmas Concert: Choir",
+            "title": "Tabernacle Choir Christmas Concert: Choir"
+          },
+          "title": "A Christmas Meditation",
+          "translator": []
+        },
+        "$id": "00000196-c6e2-d455-a9f6-deee6fbf0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6e2-d455-a9f6-deee6fbf0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "What Child Is This?",
+    "slug": "what-child-is-this-wilberg",
+    "bookSlug": "tabernacle-choir-christmas-music",
+    "songNumber": "7",
+    "arrangers": [
+      {
+        "personName": "Mack Wilberg"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Orchestra at Temple Square"
+      },
+      {
+        "personName": "Tabernacle Choir at Temple Square, The"
+      },
+      {
+        "personName": "Kristin Chenoweth"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "William Chatterton Dix"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "English folk song"
+      }
+    ],
+    "instrumentations": [],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": false,
+    "tags": [
+      "Atonement of Jesus Christ",
+      "Christmas",
+      "Crucifixion",
+      "Jesus Christ",
+      "joy",
+      "praise",
+      "rejoicing"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "52570f318eeb11ee9814eeeeac1e6ea77b428681",
+          "attributes": {},
+          "composer": [],
+          "description": "What Child Is This?",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/52570f318eeb11ee9814eeeeac1e6ea77b428681-128k-en.mp3",
+          "duration": 200952,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Sun May 25 02:18:14 EDT 2025",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "0000018c-3707-dc77-a1be-7f5fa2370000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "0000018c-3707-dc77-a1be-7f5fa2370000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicDownload": [],
+          "$publishDate": "Mon Dec 04 17:51:36 EST 2023",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "What Child Is This?",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "What Child Is This?",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "What Child Is This?",
+          "shareableTitle": "What Child Is This?",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "8579708e676c11ec9419eeeeac1eed190b412945",
+            "attributes": {},
+            "description": "Tabernacle Choir Christmas Concert: Choir",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/1920,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "1 - Not IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Tue Nov 26 19:33:04 EST 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "0000018b-aeea-d705-a7ab-feee27a20000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "0000018b-aeea-d705-a7ab-feee27a20000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "A photo of the tabernacle choir singing with the iconic organ pipes behind them.",
+            "publicDownload": [],
+            "$publishDate": "Wed Nov 08 07:31:03 EST 2023",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!320%2C213/0/default",
+                "height": 213,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!320%2C213/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!640%2C427/0/default",
+                "height": 427,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!640%2C427/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!800%2C533/0/default",
+                "height": 533,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!800%2C533/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1280%2C853/0/default",
+                "height": 853,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1280%2C853/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1600%2C1067/0/default",
+                "height": 1067,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1600%2C1067/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1920%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1920%2C1280/0/default",
+                "width": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!60%2C40/0/default",
+                "height": 40,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!60%2C40/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!250%2C167/0/default",
+                "height": 167,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!250%2C167/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!200%2C133/0/default",
+                "height": 133,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!200%2C133/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!100%2C67/0/default",
+                "height": 67,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!100%2C67/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!500%2C333/0/default",
+                "height": 333,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!500%2C333/0/default",
+                "width": 500
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Tabernacle Choir Christmas Concert: Choir",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Tabernacle Choir Christmas Concert: Choir",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Tabernacle Choir Christmas Concert: Choir",
+            "shareableTitle": "Tabernacle Choir Christmas Concert: Choir",
+            "title": "Tabernacle Choir Christmas Concert: Choir"
+          },
+          "title": "What Child Is This?",
+          "translator": []
+        },
+        "$id": "00000196-c6e2-d455-a9f6-deee6fdb0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6e2-d455-a9f6-deee6fdb0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "We Wish You A Merry Christmas",
+    "slug": "we-wish-you-a-merry-christmas-harris",
+    "bookSlug": "tabernacle-choir-christmas-music",
+    "songNumber": "8",
+    "arrangers": [
+      {
+        "personName": "Arthur Harris"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Orchestra at Temple Square"
+      },
+      {
+        "personName": "Tabernacle Choir at Temple Square, The"
+      },
+      {
+        "personName": "The Bells at Temple Square"
+      },
+      {
+        "personName": "The Muppets from Sesame Street"
+      },
+      {
+        "personName": "Santino Fontana"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Traditional English carol"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Traditional English carol"
+      }
+    ],
+    "instrumentations": [],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": false,
+    "tags": [
+      "Christmas",
+      "joy"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL_CONGREGATION",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "518e19de8eeb11ee8041eeeeac1e6a39477b51ed",
+          "attributes": {},
+          "composer": [],
+          "description": "We Wish You A Merry Christmas",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/518e19de8eeb11ee8041eeeeac1e6a39477b51ed-32k-en.m4a",
+          "duration": 157000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Sun May 25 07:44:42 EDT 2025",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "0000018c-3707-d653-a1bc-f737f8890000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "0000018c-3707-d653-a1bc-f737f8890000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicDownload": [],
+          "$publishDate": "Mon Dec 04 17:51:58 EST 2023",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "We Wish You A Merry Christmas",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "We Wish You A Merry Christmas",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "We Wish You A Merry Christmas",
+          "shareableTitle": "We Wish You A Merry Christmas",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "8579708e676c11ec9419eeeeac1eed190b412945",
+            "attributes": {},
+            "description": "Tabernacle Choir Christmas Concert: Choir",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/1920,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "1 - Not IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Tue Nov 26 19:33:04 EST 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "0000018b-aeea-d705-a7ab-feee27a20000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "0000018b-aeea-d705-a7ab-feee27a20000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "A photo of the tabernacle choir singing with the iconic organ pipes behind them.",
+            "publicDownload": [],
+            "$publishDate": "Wed Nov 08 07:31:03 EST 2023",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!320%2C213/0/default",
+                "height": 213,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!320%2C213/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!640%2C427/0/default",
+                "height": 427,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!640%2C427/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!800%2C533/0/default",
+                "height": 533,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!800%2C533/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1280%2C853/0/default",
+                "height": 853,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1280%2C853/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1600%2C1067/0/default",
+                "height": 1067,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1600%2C1067/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1920%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1920%2C1280/0/default",
+                "width": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!60%2C40/0/default",
+                "height": 40,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!60%2C40/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!250%2C167/0/default",
+                "height": 167,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!250%2C167/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!200%2C133/0/default",
+                "height": 133,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!200%2C133/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!100%2C67/0/default",
+                "height": 67,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!100%2C67/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!500%2C333/0/default",
+                "height": 333,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!500%2C333/0/default",
+                "width": 500
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Tabernacle Choir Christmas Concert: Choir",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Tabernacle Choir Christmas Concert: Choir",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Tabernacle Choir Christmas Concert: Choir",
+            "shareableTitle": "Tabernacle Choir Christmas Concert: Choir",
+            "title": "Tabernacle Choir Christmas Concert: Choir"
+          },
+          "title": "We Wish You A Merry Christmas",
+          "translator": []
+        },
+        "$id": "00000196-c6e2-d455-a9f6-deee6ff90000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6e2-d455-a9f6-deee6ff90000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Hallelujah Chorus from Handel’s Messiah",
+    "slug": "hallelujah-chorus",
+    "bookSlug": "tabernacle-choir-christmas-music",
+    "songNumber": "9",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "Orchestra at Temple Square"
+      },
+      {
+        "personName": "Tabernacle Choir at Temple Square, The"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "George F. Handel"
+      }
+    ],
+    "composers": [],
+    "instrumentations": [],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": false,
+    "tags": [],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL_CONGREGATION",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "51ea6aaa8eeb11ee8ca1eeeeac1ea7f14578c035",
+          "attributes": {},
+          "composer": [],
+          "description": "Hallelujah Chorus",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2023-music-and-the-spoken-word/2023-12-1100-hallelujah-chorus-256k-eng.mp3",
+          "duration": 237904,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Wed Dec 11 12:49:41 EST 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "0000018c-3708-df72-a58e-b7af72860000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "0000018c-3708-df72-a58e-b7af72860000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicDownload": [],
+          "$publishDate": "Mon Dec 04 17:52:29 EST 2023",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "Hallelujah Chorus",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Hallelujah Chorus",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "Hallelujah Chorus",
+          "shareableTitle": "Hallelujah Chorus",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "8579708e676c11ec9419eeeeac1eed190b412945",
+            "attributes": {},
+            "description": "Tabernacle Choir Christmas Concert: Choir",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/1920,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "1 - Not IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Tue Nov 26 19:33:04 EST 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "0000018b-aeea-d705-a7ab-feee27a20000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "0000018b-aeea-d705-a7ab-feee27a20000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "A photo of the tabernacle choir singing with the iconic organ pipes behind them.",
+            "publicDownload": [],
+            "$publishDate": "Wed Nov 08 07:31:03 EST 2023",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!320%2C213/0/default",
+                "height": 213,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!320%2C213/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!640%2C427/0/default",
+                "height": 427,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!640%2C427/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!800%2C533/0/default",
+                "height": 533,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!800%2C533/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1280%2C853/0/default",
+                "height": 853,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1280%2C853/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1600%2C1067/0/default",
+                "height": 1067,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1600%2C1067/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1920%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1920%2C1280/0/default",
+                "width": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!60%2C40/0/default",
+                "height": 40,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!60%2C40/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!250%2C167/0/default",
+                "height": 167,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!250%2C167/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!200%2C133/0/default",
+                "height": 133,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!200%2C133/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!100%2C67/0/default",
+                "height": 67,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!100%2C67/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!500%2C333/0/default",
+                "height": 333,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!500%2C333/0/default",
+                "width": 500
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Tabernacle Choir Christmas Concert: Choir",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Tabernacle Choir Christmas Concert: Choir",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Tabernacle Choir Christmas Concert: Choir",
+            "shareableTitle": "Tabernacle Choir Christmas Concert: Choir",
+            "title": "Tabernacle Choir Christmas Concert: Choir"
+          },
+          "title": "Hallelujah Chorus",
+          "translator": []
+        },
+        "$id": "00000196-c6e2-d455-a9f6-deee70190000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6e2-d455-a9f6-deee70190000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  }
+]

@@ -1,0 +1,2338 @@
+[
+  {
+    "title": "All Things Bright and Beautiful",
+    "slug": "all-things-bright-and-beautiful-1992",
+    "bookSlug": "young-women-camp-manual",
+    "songNumber": "71a",
+    "arrangers": [],
+    "artists": [],
+    "authors": [
+      {
+        "personName": "Cecil Frances Alexander"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Old English tune"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      },
+      {
+        "name": "Guitar"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": true,
+    "videoAvailable": false,
+    "tags": [
+      "Creation",
+      "Creator",
+      "Jesus Christ",
+      "nature"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_ACCOMPANIMENT",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "1e9ecf19c3121e0da981dc63886c9dc4a860f411",
+          "attributes": {},
+          "composer": [],
+          "description": "“All Things Bright and Beautiful” from Young Women Camp Songs (English).",
+          "distributionUrl": "https://broadcast-portal.lds.org/young-women-camp-songs/2010-06-02-all-things-bright-and-beautiful-128k-eng.mp3",
+          "duration": 132000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Sep 06 13:10:03 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ed5-d3a5-ab95-1fff32500000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ed5-d3a5-ab95-1fff32500000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“All Things Bright and Beautiful” from Young Women Camp Songs (English).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:09:23 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“All Things Bright and Beautiful” from Young Women Camp Songs (English).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "All Things Bright and Beautiful",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“All Things Bright and Beautiful” from Young Women Camp Songs (English).",
+          "shareableTitle": "All Things Bright and Beautiful",
+          "title": "All Things Bright and Beautiful",
+          "translator": []
+        },
+        "$id": "00000196-c6d4-d455-a9f6-dedc7d110000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6d4-d455-a9f6-dedc7d110000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Tell Me Why",
+    "slug": "tell-me-why-1992",
+    "bookSlug": "young-women-camp-manual",
+    "songNumber": "71b",
+    "arrangers": [],
+    "artists": [],
+    "authors": [
+      {
+        "personName": "Anon."
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Anon."
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      },
+      {
+        "name": "Guitar"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": true,
+    "videoAvailable": false,
+    "tags": [
+      "Creation",
+      "love"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_ACCOMPANIMENT",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "6ec2e45ed2292e202b2b100fd2023b0f1b51b0ff",
+          "attributes": {},
+          "composer": [],
+          "description": "“Tell Me Why” from Young Women Camp Songs (English).",
+          "distributionUrl": "https://broadcast-portal.lds.org/young-women-camp-songs/2010-06-03-tell-me-why-128k-eng.mp3",
+          "duration": 82000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Sep 06 13:10:03 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ed5-d3a5-ab95-1fff342b0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ed5-d3a5-ab95-1fff342b0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“Tell Me Why” from Young Women Camp Songs (English).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:09:24 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“Tell Me Why” from Young Women Camp Songs (English).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Tell Me Why",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“Tell Me Why” from Young Women Camp Songs (English).",
+          "shareableTitle": "Tell Me Why",
+          "title": "Tell Me Why",
+          "translator": []
+        },
+        "$id": "00000196-c6d4-d455-a9f6-dedc7d2e0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6d4-d455-a9f6-dedc7d2e0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Sing Your Way Home",
+    "slug": "sing-your-way-home-1992",
+    "bookSlug": "young-women-camp-manual",
+    "songNumber": "71c",
+    "arrangers": [],
+    "artists": [],
+    "authors": [
+      {
+        "personName": "Anon."
+      },
+      {
+        "personName": "Traditional"
+      },
+      {
+        "personName": "Traditional song"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Anon."
+      },
+      {
+        "personName": "Traditional"
+      },
+      {
+        "personName": "Traditional song"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      },
+      {
+        "name": "Guitar"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": true,
+    "videoAvailable": false,
+    "tags": [
+      "home",
+      "joy",
+      "music"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_ACCOMPANIMENT",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "858e96b7247192044ee887fce5eb9b99d84116ff",
+          "attributes": {},
+          "composer": [],
+          "description": "“Sing Your Way Home” from Young Women Camp Songs (English).",
+          "distributionUrl": "https://broadcast-portal.lds.org/young-women-camp-songs/2010-06-04-sing-your-way-home-128k-eng.mp3",
+          "duration": 86000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Sep 06 13:10:04 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ed5-d3a5-ab95-1fff35e90000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ed5-d3a5-ab95-1fff35e90000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“Sing Your Way Home” from Young Women Camp Songs (English).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:09:24 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“Sing Your Way Home” from Young Women Camp Songs (English).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Sing Your Way Home",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“Sing Your Way Home” from Young Women Camp Songs (English).",
+          "shareableTitle": "Sing Your Way Home",
+          "title": "Sing Your Way Home",
+          "translator": []
+        },
+        "$id": "00000196-c6d4-d455-a9f6-dedc7d490000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6d4-d455-a9f6-dedc7d490000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "He’s Got the Whole World in His Hands",
+    "slug": "hes-got-the-whole-world-in-his-hands-1992",
+    "bookSlug": "young-women-camp-manual",
+    "songNumber": "71d",
+    "arrangers": [],
+    "artists": [],
+    "authors": [
+      {
+        "personName": "Anon."
+      },
+      {
+        "personName": "African-American spiritual"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Anon."
+      },
+      {
+        "personName": "African-American spiritual"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      },
+      {
+        "name": "Guitar"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": true,
+    "videoAvailable": false,
+    "tags": [
+      "Heavenly Father",
+      "child of God",
+      "love"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_ACCOMPANIMENT",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "7d1430838943bf496dccbaa7d82a9e5c147042b7",
+          "attributes": {},
+          "composer": [],
+          "description": "“He’s Got the Whole World in His Hands” from Young Women Camp Songs (English).",
+          "distributionUrl": "https://broadcast-portal.lds.org/young-women-camp-songs/2010-06-05-hes-got-the-whole-world-in-his-hands-128k-eng.mp3",
+          "duration": 63000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Sep 06 13:10:05 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ed5-d3a5-ab95-1fff39650000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ed5-d3a5-ab95-1fff39650000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“He’s Got the Whole World in His Hands” from Young Women Camp Songs (English).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:09:25 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“He’s Got the Whole World in His Hands” from Young Women Camp Songs (English).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "He’s Got the Whole World in His Hands",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“He’s Got the Whole World in His Hands” from Young Women Camp Songs (English).",
+          "shareableTitle": "He’s Got the Whole World in His Hands",
+          "title": "He’s Got the Whole World in His Hands",
+          "translator": []
+        },
+        "$id": "00000196-c6d4-d455-a9f6-dedc7d680000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6d4-d455-a9f6-dedc7d680000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "When the Saints Go Marching In",
+    "slug": "when-the-saints-go-marching-in-1992",
+    "bookSlug": "young-women-camp-manual",
+    "songNumber": "72a",
+    "arrangers": [],
+    "artists": [],
+    "authors": [
+      {
+        "personName": "Anon."
+      },
+      {
+        "personName": "African-American spiritual"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Anon."
+      },
+      {
+        "personName": "African-American spiritual"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      },
+      {
+        "name": "Guitar"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": true,
+    "videoAvailable": false,
+    "tags": [
+      "peace"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_ACCOMPANIMENT",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "93a5ea53f33a86d18b1b5e65dd1c466be55152ef",
+          "attributes": {},
+          "composer": [],
+          "description": "“When the Saints Go Marching In” from Young Women Camp Songs (English).",
+          "distributionUrl": "https://broadcast-portal.lds.org/young-women-camp-songs/2010-06-06-when-the-saints-go-marching-in-128k-eng.mp3",
+          "duration": 67000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Sep 06 13:10:05 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ed5-d3a5-ab95-1fff37a30000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ed5-d3a5-ab95-1fff37a30000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“When the Saints Go Marching In” from Young Women Camp Songs (English).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:09:25 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“When the Saints Go Marching In” from Young Women Camp Songs (English).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "When the Saints Go Marching In",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“When the Saints Go Marching In” from Young Women Camp Songs (English).",
+          "shareableTitle": "When the Saints Go Marching In",
+          "title": "When the Saints Go Marching In",
+          "translator": []
+        },
+        "$id": "00000196-c6d4-d455-a9f6-dedc7d860000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6d4-d455-a9f6-dedc7d860000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Downright, Upright",
+    "slug": "downright-upright-1992",
+    "bookSlug": "young-women-camp-manual",
+    "songNumber": "72b",
+    "arrangers": [],
+    "artists": [],
+    "authors": [
+      {
+        "personName": "Anon."
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Anon."
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      },
+      {
+        "name": "Guitar"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": true,
+    "videoAvailable": false,
+    "tags": [
+      "happiness",
+      "youth"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_ACCOMPANIMENT",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "65caa8d52f84b804e3d7415c69ba3990d6859656",
+          "attributes": {},
+          "composer": [],
+          "description": "“Downright, Upright” from Young Women Camp Songs (English).",
+          "distributionUrl": "https://broadcast-portal.lds.org/young-women-camp-songs/2010-06-07-downright-upright-128k-eng.mp3",
+          "duration": 117000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Sep 06 13:10:02 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ed5-d3a5-ab95-1fff2ecd0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ed5-d3a5-ab95-1fff2ecd0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“Downright, Upright” from Young Women Camp Songs (English).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:09:23 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“Downright, Upright” from Young Women Camp Songs (English).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Downright, Upright",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“Downright, Upright” from Young Women Camp Songs (English).",
+          "shareableTitle": "Downright, Upright",
+          "title": "Downright, Upright",
+          "translator": []
+        },
+        "$id": "00000196-c6d4-d455-a9f6-dedc7da40000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6d4-d455-a9f6-dedc7da40000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "If You’re Happy",
+    "slug": "if-youre-happy-1992",
+    "bookSlug": "young-women-camp-manual",
+    "songNumber": "72c",
+    "arrangers": [],
+    "artists": [],
+    "authors": [
+      {
+        "personName": "Anon."
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Anon."
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      },
+      {
+        "name": "Guitar"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": true,
+    "videoAvailable": false,
+    "tags": [
+      "happiness"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_ACCOMPANIMENT",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "290043bbce95b0213f40fee3321332bfa60eb590",
+          "attributes": {},
+          "composer": [],
+          "description": "“If You’re Happy” from Young Women Camp Songs (English).",
+          "distributionUrl": "https://broadcast-portal.lds.org/young-women-camp-songs/2010-06-08-if-youre-happy-128k-eng.mp3",
+          "duration": 112000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Sep 06 13:10:02 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ed5-d3a5-ab95-1fff308c0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ed5-d3a5-ab95-1fff308c0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“If You’re Happy” from Young Women Camp Songs (English).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:09:23 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“If You’re Happy” from Young Women Camp Songs (English).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "If You’re Happy",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“If You’re Happy” from Young Women Camp Songs (English).",
+          "shareableTitle": "If You’re Happy",
+          "title": "If You’re Happy",
+          "translator": []
+        },
+        "$id": "00000196-c6d4-d455-a9f6-dedc7dc10000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6d4-d455-a9f6-dedc7dc10000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Fun to Do",
+    "slug": "fun-to-do-1992",
+    "bookSlug": "young-women-camp-manual",
+    "songNumber": "72d",
+    "arrangers": [],
+    "artists": [],
+    "authors": [
+      {
+        "personName": "Rebecca Stevens"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Cecilia Johns"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      },
+      {
+        "name": "Guitar"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": true,
+    "videoAvailable": false,
+    "tags": [
+      "music"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_ACCOMPANIMENT",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "740efdbbf916c23f6c4499ee4a92cd3fe9fc4ee4",
+          "attributes": {},
+          "composer": [],
+          "description": "“Fun to Do” from Young Women Camp Songs (English).",
+          "distributionUrl": "https://broadcast-portal.lds.org/young-women-camp-songs/2010-06-09-fun-to-do-128k-eng.mp3",
+          "duration": 56000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Sep 06 13:10:08 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ed5-d3a5-ab95-1fff44180000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ed5-d3a5-ab95-1fff44180000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“Fun to Do” from Young Women Camp Songs (English).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:09:28 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“Fun to Do” from Young Women Camp Songs (English).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Fun to Do",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“Fun to Do” from Young Women Camp Songs (English).",
+          "shareableTitle": "Fun to Do",
+          "title": "Fun to Do",
+          "translator": []
+        },
+        "$id": "00000196-c6d4-d455-a9f6-dedc7de10000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6d4-d455-a9f6-dedc7de10000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Good Morning",
+    "subtitle": "Round",
+    "slug": "good-morning-1992",
+    "bookSlug": "young-women-camp-manual",
+    "songNumber": "73a",
+    "arrangers": [],
+    "artists": [],
+    "authors": [
+      {
+        "personName": "Anon."
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Anon."
+      },
+      {
+        "personName": "German folk tune"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      },
+      {
+        "name": "Guitar"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": true,
+    "videoAvailable": false,
+    "tags": [
+      "happiness"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_ACCOMPANIMENT",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "c122cfd2adc62bd0a6f3a9f528470395ed315773",
+          "attributes": {},
+          "composer": [],
+          "description": "“Good Morning” (Round) from Young Women Camp Songs (English).",
+          "distributionUrl": "https://broadcast-portal.lds.org/young-women-camp-songs/2010-06-10-good-morning-128k-eng.mp3",
+          "duration": 61000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Sep 06 13:10:08 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ed5-d3a5-ab95-1fff42620000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ed5-d3a5-ab95-1fff42620000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“Good Morning” (Round) from Young Women Camp Songs (English).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:09:28 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“Good Morning” (Round) from Young Women Camp Songs (English).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Good Morning",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“Good Morning” (Round) from Young Women Camp Songs (English).",
+          "shareableTitle": "Good Morning",
+          "title": "Good Morning",
+          "translator": []
+        },
+        "$id": "00000196-c6d4-d455-a9f6-dedc7dfd0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6d4-d455-a9f6-dedc7dfd0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Our Door Is Always Open",
+    "subtitle": "Round",
+    "slug": "our-door-is-always-open-1992",
+    "bookSlug": "young-women-camp-manual",
+    "songNumber": "73b",
+    "arrangers": [],
+    "artists": [],
+    "authors": [
+      {
+        "personName": "Anon."
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Anon."
+      },
+      {
+        "personName": "French folk tune"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      },
+      {
+        "name": "Guitar"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": true,
+    "videoAvailable": false,
+    "tags": [
+      "friendship",
+      "home",
+      "kindness",
+      "service"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_ACCOMPANIMENT",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "f1547242384ecdfd3f932268708907a42f0499df",
+          "attributes": {},
+          "composer": [],
+          "description": "“Our Door Is Always Open” (Round) from Young Women Camp Songs (English).",
+          "distributionUrl": "https://broadcast-portal.lds.org/young-women-camp-songs/2010-06-11-our-door-is-always-open-128k-eng.mp3",
+          "duration": 82000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Sep 06 13:10:07 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ed5-d3a5-ab95-1fff408c0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ed5-d3a5-ab95-1fff408c0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“Our Door Is Always Open” (Round) from Young Women Camp Songs (English).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:09:27 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“Our Door Is Always Open” (Round) from Young Women Camp Songs (English).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Our Door Is Always Open",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“Our Door Is Always Open” (Round) from Young Women Camp Songs (English).",
+          "shareableTitle": "Our Door Is Always Open",
+          "title": "Our Door Is Always Open",
+          "translator": []
+        },
+        "$id": "00000196-c6d4-d455-a9f6-dedc7e1f0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6d4-d455-a9f6-dedc7e1f0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Sing a Song",
+    "subtitle": "Round",
+    "slug": "sing-a-song-1992",
+    "bookSlug": "young-women-camp-manual",
+    "songNumber": "73c",
+    "arrangers": [],
+    "artists": [],
+    "authors": [
+      {
+        "personName": "Ingrid Sawatzki Gordon"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Ingrid Sawatzki Gordon"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      },
+      {
+        "name": "Guitar"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": true,
+    "videoAvailable": false,
+    "tags": [
+      "music"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_ACCOMPANIMENT",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "7666645c2ba4abfa0dc0135f37d800e7fd269c3f",
+          "attributes": {},
+          "composer": [],
+          "description": "“Sing a Song” (Round) from Young Women Camp Songs (English).",
+          "distributionUrl": "https://broadcast-portal.lds.org/young-women-camp-songs/2010-06-12-sing-a-song-128k-eng.mp3",
+          "duration": 36000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Sep 06 13:10:09 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ed5-d3a5-ab95-1fff47aa0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ed5-d3a5-ab95-1fff47aa0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“Sing a Song” (Round) from Young Women Camp Songs (English).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:09:29 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“Sing a Song” (Round) from Young Women Camp Songs (English).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Sing a Song",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“Sing a Song” (Round) from Young Women Camp Songs (English).",
+          "shareableTitle": "Sing a Song",
+          "title": "Sing a Song",
+          "translator": []
+        },
+        "$id": "00000196-c6d4-d455-a9f6-dedc7e3f0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6d4-d455-a9f6-dedc7e3f0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "White Coral Bells",
+    "subtitle": "Round",
+    "slug": "white-coral-bells-1992",
+    "bookSlug": "young-women-camp-manual",
+    "songNumber": "73d",
+    "arrangers": [],
+    "artists": [],
+    "authors": [
+      {
+        "personName": "Anon."
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Anon."
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      },
+      {
+        "name": "Guitar"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": true,
+    "videoAvailable": false,
+    "tags": [
+      "nature"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_ACCOMPANIMENT",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "6d506f9b4b81449bdc099f08e885c16ffab384b8",
+          "attributes": {},
+          "composer": [],
+          "description": "“White Coral Bells” (Round) from Young Women Camp Songs (English).",
+          "distributionUrl": "https://broadcast-portal.lds.org/young-women-camp-songs/2010-06-13-white-coral-bells-128k-eng.mp3",
+          "duration": 42000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Sep 06 13:10:06 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ed5-d3a5-ab95-1fff3cdb0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ed5-d3a5-ab95-1fff3cdb0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“White Coral Bells” (Round) from Young Women Camp Songs (English).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:09:26 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“White Coral Bells” (Round) from Young Women Camp Songs (English).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "White Coral Bells",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“White Coral Bells” (Round) from Young Women Camp Songs (English).",
+          "shareableTitle": "White Coral Bells",
+          "title": "White Coral Bells",
+          "translator": []
+        },
+        "$id": "00000196-c6d4-d455-a9f6-dedc7e5a0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6d4-d455-a9f6-dedc7e5a0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "I Love the Mountains",
+    "subtitle": "Round",
+    "slug": "i-love-the-mountains-1992",
+    "bookSlug": "young-women-camp-manual",
+    "songNumber": "73e",
+    "arrangers": [],
+    "artists": [],
+    "authors": [
+      {
+        "personName": "Anon."
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Anon."
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      },
+      {
+        "name": "Guitar"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": true,
+    "videoAvailable": false,
+    "tags": [
+      "gratitude",
+      "nature"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_ACCOMPANIMENT",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "2971cc921a016c472a7ab26ed74c9d15fbbfed0d",
+          "attributes": {},
+          "composer": [],
+          "description": "“I Love the Mountains” (Round) from Young Women Camp Songs (English).",
+          "distributionUrl": "https://broadcast-portal.lds.org/young-women-camp-songs/2010-06-14-i-love-the-mountains-128k-eng.mp3",
+          "duration": 79000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Sep 06 13:10:09 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ed5-d3a5-ab95-1fff45ea0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ed5-d3a5-ab95-1fff45ea0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“I Love the Mountains” (Round) from Young Women Camp Songs (English).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:09:28 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“I Love the Mountains” (Round) from Young Women Camp Songs (English).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "I Love the Mountains",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“I Love the Mountains” (Round) from Young Women Camp Songs (English).",
+          "shareableTitle": "I Love the Mountains",
+          "title": "I Love the Mountains",
+          "translator": []
+        },
+        "$id": "00000196-c6d4-d455-a9f6-dedc7e7b0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6d4-d455-a9f6-dedc7e7b0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "I Walk by Faith",
+    "slug": "i-walk-by-faith-1992",
+    "bookSlug": "young-women-camp-manual",
+    "songNumber": "74",
+    "arrangers": [],
+    "artists": [],
+    "authors": [
+      {
+        "personName": "Janice Kapp Perry"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Janice Kapp Perry"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": true,
+    "videoAvailable": false,
+    "tags": [
+      "Jesus Christ",
+      "commitment",
+      "discipleship",
+      "gratitude",
+      "love"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_ACCOMPANIMENT",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "f77a3df1783d3d6701148ed1847374541b2aa618",
+          "attributes": {},
+          "composer": [],
+          "description": "“I Walk by Faith” from Young Women Camp Songs (English).",
+          "distributionUrl": "https://broadcast-portal.lds.org/young-women-camp-songs/2010-06-15-i-walk-by-faith-128k-eng.mp3",
+          "duration": 139000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Sep 06 13:10:11 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ed5-d3a5-ab95-1fff4cd90000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ed5-d3a5-ab95-1fff4cd90000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“I Walk by Faith” from Young Women Camp Songs (English).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:09:30 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“I Walk by Faith” from Young Women Camp Songs (English).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "I Walk by Faith",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“I Walk by Faith” from Young Women Camp Songs (English).",
+          "shareableTitle": "I Walk by Faith",
+          "title": "I Walk by Faith",
+          "translator": []
+        },
+        "$id": "00000196-c6d4-d455-a9f6-dedc7e9b0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6d4-d455-a9f6-dedc7e9b0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Walk Tall, You’re a Daughter of God",
+    "slug": "walk-tall-youre-a-daughter-of-god-1992",
+    "bookSlug": "young-women-camp-manual",
+    "songNumber": "75",
+    "arrangers": [],
+    "artists": [],
+    "authors": [
+      {
+        "personName": "Jamie Glenn"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Jamie Glenn"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      },
+      {
+        "name": "Guitar"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": true,
+    "videoAvailable": false,
+    "tags": [
+      "child of God",
+      "divine worth",
+      "faith",
+      "grace",
+      "guidance",
+      "love",
+      "plan of salvation",
+      "premortal existence"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_ACCOMPANIMENT",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "b3aa8991b4d274ced9a681304ec1f3449c3b7ca0",
+          "attributes": {},
+          "composer": [],
+          "description": "“Walk Tall, You’re a Daughter of God” from Young Women Camp Songs (English).",
+          "distributionUrl": "https://broadcast-portal.lds.org/young-women-camp-songs/2010-06-16-walk-tall-youre-a-daughter-of-god-128k-eng.mp3",
+          "duration": 208000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Sep 06 13:10:10 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ed5-d3a5-ab95-1fff49610000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ed5-d3a5-ab95-1fff49610000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“Walk Tall, You’re a Daughter of God” from Young Women Camp Songs (English).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:09:29 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“Walk Tall, You’re a Daughter of God” from Young Women Camp Songs (English).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Walk Tall, You’re a Daughter of God",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“Walk Tall, You’re a Daughter of God” from Young Women Camp Songs (English).",
+          "shareableTitle": "Walk Tall, You’re a Daughter of God",
+          "title": "Walk Tall, You’re a Daughter of God",
+          "translator": []
+        },
+        "$id": "00000196-c6d4-d455-a9f6-dedc7ebf0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6d4-d455-a9f6-dedc7ebf0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "I’m Trying to Be Like Jesus",
+    "slug": "im-trying-to-be-like-jesus-1992",
+    "bookSlug": "young-women-camp-manual",
+    "songNumber": "76a",
+    "arrangers": [],
+    "artists": [],
+    "authors": [
+      {
+        "personName": "Janice Kapp Perry"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Janice Kapp Perry"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      },
+      {
+        "name": "Guitar"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": true,
+    "videoAvailable": false,
+    "tags": [
+      "Holy Ghost",
+      "Jesus Christ",
+      "Second Coming",
+      "diligence",
+      "example",
+      "kindness",
+      "love",
+      "service",
+      "temptation"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_ACCOMPANIMENT",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "2fe9f364f2e095a6526d16d5de2176e6e51fa33a",
+          "attributes": {},
+          "composer": [],
+          "description": "“I’m Trying to Be Like Jesus” from Young Women Camp Songs (English).",
+          "distributionUrl": "https://broadcast-portal.lds.org/young-women-camp-songs/2010-06-17-im-trying-to-be-like-jesus-128k-eng.mp3",
+          "duration": 141000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Sep 06 13:10:07 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ed5-d3a5-ab95-1fff3ec70000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ed5-d3a5-ab95-1fff3ec70000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“I’m Trying to Be Like Jesus” from Young Women Camp Songs (English).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:09:27 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“I’m Trying to Be Like Jesus” from Young Women Camp Songs (English).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "I’m Trying to Be Like Jesus",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“I’m Trying to Be Like Jesus” from Young Women Camp Songs (English).",
+          "shareableTitle": "I’m Trying to Be Like Jesus",
+          "title": "I’m Trying to Be Like Jesus",
+          "translator": []
+        },
+        "$id": "00000196-c6d4-d455-a9f6-dedc7ee50000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6d4-d455-a9f6-dedc7ee50000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "I Feel My Savior’s Love",
+    "slug": "i-feel-my-saviors-love-1992",
+    "bookSlug": "young-women-camp-manual",
+    "songNumber": "76b",
+    "arrangers": [],
+    "artists": [],
+    "authors": [
+      {
+        "personName": "K. Newell Dayley"
+      },
+      {
+        "personName": "Laurie Huffman"
+      },
+      {
+        "personName": "Ralph Rodgers Jr."
+      }
+    ],
+    "composers": [
+      {
+        "personName": "K. Newell Dayley"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      },
+      {
+        "name": "Guitar"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": true,
+    "videoAvailable": false,
+    "tags": [
+      "Holy Ghost",
+      "Jesus Christ",
+      "comfort",
+      "commitment",
+      "consecration",
+      "discipleship",
+      "faith",
+      "love",
+      "peace",
+      "prayer",
+      "service",
+      "sharing",
+      "shepherd"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_ACCOMPANIMENT",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "dd34c8a5825b5c110958493605b5f7a82a05a6bb",
+          "attributes": {},
+          "composer": [],
+          "description": "“I Feel My Savior’s Love” from Young Women Camp Songs (English).",
+          "distributionUrl": "https://broadcast-portal.lds.org/young-women-camp-songs/2010-06-18-i-feel-my-saviors-love-128k-eng.mp3",
+          "duration": 179000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Sep 06 13:10:10 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ed5-d3a5-ab95-1fff4b1c0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ed5-d3a5-ab95-1fff4b1c0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“I Feel My Savior’s Love” from Young Women Camp Songs (English).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:09:30 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“I Feel My Savior’s Love” from Young Women Camp Songs (English).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "I Feel My Savior’s Love",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“I Feel My Savior’s Love” from Young Women Camp Songs (English).",
+          "shareableTitle": "I Feel My Savior’s Love",
+          "title": "I Feel My Savior’s Love",
+          "translator": []
+        },
+        "$id": "00000196-c6d4-d455-a9f6-dedc7f010000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6d4-d455-a9f6-dedc7f010000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "I Am a Child of God",
+    "slug": "i-am-a-child-of-god-1992",
+    "bookSlug": "young-women-camp-manual",
+    "songNumber": "77a",
+    "arrangers": [],
+    "artists": [],
+    "authors": [
+      {
+        "personName": "Naomi W. Randall"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Mildred T. Pettit"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Guitar"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": true,
+    "videoAvailable": false,
+    "tags": [
+      "Heavenly Father",
+      "child of God",
+      "endure to the end",
+      "eternal life",
+      "exaltation",
+      "faith",
+      "family",
+      "guidance",
+      "home",
+      "learning",
+      "obedience",
+      "plan of salvation",
+      "teaching"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_ACCOMPANIMENT",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "588f3fd3f8b2588aa094202419efbd44e8e15bdc",
+          "attributes": {},
+          "composer": [],
+          "description": "“I Am a Child of God” from Young Women Camp Songs (English).",
+          "distributionUrl": "https://broadcast-portal.lds.org/young-women-camp-songs/2010-06-19-i-am-a-child-of-god-128k-eng.mp3",
+          "duration": 216000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Sep 06 13:10:06 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ed5-d3a5-ab95-1fff3b1e0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ed5-d3a5-ab95-1fff3b1e0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“I Am a Child of God” from Young Women Camp Songs (English).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:09:26 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“I Am a Child of God” from Young Women Camp Songs (English).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "I Am a Child of God",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“I Am a Child of God” from Young Women Camp Songs (English).",
+          "shareableTitle": "I Am a Child of God",
+          "title": "I Am a Child of God",
+          "translator": []
+        },
+        "$id": "00000196-c6d4-d455-a9f6-dedc7f1f0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6d4-d455-a9f6-dedc7f1f0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Love One Another",
+    "slug": "love-one-another-1992",
+    "bookSlug": "young-women-camp-manual",
+    "songNumber": "77b",
+    "arrangers": [],
+    "artists": [],
+    "authors": [
+      {
+        "personName": "Luacine Clark Fox"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Luacine Clark Fox"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Guitar"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": true,
+    "videoAvailable": false,
+    "tags": [
+      "Heavenly Father",
+      "Jesus Christ",
+      "charity",
+      "commandments",
+      "discipleship",
+      "kindness",
+      "love",
+      "service"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_ACCOMPANIMENT",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "28822cb92565e9eb9b8f6cc8115712b7a660f530",
+          "attributes": {},
+          "composer": [],
+          "description": "“Love One Another” from Young Women Camp Songs (English).",
+          "distributionUrl": "https://broadcast-portal.lds.org/young-women-camp-songs/2010-06-20-love-one-another-128k-eng.mp3",
+          "duration": 74000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Sep 06 13:10:12 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000180-66fe-d2a4-a7b7-67fe6ad60000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000180-66fe-d2a4-a7b7-67fe6ad60000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“Love One Another” from Young Women Camp Songs (English).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Apr 26 13:49:51 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“Love One Another” from Young Women Camp Songs (English).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Love One Another",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“Love One Another” from Young Women Camp Songs (English).",
+          "shareableTitle": "Love One Another",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "3f0f8712f23e85929e0a7e2c49cb9a96a5f10565",
+            "attributes": {},
+            "description": "Composite art featuring the cover of the Young Women’s Camp Song book. See parent image for copyright information.",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/dc/2a/dc2a7d1f3427762b930b62691c8ab3a339e7385a/yw_camp_songs.png",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "0 - IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Tue Jun 13 08:12:39 EDT 2023",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000180-66fe-d2a4-a7b7-67fe6a910000",
+            "$model": "image",
+            "$rootId": "00000180-66fe-d2a4-a7b7-67fe6a910000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "Composite art featuring the cover of the Young Women's Camp Song book.  See parent image for copyright information.",
+            "publicDownload": [],
+            "$publishDate": "Tue Apr 26 13:49:51 EDT 2022",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f0f8712f23e85929e0a7e2c49cb9a96a5f10565/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f0f8712f23e85929e0a7e2c49cb9a96a5f10565/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f0f8712f23e85929e0a7e2c49cb9a96a5f10565/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f0f8712f23e85929e0a7e2c49cb9a96a5f10565/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f0f8712f23e85929e0a7e2c49cb9a96a5f10565/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f0f8712f23e85929e0a7e2c49cb9a96a5f10565/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f0f8712f23e85929e0a7e2c49cb9a96a5f10565/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f0f8712f23e85929e0a7e2c49cb9a96a5f10565/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f0f8712f23e85929e0a7e2c49cb9a96a5f10565/full/!1600%2C1600/0/default",
+                "height": 1600,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f0f8712f23e85929e0a7e2c49cb9a96a5f10565/full/!1600%2C1600/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f0f8712f23e85929e0a7e2c49cb9a96a5f10565/full/!1920%2C1920/0/default",
+                "height": 1920,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f0f8712f23e85929e0a7e2c49cb9a96a5f10565/full/!1920%2C1920/0/default",
+                "width": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f0f8712f23e85929e0a7e2c49cb9a96a5f10565/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f0f8712f23e85929e0a7e2c49cb9a96a5f10565/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f0f8712f23e85929e0a7e2c49cb9a96a5f10565/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f0f8712f23e85929e0a7e2c49cb9a96a5f10565/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f0f8712f23e85929e0a7e2c49cb9a96a5f10565/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f0f8712f23e85929e0a7e2c49cb9a96a5f10565/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f0f8712f23e85929e0a7e2c49cb9a96a5f10565/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f0f8712f23e85929e0a7e2c49cb9a96a5f10565/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f0f8712f23e85929e0a7e2c49cb9a96a5f10565/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f0f8712f23e85929e0a7e2c49cb9a96a5f10565/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Composite art featuring the cover of the Young Women's Camp Song book.  See parent image for copyright information.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "00000180-66fe-d2a4-a7b7-67fe6a910000",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Composite art featuring the cover of the Young Women's Camp Song book. See parent image for copyright information."
+          },
+          "title": "Love One Another",
+          "translator": []
+        },
+        "$id": "00000196-c6d4-d455-a9f6-dedc7f3f0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6d4-d455-a9f6-dedc7f3f0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Teach Me to Walk in the Light",
+    "slug": "teach-me-to-walk-in-the-light-1992",
+    "bookSlug": "young-women-camp-manual",
+    "songNumber": "77c",
+    "arrangers": [],
+    "artists": [],
+    "authors": [
+      {
+        "personName": "Clara W. McMaster"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Clara W. McMaster"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Guitar"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": true,
+    "videoAvailable": false,
+    "tags": [
+      "Heavenly Father",
+      "Jesus Christ",
+      "commandments",
+      "exaltation",
+      "gospel",
+      "gratitude",
+      "guidance",
+      "joy",
+      "knowledge",
+      "learning",
+      "love",
+      "obedience",
+      "plan of salvation",
+      "praise",
+      "prayer",
+      "teaching",
+      "truth"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_ACCOMPANIMENT",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "9f1fb5f669e41855e7c3c578e6a7d3c47fc06c66",
+          "attributes": {},
+          "composer": [],
+          "description": "“Teach Me to Walk in the Light” from Young Women Camp Songs (English).",
+          "distributionUrl": "https://broadcast-portal.lds.org/young-women-camp-songs/2010-06-21-teach-me-to-walk-in-the-light-128k-eng.mp3",
+          "duration": 99000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Sep 06 13:10:12 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ed5-d3a5-ab95-1fff53f80000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ed5-d3a5-ab95-1fff53f80000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“Teach Me to Walk in the Light” from Young Women Camp Songs (English).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:09:32 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“Teach Me to Walk in the Light” from Young Women Camp Songs (English).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Teach Me to Walk in the Light",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“Teach Me to Walk in the Light” from Young Women Camp Songs (English).",
+          "shareableTitle": "Teach Me to Walk in the Light",
+          "title": "Teach Me to Walk in the Light",
+          "translator": []
+        },
+        "$id": "00000196-c6d4-d455-a9f6-dedc7f5d0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6d4-d455-a9f6-dedc7f5d0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "We Thank Thee, O God, for a Prophet",
+    "slug": "we-thank-thee-o-god-for-a-prophet-1992",
+    "bookSlug": "young-women-camp-manual",
+    "songNumber": "77d",
+    "arrangers": [],
+    "artists": [],
+    "authors": [
+      {
+        "personName": "William Fowler"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Caroline Sheridan Norton"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Guitar"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": true,
+    "videoAvailable": false,
+    "tags": [
+      "Heavenly Father",
+      "Zion",
+      "adversity",
+      "eternal life",
+      "exaltation",
+      "faith",
+      "gospel",
+      "grace",
+      "gratitude",
+      "guidance",
+      "hope",
+      "obedience",
+      "peace",
+      "plan of salvation",
+      "praise",
+      "prophets",
+      "service",
+      "worship"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_ACCOMPANIMENT",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "ab3ab35893943f8eb7610e2c5e44adcd58c546e1",
+          "attributes": {},
+          "composer": [],
+          "description": "“We Thank Thee, O God, for a Prophet” from Young Women Camp Songs (English).",
+          "distributionUrl": "https://broadcast-portal.lds.org/young-women-camp-songs/2010-06-22-we-thank-thee-o-god-for-a-prophet-128k-eng.mp3",
+          "duration": 135000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Sep 06 13:10:13 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ed5-d3a5-ab95-1fff520f0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ed5-d3a5-ab95-1fff520f0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“We Thank Thee, O God, for a Prophet” from Young Women Camp Songs (English).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:09:32 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“We Thank Thee, O God, for a Prophet” from Young Women Camp Songs (English).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "We Thank Thee, O God, for a Prophet",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“We Thank Thee, O God, for a Prophet” from Young Women Camp Songs (English).",
+          "shareableTitle": "We Thank Thee, O God, for a Prophet",
+          "title": "We Thank Thee, O God, for a Prophet",
+          "translator": []
+        },
+        "$id": "00000196-c6d4-d455-a9f6-dedc7f790000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6d4-d455-a9f6-dedc7f790000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Joseph Smith’s First Prayer",
+    "slug": "joseph-smiths-first-prayer-1992",
+    "bookSlug": "young-women-camp-manual",
+    "songNumber": "78a",
+    "arrangers": [],
+    "artists": [],
+    "authors": [
+      {
+        "personName": "George Manwaring"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Sylvanus Billings Pond"
+      },
+      {
+        "personName": "A. C. Smyth"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Guitar"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": true,
+    "videoAvailable": false,
+    "tags": [
+      "Heavenly Father",
+      "Jesus Christ",
+      "Joseph Smith",
+      "Restoration",
+      "baptism",
+      "faith",
+      "family",
+      "love",
+      "missionary work",
+      "nature",
+      "prayer",
+      "priesthood",
+      "scriptures",
+      "temples",
+      "temptation"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_ACCOMPANIMENT",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "0eac9e8748f17af5ca95285454dc0497ffb98df9",
+          "attributes": {},
+          "composer": [],
+          "description": "“Joseph Smith’s First Prayer” from Young Women Camp Songs (English).",
+          "distributionUrl": "https://broadcast-portal.lds.org/young-women-camp-songs/2010-06-23-joseph-smiths-first-prayer-128k-eng.mp3",
+          "duration": 184000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Sep 06 13:10:13 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ed5-d3a5-ab95-1fff50630000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ed5-d3a5-ab95-1fff50630000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“Joseph Smith’s First Prayer” from Young Women Camp Songs (English).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:09:31 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“Joseph Smith’s First Prayer” from Young Women Camp Songs (English).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Joseph Smith’s First Prayer",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“Joseph Smith’s First Prayer” from Young Women Camp Songs (English).",
+          "shareableTitle": "Joseph Smith’s First Prayer",
+          "title": "Joseph Smith’s First Prayer",
+          "translator": []
+        },
+        "$id": "00000196-c6d4-d455-a9f6-dedc7f970000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6d4-d455-a9f6-dedc7f970000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Now the Day Is Over",
+    "slug": "now-the-day-is-over-1992",
+    "bookSlug": "young-women-camp-manual",
+    "songNumber": "78b",
+    "arrangers": [],
+    "artists": [],
+    "authors": [
+      {
+        "personName": "Sabine Baring-Gould"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Joseph Barnby"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Guitar"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": true,
+    "videoAvailable": false,
+    "tags": [
+      "Jesus Christ",
+      "comfort",
+      "grace",
+      "peace",
+      "prayer"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_ACCOMPANIMENT",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "668e68ff4e13086e8c958c8461816452ec0778a5",
+          "attributes": {},
+          "composer": [],
+          "description": "“Now the Day Is Over” from Young Women Camp Songs (English).",
+          "distributionUrl": "https://broadcast-portal.lds.org/young-women-camp-songs/2010-06-24-now-the-day-is-over-128k-eng.mp3",
+          "duration": 65000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Sep 06 13:10:11 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ed5-d3a5-ab95-1fff4e960000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ed5-d3a5-ab95-1fff4e960000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“Now the Day Is Over” from Young Women Camp Songs (English).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:09:31 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“Now the Day Is Over” from Young Women Camp Songs (English).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Now the Day Is Over",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“Now the Day Is Over” from Young Women Camp Songs (English).",
+          "shareableTitle": "Now the Day Is Over",
+          "title": "Now the Day Is Over",
+          "translator": []
+        },
+        "$id": "00000196-c6d4-d455-a9f6-dedc7fb20000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6d4-d455-a9f6-dedc7fb20000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "The Spirit of God",
+    "slug": "the-spirit-of-god-1992",
+    "bookSlug": "young-women-camp-manual",
+    "songNumber": "78c",
+    "arrangers": [],
+    "artists": [],
+    "authors": [
+      {
+        "personName": "William W. Phelps"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Anon."
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Guitar"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": true,
+    "videoAvailable": false,
+    "tags": [
+      "Jesus Christ",
+      "Joseph Smith",
+      "Millennium",
+      "Restoration",
+      "Second Coming",
+      "baptism",
+      "faith",
+      "family",
+      "missionary work",
+      "praise",
+      "priesthood",
+      "scriptures",
+      "temples"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_ACCOMPANIMENT",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "dc0cb92d6dec81018f396adf411e666016408dec",
+          "attributes": {},
+          "composer": [],
+          "description": "“The Spirit of God” from Young Women Camp Songs (English).",
+          "distributionUrl": "https://broadcast-portal.lds.org/young-women-camp-songs/2010-06-25-the-spirit-of-god-128k-eng.mp3",
+          "duration": 193000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Sep 06 13:10:13 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ed5-d3a5-ab95-1fff57940000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ed5-d3a5-ab95-1fff57940000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“The Spirit of God” from Young Women Camp Songs (English).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:09:33 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“The Spirit of God” from Young Women Camp Songs (English).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "The Spirit of God",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“The Spirit of God” from Young Women Camp Songs (English).",
+          "shareableTitle": "The Spirit of God",
+          "title": "The Spirit of God",
+          "translator": []
+        },
+        "$id": "00000196-c6d4-d455-a9f6-dedc7fce0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6d4-d455-a9f6-dedc7fce0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  }
+]

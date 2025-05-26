@@ -1,0 +1,3925 @@
+[
+  {
+    "title": "With Songs of Praise",
+    "slug": "2025-04-with-songs-of-praise",
+    "bookSlug": "music-from-april-2025-general-conference",
+    "bookSectionTitle": "Saturday Morning Session",
+    "songNumber": "1",
+    "songDate": "2025-04-05",
+    "arrangers": [
+      {
+        "personName": "Mack Wilberg"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Tabernacle Choir at Temple Square, The"
+      },
+      {
+        "personName": "The Tabernacle Choir at Temple Square "
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Penelope Moody Allen"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Newel Kay Brown"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Organ"
+      },
+      {
+        "name": "Choir"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "Holy Ghost",
+      "gratitude",
+      "love",
+      "music",
+      "praise",
+      "worship"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL_CONGREGATION",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "122b5abp37xje0m20tr06o8e94u9jilv9ivgrrf4",
+          "attributes": {},
+          "composer": [],
+          "description": "A performance of “With Songs of Praise” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/12/2b/122b5abp37xje0m20tr06o8e94u9jilv9ivgrrf4/2025_04_with_songs_of_praise.mp3",
+          "duration": 165000,
+          "ipCode": "0 - IRI Owned",
+          "isPartOf": [],
+          "keywords": [
+            "general conference",
+            "music"
+          ],
+          "$lastUpdatedDate": "Thu May 22 15:02:07 EDT 2025",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000196-2212-d7dd-abd6-635e070d0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000196-2212-d7dd-abd6-635e070d0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "A performance of “With Songs of Praise” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "publicDownload": [],
+          "$publishDate": "Thu Apr 10 19:38:48 EDT 2025",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "A performance of “With Songs of Praise” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "With Songs of Praise",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "A performance of “With Songs of Praise” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "shareableTitle": "With Songs of Praise",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0",
+            "attributes": {},
+            "description": "2025 April General Conference",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/800,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "4 - IRI licensed",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Thu May 22 15:02:12 EDT 2025",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000195-1a6d-d040-a597-7a6d70cc0000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000195-1a6d-d040-a597-7a6d70cc0000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "Sacred Music App",
+            "publicDownload": [],
+            "$publishDate": "Tue Feb 18 13:58:54 EST 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "2025 April General Conference",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "2025 April General Conference",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "2025 April General Conference",
+            "shareableTitle": "2025 April General Conference",
+            "title": "2025 April General Conference"
+          },
+          "title": "With Songs of Praise",
+          "translator": []
+        },
+        "$id": "00000196-c6e3-d455-a9f6-deef9b900000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6e3-d455-a9f6-deef9b900000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "He Sent His Son",
+    "slug": "2025-04-he-sent-his-son",
+    "bookSlug": "music-from-april-2025-general-conference",
+    "bookSectionTitle": "Saturday Morning Session",
+    "songNumber": "2",
+    "songDate": "2025-04-05",
+    "arrangers": [
+      {
+        "personName": "Nathan Hofheins"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Tabernacle Choir at Temple Square, The"
+      },
+      {
+        "personName": "The Tabernacle Choir at Temple Square "
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Mabel Jones Gabbott"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Michael Finlinson Moody"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Organ"
+      },
+      {
+        "name": "Choir"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "Atonement of Jesus Christ",
+      "Heavenly Father",
+      "Jesus Christ",
+      "charity",
+      "death",
+      "diligence",
+      "discipleship",
+      "example",
+      "faith",
+      "hope",
+      "love",
+      "ministering",
+      "plan of salvation",
+      "resurrection",
+      "sacrifice",
+      "scriptures",
+      "service"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL_CONGREGATION",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "k7n959qgbyt8xyxf01tod0p4v5i38llktqxaho9i",
+          "attributes": {},
+          "composer": [],
+          "description": "A performance of “He Sent His Son” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/k7/n9/k7n959qgbyt8xyxf01tod0p4v5i38llktqxaho9i/2025_04_he_sent_his_son.mp3",
+          "duration": 211000,
+          "ipCode": "1 - Not IRI Owned",
+          "isPartOf": [],
+          "keywords": [
+            "general conference",
+            "music"
+          ],
+          "$lastUpdatedDate": "Thu May 22 15:02:06 EDT 2025",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000196-2212-d7dd-abd6-635e15740000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000196-2212-d7dd-abd6-635e15740000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "A performance of “He Sent His Son” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "publicDownload": [],
+          "$publishDate": "Thu Apr 10 19:38:52 EDT 2025",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "reqCreditLine": "false",
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "A performance of “He Sent His Son” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "He Sent His Son",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "A performance of “He Sent His Son” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "shareableTitle": "He Sent His Son",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0",
+            "attributes": {},
+            "description": "2025 April General Conference",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/800,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "4 - IRI licensed",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Thu May 22 15:02:12 EDT 2025",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000195-1a6d-d040-a597-7a6d70cc0000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000195-1a6d-d040-a597-7a6d70cc0000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "Sacred Music App",
+            "publicDownload": [],
+            "$publishDate": "Tue Feb 18 13:58:54 EST 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "2025 April General Conference",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "2025 April General Conference",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "2025 April General Conference",
+            "shareableTitle": "2025 April General Conference",
+            "title": "2025 April General Conference"
+          },
+          "title": "He Sent His Son",
+          "translator": []
+        },
+        "$id": "00000196-c6e3-d455-a9f6-deef9bab0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6e3-d455-a9f6-deef9bab0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "God Is Love",
+    "slug": "2025-04-god-is-love",
+    "bookSlug": "music-from-april-2025-general-conference",
+    "bookSectionTitle": "Saturday Morning Session",
+    "songNumber": "3",
+    "songDate": "2025-04-05",
+    "arrangers": [
+      {
+        "personName": "Ryan Murphey"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Tabernacle Choir at Temple Square, The"
+      },
+      {
+        "personName": "The Tabernacle Choir at Temple Square "
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Thomas R. Taylor"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Thomas C. Griggs"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Organ"
+      },
+      {
+        "name": "Choir"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "Heavenly Father",
+      "love",
+      "nature"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL_CONGREGATION",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "94jj91ltxjjyzxalpqf18g43a0r8plynmzw1quhn",
+          "attributes": {},
+          "composer": [],
+          "description": "A performance of “God Is Love” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/94/jj/94jj91ltxjjyzxalpqf18g43a0r8plynmzw1quhn/2025_04_god_is_love.mp3",
+          "duration": 292000,
+          "isPartOf": [],
+          "keywords": [
+            "general conference",
+            "music"
+          ],
+          "$lastUpdatedDate": "Thu May 22 15:02:06 EDT 2025",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000196-2212-d7dd-abd6-635e30260000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000196-2212-d7dd-abd6-635e30260000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "A performance of “God Is Love” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "publicDownload": [],
+          "$publishDate": "Thu Apr 10 19:38:59 EDT 2025",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "A performance of “God Is Love” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "God Is Love",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "A performance of “God Is Love” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "shareableTitle": "God Is Love",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0",
+            "attributes": {},
+            "description": "2025 April General Conference",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/800,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "4 - IRI licensed",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Thu May 22 15:02:12 EDT 2025",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000195-1a6d-d040-a597-7a6d70cc0000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000195-1a6d-d040-a597-7a6d70cc0000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "Sacred Music App",
+            "publicDownload": [],
+            "$publishDate": "Tue Feb 18 13:58:54 EST 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "2025 April General Conference",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "2025 April General Conference",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "2025 April General Conference",
+            "shareableTitle": "2025 April General Conference",
+            "title": "2025 April General Conference"
+          },
+          "title": "God Is Love",
+          "translator": []
+        },
+        "$id": "00000196-c6e3-d455-a9f6-deef9bc40000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6e3-d455-a9f6-deef9bc40000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Come, Come, Ye Saints",
+    "slug": "come-come-ye-saints-april-2025",
+    "bookSlug": "music-from-april-2025-general-conference",
+    "bookSectionTitle": "Saturday Morning Session",
+    "songNumber": "4",
+    "songDate": "2025-04-05",
+    "arrangers": [
+      {
+        "personName": "Mack Wilberg"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Tabernacle Choir at Temple Square, The"
+      },
+      {
+        "personName": "The Tabernacle Choir at Temple Square "
+      }
+    ],
+    "authors": [
+      {
+        "personName": "William Clayton"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Anon."
+      },
+      {
+        "personName": "English folk song"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Organ"
+      },
+      {
+        "name": "Choir"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "Jesus Christ",
+      "adversity",
+      "courage",
+      "endure to the end",
+      "faith",
+      "grace",
+      "hope",
+      "joy",
+      "pioneers",
+      "plan of salvation",
+      "praise",
+      "sacrifice",
+      "trials"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL_CONGREGATION",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "xmscwu98yhtgpe6sxpcrdr5uj0efoz26fvj2vkgh",
+          "attributes": {},
+          "composer": [],
+          "description": "A performance of “Come, Come, Ye Saints” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/xm/sc/xmscwu98yhtgpe6sxpcrdr5uj0efoz26fvj2vkgh/2025_04_come_come_ye_saints.mp3",
+          "duration": 288000,
+          "isPartOf": [],
+          "keywords": [
+            "general conference",
+            "music"
+          ],
+          "$lastUpdatedDate": "Thu May 22 15:02:05 EDT 2025",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000196-2212-d7dd-abd6-635e48770000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000196-2212-d7dd-abd6-635e48770000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "A performance of “Come, Come, Ye Saints” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "publicDownload": [],
+          "$publishDate": "Thu Apr 10 19:39:05 EDT 2025",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "A performance of “Come, Come, Ye Saints” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Come, Come, Ye Saints",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "A performance of “Come, Come, Ye Saints” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "shareableTitle": "Come, Come, Ye Saints",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0",
+            "attributes": {},
+            "description": "2025 April General Conference",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/800,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "4 - IRI licensed",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Thu May 22 15:02:12 EDT 2025",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000195-1a6d-d040-a597-7a6d70cc0000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000195-1a6d-d040-a597-7a6d70cc0000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "Sacred Music App",
+            "publicDownload": [],
+            "$publishDate": "Tue Feb 18 13:58:54 EST 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "2025 April General Conference",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "2025 April General Conference",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "2025 April General Conference",
+            "shareableTitle": "2025 April General Conference",
+            "title": "2025 April General Conference"
+          },
+          "title": "Come, Come, Ye Saints",
+          "translator": []
+        },
+        "$id": "00000196-c6e3-d455-a9f6-deef9bdd0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6e3-d455-a9f6-deef9bdd0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Sing Praise to Him",
+    "slug": "2025-04-sing-praise-to-him",
+    "bookSlug": "music-from-april-2025-general-conference",
+    "bookSectionTitle": "Saturday Afternoon Session",
+    "songNumber": "1",
+    "songDate": "2025-04-05",
+    "arrangers": [
+      {
+        "personName": "Randall Kempton"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Youth Choir from Northern Utah"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Johann J. Schütz"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Bohemian Brethren’s Songbook"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Organ"
+      },
+      {
+        "name": "Choir"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "Jesus Christ",
+      "mercy",
+      "music",
+      "praise"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL_CONGREGATION",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "h8rssvv1dcjyk5tocg6l7bay5rjqkvez33q00rj1",
+          "attributes": {},
+          "composer": [],
+          "description": "A performance of “Sing Praise to Him” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/h8/rs/h8rssvv1dcjyk5tocg6l7bay5rjqkvez33q00rj1/2025_04_sing_praise_to_him.mp3",
+          "duration": 177000,
+          "ipCode": "1 - Not IRI Owned",
+          "isPartOf": [],
+          "keywords": [
+            "general conference",
+            "music"
+          ],
+          "$lastUpdatedDate": "Thu May 22 15:02:07 EDT 2025",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000196-2212-d7dd-abd6-635e69320000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000196-2212-d7dd-abd6-635e69320000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "A performance of “Sing Praise to Him” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "publicDownload": [],
+          "$publishDate": "Thu Apr 10 19:39:14 EDT 2025",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "reqCreditLine": "false",
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "A performance of “Sing Praise to Him” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Sing Praise to Him",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "A performance of “Sing Praise to Him” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "shareableTitle": "Sing Praise to Him",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0",
+            "attributes": {},
+            "description": "2025 April General Conference",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/800,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "4 - IRI licensed",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Thu May 22 15:02:12 EDT 2025",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000195-1a6d-d040-a597-7a6d70cc0000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000195-1a6d-d040-a597-7a6d70cc0000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "Sacred Music App",
+            "publicDownload": [],
+            "$publishDate": "Tue Feb 18 13:58:54 EST 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "2025 April General Conference",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "2025 April General Conference",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "2025 April General Conference",
+            "shareableTitle": "2025 April General Conference",
+            "title": "2025 April General Conference"
+          },
+          "title": "Sing Praise to Him",
+          "translator": []
+        },
+        "$id": "00000196-c6e3-d455-a9f6-deef9bf70000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6e3-d455-a9f6-deef9bf70000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Come, Hear the Word the Lord Has Spoken",
+    "slug": "2025-04-come-hear-the-word-the-lord-has-spoken",
+    "bookSlug": "music-from-april-2025-general-conference",
+    "bookSectionTitle": "Saturday Afternoon Session",
+    "songNumber": "2",
+    "songDate": "2025-04-05",
+    "arrangers": [
+      {
+        "personName": "Jim Kasen"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Youth Choir from Northern Utah"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Frans Heijdemann"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Frans Heijdemann"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Organ"
+      },
+      {
+        "name": "Choir"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "Jesus Christ",
+      "Millennium",
+      "Restoration of the Church",
+      "Second Coming",
+      "gratitude",
+      "music",
+      "opening",
+      "praise",
+      "rejoicing",
+      "revelation"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL_CONGREGATION",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "tw800uckp6ucdizh42wrlmxv5dkiapywbx6gy6qy",
+          "attributes": {},
+          "composer": [],
+          "description": "A performance of “Come, Hear the Word the Lord Has Spoken” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/tw/80/tw800uckp6ucdizh42wrlmxv5dkiapywbx6gy6qy/2025_04_come_hear_the_word_the_lord_has_spoken.mp3",
+          "duration": 173000,
+          "ipCode": "1 - Not IRI Owned",
+          "isPartOf": [],
+          "keywords": [
+            "general conference",
+            "music"
+          ],
+          "$lastUpdatedDate": "Thu May 22 15:02:05 EDT 2025",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000196-2212-d7dd-abd6-635e7f370000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000196-2212-d7dd-abd6-635e7f370000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "A performance of “Come, Hear the Word the Lord Has Spoken” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "publicDownload": [],
+          "$publishDate": "Thu Apr 10 19:39:19 EDT 2025",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "reqCreditLine": "false",
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "A performance of “Come, Hear the Word the Lord Has Spoken” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Come, Hear the Word the Lord Has Spoken",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "A performance of “Come, Hear the Word the Lord Has Spoken” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "shareableTitle": "Come, Hear the Word the Lord Has Spoken",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0",
+            "attributes": {},
+            "description": "2025 April General Conference",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/800,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "4 - IRI licensed",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Thu May 22 15:02:12 EDT 2025",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000195-1a6d-d040-a597-7a6d70cc0000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000195-1a6d-d040-a597-7a6d70cc0000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "Sacred Music App",
+            "publicDownload": [],
+            "$publishDate": "Tue Feb 18 13:58:54 EST 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "2025 April General Conference",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "2025 April General Conference",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "2025 April General Conference",
+            "shareableTitle": "2025 April General Conference",
+            "title": "2025 April General Conference"
+          },
+          "title": "Come, Hear the Word the Lord Has Spoken",
+          "translator": []
+        },
+        "$id": "00000196-c6e3-d455-a9f6-deef9c110000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6e3-d455-a9f6-deef9c110000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Oh, the Deep, Deep Love of Jesus",
+    "slug": "2025-04-oh-the-deep-deep-love-of-jesus",
+    "bookSlug": "music-from-april-2025-general-conference",
+    "bookSectionTitle": "Saturday Afternoon Session",
+    "songNumber": "3",
+    "songDate": "2025-04-05",
+    "arrangers": [
+      {
+        "personName": "Geoff Anderson"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Youth Choir from Northern Utah"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Samuel Trevor Francis"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Stephen M. Jones"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Organ"
+      },
+      {
+        "name": "Choir"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "Atonement of Jesus Christ",
+      "Jesus Christ",
+      "blessings",
+      "charity",
+      "eternal life",
+      "love",
+      "mercy",
+      "praise"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL_CONGREGATION",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "mmyn0bvxohwy4w1udjfvmmf5zp7ii7zelfkoumnz",
+          "attributes": {},
+          "composer": [],
+          "description": "A performance of “Oh, the Deep, Deep Love of Jesus” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/mm/yn/mmyn0bvxohwy4w1udjfvmmf5zp7ii7zelfkoumnz/2025_04_oh_the_deep_deep_love_of_jesus.mp3",
+          "duration": 274000,
+          "ipCode": "1 - Not IRI Owned",
+          "isPartOf": [],
+          "keywords": [
+            "general conference",
+            "music"
+          ],
+          "$lastUpdatedDate": "Thu May 22 15:02:06 EDT 2025",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000196-2212-d7dd-abd6-635e8d170000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000196-2212-d7dd-abd6-635e8d170000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "A performance of “Oh, the Deep, Deep Love of Jesus” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "publicDownload": [],
+          "$publishDate": "Thu Apr 10 19:39:23 EDT 2025",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "reqCreditLine": "false",
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "A performance of “Oh, the Deep, Deep Love of Jesus” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Oh, the Deep, Deep Love of Jesus",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "A performance of “Oh, the Deep, Deep Love of Jesus” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "shareableTitle": "Oh, the Deep, Deep Love of Jesus",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0",
+            "attributes": {},
+            "description": "2025 April General Conference",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/800,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "4 - IRI licensed",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Thu May 22 15:02:12 EDT 2025",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000195-1a6d-d040-a597-7a6d70cc0000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000195-1a6d-d040-a597-7a6d70cc0000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "Sacred Music App",
+            "publicDownload": [],
+            "$publishDate": "Tue Feb 18 13:58:54 EST 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "2025 April General Conference",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "2025 April General Conference",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "2025 April General Conference",
+            "shareableTitle": "2025 April General Conference",
+            "title": "2025 April General Conference"
+          },
+          "title": "Oh, the Deep, Deep Love of Jesus",
+          "translator": []
+        },
+        "$id": "00000196-c6e3-d455-a9f6-deef9c2a0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6e3-d455-a9f6-deef9c2a0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "True to the Faith",
+    "slug": "2025-04-true-to-the-faith",
+    "bookSlug": "music-from-april-2025-general-conference",
+    "bookSectionTitle": "Saturday Afternoon Session",
+    "songNumber": "4",
+    "songDate": "2025-04-05",
+    "arrangers": [
+      {
+        "personName": "A. Laurence Lyon"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Youth Choir from Northern Utah"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Evan Stephens"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Evan Stephens"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Organ"
+      },
+      {
+        "name": "Choir"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "Word of Wisdom",
+      "commitment",
+      "courage",
+      "faith",
+      "morality",
+      "truth",
+      "worthiness",
+      "youth"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL_CONGREGATION",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "0nvoounzqzxscig057bb30uxbi1pg97dwyhsxm1c",
+          "attributes": {},
+          "composer": [],
+          "description": "A performance of “True to the Faith” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/0n/vo/0nvoounzqzxscig057bb30uxbi1pg97dwyhsxm1c/2025_04_true_to_the_faith.mp3",
+          "duration": 244000,
+          "ipCode": "1 - Not IRI Owned",
+          "isPartOf": [],
+          "keywords": [
+            "general conference",
+            "music"
+          ],
+          "$lastUpdatedDate": "Thu May 22 15:02:07 EDT 2025",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000196-2212-d7dd-abd6-635ea2f10000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000196-2212-d7dd-abd6-635ea2f10000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "A performance of “True to the Faith” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "publicDownload": [],
+          "$publishDate": "Thu Apr 10 19:39:28 EDT 2025",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "reqCreditLine": "false",
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "A performance of “True to the Faith” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "True to the Faith",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "A performance of “True to the Faith” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "shareableTitle": "True to the Faith",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0",
+            "attributes": {},
+            "description": "2025 April General Conference",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/800,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "4 - IRI licensed",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Thu May 22 15:02:12 EDT 2025",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000195-1a6d-d040-a597-7a6d70cc0000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000195-1a6d-d040-a597-7a6d70cc0000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "Sacred Music App",
+            "publicDownload": [],
+            "$publishDate": "Tue Feb 18 13:58:54 EST 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "2025 April General Conference",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "2025 April General Conference",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "2025 April General Conference",
+            "shareableTitle": "2025 April General Conference",
+            "title": "2025 April General Conference"
+          },
+          "title": "True to the Faith",
+          "translator": []
+        },
+        "$id": "00000196-c6e3-d455-a9f6-deef9c460000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6e3-d455-a9f6-deef9c460000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Hail the Day That Sees Him Rise",
+    "slug": "2025-04-hail-the-day-that-sees-him-rise",
+    "bookSlug": "music-from-april-2025-general-conference",
+    "bookSectionTitle": "Saturday Evening Session",
+    "songNumber": "1",
+    "songDate": "2025-04-05",
+    "arrangers": [
+      {
+        "personName": "Mack Wilberg"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Combined Choir from BYU"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Charles Wesley"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Robert Williams"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Organ"
+      },
+      {
+        "name": "Choir"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "Easter",
+      "Jesus Christ",
+      "love",
+      "praise",
+      "resurrection"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL_CONGREGATION",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "9ds56sm5joqppzz69zzuv65jd1zx1p50p69cq6fv",
+          "attributes": {},
+          "composer": [],
+          "description": "A performance of “Hail the Day That Sees Him Rise” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/9d/s5/9ds56sm5joqppzz69zzuv65jd1zx1p50p69cq6fv/2025_04_hail_the_day_that_sees_him_rise.mp3",
+          "duration": 268000,
+          "ipCode": "0 - IRI Owned",
+          "isPartOf": [],
+          "keywords": [
+            "general conference",
+            "music"
+          ],
+          "$lastUpdatedDate": "Thu May 22 15:02:08 EDT 2025",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000196-2212-d7dd-abd6-635ec2c70000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000196-2212-d7dd-abd6-635ec2c70000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "A performance of “Hail the Day That Sees Him Rise” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "publicDownload": [],
+          "$publishDate": "Thu Apr 10 19:39:36 EDT 2025",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "A performance of “Hail the Day That Sees Him Rise” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Hail the Day That Sees Him Rise",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "A performance of “Hail the Day That Sees Him Rise” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "shareableTitle": "Hail the Day That Sees Him Rise",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0",
+            "attributes": {},
+            "description": "2025 April General Conference",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/800,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "4 - IRI licensed",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Thu May 22 15:02:12 EDT 2025",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000195-1a6d-d040-a597-7a6d70cc0000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000195-1a6d-d040-a597-7a6d70cc0000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "Sacred Music App",
+            "publicDownload": [],
+            "$publishDate": "Tue Feb 18 13:58:54 EST 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "2025 April General Conference",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "2025 April General Conference",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "2025 April General Conference",
+            "shareableTitle": "2025 April General Conference",
+            "title": "2025 April General Conference"
+          },
+          "title": "Hail the Day That Sees Him Rise",
+          "translator": []
+        },
+        "$id": "00000196-c6e3-d455-a9f6-deef9c620000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6e3-d455-a9f6-deef9c620000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Sweet Is the Peace the Gospel Brings",
+    "slug": "2025-04-sweet-is-the-peace-the-gospel-brings",
+    "bookSlug": "music-from-april-2025-general-conference",
+    "bookSectionTitle": "Saturday Evening Session",
+    "songNumber": "2",
+    "songDate": "2025-04-05",
+    "arrangers": [
+      {
+        "personName": "Ronald J. Staheli"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Combined Choir from BYU"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Mary Ann Morton"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Alfred M. Durham"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Organ"
+      },
+      {
+        "name": "Choir"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "Heavenly Father",
+      "comfort",
+      "knowledge",
+      "mercy",
+      "morality",
+      "peace",
+      "wisdom"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL_CONGREGATION",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "7mz06gzxz0f3gqh3focz8hocu4i9o9ee30fjf6h9",
+          "attributes": {},
+          "composer": [],
+          "description": "A performance of “Sweet Is the Peace the Gospel Brings” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/7m/z0/7mz06gzxz0f3gqh3focz8hocu4i9o9ee30fjf6h9/2025_04_sweet_is_the_peace_the_gospel_brings.mp3",
+          "duration": 252000,
+          "ipCode": "OMR - IRI Claims ownership",
+          "isPartOf": [],
+          "keywords": [
+            "general conference",
+            "music"
+          ],
+          "$lastUpdatedDate": "Thu May 22 15:02:08 EDT 2025",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000196-2212-d7dd-abd6-635edbd10000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000196-2212-d7dd-abd6-635edbd10000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "A performance of “Sweet Is the Peace the Gospel Brings” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "publicDownload": [],
+          "$publishDate": "Thu Apr 10 19:39:43 EDT 2025",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "reqCreditLine": "false",
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "A performance of “Sweet Is the Peace the Gospel Brings” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Sweet Is the Peace the Gospel Brings",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "A performance of “Sweet Is the Peace the Gospel Brings” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "shareableTitle": "Sweet Is the Peace the Gospel Brings",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0",
+            "attributes": {},
+            "description": "2025 April General Conference",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/800,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "4 - IRI licensed",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Thu May 22 15:02:12 EDT 2025",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000195-1a6d-d040-a597-7a6d70cc0000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000195-1a6d-d040-a597-7a6d70cc0000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "Sacred Music App",
+            "publicDownload": [],
+            "$publishDate": "Tue Feb 18 13:58:54 EST 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "2025 April General Conference",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "2025 April General Conference",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "2025 April General Conference",
+            "shareableTitle": "2025 April General Conference",
+            "title": "2025 April General Conference"
+          },
+          "title": "Sweet Is the Peace the Gospel Brings",
+          "translator": []
+        },
+        "$id": "00000196-c6e3-d455-a9f6-deef9c7b0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6e3-d455-a9f6-deef9c7b0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Were You There?",
+    "slug": "2025-04-were-you-there",
+    "bookSlug": "music-from-april-2025-general-conference",
+    "bookSectionTitle": "Saturday Evening Session",
+    "songNumber": "3",
+    "songDate": "2025-04-05",
+    "arrangers": [
+      {
+        "personName": "Harry Thacker Burleigh"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Combined Choir from BYU"
+      }
+    ],
+    "authors": [],
+    "composers": [],
+    "instrumentations": [
+      {
+        "name": "Organ"
+      },
+      {
+        "name": "Choir"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "Crucifixion",
+      "Easter",
+      "Jesus Christ",
+      "resurrection",
+      "the sacrament"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL_CONGREGATION",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "vsnosqsl7eiu418y0pxcxp161osgqwobzgswjuzu",
+          "attributes": {},
+          "composer": [],
+          "description": "A performance of “Were You There?” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/vs/no/vsnosqsl7eiu418y0pxcxp161osgqwobzgswjuzu/2025_04_were_you_there.mp3",
+          "duration": 206000,
+          "ipCode": "0 - IRI Owned",
+          "isPartOf": [],
+          "keywords": [
+            "general conference",
+            "music"
+          ],
+          "$lastUpdatedDate": "Thu May 22 15:02:09 EDT 2025",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000196-2212-d7dd-abd6-635eea460000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000196-2212-d7dd-abd6-635eea460000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "A performance of “Were You There?” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "publicDownload": [],
+          "$publishDate": "Thu Apr 10 19:39:47 EDT 2025",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "A performance of “Were You There?” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Were You There?",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "A performance of “Were You There?” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "shareableTitle": "Were You There?",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0",
+            "attributes": {},
+            "description": "2025 April General Conference",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/800,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "4 - IRI licensed",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Thu May 22 15:02:12 EDT 2025",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000195-1a6d-d040-a597-7a6d70cc0000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000195-1a6d-d040-a597-7a6d70cc0000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "Sacred Music App",
+            "publicDownload": [],
+            "$publishDate": "Tue Feb 18 13:58:54 EST 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "2025 April General Conference",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "2025 April General Conference",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "2025 April General Conference",
+            "shareableTitle": "2025 April General Conference",
+            "title": "2025 April General Conference"
+          },
+          "title": "Were You There?",
+          "translator": []
+        },
+        "$id": "00000196-c6e3-d455-a9f6-deef9c980000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6e3-d455-a9f6-deef9c980000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Rejoice, the Lord Is King!",
+    "slug": "2025-04-rejoice-the-lord-is-king",
+    "bookSlug": "music-from-april-2025-general-conference",
+    "bookSectionTitle": "Saturday Evening Session",
+    "songNumber": "4",
+    "songDate": "2025-04-05",
+    "arrangers": [
+      {
+        "personName": "Ryan T. Murphy"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Combined Choir from BYU"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Charles Wesley"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Horatio Parker"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Organ"
+      },
+      {
+        "name": "Choir"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "Jesus Christ",
+      "gratitude",
+      "joy",
+      "praise",
+      "worship"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL_CONGREGATION",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "5mfpi3pvt0b8ylmnzx85l1yy9ggzombypso6lgpe",
+          "attributes": {},
+          "composer": [],
+          "description": "A performance of “Rejoice, the Lord Is King” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/5m/fp/5mfpi3pvt0b8ylmnzx85l1yy9ggzombypso6lgpe/2025_04_rejoice_the_lord_is_king.mp3",
+          "duration": 250000,
+          "ipCode": "0 - IRI Owned",
+          "isPartOf": [],
+          "keywords": [
+            "general conference",
+            "music"
+          ],
+          "$lastUpdatedDate": "Thu May 22 15:02:08 EDT 2025",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000196-2213-d7dd-abd6-635f0a6b0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000196-2213-d7dd-abd6-635f0a6b0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "A performance of “Rejoice, the Lord Is King” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "publicDownload": [],
+          "$publishDate": "Thu Apr 10 19:39:55 EDT 2025",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "A performance of “Rejoice, the Lord Is King” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Rejoice, the Lord Is King!",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "A performance of “Rejoice, the Lord Is King” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "shareableTitle": "Rejoice, the Lord Is King!",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0",
+            "attributes": {},
+            "description": "2025 April General Conference",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/800,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "4 - IRI licensed",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Thu May 22 15:02:12 EDT 2025",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000195-1a6d-d040-a597-7a6d70cc0000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000195-1a6d-d040-a597-7a6d70cc0000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "Sacred Music App",
+            "publicDownload": [],
+            "$publishDate": "Tue Feb 18 13:58:54 EST 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "2025 April General Conference",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "2025 April General Conference",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "2025 April General Conference",
+            "shareableTitle": "2025 April General Conference",
+            "title": "2025 April General Conference"
+          },
+          "title": "Rejoice, the Lord Is King!",
+          "translator": []
+        },
+        "$id": "00000196-c6e3-d455-a9f6-deef9cb50000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6e3-d455-a9f6-deef9cb50000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Praise to the Lord, the Almighty",
+    "slug": "2025-04-praise-to-the-lord-the-almighty",
+    "bookSlug": "music-from-april-2025-general-conference",
+    "bookSectionTitle": "Sunday Morning Session",
+    "songNumber": "1",
+    "songDate": "2025-04-06",
+    "arrangers": [
+      {
+        "personName": "Mack Wilberg"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Tabernacle Choir at Temple Square, The"
+      },
+      {
+        "personName": "The Tabernacle Choir at Temple Square "
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Joachim Neander"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Stralsund Gesangbuch"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Organ"
+      },
+      {
+        "name": "Choir"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "Creator",
+      "Jesus Christ",
+      "joy",
+      "love",
+      "mercy",
+      "music",
+      "praise",
+      "worship"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL_CONGREGATION",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "lwfm5glh32e527e9qet8hyhc7k538zvhqkbxratg",
+          "attributes": {},
+          "composer": [],
+          "description": "A performance of “Praise to the Lord, the Almighty” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/lw/fm/lwfm5glh32e527e9qet8hyhc7k538zvhqkbxratg/2025_04_praise_to_the_lord_the_almighty.mp3",
+          "duration": 168000,
+          "ipCode": "0 - IRI Owned",
+          "isPartOf": [],
+          "keywords": [
+            "general conference",
+            "music"
+          ],
+          "$lastUpdatedDate": "Thu May 22 15:02:10 EDT 2025",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000196-2213-d7dd-abd6-635f23010000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000196-2213-d7dd-abd6-635f23010000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "A performance of “Praise to the Lord, the Almighty” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "publicDownload": [],
+          "$publishDate": "Thu Apr 10 19:40:01 EDT 2025",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "A performance of “Praise to the Lord, the Almighty” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Praise to the Lord, the Almighty",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "A performance of “Praise to the Lord, the Almighty” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "shareableTitle": "Praise to the Lord, the Almighty",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0",
+            "attributes": {},
+            "description": "2025 April General Conference",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/800,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "4 - IRI licensed",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Thu May 22 15:02:12 EDT 2025",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000195-1a6d-d040-a597-7a6d70cc0000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000195-1a6d-d040-a597-7a6d70cc0000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "Sacred Music App",
+            "publicDownload": [],
+            "$publishDate": "Tue Feb 18 13:58:54 EST 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "2025 April General Conference",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "2025 April General Conference",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "2025 April General Conference",
+            "shareableTitle": "2025 April General Conference",
+            "title": "2025 April General Conference"
+          },
+          "title": "Praise to the Lord, the Almighty",
+          "translator": []
+        },
+        "$id": "00000196-c6e3-d455-a9f6-deef9cd20000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6e3-d455-a9f6-deef9cd20000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Welcome Home",
+    "slug": "2025-04-welcome-home",
+    "bookSlug": "music-from-april-2025-general-conference",
+    "bookSectionTitle": "Sunday Morning Session",
+    "songNumber": "2",
+    "songDate": "2025-04-06",
+    "arrangers": [
+      {
+        "personName": "Mack Wilberg"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Tabernacle Choir at Temple Square, The"
+      },
+      {
+        "personName": "The Tabernacle Choir at Temple Square "
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Andrea Christensen Brett"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Andrea Christensen Brett"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Organ"
+      },
+      {
+        "name": "Choir"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "Jesus Christ",
+      "chapel",
+      "covenants",
+      "endure to the end",
+      "grace",
+      "love",
+      "opening",
+      "temple work",
+      "temples",
+      "trials",
+      "unity"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL_CONGREGATION",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "4caqmk95rwi50yi4mdq9dy8rcty0mm1ibqftdq8y",
+          "attributes": {},
+          "composer": [],
+          "description": "A performance of “Welcome home” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/4c/aq/4caqmk95rwi50yi4mdq9dy8rcty0mm1ibqftdq8y/2025_04_welcome_home.mp3",
+          "duration": 266000,
+          "ipCode": "9 - IRI licensed",
+          "isPartOf": [],
+          "keywords": [
+            "general conference",
+            "music"
+          ],
+          "$lastUpdatedDate": "Thu May 22 15:02:09 EDT 2025",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000196-2213-d7dd-abd6-635f39b90000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000196-2213-d7dd-abd6-635f39b90000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "A performance of “Welcome home” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "publicDownload": [],
+          "$publishDate": "Thu Apr 10 19:40:07 EDT 2025",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "reqCreditLine": "false",
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "A performance of “Welcome home” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Welcome Home",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "A performance of “Welcome home” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "shareableTitle": "Welcome Home",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0",
+            "attributes": {},
+            "description": "2025 April General Conference",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/800,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "4 - IRI licensed",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Thu May 22 15:02:12 EDT 2025",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000195-1a6d-d040-a597-7a6d70cc0000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000195-1a6d-d040-a597-7a6d70cc0000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "Sacred Music App",
+            "publicDownload": [],
+            "$publishDate": "Tue Feb 18 13:58:54 EST 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "2025 April General Conference",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "2025 April General Conference",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "2025 April General Conference",
+            "shareableTitle": "2025 April General Conference",
+            "title": "2025 April General Conference"
+          },
+          "title": "Welcome Home",
+          "translator": []
+        },
+        "$id": "00000196-c6e3-d455-a9f6-deef9cef0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6e3-d455-a9f6-deef9cef0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Jesus, the Very Thought of Thee",
+    "slug": "2025-04-jesus-the-very-thought-of-thee",
+    "bookSlug": "music-from-april-2025-general-conference",
+    "bookSectionTitle": "Sunday Morning Session",
+    "songNumber": "3",
+    "songDate": "2025-04-06",
+    "arrangers": [
+      {
+        "personName": "Mack Wilberg"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Tabernacle Choir at Temple Square, The"
+      },
+      {
+        "personName": "The Tabernacle Choir at Temple Square "
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Bernard of Clairvaux"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "John B. Dykes"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Organ"
+      },
+      {
+        "name": "Choir"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "Jesus Christ",
+      "comfort",
+      "eternal life",
+      "grace",
+      "hope",
+      "joy",
+      "kindness",
+      "love",
+      "mercy",
+      "peace",
+      "praise"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL_CONGREGATION",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "trpdnvznkjib2onz4m22dk54hd2e68j3s6zfiema",
+          "attributes": {},
+          "composer": [],
+          "description": "A performance of “Jesus, the Very Thought of Thee” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/tr/pd/trpdnvznkjib2onz4m22dk54hd2e68j3s6zfiema/2025_04_jesus_the_very_thought_of_thee.mp3",
+          "duration": 194000,
+          "ipCode": "0 - IRI Owned",
+          "isPartOf": [],
+          "keywords": [
+            "general conference",
+            "music"
+          ],
+          "$lastUpdatedDate": "Thu May 22 15:02:10 EDT 2025",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000196-2213-d7dd-abd6-635f515d0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000196-2213-d7dd-abd6-635f515d0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "A performance of “Jesus, the Very Thought of Thee” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "publicDownload": [],
+          "$publishDate": "Thu Apr 10 19:40:13 EDT 2025",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "A performance of “Jesus, the Very Thought of Thee” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Jesus, the Very Thought of Thee",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "A performance of “Jesus, the Very Thought of Thee” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "shareableTitle": "Jesus, the Very Thought of Thee",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0",
+            "attributes": {},
+            "description": "2025 April General Conference",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/800,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "4 - IRI licensed",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Thu May 22 15:02:12 EDT 2025",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000195-1a6d-d040-a597-7a6d70cc0000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000195-1a6d-d040-a597-7a6d70cc0000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "Sacred Music App",
+            "publicDownload": [],
+            "$publishDate": "Tue Feb 18 13:58:54 EST 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "2025 April General Conference",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "2025 April General Conference",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "2025 April General Conference",
+            "shareableTitle": "2025 April General Conference",
+            "title": "2025 April General Conference"
+          },
+          "title": "Jesus, the Very Thought of Thee",
+          "translator": []
+        },
+        "$id": "00000196-c6e3-d455-a9f6-deef9d090000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6e3-d455-a9f6-deef9d090000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "It Is Well with My Soul",
+    "slug": "2025-04-it-is-well-with-my-soul",
+    "bookSlug": "music-from-april-2025-general-conference",
+    "bookSectionTitle": "Sunday Morning Session",
+    "songNumber": "4",
+    "songDate": "2025-04-06",
+    "arrangers": [
+      {
+        "personName": "Mack Wilberg"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Tabernacle Choir at Temple Square, The"
+      },
+      {
+        "personName": "The Tabernacle Choir at Temple Square "
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Horatio Spafford"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Philip Paul Bliss"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Organ"
+      },
+      {
+        "name": "Choir"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "Atonement of Jesus Christ",
+      "Jesus Christ",
+      "Second Coming",
+      "assurance",
+      "comfort",
+      "faith",
+      "peace",
+      "praise",
+      "repentance",
+      "sorrow",
+      "the sacrament",
+      "trials"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL_CONGREGATION",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "pz9es1jxxwssokbkuu3wh7wwk8wwy5reyx53cu3d",
+          "attributes": {},
+          "composer": [],
+          "description": "A performance of “It Is Well with My Soul” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/pz/9e/pz9es1jxxwssokbkuu3wh7wwk8wwy5reyx53cu3d/2025_04_it_is_well_with_my_soul.mp3",
+          "duration": 272000,
+          "ipCode": "0 - IRI Owned",
+          "isPartOf": [],
+          "keywords": [
+            "general conference",
+            "music"
+          ],
+          "$lastUpdatedDate": "Thu May 22 15:02:09 EDT 2025",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000196-2213-d7dd-abd6-635f5f560000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000196-2213-d7dd-abd6-635f5f560000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "A performance of “It Is Well with My Soul” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "publicDownload": [],
+          "$publishDate": "Thu Apr 10 19:40:17 EDT 2025",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "A performance of “It Is Well with My Soul” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "It Is Well with My Soul",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "A performance of “It Is Well with My Soul” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "shareableTitle": "It Is Well with My Soul",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0",
+            "attributes": {},
+            "description": "2025 April General Conference",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/800,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "4 - IRI licensed",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Thu May 22 15:02:12 EDT 2025",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000195-1a6d-d040-a597-7a6d70cc0000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000195-1a6d-d040-a597-7a6d70cc0000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "Sacred Music App",
+            "publicDownload": [],
+            "$publishDate": "Tue Feb 18 13:58:54 EST 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "2025 April General Conference",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "2025 April General Conference",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "2025 April General Conference",
+            "shareableTitle": "2025 April General Conference",
+            "title": "2025 April General Conference"
+          },
+          "title": "It Is Well with My Soul",
+          "translator": []
+        },
+        "$id": "00000196-c6e3-d455-a9f6-deef9d230000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6e3-d455-a9f6-deef9d230000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Sweet Is the Work",
+    "slug": "2025-04-sweet-is-the-work",
+    "bookSlug": "music-from-april-2025-general-conference",
+    "bookSectionTitle": "Sunday Afternoon Session",
+    "songNumber": "1",
+    "songDate": "2025-04-06",
+    "arrangers": [
+      {
+        "personName": "Ryan Murphey"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Tabernacle Choir at Temple Square, The"
+      },
+      {
+        "personName": "The Tabernacle Choir at Temple Square "
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Isaac Watts"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "John J. McClellan"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Organ"
+      },
+      {
+        "name": "Choir"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "Jesus Christ",
+      "Sabbath",
+      "eternal life",
+      "gospel",
+      "grace",
+      "gratitude",
+      "joy",
+      "love",
+      "music",
+      "praise",
+      "truth"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL_CONGREGATION",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "xq00dwmbamc7rmxcwezhwfcoqcrxbtqh24rcrrw6",
+          "attributes": {},
+          "composer": [],
+          "description": "A performance of “Sweet Is the Work” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/xq/00/xq00dwmbamc7rmxcwezhwfcoqcrxbtqh24rcrrw6/2025_04_sweet_is_the_work.mp3",
+          "duration": 201000,
+          "ipCode": "0 - IRI Owned",
+          "isPartOf": [],
+          "keywords": [
+            "general conference",
+            "music"
+          ],
+          "$lastUpdatedDate": "Thu May 22 15:02:11 EDT 2025",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000196-2213-d7dd-abd6-635f80170000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000196-2213-d7dd-abd6-635f80170000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "A performance of “Sweet Is the Work” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "publicDownload": [],
+          "$publishDate": "Thu Apr 10 19:40:25 EDT 2025",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "A performance of “Sweet Is the Work” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Sweet Is the Work",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "A performance of “Sweet Is the Work” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "shareableTitle": "Sweet Is the Work",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0",
+            "attributes": {},
+            "description": "2025 April General Conference",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/800,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "4 - IRI licensed",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Thu May 22 15:02:12 EDT 2025",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000195-1a6d-d040-a597-7a6d70cc0000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000195-1a6d-d040-a597-7a6d70cc0000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "Sacred Music App",
+            "publicDownload": [],
+            "$publishDate": "Tue Feb 18 13:58:54 EST 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "2025 April General Conference",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "2025 April General Conference",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "2025 April General Conference",
+            "shareableTitle": "2025 April General Conference",
+            "title": "2025 April General Conference"
+          },
+          "title": "Sweet Is the Work",
+          "translator": []
+        },
+        "$id": "00000196-c6e3-d455-a9f6-deef9d400000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6e3-d455-a9f6-deef9d400000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Close as a Quiet Prayer",
+    "slug": "2025-04-close-as-a-quiet-prayer",
+    "bookSlug": "music-from-april-2025-general-conference",
+    "bookSectionTitle": "Sunday Afternoon Session",
+    "songNumber": "2",
+    "songDate": "2025-04-06",
+    "arrangers": [
+      {
+        "personName": "Ryan T. Murphy"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Tabernacle Choir at Temple Square, The"
+      },
+      {
+        "personName": "The Tabernacle Choir at Temple Square "
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Sally DeFord"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Sally DeFord"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Organ"
+      },
+      {
+        "name": "Choir"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "Heavenly Father",
+      "children",
+      "comfort",
+      "gratitude",
+      "love",
+      "praise",
+      "prayer"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL_CONGREGATION",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "tr31e4zljt9q2ji12z4tvln4vwsv51pqpo92psb2",
+          "attributes": {},
+          "composer": [],
+          "description": "A performance of “Close as a Quiet Prayer” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/tr/31/tr31e4zljt9q2ji12z4tvln4vwsv51pqpo92psb2/2025_04_close_as_a_quiet_prayer.mp3",
+          "duration": 199000,
+          "ipCode": "0 - IRI Owned",
+          "isPartOf": [],
+          "keywords": [
+            "general conference",
+            "music"
+          ],
+          "$lastUpdatedDate": "Thu May 22 15:02:12 EDT 2025",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000196-2213-d7dd-abd6-635f8dbd0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000196-2213-d7dd-abd6-635f8dbd0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "A performance of “Close as a Quiet Prayer” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "publicDownload": [],
+          "$publishDate": "Thu Apr 10 19:40:28 EDT 2025",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "A performance of “Close as a Quiet Prayer” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Close as a Quiet Prayer",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "A performance of “Close as a Quiet Prayer” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "shareableTitle": "Close as a Quiet Prayer",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0",
+            "attributes": {},
+            "description": "2025 April General Conference",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/800,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "4 - IRI licensed",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Thu May 22 15:02:12 EDT 2025",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000195-1a6d-d040-a597-7a6d70cc0000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000195-1a6d-d040-a597-7a6d70cc0000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "Sacred Music App",
+            "publicDownload": [],
+            "$publishDate": "Tue Feb 18 13:58:54 EST 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "2025 April General Conference",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "2025 April General Conference",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "2025 April General Conference",
+            "shareableTitle": "2025 April General Conference",
+            "title": "2025 April General Conference"
+          },
+          "title": "Close as a Quiet Prayer",
+          "translator": []
+        },
+        "$id": "00000196-c6e3-d455-a9f6-deef9d590000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6e3-d455-a9f6-deef9d590000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "This Is My Beloved Son",
+    "slug": "2025-04-this-is-my-beloved-son",
+    "bookSlug": "music-from-april-2025-general-conference",
+    "bookSectionTitle": "Sunday Afternoon Session",
+    "songNumber": "3",
+    "songDate": "2025-04-06",
+    "arrangers": [
+      {
+        "personName": "Sam Cardon"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Tabernacle Choir at Temple Square, The"
+      },
+      {
+        "personName": "The Tabernacle Choir at Temple Square "
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Marvin K. Gardner"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Vanja Y. Watkins"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Organ"
+      },
+      {
+        "name": "Choir"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "Heavenly Father",
+      "Jesus Christ",
+      "Joseph Smith",
+      "baptism",
+      "scriptures"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL_CONGREGATION",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "cjf6n0xpw2dj8vtxavbhbaojhmv59rih61sqapaf",
+          "attributes": {},
+          "composer": [],
+          "description": "A performance of “This Is My Beloved Son” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/cj/f6/cjf6n0xpw2dj8vtxavbhbaojhmv59rih61sqapaf/2025_04_this_is_my_beloved_son.mp3",
+          "duration": 194000,
+          "ipCode": "4MR - IRI claims licensing rights",
+          "isPartOf": [],
+          "keywords": [
+            "general conference",
+            "music"
+          ],
+          "$lastUpdatedDate": "Thu May 22 15:02:10 EDT 2025",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000196-2213-d7dd-abd6-635fad080000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000196-2213-d7dd-abd6-635fad080000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "A performance of “This Is My Beloved Son” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "publicDownload": [],
+          "$publishDate": "Thu Apr 10 19:40:36 EDT 2025",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "A performance of “This Is My Beloved Son” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "This Is My Beloved Son",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "A performance of “This Is My Beloved Son” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "shareableTitle": "This Is My Beloved Son",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0",
+            "attributes": {},
+            "description": "2025 April General Conference",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/800,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "4 - IRI licensed",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Thu May 22 15:02:12 EDT 2025",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000195-1a6d-d040-a597-7a6d70cc0000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000195-1a6d-d040-a597-7a6d70cc0000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "Sacred Music App",
+            "publicDownload": [],
+            "$publishDate": "Tue Feb 18 13:58:54 EST 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "2025 April General Conference",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "2025 April General Conference",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "2025 April General Conference",
+            "shareableTitle": "2025 April General Conference",
+            "title": "2025 April General Conference"
+          },
+          "title": "This Is My Beloved Son",
+          "translator": []
+        },
+        "$id": "00000196-c6e3-d455-a9f6-deef9d740000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6e3-d455-a9f6-deef9d740000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Redeemer of Israel",
+    "slug": "2025-04-redeemer-of-israel",
+    "bookSlug": "music-from-april-2025-general-conference",
+    "bookSectionTitle": "Sunday Afternoon Session",
+    "songNumber": "4",
+    "songDate": "2025-04-06",
+    "arrangers": [
+      {
+        "personName": "Mack Wilberg"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Tabernacle Choir at Temple Square, The"
+      },
+      {
+        "personName": "The Tabernacle Choir at Temple Square "
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Joseph Swain"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Freeman Lewis"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Organ"
+      },
+      {
+        "name": "Choir"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "Israel",
+      "Jesus Christ",
+      "Zion",
+      "eternal life",
+      "faith",
+      "gathering of Israel",
+      "grace",
+      "hope",
+      "plan of salvation",
+      "praise",
+      "prayer"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL_CONGREGATION",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "tvgyw2a6jmnm2rwkfdeefxg8iuj46l1icpx5huej",
+          "attributes": {},
+          "composer": [],
+          "description": "A performance of “Redeemer of Israel” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/tv/gy/tvgyw2a6jmnm2rwkfdeefxg8iuj46l1icpx5huej/2025_04_redeemer_of_israel.mp3",
+          "duration": 224000,
+          "ipCode": "0 - IRI Owned",
+          "isPartOf": [],
+          "keywords": [
+            "general conference",
+            "music"
+          ],
+          "$lastUpdatedDate": "Thu May 22 15:02:11 EDT 2025",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000196-2213-d7dd-abd6-635fbcae0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000196-2213-d7dd-abd6-635fbcae0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "A performance of “Redeemer of Israel” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "publicDownload": [],
+          "$publishDate": "Thu Apr 10 19:40:40 EDT 2025",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "A performance of “Redeemer of Israel” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Redeemer of Israel",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "A performance of “Redeemer of Israel” during the 195th semiannual general conference of The Church of Jesus Christ of Latter-day Saints held on April 5-6, 2025.",
+          "shareableTitle": "Redeemer of Israel",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0",
+            "attributes": {},
+            "description": "2025 April General Conference",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/800,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "4 - IRI licensed",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Thu May 22 15:02:12 EDT 2025",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000195-1a6d-d040-a597-7a6d70cc0000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000195-1a6d-d040-a597-7a6d70cc0000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "Sacred Music App",
+            "publicDownload": [],
+            "$publishDate": "Tue Feb 18 13:58:54 EST 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/b0yuo15tpxczp1kq9ea03uka6ehr1z8acu6gszv0/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "2025 April General Conference",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "2025 April General Conference",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "2025 April General Conference",
+            "shareableTitle": "2025 April General Conference",
+            "title": "2025 April General Conference"
+          },
+          "title": "Redeemer of Israel",
+          "translator": []
+        },
+        "$id": "00000196-c6e3-d455-a9f6-deef9d920000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6e3-d455-a9f6-deef9d920000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  }
+]

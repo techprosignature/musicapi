@@ -1,0 +1,2711 @@
+[
+  {
+    "title": "Oh, Come, All Ye Faithful",
+    "slug": "2022-12-oh-come-all-ye-faithful-fukuda",
+    "bookSlug": "the-promise-of-christmas",
+    "bookSectionTitle": "The Promise of Christmas (December 2022)",
+    "songNumber": "1",
+    "songDate": "2022-11-25",
+    "arrangers": [
+      {
+        "personName": "Frederick Oakeley"
+      },
+      {
+        "personName": "Masa Fukuda"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "One Voice Children’s Choir"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "John F. Wade"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "John F. Wade"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Piano"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "Christmas",
+      "Jesus Christ",
+      "joy",
+      "music",
+      "praise"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "cfa4f676675111ed96b3eeeeac1e17dd31f7548b",
+          "attributes": {},
+          "composer": [],
+          "description": "A performance of \"Oh, Come, All Ye Faithful\" during the 2022 Christmas on Temple Square broadcast: The Promise of Christmas. Arrangement by Masa Fukudo, performed by One Voice Children's Choir.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/cf/a4/cfa4f676675111ed96b3eeeeac1e17dd31f7548b/oh_come_all_ye_faithful_2022.mp3",
+          "duration": 228000,
+          "isPartOf": [],
+          "keywords": [
+            "Christmas",
+            "music",
+            "Temple Square (Salt Lake City, Utah)",
+            "Concerts"
+          ],
+          "$lastUpdatedDate": "Sun Oct 13 08:28:52 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-a68e-de37-a9b5-e69e33aa0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-a68e-de37-a9b5-e69e33aa0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "A performance of \"Oh, Come, All Ye Faithful\" during the 2022 Christmas on Temple Square broadcast: The Promise of Christmas. Arrangement by Masa Fukudo, performed by One Voice Children's Choir.",
+          "publicDownload": [],
+          "$publishDate": "Wed Nov 23 17:14:08 EST 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "A performance of \"Oh, Come, All Ye Faithful\" during the 2022 Christmas on Temple Square broadcast: The Promise of Christmas. Arrangement by Masa Fukudo, performed by One Voice Children's Choir.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Oh, Come, All Ye Faithful",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "A performance of \"Oh, Come, All Ye Faithful\" during the 2022 Christmas on Temple Square broadcast: The Promise of Christmas. Arrangement by Masa Fukudo, performed by One Voice Children's Choir.",
+          "shareableTitle": "Oh, Come, All Ye Faithful",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "193ff6175a0211ed893beeeeac1e343917498400",
+            "attributes": {},
+            "description": "The Promise of Christmas",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/1280,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "1 - Not IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Sun Oct 13 08:29:19 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "0000018c-64f6-d47e-ab9d-effed0f40000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "0000018c-64f6-d47e-ab9d-effed0f40000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "A photo of a straw filled manger with the words, \"The Promise of Christmas.\"",
+            "publicDownload": [],
+            "$publishDate": "Wed Dec 13 15:55:46 EST 2023",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "The Promise of Christmas",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "No Title",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "The Promise of Christmas",
+            "shareableTitle": "No Title",
+            "title": "No Title"
+          },
+          "title": "Oh, Come, All Ye Faithful",
+          "translator": []
+        },
+        "$id": "00000196-c6dd-d455-a9f6-deddc8b90000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dd-d455-a9f6-deddc8b90000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Mundo Feliz, Nasceu Jesus (Joy to the World)",
+    "subtitle": "Portuguese",
+    "slug": "2022-12-mundo-feliz-neto",
+    "bookSlug": "the-promise-of-christmas",
+    "bookSectionTitle": "The Promise of Christmas (December 2022)",
+    "songNumber": "2",
+    "songDate": "2022-11-25",
+    "arrangers": [
+      {
+        "personName": "Roberto Neto"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Gabrielly Lourenço"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Isaac Watts"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "George F. Handel"
+      }
+    ],
+    "instrumentations": [],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "Christmas",
+      "Jesus Christ",
+      "Second Coming",
+      "joy",
+      "praise"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "c5c5cd5b675111ed9e44eeeeac1ebc1a5b4dbb90",
+          "attributes": {},
+          "composer": [],
+          "description": "Mundo Feliz, Nasceu Jesus (Joy to the World)",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/c5/c5/c5c5cd5b675111ed9e44eeeeac1ebc1a5b4dbb90/joy_to_the_world_mundo_feliz_2022.mp3",
+          "duration": 158000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Sun Oct 13 08:29:19 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "0000018a-0a26-d1d6-afbf-6f37b3ed0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "0000018a-0a26-d1d6-afbf-6f37b3ed0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "A performance of \"Mundo Feliz\" in Portuguese or \"Joy to the World\" in English during the 2022 Christmas on Temple Square broadcast: The Promise of Christmas. Performed in Portuguese by Gabrielly Lourenço of the Brazil area.",
+          "publicDownload": [],
+          "$publishDate": "Fri Aug 18 15:37:03 EDT 2023",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "Mundo Feliz, Nasceu Jesus (Joy to the World)",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Mundo Feliz, Nasceu Jesus (Joy to the World)",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "Mundo Feliz, Nasceu Jesus (Joy to the World)",
+          "shareableTitle": "Mundo Feliz, Nasceu Jesus (Joy to the World)",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "193ff6175a0211ed893beeeeac1e343917498400",
+            "attributes": {},
+            "description": "The Promise of Christmas",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/1280,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "1 - Not IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Sun Oct 13 08:29:19 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "0000018c-64f6-d47e-ab9d-effed0f40000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "0000018c-64f6-d47e-ab9d-effed0f40000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "A photo of a straw filled manger with the words, \"The Promise of Christmas.\"",
+            "publicDownload": [],
+            "$publishDate": "Wed Dec 13 15:55:46 EST 2023",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "The Promise of Christmas",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "No Title",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "The Promise of Christmas",
+            "shareableTitle": "No Title",
+            "title": "No Title"
+          },
+          "title": "Mundo Feliz, Nasceu Jesus (Joy to the World)",
+          "translator": []
+        },
+        "$id": "00000196-c6dd-d455-a9f6-deddc8da0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dd-d455-a9f6-deddc8da0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Liwanag ang Mundo (Light the World)",
+    "subtitle": "Tagalog",
+    "slug": "2022-12-liwanang-ang-mundo-baluyot",
+    "bookSlug": "the-promise-of-christmas",
+    "bookSectionTitle": "The Promise of Christmas (December 2022)",
+    "songNumber": "3",
+    "songDate": "2022-11-25",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "Daday Ducena Baluyot"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Daday Ducena Baluyot"
+      },
+      {
+        "personName": "Justine Baluyot"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Daday Ducena Baluyot"
+      },
+      {
+        "personName": "Justine Baluyot"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Piano"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [],
+    "voicings": [
+      {
+        "name": "SATB"
+      }
+    ],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "c9d1dfb9675111ed9748eeeeac1ea64957547523",
+          "attributes": {},
+          "composer": [],
+          "description": "Liwanag ang Mundo (Light the World)",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/c9/d1/c9d1dfb9675111ed9748eeeeac1ea64957547523/light_the_world_liwang_ang_mundo_2022.mp3",
+          "duration": 265000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Sun Oct 13 06:33:14 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "0000018c-78ac-d7e9-affe-fcbf272c0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "0000018c-78ac-d7e9-affe-fcbf272c0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "A performance of \"Liwanang ang Mudno\" during the 2022 Christmas on Temple Square broadcast: The Promise of Christmas. Performed by Daday Ducena Baluyot.",
+          "publicDownload": [],
+          "$publishDate": "Sun Dec 17 11:46:37 EST 2023",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "Liwanag ang Mundo (Light the World)",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Liwanag ang Mundo (Light the World)",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "Liwanag ang Mundo (Light the World)",
+          "shareableTitle": "Liwanag ang Mundo (Light the World)",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "193ff6175a0211ed893beeeeac1e343917498400",
+            "attributes": {},
+            "description": "The Promise of Christmas",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/1280,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "1 - Not IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Sun Oct 13 08:29:19 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "0000018c-64f6-d47e-ab9d-effed0f40000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "0000018c-64f6-d47e-ab9d-effed0f40000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "A photo of a straw filled manger with the words, \"The Promise of Christmas.\"",
+            "publicDownload": [],
+            "$publishDate": "Wed Dec 13 15:55:46 EST 2023",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "The Promise of Christmas",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "No Title",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "The Promise of Christmas",
+            "shareableTitle": "No Title",
+            "title": "No Title"
+          },
+          "title": "Liwanag ang Mundo (Light the World)",
+          "translator": []
+        },
+        "$id": "00000196-c6dd-d455-a9f6-deddc8fa0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dd-d455-a9f6-deddc8fa0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "The First Noel",
+    "slug": "2022-12-the-first-noel-simply-three",
+    "bookSlug": "the-promise-of-christmas",
+    "bookSectionTitle": "The Promise of Christmas (December 2022)",
+    "songNumber": "4",
+    "songDate": "2022-11-25",
+    "arrangers": [
+      {
+        "personName": "Simply Three"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Simply Three"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Anon."
+      },
+      {
+        "personName": "Traditional English carol"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Anon."
+      },
+      {
+        "personName": "Traditional English carol"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Piano"
+      },
+      {
+        "name": "Violin"
+      },
+      {
+        "name": "Cello"
+      },
+      {
+        "name": "Bass Instrument"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "Atonement of Jesus Christ",
+      "Christmas",
+      "Jesus Christ",
+      "praise",
+      "shepherd",
+      "worship"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_INSTRUMENTAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "d840a316675111ed8c52eeeeac1e44342db48d2b",
+          "attributes": {},
+          "composer": [],
+          "description": "A performance of \"The First Noel\" during the 2022 Christmas on Temple Square broadcast: The Promise of Christmas. Arranged and performed by classical crossover group, Simply Three.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/d8/40/d840a316675111ed8c52eeeeac1e44342db48d2b/the_first_noel_2022.mp3",
+          "duration": 281000,
+          "isPartOf": [],
+          "keywords": [
+            "Christmas",
+            "music",
+            "Temple Square (Salt Lake City, Utah)",
+            "Concerts"
+          ],
+          "$lastUpdatedDate": "Sun Oct 13 01:45:01 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "0000018a-0a2f-d1d6-afbf-6f3f7ba80000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "0000018a-0a2f-d1d6-afbf-6f3f7ba80000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "A performance of \"The First Noel\" during the 2022 Christmas on Temple Square broadcast: The Promise of Christmas. Arranged and performed by classical crossover group, Simply Three.",
+          "publicDownload": [],
+          "$publishDate": "Fri Aug 18 15:46:38 EDT 2023",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "A performance of \"The First Noel\" during the 2022 Christmas on Temple Square broadcast: The Promise of Christmas. Arranged and performed by classical crossover group, Simply Three.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "The First Noel",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "A performance of \"The First Noel\" during the 2022 Christmas on Temple Square broadcast: The Promise of Christmas. Arranged and performed by classical crossover group, Simply Three.",
+          "shareableTitle": "The First Noel",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "182c3c255a0211ed95faeeeeac1e1dc9ebc173b0",
+            "attributes": {},
+            "description": "The Promise of Christmas",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/800,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "1 - Not IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Sun Oct 13 08:26:34 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000184-5d98-dacd-afa7-5fff74ca0000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000184-5d98-dacd-afa7-5fff74ca0000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "The Promise of Christmas (Nativity)",
+            "publicDownload": [],
+            "$publishDate": "Wed Nov 09 13:13:03 EST 2022",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "The Promise of Christmas",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "No Title",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "The Promise of Christmas",
+            "shareableTitle": "No Title",
+            "title": "No Title"
+          },
+          "title": "The First Noel",
+          "translator": []
+        },
+        "$id": "00000196-c6dd-d455-a9f6-deddc92a0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dd-d455-a9f6-deddc92a0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Thixo Onothando (God of Love)",
+    "subtitle": "Xhosa",
+    "slug": "2022-12-thixo-onothando-vizinni",
+    "bookSlug": "the-promise-of-christmas",
+    "bookSectionTitle": "The Promise of Christmas (December 2022)",
+    "songNumber": "5",
+    "songDate": "2022-11-25",
+    "arrangers": [
+      {
+        "personName": "Gianfranco Vizinni"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Young adults in Johannesburg, South Africa"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Traditional"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Traditional"
+      }
+    ],
+    "instrumentations": [],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [],
+    "voicings": [
+      {
+        "name": "SATB"
+      }
+    ],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "b46d7e9e675111ed932feeeeac1e3f14846557b6",
+          "attributes": {},
+          "composer": [],
+          "description": "Thixo Onothando (God of Love)",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/b4/6d/b46d7e9e675111ed932feeeeac1e3f14846557b6/god_of_love_2022.mp3",
+          "duration": 157000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Sun Oct 13 08:29:13 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "0000018a-0a1d-d1d6-afbf-6f1ffb8d0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "0000018a-0a1d-d1d6-afbf-6f1ffb8d0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "A performance of \"Thixo Onothando\" during the 2022 Christmas on Temple Square broadcast: The Promise of Christmas. A traditional hymn of praise performed by young adults in Johannesburg, South Africa.",
+          "publicDownload": [],
+          "$publishDate": "Fri Aug 18 15:27:31 EDT 2023",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "Thixo Onothando (God of Love)",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Thixo Onothando (God of Love)",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "Thixo Onothando (God of Love)",
+          "shareableTitle": "Thixo Onothando (God of Love)",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "193ff6175a0211ed893beeeeac1e343917498400",
+            "attributes": {},
+            "description": "The Promise of Christmas",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/1280,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "1 - Not IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Sun Oct 13 08:29:19 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "0000018c-64f6-d47e-ab9d-effed0f40000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "0000018c-64f6-d47e-ab9d-effed0f40000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "A photo of a straw filled manger with the words, \"The Promise of Christmas.\"",
+            "publicDownload": [],
+            "$publishDate": "Wed Dec 13 15:55:46 EST 2023",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "The Promise of Christmas",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "No Title",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "The Promise of Christmas",
+            "shareableTitle": "No Title",
+            "title": "No Title"
+          },
+          "title": "Thixo Onothando (God of Love)",
+          "translator": []
+        },
+        "$id": "00000196-c6dd-d455-a9f6-deddc9490000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dd-d455-a9f6-deddc9490000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Little Drummer Boy",
+    "slug": "2022-12-little-drummer-boy-armstrong",
+    "bookSlug": "the-promise-of-christmas",
+    "bookSectionTitle": "The Promise of Christmas (December 2022)",
+    "songNumber": "6",
+    "songDate": "2022-11-25",
+    "arrangers": [
+      {
+        "personName": "Alan Armstrong"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Utah Pipe Band"
+      }
+    ],
+    "authors": [],
+    "composers": [
+      {
+        "personName": "Katherine Kennicott Davis"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Bagpipes"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_INSTRUMENTAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "cc3e4bd5675111eda930eeeeac1e59a381439586",
+          "attributes": {},
+          "composer": [],
+          "description": "A performance of \"Little Drummer Boy\" during the 2022 Christmas on Temple Square broadcast: The Promise of Christmas. Arranged by Dr. Alan Armstrong and performed by the Utah Pipe Band.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/cc/3e/cc3e4bd5675111eda930eeeeac1e59a381439586/little_drummer_boy_2022.mp3",
+          "duration": 151000,
+          "isPartOf": [],
+          "keywords": [
+            "Christmas",
+            "music",
+            "Temple Square (Salt Lake City, Utah)",
+            "Concerts"
+          ],
+          "$lastUpdatedDate": "Sun Oct 13 03:09:26 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "0000018a-0a2a-d1d6-afbf-6f3fe9800000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "0000018a-0a2a-d1d6-afbf-6f3fe9800000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "A performance of \"Little Drummer Boy\" during the 2022 Christmas on Temple Square broadcast: The Promise of Christmas. Arranged by Dr. Alan Armstrong and performed by the Utah Pipe Band.",
+          "publicDownload": [],
+          "$publishDate": "Fri Aug 18 15:41:39 EDT 2023",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "A performance of \"Little Drummer Boy\" during the 2022 Christmas on Temple Square broadcast: The Promise of Christmas. Arranged by Dr. Alan Armstrong and performed by the Utah Pipe Band.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Little Drummer Boy",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "A performance of \"Little Drummer Boy\" during the 2022 Christmas on Temple Square broadcast: The Promise of Christmas. Arranged by Dr. Alan Armstrong and performed by the Utah Pipe Band.",
+          "shareableTitle": "Little Drummer Boy",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "182c3c255a0211ed95faeeeeac1e1dc9ebc173b0",
+            "attributes": {},
+            "description": "The Promise of Christmas",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/800,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "1 - Not IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Sun Oct 13 08:26:34 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000184-5d98-dacd-afa7-5fff74ca0000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000184-5d98-dacd-afa7-5fff74ca0000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "The Promise of Christmas (Nativity)",
+            "publicDownload": [],
+            "$publishDate": "Wed Nov 09 13:13:03 EST 2022",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "The Promise of Christmas",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "No Title",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "The Promise of Christmas",
+            "shareableTitle": "No Title",
+            "title": "No Title"
+          },
+          "title": "Little Drummer Boy",
+          "translator": []
+        },
+        "$id": "00000196-c6dd-d455-a9f6-deddc9780000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dd-d455-a9f6-deddc9780000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "BYU International Folk Dance Ensemble",
+    "slug": "2022-12-byu-international-folk-dance-ensemble",
+    "bookSlug": "the-promise-of-christmas",
+    "bookSectionTitle": "The Promise of Christmas (December 2022)",
+    "songNumber": "7",
+    "songDate": "2022-11-25",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "Mark Geslison"
+      },
+      {
+        "personName": "BYU International Folk Dance Ensemble"
+      }
+    ],
+    "authors": [],
+    "composers": [
+      {
+        "personName": "Mark Geslison"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Piano"
+      },
+      {
+        "name": "Violin"
+      },
+      {
+        "name": "Guitar"
+      },
+      {
+        "name": "Bass Instrument"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_INSTRUMENTAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "ad04fac0675111ed86f1eeeeac1e91b6707afa2f",
+          "attributes": {},
+          "composer": [],
+          "description": "A performance by the BYU International Folk Dance Ensemble during the 2022 Christmas on Temple Square broadcast: The Promise of Christmas.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/ad/04/ad04fac0675111ed86f1eeeeac1e91b6707afa2f/byu_international_folk_dance_ensemble_2022.mp3",
+          "duration": 179000,
+          "isPartOf": [],
+          "keywords": [
+            "Christmas",
+            "music",
+            "Temple Square (Salt Lake City, Utah)",
+            "Concerts"
+          ],
+          "$lastUpdatedDate": "Sun Oct 13 05:49:56 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "0000018a-0a19-d1d6-afbf-6f1f97550000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "0000018a-0a19-d1d6-afbf-6f1f97550000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "A performance by the BYU International Folk Dance Ensemble during the 2022 Christmas on Temple Square broadcast: The Promise of Christmas.",
+          "publicDownload": [],
+          "$publishDate": "Fri Aug 18 15:22:43 EDT 2023",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "A performance by the BYU International Folk Dance Ensemble during the 2022 Christmas on Temple Square broadcast: The Promise of Christmas.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "BYU International Folk Dance Ensemble",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "A performance by the BYU International Folk Dance Ensemble during the 2022 Christmas on Temple Square broadcast: The Promise of Christmas.",
+          "shareableTitle": "BYU International Folk Dance Ensemble",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "182c3c255a0211ed95faeeeeac1e1dc9ebc173b0",
+            "attributes": {},
+            "description": "The Promise of Christmas",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/800,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "1 - Not IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Sun Oct 13 08:26:34 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000184-5d98-dacd-afa7-5fff74ca0000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000184-5d98-dacd-afa7-5fff74ca0000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "The Promise of Christmas (Nativity)",
+            "publicDownload": [],
+            "$publishDate": "Wed Nov 09 13:13:03 EST 2022",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "The Promise of Christmas",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "No Title",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "The Promise of Christmas",
+            "shareableTitle": "No Title",
+            "title": "No Title"
+          },
+          "title": "BYU International Folk Dance Ensemble",
+          "translator": []
+        },
+        "$id": "00000196-c6dd-d455-a9f6-deddc9a70000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dd-d455-a9f6-deddc9a70000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "He is Born",
+    "slug": "2022-12-he-is-born-edson",
+    "bookSlug": "the-promise-of-christmas",
+    "bookSectionTitle": "The Promise of Christmas (December 2022)",
+    "songNumber": "8",
+    "songDate": "2022-11-25",
+    "arrangers": [
+      {
+        "personName": "Aaron Edson"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "BYU Vocal Point"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Aaron Edson"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Aaron Edson"
+      }
+    ],
+    "instrumentations": [],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [],
+    "voicings": [
+      {
+        "name": "TTBB"
+      }
+    ],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "bc5396da675111ed9e44eeeeac1ebc1a7d9e85d9",
+          "attributes": {},
+          "composer": [],
+          "description": "A performance of \"He Is Born\" during the 2022 Christmas on Temple Square broadcast: The Promise of Christmas. Arranged by Aaron Edson and performed by BYU Vocal Point.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/bc/53/bc5396da675111ed9e44eeeeac1ebc1a7d9e85d9/he_is_born_2022.mp3",
+          "duration": 198000,
+          "isPartOf": [],
+          "keywords": [
+            "Christmas",
+            "music",
+            "Temple Square (Salt Lake City, Utah)",
+            "Concerts"
+          ],
+          "$lastUpdatedDate": "Sun Oct 13 05:03:41 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "0000018a-0a21-d1d6-afbf-6f37339f0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "0000018a-0a21-d1d6-afbf-6f37339f0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "A performance of \"He Is Born\" during the 2022 Christmas on Temple Square broadcast: The Promise of Christmas. Arranged by Aaron Edson and performed by BYU Vocal Point.",
+          "publicDownload": [],
+          "$publishDate": "Fri Aug 18 15:31:02 EDT 2023",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "A performance of \"He Is Born\" during the 2022 Christmas on Temple Square broadcast: The Promise of Christmas. Arranged by Aaron Edson and performed by BYU Vocal Point.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "He is Born",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "A performance of \"He Is Born\" during the 2022 Christmas on Temple Square broadcast: The Promise of Christmas. Arranged by Aaron Edson and performed by BYU Vocal Point.",
+          "shareableTitle": "He is Born",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "193ff6175a0211ed893beeeeac1e343917498400",
+            "attributes": {},
+            "description": "The Promise of Christmas",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/1280,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "1 - Not IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Sun Oct 13 08:29:19 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "0000018c-64f6-d47e-ab9d-effed0f40000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "0000018c-64f6-d47e-ab9d-effed0f40000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "A photo of a straw filled manger with the words, \"The Promise of Christmas.\"",
+            "publicDownload": [],
+            "$publishDate": "Wed Dec 13 15:55:46 EST 2023",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "The Promise of Christmas",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "No Title",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "The Promise of Christmas",
+            "shareableTitle": "No Title",
+            "title": "No Title"
+          },
+          "title": "He is Born",
+          "translator": []
+        },
+        "$id": "00000196-c6dd-d455-a9f6-deddc9c80000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dd-d455-a9f6-deddc9c80000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Once in Royal David’s City",
+    "slug": "once-in-royal-davids-city-mohlman",
+    "bookSlug": "the-promise-of-christmas",
+    "bookSectionTitle": "The Promise of Christmas (December 2022)",
+    "songNumber": "9",
+    "songDate": "2022-11-25",
+    "arrangers": [
+      {
+        "personName": "Rachel P. Mohlman"
+      }
+    ],
+    "artists": [],
+    "authors": [
+      {
+        "personName": "Cecil Frances Alexander"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Henry J. Gauntlett"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Piano"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": true,
+    "videoAvailable": true,
+    "tags": [
+      "Christmas",
+      "Jesus Christ",
+      "joy",
+      "love",
+      "praise"
+    ],
+    "voicings": [
+      {
+        "name": "SATB"
+      }
+    ],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "d3fd05f7675111ed9711eeeeac1ee4698924e968",
+          "attributes": {},
+          "composer": [],
+          "description": "A performance of \"Once in Royal David's City\" during the 2022 Christmas on Temple Square broadcast: The Promise of Christmas. Performed by a choir of current and former Nauvoo performing missionaries.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/d3/fd/d3fd05f7675111ed9711eeeeac1ee4698924e968/once_in_royal_davids_city_2022.mp3",
+          "duration": 261000,
+          "isPartOf": [],
+          "keywords": [
+            "Christmas",
+            "music",
+            "Temple Square (Salt Lake City, Utah)",
+            "Concerts"
+          ],
+          "$lastUpdatedDate": "Sun Oct 13 07:34:49 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "0000018a-0a2c-d1d6-afbf-6f3fe8a10000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "0000018a-0a2c-d1d6-afbf-6f3fe8a10000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "A performance of \"Once in Royal David's City\" during the 2022 Christmas on Temple Square broadcast: The Promise of Christmas. Performed by a choir of current and former Nauvoo performing missionaries.",
+          "publicDownload": [],
+          "$publishDate": "Fri Aug 18 15:43:49 EDT 2023",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "A performance of \"Once in Royal David's City\" during the 2022 Christmas on Temple Square broadcast: The Promise of Christmas. Performed by a choir of current and former Nauvoo performing missionaries.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Once in Royal David’s City",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "A performance of \"Once in Royal David's City\" during the 2022 Christmas on Temple Square broadcast: The Promise of Christmas. Performed by a choir of current and former Nauvoo performing missionaries.",
+          "shareableTitle": "Once in Royal David’s City",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "193ff6175a0211ed893beeeeac1e343917498400",
+            "attributes": {},
+            "description": "The Promise of Christmas",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/1280,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "1 - Not IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Sun Oct 13 08:29:19 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "0000018c-64f6-d47e-ab9d-effed0f40000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "0000018c-64f6-d47e-ab9d-effed0f40000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "A photo of a straw filled manger with the words, \"The Promise of Christmas.\"",
+            "publicDownload": [],
+            "$publishDate": "Wed Dec 13 15:55:46 EST 2023",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "The Promise of Christmas",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "No Title",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "The Promise of Christmas",
+            "shareableTitle": "No Title",
+            "title": "No Title"
+          },
+          "title": "Once in Royal David’s City",
+          "translator": []
+        },
+        "$id": "00000196-c6da-d455-a9f6-dede84020000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6da-d455-a9f6-dede84020000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Tsie, Tsie, Tsie (Hark, Hark, Hark)",
+    "subtitle": "Twi/English",
+    "slug": "2022-12-tsie-tsie-tsie",
+    "bookSlug": "the-promise-of-christmas",
+    "bookSectionTitle": "The Promise of Christmas (December 2022)",
+    "songNumber": "10",
+    "songDate": "2022-11-25",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "members of the Africa West Area"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Traditional"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Traditional"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Piano"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [],
+    "voicings": [
+      {
+        "name": "SATB"
+      }
+    ],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "b8b9ce44675111edb4aaeeeeac1e857eb72b8c15",
+          "attributes": {},
+          "composer": [],
+          "description": "Tsie, Tsie, Tsie (Hark, Hark, Hark)",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/b8/b9/b8b9ce44675111edb4aaeeeeac1e857eb72b8c15/hark_hark_hark_2022.mp3",
+          "duration": 271000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Sun Oct 13 05:05:45 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "0000018a-0a1f-d1d6-afbf-6f1fa7c90000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "0000018a-0a1f-d1d6-afbf-6f1fa7c90000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "A performance of \"Tsie, Tsie, Tsie\" in Twi or \"Hark, Hark, Hark\" in English during the 2022 Christmas on Temple Square broadcast: The Promise of Christmas. Performed by members of the Africa West Area.",
+          "publicDownload": [],
+          "$publishDate": "Fri Aug 18 15:29:21 EDT 2023",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "Tsie, Tsie, Tsie (Hark, Hark, Hark)",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Tsie, Tsie, Tsie (Hark, Hark, Hark)",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "Tsie, Tsie, Tsie (Hark, Hark, Hark)",
+          "shareableTitle": "Tsie, Tsie, Tsie (Hark, Hark, Hark)",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "193ff6175a0211ed893beeeeac1e343917498400",
+            "attributes": {},
+            "description": "The Promise of Christmas",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/1280,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "1 - Not IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Sun Oct 13 08:29:19 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "0000018c-64f6-d47e-ab9d-effed0f40000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "0000018c-64f6-d47e-ab9d-effed0f40000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "A photo of a straw filled manger with the words, \"The Promise of Christmas.\"",
+            "publicDownload": [],
+            "$publishDate": "Wed Dec 13 15:55:46 EST 2023",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "The Promise of Christmas",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "No Title",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "The Promise of Christmas",
+            "shareableTitle": "No Title",
+            "title": "No Title"
+          },
+          "title": "Tsie, Tsie, Tsie (Hark, Hark, Hark)",
+          "translator": []
+        },
+        "$id": "00000196-c6dd-d455-a9f6-deddc9ea0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dd-d455-a9f6-deddc9ea0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "In Dulci Jubilo",
+    "slug": "2022-12-in-dulci-jubilo-geslison",
+    "bookSlug": "the-promise-of-christmas",
+    "bookSectionTitle": "The Promise of Christmas (December 2022)",
+    "songNumber": "11",
+    "songDate": "2022-11-25",
+    "arrangers": [
+      {
+        "personName": "Mark Geslison"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Mark Geslison"
+      },
+      {
+        "personName": "Geoff Groberg"
+      }
+    ],
+    "authors": [],
+    "composers": [
+      {
+        "personName": "Anon."
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Violin"
+      },
+      {
+        "name": "Flute"
+      },
+      {
+        "name": "Guitar"
+      },
+      {
+        "name": "Bass Instrument"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_INSTRUMENTAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "beb18409675111ed933eeeeeac1ecfd758520acf",
+          "attributes": {},
+          "composer": [],
+          "description": "A performance of \"In Dulci Jubilo\" during the 2022 Christmas on Temple Square broadcast: The Promise of Christmas. Arrangement by Mark Geslison, performed by LittleJohn Duo and guests.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/be/b1/beb18409675111ed933eeeeeac1ecfd758520acf/in_dulci_jubilo_2022.mp3",
+          "duration": 136000,
+          "isPartOf": [],
+          "keywords": [
+            "Christmas",
+            "music",
+            "Temple Square (Salt Lake City, Utah)",
+            "Concerts"
+          ],
+          "$lastUpdatedDate": "Sun Oct 13 08:26:34 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "0000018a-0a23-d1d6-afbf-6f37e69a0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "0000018a-0a23-d1d6-afbf-6f37e69a0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "A performance of \"In Dulci Jubilo\" during the 2022 Christmas on Temple Square broadcast: The Promise of Christmas. Arrangement by Mark Geslison, performed by LittleJohn Duo and guests.",
+          "publicDownload": [],
+          "$publishDate": "Fri Aug 18 15:33:59 EDT 2023",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "A performance of \"In Dulci Jubilo\" during the 2022 Christmas on Temple Square broadcast: The Promise of Christmas. Arrangement by Mark Geslison, performed by LittleJohn Duo and guests.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "In Dulci Jubilo",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "A performance of \"In Dulci Jubilo\" during the 2022 Christmas on Temple Square broadcast: The Promise of Christmas. Arrangement by Mark Geslison, performed by LittleJohn Duo and guests.",
+          "shareableTitle": "In Dulci Jubilo",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "182c3c255a0211ed95faeeeeac1e1dc9ebc173b0",
+            "attributes": {},
+            "description": "The Promise of Christmas",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/800,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "1 - Not IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Sun Oct 13 08:26:34 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000184-5d98-dacd-afa7-5fff74ca0000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000184-5d98-dacd-afa7-5fff74ca0000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "The Promise of Christmas (Nativity)",
+            "publicDownload": [],
+            "$publishDate": "Wed Nov 09 13:13:03 EST 2022",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/182c3c255a0211ed95faeeeeac1e1dc9ebc173b0/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "The Promise of Christmas",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "No Title",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "The Promise of Christmas",
+            "shareableTitle": "No Title",
+            "title": "No Title"
+          },
+          "title": "In Dulci Jubilo",
+          "translator": []
+        },
+        "$id": "00000196-c6dd-d455-a9f6-deddca160000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dd-d455-a9f6-deddca160000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Child in a Manger",
+    "slug": "2022-12-child-in-a-manger-wright-deford",
+    "bookSlug": "the-promise-of-christmas",
+    "bookSectionTitle": "The Promise of Christmas (December 2022)",
+    "songNumber": "12",
+    "songDate": "2022-11-25",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "Melinda DeBirk"
+      },
+      {
+        "personName": "Alex DeBirk"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Sally DeFord"
+      }
+    ],
+    "composers": [],
+    "instrumentations": [
+      {
+        "name": "Piano"
+      },
+      {
+        "name": "Cello"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "Christmas",
+      "Jesus Christ",
+      "love",
+      "lullaby",
+      "praise"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "b1c8eb71675111edb95beeeeac1e79c696e2f4b8",
+          "attributes": {},
+          "composer": [],
+          "description": "A performance of \"Child in a Manger\" during the 2022 Christmas on Temple Square broadcast: The Promise of Christmas. Words by Sally DeFord, music by Katherin Wright. Performed by Melinda and Alex DeBirk with accompaniment by Ellis Lucero and Nicole Pinnell on the cello.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/b1/c8/b1c8eb71675111edb95beeeeac1e79c696e2f4b8/child_in_a_manger_2022.mp3",
+          "duration": 257000,
+          "isPartOf": [],
+          "keywords": [
+            "Christmas",
+            "music",
+            "Temple Square (Salt Lake City, Utah)",
+            "Concerts"
+          ],
+          "$lastUpdatedDate": "Sun Oct 13 07:33:57 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "0000018a-0a1c-d1d6-afbf-6f1faf660000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "0000018a-0a1c-d1d6-afbf-6f1faf660000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "A performance of \"Child in a Manger\" during the 2022 Christmas on Temple Square broadcast: The Promise of Christmas. Words by Sally DeFord, music by Katherin Wright. Performed by Melinda and Alex DeBirk with accompaniment by Ellis Lucero and Nicole Pinnell on the cello.",
+          "publicDownload": [],
+          "$publishDate": "Fri Aug 18 15:26:06 EDT 2023",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "A performance of \"Child in a Manger\" during the 2022 Christmas on Temple Square broadcast: The Promise of Christmas. Words by Sally DeFord, music by Katherin Wright. Performed by Melinda and Alex DeBirk with accompaniment by Ellis Lucero and Nicole Pinnell on the cello.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Child in a Manger",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "A performance of \"Child in a Manger\" during the 2022 Christmas on Temple Square broadcast: The Promise of Christmas. Words by Sally DeFord, music by Katherin Wright. Performed by Melinda and Alex DeBirk with accompaniment by Ellis Lucero and Nicole Pinnell on the cello.",
+          "shareableTitle": "Child in a Manger",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "193ff6175a0211ed893beeeeac1e343917498400",
+            "attributes": {},
+            "description": "The Promise of Christmas",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/1280,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "1 - Not IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Sun Oct 13 08:29:19 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "0000018c-64f6-d47e-ab9d-effed0f40000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "0000018c-64f6-d47e-ab9d-effed0f40000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "A photo of a straw filled manger with the words, \"The Promise of Christmas.\"",
+            "publicDownload": [],
+            "$publishDate": "Wed Dec 13 15:55:46 EST 2023",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "The Promise of Christmas",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "No Title",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "The Promise of Christmas",
+            "shareableTitle": "No Title",
+            "title": "No Title"
+          },
+          "title": "Child in a Manger",
+          "translator": []
+        },
+        "$id": "00000196-c6dd-d455-a9f6-deddca340000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dd-d455-a9f6-deddca340000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Jesus, Once of Humble Birth/Away in a Manger",
+    "slug": "2022-12-jesus-once-of-humble-birth-away-in-a-manger-clark",
+    "bookSlug": "the-promise-of-christmas",
+    "bookSectionTitle": "The Promise of Christmas (December 2022)",
+    "songNumber": "13",
+    "songDate": "2022-11-25",
+    "arrangers": [
+      {
+        "personName": "Tom Clark"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Choir of current and former Nauvoo performing missionaries"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Parley P. Pratt"
+      },
+      {
+        "personName": "Anon."
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Giacomo Meyerbeer"
+      },
+      {
+        "personName": "English Chorister"
+      },
+      {
+        "personName": "Anon."
+      },
+      {
+        "personName": "Charles H. Gabriel"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Piano"
+      },
+      {
+        "name": "Oboe"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "Atonement of Jesus Christ",
+      "Christmas",
+      "Jesus Christ",
+      "Second Coming",
+      "comfort",
+      "eternal life",
+      "joy",
+      "love",
+      "praise",
+      "prayer",
+      "the sacrament",
+      "worship"
+    ],
+    "voicings": [
+      {
+        "name": "SATB"
+      }
+    ],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "c2efa2f1675111edb822eeeeac1e4c1a9814d1fb",
+          "attributes": {},
+          "composer": [],
+          "description": "A performance of \"Jesus Once of Humble Birth/Away in a Manager\" during the 2022 Christmas on Temple Square broadcast: The Promise of Christmas. Performed by a choir of current and former Nauvoo performing missionaries.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/c2/ef/c2efa2f1675111edb822eeeeac1e4c1a9814d1fb/jesus_once_of_humble_birth_away_manger_2022.mp3",
+          "duration": 270000,
+          "isPartOf": [],
+          "keywords": [
+            "Christmas",
+            "music",
+            "Temple Square (Salt Lake City, Utah)",
+            "Concerts"
+          ],
+          "$lastUpdatedDate": "Sun Oct 13 05:48:57 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "0000018a-0a25-d1d6-afbf-6f37a3a50000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "0000018a-0a25-d1d6-afbf-6f37a3a50000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "A performance of \"Jesus Once of Humble Birth/Away in a Manager\" during the 2022 Christmas on Temple Square broadcast: The Promise of Christmas. Performed by a choir of current and former Nauvoo performing missionaries.",
+          "publicDownload": [],
+          "$publishDate": "Fri Aug 18 15:35:53 EDT 2023",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "A performance of \"Jesus Once of Humble Birth/Away in a Manager\" during the 2022 Christmas on Temple Square broadcast: The Promise of Christmas. Performed by a choir of current and former Nauvoo performing missionaries.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Jesus Once of Humble Birth/Away in a Manger",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "A performance of \"Jesus Once of Humble Birth/Away in a Manager\" during the 2022 Christmas on Temple Square broadcast: The Promise of Christmas. Performed by a choir of current and former Nauvoo performing missionaries.",
+          "shareableTitle": "Jesus Once of Humble Birth/Away in a Manger",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "193ff6175a0211ed893beeeeac1e343917498400",
+            "attributes": {},
+            "description": "The Promise of Christmas",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/1280,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "1 - Not IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Sun Oct 13 08:29:19 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "0000018c-64f6-d47e-ab9d-effed0f40000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "0000018c-64f6-d47e-ab9d-effed0f40000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "A photo of a straw filled manger with the words, \"The Promise of Christmas.\"",
+            "publicDownload": [],
+            "$publishDate": "Wed Dec 13 15:55:46 EST 2023",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "The Promise of Christmas",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "No Title",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "The Promise of Christmas",
+            "shareableTitle": "No Title",
+            "title": "No Title"
+          },
+          "title": "Jesus Once of Humble Birth/Away in a Manger",
+          "translator": []
+        },
+        "$id": "00000196-c6dd-d455-a9f6-deddca4f0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dd-d455-a9f6-deddca4f0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "A Savior is Born",
+    "subtitle": "ASL",
+    "slug": "2022-12-a-savior-is-born-day",
+    "bookSlug": "the-promise-of-christmas",
+    "bookSectionTitle": "The Promise of Christmas (December 2022)",
+    "songNumber": "14",
+    "songDate": "2022-11-25",
+    "arrangers": [
+      {
+        "personName": "Nik Day"
+      },
+      {
+        "personName": "Scott Wiley"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Nik Day"
+      },
+      {
+        "personName": "Missionaries from the California Riverside Mission"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Piano"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "Christmas",
+      "Jesus Christ",
+      "grace",
+      "music",
+      "praise",
+      "salvation"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "aa1e2e85675111ed8c52eeeeac1e4434184447a5",
+          "attributes": {},
+          "composer": [],
+          "description": "A performance of \"A Savior is Born\" during the 2022 Christmas on Temple Square broadcast: The Promise of Christmas. Arranged and performed by Nik Day and featuring missionaries from the California Riverside Mission.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/aa/1e/aa1e2e85675111ed8c52eeeeac1e4434184447a5/a_savior_is_born_2022.mp3",
+          "duration": 196000,
+          "isPartOf": [],
+          "keywords": [
+            "Christmas",
+            "music",
+            "Temple Square (Salt Lake City, Utah)",
+            "Concerts"
+          ],
+          "$lastUpdatedDate": "Sun Oct 13 07:34:47 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "0000018a-0a18-d1d6-afbf-6f1fb9840000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "0000018a-0a18-d1d6-afbf-6f1fb9840000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "A performance of \"A Savior is Born\" during the 2022 Christmas on Temple Square broadcast: The Promise of Christmas. Arranged and performed by Nik Day and featuring missionaries from the California Riverside Mission.",
+          "publicDownload": [],
+          "$publishDate": "Fri Aug 18 15:21:47 EDT 2023",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "A performance of \"A Savior is Born\" during the 2022 Christmas on Temple Square broadcast: The Promise of Christmas. Arranged and performed by Nik Day and featuring missionaries from the California Riverside Mission.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "A Savior is Born",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "A performance of \"A Savior is Born\" during the 2022 Christmas on Temple Square broadcast: The Promise of Christmas. Arranged and performed by Nik Day and featuring missionaries from the California Riverside Mission.",
+          "shareableTitle": "A Savior is Born",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "193ff6175a0211ed893beeeeac1e343917498400",
+            "attributes": {},
+            "description": "The Promise of Christmas",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/1280,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "1 - Not IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Sun Oct 13 08:29:19 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "0000018c-64f6-d47e-ab9d-effed0f40000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "0000018c-64f6-d47e-ab9d-effed0f40000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "A photo of a straw filled manger with the words, \"The Promise of Christmas.\"",
+            "publicDownload": [],
+            "$publishDate": "Wed Dec 13 15:55:46 EST 2023",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/193ff6175a0211ed893beeeeac1e343917498400/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "The Promise of Christmas",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "No Title",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "The Promise of Christmas",
+            "shareableTitle": "No Title",
+            "title": "No Title"
+          },
+          "title": "A Savior is Born",
+          "translator": []
+        },
+        "$id": "00000196-c6dd-d455-a9f6-deddca6e0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dd-d455-a9f6-deddca6e0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  }
+]

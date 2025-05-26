@@ -1,0 +1,3719 @@
+[
+  {
+    "title": "How Firm a Foundation",
+    "slug": "2023-10-how-firm-a-foundation",
+    "bookSlug": "music-from-october-2023-general-conference",
+    "bookSectionTitle": "Saturday Morning Session",
+    "songNumber": "1",
+    "songDate": "2023-09-30",
+    "arrangers": [
+      {
+        "personName": "Mack Wilberg"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Tabernacle Choir at Temple Square, The"
+      },
+      {
+        "personName": "The Tabernacle Choir at Temple Square "
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Anon."
+      },
+      {
+        "personName": "Robert Keen"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Anon."
+      },
+      {
+        "personName": "J. Ellis"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      },
+      {
+        "name": "Organ"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "Jesus Christ",
+      "Joseph Smith",
+      "adversity",
+      "baptism",
+      "commitment",
+      "faith",
+      "family",
+      "grace",
+      "hope",
+      "love",
+      "missionary work",
+      "priesthood",
+      "scriptures",
+      "temples"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "accompaniment": false,
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "f48ee7ec5ff011eea978eeeeac1ef95b5153e7d6",
+          "attributes": {},
+          "composer": [],
+          "description": "The Tabernacle Choir at Temple Square sings \"How Firm a Foundation.\" From the 2023 October General Conference.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/f4/8e/f48ee7ec5ff011eea978eeeeac1ef95b5153e7d6/2023_10_how_firm_a_foundation.mp3",
+          "duration": 227000,
+          "featuredInstruments": [],
+          "ipCode": "7 - Public domain",
+          "isPartOf": [],
+          "keywords": [
+            "general conference",
+            "music"
+          ],
+          "$lastUpdatedDate": "Fri Jul 26 16:05:18 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "numVocalParts": {},
+          "numVocalPerformers": {
+            "name": "Choir"
+          },
+          "$id": "0000018c-426b-d9cf-a9df-63fb4c740000",
+          "$lang": "eng",
+          "$model": "musicRecording",
+          "$rootId": "0000018c-426b-d9cf-a9df-63fb4c740000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "The Tabernacle Choir at Temple Square sings \"How Firm a Foundation.\" From the 2023 October General Conference. ",
+          "publicDownload": [],
+          "$publishDate": "Wed Dec 06 22:56:17 EST 2023",
+          "$publishStatus": "PUBLISHED",
+          "recordingOf": [],
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "The Tabernacle Choir at Temple Square sings \"How Firm a Foundation.\" From the 2023 October General Conference.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "How Firm a Foundation",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "The Tabernacle Choir at Temple Square sings \"How Firm a Foundation.\" From the 2023 October General Conference.",
+          "shareableTitle": "How Firm a Foundation",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "05bc63a32c8c11ee850eeeeeac1e3c920776f078",
+            "attributes": {},
+            "description": "Come Unto Jesus",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/1920,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "0E - IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Fri Jul 26 16:05:20 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000189-e0f9-d14e-a18f-ebfb79880000",
+            "$lang": "qnl",
+            "$model": "image",
+            "$rootId": "00000189-e0f9-d14e-a18f-ebfb79880000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "\"Come Unto Jesus\" By Michael Malm - A painting depicting people kneeling at the feet of Christ ",
+            "publicDownload": [],
+            "$publishDate": "Thu Aug 10 15:43:13 EDT 2023",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1600%2C1600/0/default",
+                "height": 1600,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1600%2C1600/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1920%2C1920/0/default",
+                "height": 1920,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1920%2C1920/0/default",
+                "width": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Come Unto Jesus",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Come Unto Jesus",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Come Unto Jesus",
+            "shareableTitle": "Come Unto Jesus",
+            "title": "Come Unto Jesus"
+          },
+          "title": "How Firm a Foundation",
+          "translator": [],
+          "vocalPerformerTypes": []
+        },
+        "$id": "00000196-c6e2-d455-a9f6-deee038f0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6e2-d455-a9f6-deee038f0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "I Feel My Savior’s Love",
+    "slug": "2023-10-i-feel-my-saviors-love",
+    "bookSlug": "music-from-october-2023-general-conference",
+    "bookSectionTitle": "Saturday Morning Session",
+    "songNumber": "2",
+    "songDate": "2023-09-30",
+    "arrangers": [
+      {
+        "personName": "Sam Cardon"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Tabernacle Choir at Temple Square, The"
+      },
+      {
+        "personName": "The Tabernacle Choir at Temple Square "
+      }
+    ],
+    "authors": [
+      {
+        "personName": "K. Newell Dayley"
+      },
+      {
+        "personName": "Laurie Huffman"
+      },
+      {
+        "personName": "Ralph Rodgers Jr."
+      }
+    ],
+    "composers": [
+      {
+        "personName": "K. Newell Dayley"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      },
+      {
+        "name": "Organ"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "Holy Ghost",
+      "Jesus Christ",
+      "comfort",
+      "commitment",
+      "consecration",
+      "discipleship",
+      "faith",
+      "love",
+      "peace",
+      "prayer",
+      "service",
+      "sharing",
+      "shepherd"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "accompaniment": false,
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "ec66e4ab5ff011eea978eeeeac1ef95b6a869e67",
+          "attributes": {},
+          "composer": [],
+          "description": "The Tabernacle Choir at Temple Square sings \"I Feel My Savior’s Love.\" From the 2023 October General Conference.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/ec/66/ec66e4ab5ff011eea978eeeeac1ef95b6a869e67/2023_10_i_feel_my_saviors_love.mp3",
+          "duration": 217000,
+          "featuredInstruments": [],
+          "ipCode": "1 - Not IRI Owned",
+          "isPartOf": [],
+          "keywords": [
+            "general conference",
+            "music"
+          ],
+          "$lastUpdatedDate": "Fri Jul 26 16:05:15 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "numVocalParts": {},
+          "numVocalPerformers": {
+            "name": "Choir"
+          },
+          "$id": "0000018c-426b-d9cf-a9df-63fb3afc0000",
+          "$lang": "eng",
+          "$model": "musicRecording",
+          "$rootId": "0000018c-426b-d9cf-a9df-63fb3afc0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "The Tabernacle Choir at Temple Square sings \"I Feel My Savior’s Love.\" From the 2023 October General Conference. ",
+          "publicDownload": [],
+          "$publishDate": "Wed Dec 06 22:56:12 EST 2023",
+          "$publishStatus": "PUBLISHED",
+          "recordingOf": [],
+          "related": [],
+          "reqCreditLine": "false",
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "The Tabernacle Choir at Temple Square sings \"I Feel My Savior’s Love.\" From the 2023 October General Conference.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "I Feel My Savior’s Love",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "The Tabernacle Choir at Temple Square sings \"I Feel My Savior’s Love.\" From the 2023 October General Conference.",
+          "shareableTitle": "I Feel My Savior’s Love",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "05bc63a32c8c11ee850eeeeeac1e3c920776f078",
+            "attributes": {},
+            "description": "Come Unto Jesus",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/1920,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "0E - IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Fri Jul 26 16:05:20 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000189-e0f9-d14e-a18f-ebfb79880000",
+            "$lang": "qnl",
+            "$model": "image",
+            "$rootId": "00000189-e0f9-d14e-a18f-ebfb79880000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "\"Come Unto Jesus\" By Michael Malm - A painting depicting people kneeling at the feet of Christ ",
+            "publicDownload": [],
+            "$publishDate": "Thu Aug 10 15:43:13 EDT 2023",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1600%2C1600/0/default",
+                "height": 1600,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1600%2C1600/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1920%2C1920/0/default",
+                "height": 1920,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1920%2C1920/0/default",
+                "width": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Come Unto Jesus",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Come Unto Jesus",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Come Unto Jesus",
+            "shareableTitle": "Come Unto Jesus",
+            "title": "Come Unto Jesus"
+          },
+          "title": "I Feel My Savior’s Love",
+          "translator": [],
+          "vocalPerformerTypes": []
+        },
+        "$id": "00000196-c6e2-d455-a9f6-deee03c90000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6e2-d455-a9f6-deee03c90000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Faith in Every Footstep",
+    "slug": "2023-10-faith-in-every-footstep",
+    "bookSlug": "music-from-october-2023-general-conference",
+    "bookSectionTitle": "Saturday Morning Session",
+    "songNumber": "3",
+    "songDate": "2023-09-30",
+    "arrangers": [
+      {
+        "personName": "James C. Kasen"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Tabernacle Choir at Temple Square, The"
+      },
+      {
+        "personName": "The Tabernacle Choir at Temple Square "
+      }
+    ],
+    "authors": [
+      {
+        "personName": "K. Newell Dayley"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "K. Newell Dayley"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      },
+      {
+        "name": "Organ"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "Restoration",
+      "courage",
+      "discipleship",
+      "faith",
+      "gathering of Israel",
+      "missionary work",
+      "pioneers",
+      "service",
+      "work"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "accompaniment": false,
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "d9c489bf5ff011ee9008eeeeac1ecf625b649f6b",
+          "attributes": {},
+          "composer": [],
+          "description": "The Tabernacle Choir at Temple Square sings \"Faith in Every Footsteps\" From the 2023 October General Conference.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/d9/c4/d9c489bf5ff011ee9008eeeeac1ecf625b649f6b/2023_10_faith_in_every_footstep.mp3",
+          "duration": 322000,
+          "featuredInstruments": [],
+          "isPartOf": [],
+          "keywords": [
+            "general conference",
+            "music"
+          ],
+          "$lastUpdatedDate": "Fri Jul 26 16:05:13 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "numVocalParts": {},
+          "numVocalPerformers": {
+            "name": "Choir"
+          },
+          "$id": "0000018c-426b-d9cf-a9df-63fb2ece0000",
+          "$lang": "eng",
+          "$model": "musicRecording",
+          "$rootId": "0000018c-426b-d9cf-a9df-63fb2ece0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "The Tabernacle Choir at Temple Square sings \"Faith in Every Footsteps\" From the 2023 October General Conference. ",
+          "publicDownload": [],
+          "$publishDate": "Wed Dec 06 22:56:09 EST 2023",
+          "$publishStatus": "PUBLISHED",
+          "recordingOf": [],
+          "related": [],
+          "reqCreditLine": "false",
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "The Tabernacle Choir at Temple Square sings \"Faith in Every Footsteps\" From the 2023 October General Conference.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Faith in Every Footstep",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "The Tabernacle Choir at Temple Square sings \"Faith in Every Footsteps\" From the 2023 October General Conference.",
+          "shareableTitle": "Faith in Every Footstep",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "05bc63a32c8c11ee850eeeeeac1e3c920776f078",
+            "attributes": {},
+            "description": "Come Unto Jesus",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/1920,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "0E - IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Fri Jul 26 16:05:20 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000189-e0f9-d14e-a18f-ebfb79880000",
+            "$lang": "qnl",
+            "$model": "image",
+            "$rootId": "00000189-e0f9-d14e-a18f-ebfb79880000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "\"Come Unto Jesus\" By Michael Malm - A painting depicting people kneeling at the feet of Christ ",
+            "publicDownload": [],
+            "$publishDate": "Thu Aug 10 15:43:13 EDT 2023",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1600%2C1600/0/default",
+                "height": 1600,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1600%2C1600/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1920%2C1920/0/default",
+                "height": 1920,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1920%2C1920/0/default",
+                "width": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Come Unto Jesus",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Come Unto Jesus",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Come Unto Jesus",
+            "shareableTitle": "Come Unto Jesus",
+            "title": "Come Unto Jesus"
+          },
+          "title": "Faith in Every Footstep",
+          "translator": [],
+          "vocalPerformerTypes": []
+        },
+        "$id": "00000196-c6e2-d455-a9f6-deee03240000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6e2-d455-a9f6-deee03240000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "We Listen to a Prophet’s Voice",
+    "slug": "2023-10-we-listen-to-a-prophets-voice",
+    "bookSlug": "music-from-october-2023-general-conference",
+    "bookSectionTitle": "Saturday Morning Session",
+    "songNumber": "4",
+    "songDate": "2023-09-30",
+    "arrangers": [
+      {
+        "personName": "Ryan T. Murphy"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Tabernacle Choir at Temple Square, The"
+      },
+      {
+        "personName": "The Tabernacle Choir at Temple Square "
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Marylou Cunningham Leavitt"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Darwin K. Wolford"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      },
+      {
+        "name": "Organ"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "Jesus Christ",
+      "plan of salvation",
+      "praise",
+      "prophets"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "accompaniment": false,
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "fc3426935ff011ee87c3eeeeac1e2efba77db6ed",
+          "attributes": {},
+          "composer": [],
+          "description": "The Tabernacle Choir at Temple Square sings \"We Listen to a Prophet’s Voice.\" October 2023  from the 2023 October General Conference.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/fc/34/fc3426935ff011ee87c3eeeeac1e2efba77db6ed/2023_10_we_listen_to_a_prophets_voice_eng.mp3",
+          "duration": 219000,
+          "featuredInstruments": [],
+          "ipCode": "1 - Not IRI Owned",
+          "isPartOf": [],
+          "keywords": [
+            "general conference",
+            "music"
+          ],
+          "$lastUpdatedDate": "Fri Jul 26 16:05:13 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "numVocalParts": {},
+          "numVocalPerformers": {
+            "name": "Choir"
+          },
+          "$id": "0000018c-426b-d9cf-a9df-63fb32050000",
+          "$lang": "eng",
+          "$model": "musicRecording",
+          "$rootId": "0000018c-426b-d9cf-a9df-63fb32050000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "The Tabernacle Choir at Temple Square sings \"We Listen to a Prophet’s Voice.\" October 2023  from the 2023 October General Conference. ",
+          "publicDownload": [],
+          "$publishDate": "Wed Dec 06 22:56:10 EST 2023",
+          "$publishStatus": "PUBLISHED",
+          "recordingOf": [],
+          "related": [],
+          "reqCreditLine": "false",
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "The Tabernacle Choir at Temple Square sings \"We Listen to a Prophet’s Voice.\" October 2023  from the 2023 October General Conference.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "We Listen to a Prophet’s Voice",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "The Tabernacle Choir at Temple Square sings \"We Listen to a Prophet’s Voice.\" October 2023 from the 2023 October General Conference.",
+          "shareableTitle": "We Listen to a Prophet’s Voice",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "05bc63a32c8c11ee850eeeeeac1e3c920776f078",
+            "attributes": {},
+            "description": "Come Unto Jesus",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/1920,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "0E - IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Fri Jul 26 16:05:20 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000189-e0f9-d14e-a18f-ebfb79880000",
+            "$lang": "qnl",
+            "$model": "image",
+            "$rootId": "00000189-e0f9-d14e-a18f-ebfb79880000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "\"Come Unto Jesus\" By Michael Malm - A painting depicting people kneeling at the feet of Christ ",
+            "publicDownload": [],
+            "$publishDate": "Thu Aug 10 15:43:13 EDT 2023",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1600%2C1600/0/default",
+                "height": 1600,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1600%2C1600/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1920%2C1920/0/default",
+                "height": 1920,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1920%2C1920/0/default",
+                "width": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Come Unto Jesus",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Come Unto Jesus",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Come Unto Jesus",
+            "shareableTitle": "Come Unto Jesus",
+            "title": "Come Unto Jesus"
+          },
+          "title": "We Listen to a Prophet’s Voice",
+          "translator": [],
+          "vocalPerformerTypes": []
+        },
+        "$id": "00000196-c6e2-d455-a9f6-deee04b60000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6e2-d455-a9f6-deee04b60000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "O Thou Rock of Our Salvation",
+    "slug": "2023-10-o-thou-rock-of-our-salvation",
+    "bookSlug": "music-from-october-2023-general-conference",
+    "bookSectionTitle": "Saturday Afternoon Session",
+    "songNumber": "1",
+    "songDate": "2023-09-30",
+    "arrangers": [
+      {
+        "personName": "Mack Wilberg"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Multicultural Choir from stakes in Northern Utah"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Joseph L. Townsend"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "William Clayson"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      },
+      {
+        "name": "Organ"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "Jesus Christ",
+      "commitment",
+      "missionary work",
+      "unity",
+      "youth"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "accompaniment": false,
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "60f52cca5ff911ee82f5eeeeac1e35a598c2cd0b",
+          "attributes": {},
+          "composer": [],
+          "description": "Multicultural Choir from stakes in Northern Utah sing \"O Thou Rock of Our Salvation.\" From the 2023 October General Conference.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/60/f5/60f52cca5ff911ee82f5eeeeac1e35a598c2cd0b/o_thou_rock_of_our_salvation.mp3",
+          "duration": 259000,
+          "featuredInstruments": [],
+          "ipCode": "0 - IRI Owned",
+          "isPartOf": [],
+          "keywords": [
+            "general conference",
+            "music"
+          ],
+          "$lastUpdatedDate": "Fri Jul 26 16:05:16 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "numVocalParts": {},
+          "numVocalPerformers": {
+            "name": "Choir"
+          },
+          "$id": "0000018c-426b-d9cf-a9df-63fb40cd0000",
+          "$lang": "eng",
+          "$model": "musicRecording",
+          "$rootId": "0000018c-426b-d9cf-a9df-63fb40cd0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "Multicultural Choir from stakes in Northern Utah sing \"O Thou Rock of Our Salvation.\" From the 2023 October General Conference. ",
+          "publicDownload": [],
+          "$publishDate": "Wed Dec 06 22:56:14 EST 2023",
+          "$publishStatus": "PUBLISHED",
+          "recordingOf": [],
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "Multicultural Choir from stakes in Northern Utah sing \"O Thou Rock of Our Salvation.\" From the 2023 October General Conference.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "O Thou Rock of Our Salvation",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "Multicultural Choir from stakes in Northern Utah sing \"O Thou Rock of Our Salvation.\" From the 2023 October General Conference.",
+          "shareableTitle": "O Thou Rock of Our Salvation",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "05bc63a32c8c11ee850eeeeeac1e3c920776f078",
+            "attributes": {},
+            "description": "Come Unto Jesus",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/1920,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "0E - IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Fri Jul 26 16:05:20 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000189-e0f9-d14e-a18f-ebfb79880000",
+            "$lang": "qnl",
+            "$model": "image",
+            "$rootId": "00000189-e0f9-d14e-a18f-ebfb79880000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "\"Come Unto Jesus\" By Michael Malm - A painting depicting people kneeling at the feet of Christ ",
+            "publicDownload": [],
+            "$publishDate": "Thu Aug 10 15:43:13 EDT 2023",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1600%2C1600/0/default",
+                "height": 1600,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1600%2C1600/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1920%2C1920/0/default",
+                "height": 1920,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1920%2C1920/0/default",
+                "width": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Come Unto Jesus",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Come Unto Jesus",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Come Unto Jesus",
+            "shareableTitle": "Come Unto Jesus",
+            "title": "Come Unto Jesus"
+          },
+          "title": "O Thou Rock of Our Salvation",
+          "translator": [],
+          "vocalPerformerTypes": []
+        },
+        "$id": "00000196-c6e2-d455-a9f6-deee04530000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6e2-d455-a9f6-deee04530000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Jesus, Once of Humble Birth",
+    "slug": "2023-10-jesus-once-of-humble-birth",
+    "bookSlug": "music-from-october-2023-general-conference",
+    "bookSectionTitle": "Saturday Afternoon Session",
+    "songNumber": "2",
+    "songDate": "2023-09-30",
+    "arrangers": [
+      {
+        "personName": "Timothy Johnson"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Multicultural Choir from stakes in Northern Utah"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Parley P. Pratt"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Giacomo Meyerbeer"
+      },
+      {
+        "personName": "English Chorister"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      },
+      {
+        "name": "Organ"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "Atonement of Jesus Christ",
+      "Christmas",
+      "Jesus Christ",
+      "Second Coming",
+      "praise",
+      "the sacrament",
+      "worship"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "accompaniment": false,
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "632a353d5ff911eebec3eeeeac1e8d8f2bc69949",
+          "attributes": {},
+          "composer": [],
+          "description": "Multicultural Choir from stakes in Northern Utah sing \"Jesus Once of Humble Birth.\" From the 2023 October General Conference.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/63/2a/632a353d5ff911eebec3eeeeac1e8d8f2bc69949/2023_10_jesus_once_of_humble_birth.mp3",
+          "duration": 276000,
+          "featuredInstruments": [],
+          "ipCode": "1 - Not IRI Owned",
+          "isPartOf": [],
+          "keywords": [
+            "general conference",
+            "music"
+          ],
+          "$lastUpdatedDate": "Fri Jul 26 16:05:09 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "numVocalParts": {},
+          "numVocalPerformers": {
+            "name": "Choir"
+          },
+          "$id": "0000018c-426b-d9cf-a9df-63fb19920000",
+          "$lang": "eng",
+          "$model": "musicRecording",
+          "$rootId": "0000018c-426b-d9cf-a9df-63fb19920000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "Multicultural Choir from stakes in Northern Utah sing \"Jesus Once of Humble Birth.\" From the 2023 October General Conference. ",
+          "publicDownload": [],
+          "$publishDate": "Wed Dec 06 22:56:04 EST 2023",
+          "$publishStatus": "PUBLISHED",
+          "recordingOf": [],
+          "related": [],
+          "reqCreditLine": "false",
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "Multicultural Choir from stakes in Northern Utah sing \"Jesus Once of Humble Birth.\" From the 2023 October General Conference.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Jesus Once of Humble Birth",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "Multicultural Choir from stakes in Northern Utah sing \"Jesus Once of Humble Birth.\" From the 2023 October General Conference.",
+          "shareableTitle": "Jesus Once of Humble Birth",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "05bc63a32c8c11ee850eeeeeac1e3c920776f078",
+            "attributes": {},
+            "description": "Come Unto Jesus",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/1920,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "0E - IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Fri Jul 26 16:05:20 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000189-e0f9-d14e-a18f-ebfb79880000",
+            "$lang": "qnl",
+            "$model": "image",
+            "$rootId": "00000189-e0f9-d14e-a18f-ebfb79880000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "\"Come Unto Jesus\" By Michael Malm - A painting depicting people kneeling at the feet of Christ ",
+            "publicDownload": [],
+            "$publishDate": "Thu Aug 10 15:43:13 EDT 2023",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1600%2C1600/0/default",
+                "height": 1600,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1600%2C1600/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1920%2C1920/0/default",
+                "height": 1920,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1920%2C1920/0/default",
+                "width": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Come Unto Jesus",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Come Unto Jesus",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Come Unto Jesus",
+            "shareableTitle": "Come Unto Jesus",
+            "title": "Come Unto Jesus"
+          },
+          "title": "Jesus Once of Humble Birth",
+          "translator": [],
+          "vocalPerformerTypes": []
+        },
+        "$id": "00000196-c6e2-d455-a9f6-deee03fe0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6e2-d455-a9f6-deee03fe0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Praise to the Lord, the Almighty",
+    "slug": "2023-10-praise-to-the-lord-the-almighty",
+    "bookSlug": "music-from-october-2023-general-conference",
+    "bookSectionTitle": "Saturday Afternoon Session",
+    "songNumber": "3",
+    "songDate": "2023-09-30",
+    "arrangers": [
+      {
+        "personName": "Mack Wilberg"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Multicultural Choir from stakes in Northern Utah"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Joachim Neander"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Stralsund Gesangbuch"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      },
+      {
+        "name": "Organ"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "Creator",
+      "Jesus Christ",
+      "joy",
+      "love",
+      "mercy",
+      "music",
+      "praise",
+      "worship"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "accompaniment": false,
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "64cbd7455ff911ee9eaeeeeeac1e925fee9210c1",
+          "attributes": {},
+          "composer": [],
+          "description": "Multicultural Choir from stakes in Northern Utah sing \"Praise to the Lord, the Almighty.\" From the 2023 October General Conference.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/64/cb/64cbd7455ff911ee9eaeeeeeac1e925fee9210c1/2023_10_praise_to_the_lord_the_almighty.mp3",
+          "duration": 196000,
+          "featuredInstruments": [],
+          "isPartOf": [],
+          "keywords": [
+            "general conference",
+            "music"
+          ],
+          "$lastUpdatedDate": "Fri Jul 26 16:05:14 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "numVocalParts": {},
+          "numVocalPerformers": {
+            "name": "Choir"
+          },
+          "$id": "0000018c-426b-d9cf-a9df-63fb350b0000",
+          "$lang": "eng",
+          "$model": "musicRecording",
+          "$rootId": "0000018c-426b-d9cf-a9df-63fb350b0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "Multicultural Choir from stakes in Northern Utah sing \"Praise to the Lord, the Almighty.\" From the 2023 October General Conference. ",
+          "publicDownload": [],
+          "$publishDate": "Wed Dec 06 22:56:11 EST 2023",
+          "$publishStatus": "PUBLISHED",
+          "recordingOf": [],
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "Multicultural Choir from stakes in Northern Utah sing \"Praise to the Lord, the Almighty.\" From the 2023 October General Conference.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Praise to the Lord, the Almighty",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "Multicultural Choir from stakes in Northern Utah sing \"Praise to the Lord, the Almighty.\" From the 2023 October General Conference.",
+          "shareableTitle": "Praise to the Lord, the Almighty",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "05bc63a32c8c11ee850eeeeeac1e3c920776f078",
+            "attributes": {},
+            "description": "Come Unto Jesus",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/1920,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "0E - IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Fri Jul 26 16:05:20 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000189-e0f9-d14e-a18f-ebfb79880000",
+            "$lang": "qnl",
+            "$model": "image",
+            "$rootId": "00000189-e0f9-d14e-a18f-ebfb79880000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "\"Come Unto Jesus\" By Michael Malm - A painting depicting people kneeling at the feet of Christ ",
+            "publicDownload": [],
+            "$publishDate": "Thu Aug 10 15:43:13 EDT 2023",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1600%2C1600/0/default",
+                "height": 1600,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1600%2C1600/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1920%2C1920/0/default",
+                "height": 1920,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1920%2C1920/0/default",
+                "width": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Come Unto Jesus",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Come Unto Jesus",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Come Unto Jesus",
+            "shareableTitle": "Come Unto Jesus",
+            "title": "Come Unto Jesus"
+          },
+          "title": "Praise to the Lord, the Almighty",
+          "translator": [],
+          "vocalPerformerTypes": []
+        },
+        "$id": "00000196-c6e2-d455-a9f6-deee046c0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6e2-d455-a9f6-deee046c0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Let Zion in Her Beauty Rise",
+    "slug": "2023-10-let-zion-in-her-beauty-rise",
+    "bookSlug": "music-from-october-2023-general-conference",
+    "bookSectionTitle": "Saturday Evening Session",
+    "songNumber": "1",
+    "songDate": "2023-09-30",
+    "arrangers": [
+      {
+        "personName": "James C. Kasen"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Young Single Adult Choir from Utah County"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Edward Partridge"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Anon."
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      },
+      {
+        "name": "Organ"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "Jesus Christ",
+      "Joseph Smith",
+      "Millennium",
+      "Second Coming",
+      "Zion",
+      "baptism",
+      "faith",
+      "family",
+      "gospel",
+      "missionary work",
+      "peace",
+      "praise",
+      "preparation",
+      "priesthood",
+      "scriptures",
+      "temples"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "accompaniment": false,
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "880706f3600c11ee87c3eeeeac1e2efbc9804f71",
+          "attributes": {},
+          "composer": [],
+          "description": "Young Single Adult Choir from Utah County sing  \"Let Zion in Her Beauty Rise.\" From the 2023 October General Conference.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/88/07/880706f3600c11ee87c3eeeeac1e2efbc9804f71/2023_10_let_zion_in_her_beauty_rise.mp3",
+          "duration": 134000,
+          "featuredInstruments": [],
+          "isPartOf": [],
+          "keywords": [
+            "general conference",
+            "music"
+          ],
+          "$lastUpdatedDate": "Fri Jul 26 16:05:08 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "numVocalParts": {},
+          "numVocalPerformers": {
+            "name": "Choir"
+          },
+          "$id": "0000018c-426b-d9cf-a9df-63fb16380000",
+          "$lang": "eng",
+          "$model": "musicRecording",
+          "$rootId": "0000018c-426b-d9cf-a9df-63fb16380000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "Young Single Adult Choir from Utah County sing  \"Let Zion in Her Beauty Rise.\" From the 2023 October General Conference. ",
+          "publicDownload": [],
+          "$publishDate": "Wed Dec 06 22:56:03 EST 2023",
+          "$publishStatus": "PUBLISHED",
+          "recordingOf": [],
+          "related": [],
+          "reqCreditLine": "false",
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "Young Single Adult Choir from Utah County sing  \"Let Zion in Her Beauty Rise.\" From the 2023 October General Conference.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Let Zion in Her Beauty Rise",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "Young Single Adult Choir from Utah County sing \"Let Zion in Her Beauty Rise.\" From the 2023 October General Conference.",
+          "shareableTitle": "Let Zion in Her Beauty Rise",
+          "title": "Let Zion in Her Beauty Rise",
+          "translator": [],
+          "vocalPerformerTypes": []
+        },
+        "$id": "00000196-c6e2-d455-a9f6-deee043c0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6e2-d455-a9f6-deee043c0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Lead, Kindly Light",
+    "slug": "2023-10-lead-kindly-light",
+    "bookSlug": "music-from-october-2023-general-conference",
+    "bookSectionTitle": "Saturday Evening Session",
+    "songNumber": "2",
+    "songDate": "2023-09-30",
+    "arrangers": [
+      {
+        "personName": "Mack Wilberg"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Young Single Adult Choir from Utah County"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "John Henry Newman"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "John B. Dykes"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      },
+      {
+        "name": "Organ"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "Jesus Christ",
+      "comfort",
+      "faith",
+      "grace",
+      "guidance",
+      "prayer",
+      "trials"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "accompaniment": false,
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "a555ed29600c11eeb0f6eeeeac1e298f59c070a0",
+          "attributes": {},
+          "composer": [],
+          "description": "Young Single Adult Choir from Utah County sing \"Lead, Kindly Light.\" From the 2023 October General Conference.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/a5/55/a555ed29600c11eeb0f6eeeeac1e298f59c070a0/2023_10_lead_kindly_light.mp3",
+          "duration": 291000,
+          "featuredInstruments": [],
+          "isPartOf": [],
+          "keywords": [
+            "general conference",
+            "music"
+          ],
+          "$lastUpdatedDate": "Fri Jul 26 16:05:11 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "numVocalParts": {},
+          "numVocalPerformers": {
+            "name": "Choir"
+          },
+          "$id": "0000018c-426b-d9cf-a9df-63fb25e20000",
+          "$lang": "eng",
+          "$model": "musicRecording",
+          "$rootId": "0000018c-426b-d9cf-a9df-63fb25e20000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "Young Single Adult Choir from Utah County sing \"Lead, Kindly Light.\" From the 2023 October General Conference. ",
+          "publicDownload": [],
+          "$publishDate": "Wed Dec 06 22:56:07 EST 2023",
+          "$publishStatus": "PUBLISHED",
+          "recordingOf": [],
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "Young Single Adult Choir from Utah County sing \"Lead, Kindly Light.\" From the 2023 October General Conference.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Lead, Kindly Light",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "Young Single Adult Choir from Utah County sing \"Lead, Kindly Light.\" From the 2023 October General Conference.",
+          "shareableTitle": "Lead, Kindly Light",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "05bc63a32c8c11ee850eeeeeac1e3c920776f078",
+            "attributes": {},
+            "description": "Come Unto Jesus",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/1920,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "0E - IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Fri Jul 26 16:05:20 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000189-e0f9-d14e-a18f-ebfb79880000",
+            "$lang": "qnl",
+            "$model": "image",
+            "$rootId": "00000189-e0f9-d14e-a18f-ebfb79880000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "\"Come Unto Jesus\" By Michael Malm - A painting depicting people kneeling at the feet of Christ ",
+            "publicDownload": [],
+            "$publishDate": "Thu Aug 10 15:43:13 EDT 2023",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1600%2C1600/0/default",
+                "height": 1600,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1600%2C1600/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1920%2C1920/0/default",
+                "height": 1920,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1920%2C1920/0/default",
+                "width": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Come Unto Jesus",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Come Unto Jesus",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Come Unto Jesus",
+            "shareableTitle": "Come Unto Jesus",
+            "title": "Come Unto Jesus"
+          },
+          "title": "Lead, Kindly Light",
+          "translator": [],
+          "vocalPerformerTypes": []
+        },
+        "$id": "00000196-c6e2-d455-a9f6-deee04230000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6e2-d455-a9f6-deee04230000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "I Believe in Christ",
+    "slug": "2023-10-i-believe-in-christ",
+    "bookSlug": "music-from-october-2023-general-conference",
+    "bookSectionTitle": "Saturday Evening Session",
+    "songNumber": "3",
+    "songDate": "2023-09-30",
+    "arrangers": [
+      {
+        "personName": "Mack Wilberg"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Young Single Adult Choir from Utah County"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Bruce R. McConkie"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "John Longhurst"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      },
+      {
+        "name": "Organ"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "Jesus Christ",
+      "Jesus Christ's ministry",
+      "endure to the end",
+      "eternal life",
+      "exaltation",
+      "faith",
+      "grace",
+      "joy",
+      "praise",
+      "testimony"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "accompaniment": false,
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "cef4603a600c11ee8193eeeeac1ec734aa3f9224",
+          "attributes": {},
+          "composer": [],
+          "description": "Young Single Adult Choir from Utah County sing \"I Believe in Christ.\" From the 2023 October General Conference.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/ce/f4/cef4603a600c11ee8193eeeeac1ec734aa3f9224/2023_10_i_believe_in_christ.mp3",
+          "duration": 270000,
+          "featuredInstruments": [],
+          "isPartOf": [],
+          "keywords": [
+            "general conference",
+            "music"
+          ],
+          "$lastUpdatedDate": "Fri Jul 26 16:05:19 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "numVocalParts": {},
+          "numVocalPerformers": {
+            "name": "Choir"
+          },
+          "$id": "0000018c-426b-d9cf-a9df-63fb52d20000",
+          "$lang": "eng",
+          "$model": "musicRecording",
+          "$rootId": "0000018c-426b-d9cf-a9df-63fb52d20000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "Young Single Adult Choir from Utah County sing \"I Believe in Christ.\" From the 2023 October General Conference. ",
+          "publicDownload": [],
+          "$publishDate": "Wed Dec 06 22:56:19 EST 2023",
+          "$publishStatus": "PUBLISHED",
+          "recordingOf": [],
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "Young Single Adult Choir from Utah County sing \"I Believe in Christ.\" From the 2023 October General Conference.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "I Believe in Christ",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "Young Single Adult Choir from Utah County sing \"I Believe in Christ.\" From the 2023 October General Conference.",
+          "shareableTitle": "I Believe in Christ",
+          "title": "I Believe in Christ",
+          "translator": [],
+          "vocalPerformerTypes": []
+        },
+        "$id": "00000196-c6e2-d455-a9f6-deee03aa0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6e2-d455-a9f6-deee03aa0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Arise, O God, and Shine",
+    "slug": "2023-10-arise-o-god-and-shine",
+    "bookSlug": "music-from-october-2023-general-conference",
+    "bookSectionTitle": "Saturday Evening Session",
+    "songNumber": "4",
+    "songDate": "2023-09-30",
+    "arrangers": [
+      {
+        "personName": "Mack Wilberg"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Young Single Adult Choir from Utah County"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "William Hurn"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "John Darwall"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      },
+      {
+        "name": "Organ"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "mercy",
+      "missionary work",
+      "praise"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "accompaniment": false,
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "e545e07a600c11eeb0f6eeeeac1e298fc3c784e9",
+          "attributes": {},
+          "composer": [],
+          "description": "Young Single Adult Choir from Utah County sing \"Arise, O God, and Shine.\" From the 2023 October General Conference.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/e5/45/e545e07a600c11eeb0f6eeeeac1e298fc3c784e9/2023_10_arise_o_god_and_shine.mp3",
+          "duration": 186000,
+          "featuredInstruments": [],
+          "isPartOf": [],
+          "keywords": [
+            "general conference",
+            "music"
+          ],
+          "$lastUpdatedDate": "Fri Jul 26 16:05:17 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "numVocalParts": {},
+          "numVocalPerformers": {
+            "name": "Choir"
+          },
+          "$id": "0000018c-426b-d9cf-a9df-63fb49a90000",
+          "$lang": "eng",
+          "$model": "musicRecording",
+          "$rootId": "0000018c-426b-d9cf-a9df-63fb49a90000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "Young Single Adult Choir from Utah County sing \"Arise, O God, and Shine.\" From the 2023 October General Conference. ",
+          "publicDownload": [],
+          "$publishDate": "Wed Dec 06 22:56:16 EST 2023",
+          "$publishStatus": "PUBLISHED",
+          "recordingOf": [],
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "Young Single Adult Choir from Utah County sing \"Arise, O God, and Shine.\" From the 2023 October General Conference.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Arise, O God, and Shine",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "Young Single Adult Choir from Utah County sing \"Arise, O God, and Shine.\" From the 2023 October General Conference.",
+          "shareableTitle": "Arise, O God, and Shine",
+          "title": "Arise, O God, and Shine",
+          "translator": [],
+          "vocalPerformerTypes": []
+        },
+        "$id": "00000196-c6e2-d455-a9f6-deee03090000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6e2-d455-a9f6-deee03090000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Go Forth with Faith",
+    "slug": "2023-10-go-forth-with-faith",
+    "bookSlug": "music-from-october-2023-general-conference",
+    "bookSectionTitle": "Sunday Morning Session",
+    "songNumber": "1",
+    "songDate": "2023-10-01",
+    "arrangers": [
+      {
+        "personName": "Mack Wilberg"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Tabernacle Choir at Temple Square, The"
+      },
+      {
+        "personName": "The Tabernacle Choir at Temple Square "
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Ruth M. Gardner"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Lyall J. Gardner"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      },
+      {
+        "name": "Organ"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "Restoration",
+      "courage",
+      "eternal life",
+      "faith",
+      "family",
+      "gospel",
+      "hope",
+      "joy",
+      "love",
+      "missionary work",
+      "praise",
+      "service",
+      "truth"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "accompaniment": false,
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "3aec813d60d611eea3bceeeeac1e2e8560119638",
+          "attributes": {},
+          "composer": [],
+          "description": "The Tabernacle Choir at Temple Square sings \"Go Forth with Faith.\" From the 2023 October General Conference.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/3a/ec/3aec813d60d611eea3bceeeeac1e2e8560119638/2023_10_go_forth_with_faith.mp3",
+          "duration": 148000,
+          "featuredInstruments": [],
+          "isPartOf": [],
+          "keywords": [
+            "general conference",
+            "music"
+          ],
+          "$lastUpdatedDate": "Fri Jul 26 16:05:18 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "numVocalParts": {},
+          "numVocalPerformers": {
+            "name": "Choir"
+          },
+          "$id": "0000018c-426b-d9cf-a9df-63fb4fa30000",
+          "$lang": "eng",
+          "$model": "musicRecording",
+          "$rootId": "0000018c-426b-d9cf-a9df-63fb4fa30000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "The Tabernacle Choir at Temple Square sings \"Go Forth with Faith.\" From the 2023 October General Conference. ",
+          "publicDownload": [],
+          "$publishDate": "Wed Dec 06 22:56:18 EST 2023",
+          "$publishStatus": "PUBLISHED",
+          "recordingOf": [],
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "The Tabernacle Choir at Temple Square sings \"Go Forth with Faith.\" From the 2023 October General Conference.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Go Forth with Faith",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "The Tabernacle Choir at Temple Square sings \"Go Forth with Faith.\" From the 2023 October General Conference.",
+          "shareableTitle": "Go Forth with Faith",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "05bc63a32c8c11ee850eeeeeac1e3c920776f078",
+            "attributes": {},
+            "description": "Come Unto Jesus",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/1920,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "0E - IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Fri Jul 26 16:05:20 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000189-e0f9-d14e-a18f-ebfb79880000",
+            "$lang": "qnl",
+            "$model": "image",
+            "$rootId": "00000189-e0f9-d14e-a18f-ebfb79880000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "\"Come Unto Jesus\" By Michael Malm - A painting depicting people kneeling at the feet of Christ ",
+            "publicDownload": [],
+            "$publishDate": "Thu Aug 10 15:43:13 EDT 2023",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1600%2C1600/0/default",
+                "height": 1600,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1600%2C1600/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1920%2C1920/0/default",
+                "height": 1920,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1920%2C1920/0/default",
+                "width": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Come Unto Jesus",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Come Unto Jesus",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Come Unto Jesus",
+            "shareableTitle": "Come Unto Jesus",
+            "title": "Come Unto Jesus"
+          },
+          "title": "Go Forth with Faith",
+          "translator": [],
+          "vocalPerformerTypes": []
+        },
+        "$id": "00000196-c6e2-d455-a9f6-deee03590000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6e2-d455-a9f6-deee03590000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "I’m Trying to Be like Jesus",
+    "slug": "2023-10-im-trying-to-be-like-jesus",
+    "bookSlug": "music-from-october-2023-general-conference",
+    "bookSectionTitle": "Sunday Morning Session",
+    "songNumber": "2",
+    "songDate": "2023-10-01",
+    "arrangers": [
+      {
+        "personName": "Barlow Bradford"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Tabernacle Choir at Temple Square, The"
+      },
+      {
+        "personName": "The Tabernacle Choir at Temple Square "
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Janice Kapp Perry"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Janice Kapp Perry"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      },
+      {
+        "name": "Organ"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "Holy Ghost",
+      "Jesus Christ",
+      "Second Coming",
+      "diligence",
+      "example",
+      "kindness",
+      "love",
+      "service",
+      "temptation"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "accompaniment": false,
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "332effa260d611eea843eeeeac1e683b4b3f383b",
+          "attributes": {},
+          "composer": [],
+          "description": "The Tabernacle Choir at Temple Square sings \"I’m Trying to Be Like Jesus.\" From the 2023 October General Conference.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/33/2e/332effa260d611eea843eeeeac1e683b4b3f383b/2023_10_im_trying_to_be_like_jesus.mp3",
+          "duration": 265000,
+          "featuredInstruments": [],
+          "isPartOf": [],
+          "keywords": [
+            "general conference",
+            "music"
+          ],
+          "$lastUpdatedDate": "Fri Jul 26 16:05:17 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "numVocalParts": {},
+          "numVocalPerformers": {
+            "name": "Choir"
+          },
+          "$id": "0000018c-426b-d9cf-a9df-63fb46a70000",
+          "$lang": "eng",
+          "$model": "musicRecording",
+          "$rootId": "0000018c-426b-d9cf-a9df-63fb46a70000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "The Tabernacle Choir at Temple Square sings \"I’m Trying to Be Like Jesus.\" From the 2023 October General Conference. ",
+          "publicDownload": [],
+          "$publishDate": "Wed Dec 06 22:56:15 EST 2023",
+          "$publishStatus": "PUBLISHED",
+          "recordingOf": [],
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "The Tabernacle Choir at Temple Square sings \"I’m Trying to Be Like Jesus.\" From the 2023 October General Conference.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "I’m Trying to Be Like Jesus",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "The Tabernacle Choir at Temple Square sings \"I’m Trying to Be Like Jesus.\" From the 2023 October General Conference.",
+          "shareableTitle": "I’m Trying to Be Like Jesus",
+          "title": "I’m Trying to Be Like Jesus",
+          "translator": [],
+          "vocalPerformerTypes": []
+        },
+        "$id": "00000196-c6e2-d455-a9f6-deee03e30000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6e2-d455-a9f6-deee03e30000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Hark, All Ye Nations!",
+    "slug": "2023-10-hark-all-ye-nations",
+    "bookSlug": "music-from-october-2023-general-conference",
+    "bookSectionTitle": "Sunday Morning Session",
+    "songNumber": "3",
+    "songDate": "2023-10-01",
+    "arrangers": [
+      {
+        "personName": "Mack Wilberg"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Tabernacle Choir at Temple Square, The"
+      },
+      {
+        "personName": "The Tabernacle Choir at Temple Square "
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Louis F. Mönch"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "George F. Root"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      },
+      {
+        "name": "Organ"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "Restoration",
+      "joy",
+      "missionary work",
+      "praise",
+      "teaching",
+      "truth"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "accompaniment": false,
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "e267865a60d511eebf2beeeeac1e64fec0309a85",
+          "attributes": {},
+          "composer": [],
+          "description": "The Tabernacle Choir at Temple Square sings \"Hark All Ye Nations.\" From the 2023 October General Conference.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/e2/67/e267865a60d511eebf2beeeeac1e64fec0309a85/2023_10_hark_all_ye_nations.mp3",
+          "duration": 194000,
+          "featuredInstruments": [],
+          "isPartOf": [],
+          "keywords": [
+            "general conference",
+            "music"
+          ],
+          "$lastUpdatedDate": "Fri Jul 26 16:05:15 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "numVocalParts": {},
+          "numVocalPerformers": {
+            "name": "Choir"
+          },
+          "$id": "0000018c-426b-d9cf-a9df-63fb3e070000",
+          "$lang": "eng",
+          "$model": "musicRecording",
+          "$rootId": "0000018c-426b-d9cf-a9df-63fb3e070000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "The Tabernacle Choir at Temple Square sings \"Hark All Ye Nations.\" From the 2023 October General Conference. ",
+          "publicDownload": [],
+          "$publishDate": "Wed Dec 06 22:56:13 EST 2023",
+          "$publishStatus": "PUBLISHED",
+          "recordingOf": [],
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "The Tabernacle Choir at Temple Square sings \"Hark All Ye Nations.\" From the 2023 October General Conference.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Hark All Ye Nations",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "The Tabernacle Choir at Temple Square sings \"Hark All Ye Nations.\" From the 2023 October General Conference.",
+          "shareableTitle": "Hark All Ye Nations",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "05bc63a32c8c11ee850eeeeeac1e3c920776f078",
+            "attributes": {},
+            "description": "Come Unto Jesus",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/1920,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "0E - IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Fri Jul 26 16:05:20 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000189-e0f9-d14e-a18f-ebfb79880000",
+            "$lang": "qnl",
+            "$model": "image",
+            "$rootId": "00000189-e0f9-d14e-a18f-ebfb79880000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "\"Come Unto Jesus\" By Michael Malm - A painting depicting people kneeling at the feet of Christ ",
+            "publicDownload": [],
+            "$publishDate": "Thu Aug 10 15:43:13 EDT 2023",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1600%2C1600/0/default",
+                "height": 1600,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1600%2C1600/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1920%2C1920/0/default",
+                "height": 1920,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1920%2C1920/0/default",
+                "width": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Come Unto Jesus",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Come Unto Jesus",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Come Unto Jesus",
+            "shareableTitle": "Come Unto Jesus",
+            "title": "Come Unto Jesus"
+          },
+          "title": "Hark All Ye Nations",
+          "translator": [],
+          "vocalPerformerTypes": []
+        },
+        "$id": "00000196-c6e2-d455-a9f6-deee03740000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6e2-d455-a9f6-deee03740000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Come, Thou Fount of Every Blessing",
+    "slug": "2023-10-come-thou-fount-of-every-blessing",
+    "bookSlug": "music-from-october-2023-general-conference",
+    "bookSectionTitle": "Sunday Morning Session",
+    "songNumber": "4",
+    "songDate": "2023-10-01",
+    "arrangers": [
+      {
+        "personName": "Mack Wilberg"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Tabernacle Choir at Temple Square, The"
+      },
+      {
+        "personName": "The Tabernacle Choir at Temple Square "
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Robert Robinson"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "John Wyeth"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      },
+      {
+        "name": "Organ"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "Atonement of Jesus Christ",
+      "blessings",
+      "commitment",
+      "discipleship",
+      "grace",
+      "gratitude",
+      "love",
+      "mercy",
+      "praise",
+      "repentance",
+      "song",
+      "temples"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "accompaniment": false,
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "1084559b60d611eea142eeeeac1e8a427f25b194",
+          "attributes": {},
+          "composer": [],
+          "description": "The Tabernacle Choir at Temple Square sings \"Come, Thou Fount of Every Blessing.\" From the 2023 October General Conference.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/10/84/1084559b60d611eea142eeeeac1e8a427f25b194/2023_10_come_thou_fount_of_every_blessing.mp3",
+          "duration": 315000,
+          "featuredInstruments": [],
+          "isPartOf": [],
+          "keywords": [
+            "general conference",
+            "music"
+          ],
+          "$lastUpdatedDate": "Fri Jul 26 16:05:12 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "numVocalParts": {},
+          "numVocalPerformers": {
+            "name": "Choir"
+          },
+          "$id": "0000018c-426b-d9cf-a9df-63fb2bd50000",
+          "$lang": "eng",
+          "$model": "musicRecording",
+          "$rootId": "0000018c-426b-d9cf-a9df-63fb2bd50000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "The Tabernacle Choir at Temple Square sings \"Come, Thou Fount of Every Blessing.\" From the 2023 October General Conference. ",
+          "publicDownload": [],
+          "$publishDate": "Wed Dec 06 22:56:09 EST 2023",
+          "$publishStatus": "PUBLISHED",
+          "recordingOf": [],
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "The Tabernacle Choir at Temple Square sings \"Come, Thou Fount of Every Blessing.\" From the 2023 October General Conference.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Come, Thou Fount of Every Blessing",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "The Tabernacle Choir at Temple Square sings \"Come, Thou Fount of Every Blessing.\" From the 2023 October General Conference.",
+          "shareableTitle": "Come, Thou Fount of Every Blessing",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "05bc63a32c8c11ee850eeeeeac1e3c920776f078",
+            "attributes": {},
+            "description": "Come Unto Jesus",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/1920,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "0E - IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Fri Jul 26 16:05:20 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000189-e0f9-d14e-a18f-ebfb79880000",
+            "$lang": "qnl",
+            "$model": "image",
+            "$rootId": "00000189-e0f9-d14e-a18f-ebfb79880000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "\"Come Unto Jesus\" By Michael Malm - A painting depicting people kneeling at the feet of Christ ",
+            "publicDownload": [],
+            "$publishDate": "Thu Aug 10 15:43:13 EDT 2023",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1600%2C1600/0/default",
+                "height": 1600,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1600%2C1600/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1920%2C1920/0/default",
+                "height": 1920,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1920%2C1920/0/default",
+                "width": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Come Unto Jesus",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Come Unto Jesus",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Come Unto Jesus",
+            "shareableTitle": "Come Unto Jesus",
+            "title": "Come Unto Jesus"
+          },
+          "title": "Come, Thou Fount of Every Blessing",
+          "translator": [],
+          "vocalPerformerTypes": []
+        },
+        "$id": "00000196-c6e2-d455-a9f6-deee02ea0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6e2-d455-a9f6-deee02ea0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "For All the Saints",
+    "slug": "2023-10-for-all-the-saints",
+    "bookSlug": "music-from-october-2023-general-conference",
+    "bookSectionTitle": "Sunday Afternoon Session",
+    "songNumber": "1",
+    "songDate": "2023-10-01",
+    "arrangers": [
+      {
+        "personName": "Mack Wilberg"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Tabernacle Choir at Temple Square, The"
+      },
+      {
+        "personName": "The Tabernacle Choir at Temple Square "
+      }
+    ],
+    "authors": [
+      {
+        "personName": "William Walsham How"
+      },
+      {
+        "personName": "English Hymnal"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Ralph Vaughan Williams"
+      },
+      {
+        "personName": "English Hymnal"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      },
+      {
+        "name": "Organ"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "Family History",
+      "comfort",
+      "courage",
+      "endure to the end",
+      "example",
+      "faith",
+      "funeral",
+      "music",
+      "spirituality",
+      "temples",
+      "trials",
+      "unity"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "accompaniment": false,
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "bbab00b760d911eebe74eeeeac1e55d630639ff8",
+          "attributes": {},
+          "composer": [],
+          "description": "The Tabernacle Choir at Temple Square sings \"For All the Saints.\" From the 2023 October General Conference.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/bb/ab/bbab00b760d911eebe74eeeeac1e55d630639ff8/2023_10_for_all_the_saints.mp3",
+          "duration": 240000,
+          "featuredInstruments": [],
+          "isPartOf": [],
+          "keywords": [
+            "general conference",
+            "music"
+          ],
+          "$lastUpdatedDate": "Fri Jul 26 16:05:16 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "numVocalParts": {},
+          "numVocalPerformers": {
+            "name": "Choir"
+          },
+          "$id": "0000018c-426b-d9cf-a9df-63fb43ae0000",
+          "$lang": "eng",
+          "$model": "musicRecording",
+          "$rootId": "0000018c-426b-d9cf-a9df-63fb43ae0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "The Tabernacle Choir at Temple Square sings \"For All the Saints.\" From the 2023 October General Conference. ",
+          "publicDownload": [],
+          "$publishDate": "Wed Dec 06 22:56:15 EST 2023",
+          "$publishStatus": "PUBLISHED",
+          "recordingOf": [],
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "The Tabernacle Choir at Temple Square sings \"For All the Saints.\" From the 2023 October General Conference.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "For All the Saints",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "The Tabernacle Choir at Temple Square sings \"For All the Saints.\" From the 2023 October General Conference.",
+          "shareableTitle": "For All the Saints",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "05bc63a32c8c11ee850eeeeeac1e3c920776f078",
+            "attributes": {},
+            "description": "Come Unto Jesus",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/1920,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "0E - IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Fri Jul 26 16:05:20 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000189-e0f9-d14e-a18f-ebfb79880000",
+            "$lang": "qnl",
+            "$model": "image",
+            "$rootId": "00000189-e0f9-d14e-a18f-ebfb79880000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "\"Come Unto Jesus\" By Michael Malm - A painting depicting people kneeling at the feet of Christ ",
+            "publicDownload": [],
+            "$publishDate": "Thu Aug 10 15:43:13 EDT 2023",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1600%2C1600/0/default",
+                "height": 1600,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1600%2C1600/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1920%2C1920/0/default",
+                "height": 1920,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1920%2C1920/0/default",
+                "width": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Come Unto Jesus",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Come Unto Jesus",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Come Unto Jesus",
+            "shareableTitle": "Come Unto Jesus",
+            "title": "Come Unto Jesus"
+          },
+          "title": "For All the Saints",
+          "translator": [],
+          "vocalPerformerTypes": []
+        },
+        "$id": "00000196-c6e2-d455-a9f6-deee033e0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6e2-d455-a9f6-deee033e0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Tell Me the Stories of Jesus",
+    "slug": "2023-10-tell-me-the-stories-of-jesus",
+    "bookSlug": "music-from-october-2023-general-conference",
+    "bookSectionTitle": "Sunday Afternoon Session",
+    "songNumber": "2",
+    "songDate": "2023-10-01",
+    "arrangers": [
+      {
+        "personName": "Ryan T. Murphy"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Tabernacle Choir at Temple Square, The"
+      },
+      {
+        "personName": "The Tabernacle Choir at Temple Square "
+      }
+    ],
+    "authors": [
+      {
+        "personName": "W. H. Parker"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Frederic A. Challinor"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      },
+      {
+        "name": "Organ"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "Jesus Christ",
+      "Jesus Christ's ministry",
+      "grace",
+      "love"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "accompaniment": false,
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "b6a4139360d911eeb54deeeeac1e9825c540353f",
+          "attributes": {},
+          "composer": [],
+          "description": "The Tabernacle Choir at Temple Square sings \"Tell Me the Stories of Jesus.\" From the 2023 October General Conference.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/b6/a4/b6a4139360d911eeb54deeeeac1e9825c540353f/2023_10_tell_me_the_stories_of_jesus.mp3",
+          "duration": 249000,
+          "featuredInstruments": [],
+          "isPartOf": [],
+          "keywords": [
+            "general conference",
+            "music"
+          ],
+          "$lastUpdatedDate": "Fri Jul 26 16:05:14 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "numVocalParts": {},
+          "numVocalPerformers": {
+            "name": "Choir"
+          },
+          "$id": "0000018c-426b-d9cf-a9df-63fb37d20000",
+          "$lang": "eng",
+          "$model": "musicRecording",
+          "$rootId": "0000018c-426b-d9cf-a9df-63fb37d20000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "The Tabernacle Choir at Temple Square sings \"Tell Me the Stories of Jesus.\" From the 2023 October General Conference. ",
+          "publicDownload": [],
+          "$publishDate": "Wed Dec 06 22:56:12 EST 2023",
+          "$publishStatus": "PUBLISHED",
+          "recordingOf": [],
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "The Tabernacle Choir at Temple Square sings \"Tell Me the Stories of Jesus.\" From the 2023 October General Conference.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Tell Me the Stories of Jesus",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "The Tabernacle Choir at Temple Square sings \"Tell Me the Stories of Jesus.\" From the 2023 October General Conference.",
+          "shareableTitle": "Tell Me the Stories of Jesus",
+          "title": "Tell Me the Stories of Jesus",
+          "translator": [],
+          "vocalPerformerTypes": []
+        },
+        "$id": "00000196-c6e2-d455-a9f6-deee049e0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6e2-d455-a9f6-deee049e0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Consider the Lilies",
+    "slug": "2023-10-consider-the-lilies",
+    "bookSlug": "music-from-october-2023-general-conference",
+    "bookSectionTitle": "Sunday Afternoon Session",
+    "songNumber": "3",
+    "songDate": "2023-10-01",
+    "arrangers": [
+      {
+        "personName": "A. Laurence Lyon"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Tabernacle Choir at Temple Square, The"
+      },
+      {
+        "personName": "The Tabernacle Choir at Temple Square "
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Roger Hoffman"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Roger Hoffman"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      },
+      {
+        "name": "Organ"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "accompaniment": false,
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "ad302f6060d911eeae0eeeeeac1e81d562b04ddb",
+          "attributes": {},
+          "composer": [],
+          "description": "The Tabernacle Choir at Temple Square sings \"Consider the Lilies.\" From the 2023 October General Conference.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/ad/30/ad302f6060d911eeae0eeeeeac1e81d562b04ddb/2023_10_consider_the_lilies.mp3",
+          "duration": 273000,
+          "featuredInstruments": [],
+          "isPartOf": [],
+          "keywords": [
+            "general conference",
+            "music"
+          ],
+          "$lastUpdatedDate": "Fri Jul 26 16:05:10 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "numVocalParts": {},
+          "numVocalPerformers": {
+            "name": "Choir"
+          },
+          "$id": "0000018c-426b-d9cf-a9df-63fb1fde0000",
+          "$lang": "eng",
+          "$model": "musicRecording",
+          "$rootId": "0000018c-426b-d9cf-a9df-63fb1fde0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "The Tabernacle Choir at Temple Square sings \"Consider the Lilies.\" From the 2023 October General Conference. ",
+          "publicDownload": [],
+          "$publishDate": "Wed Dec 06 22:56:05 EST 2023",
+          "$publishStatus": "PUBLISHED",
+          "recordingOf": [],
+          "related": [],
+          "reqCreditLine": "false",
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "The Tabernacle Choir at Temple Square sings \"Consider the Lilies.\" From the 2023 October General Conference.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Consider the Lilies",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "The Tabernacle Choir at Temple Square sings \"Consider the Lilies.\" From the 2023 October General Conference.",
+          "shareableTitle": "Consider the Lilies",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "05bc63a32c8c11ee850eeeeeac1e3c920776f078",
+            "attributes": {},
+            "description": "Come Unto Jesus",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/1920,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "0E - IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Fri Jul 26 16:05:20 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000189-e0f9-d14e-a18f-ebfb79880000",
+            "$lang": "qnl",
+            "$model": "image",
+            "$rootId": "00000189-e0f9-d14e-a18f-ebfb79880000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "\"Come Unto Jesus\" By Michael Malm - A painting depicting people kneeling at the feet of Christ ",
+            "publicDownload": [],
+            "$publishDate": "Thu Aug 10 15:43:13 EDT 2023",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1600%2C1600/0/default",
+                "height": 1600,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1600%2C1600/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1920%2C1920/0/default",
+                "height": 1920,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1920%2C1920/0/default",
+                "width": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Come Unto Jesus",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Come Unto Jesus",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Come Unto Jesus",
+            "shareableTitle": "Come Unto Jesus",
+            "title": "Come Unto Jesus"
+          },
+          "title": "Consider the Lilies",
+          "translator": [],
+          "vocalPerformerTypes": []
+        },
+        "$id": "00000196-c6e2-d455-a9f6-deee04cf0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6e2-d455-a9f6-deee04cf0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Teach Me to Walk in the Light",
+    "slug": "2023-10-teach-me-to-walk-in-the-light",
+    "bookSlug": "music-from-october-2023-general-conference",
+    "bookSectionTitle": "Sunday Afternoon Session",
+    "songNumber": "4",
+    "songDate": "2023-10-01",
+    "arrangers": [
+      {
+        "personName": "Mack Wilberg"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Tabernacle Choir at Temple Square, The"
+      },
+      {
+        "personName": "The Tabernacle Choir at Temple Square "
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Clara W. McMaster"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Clara W. McMaster"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      },
+      {
+        "name": "Organ"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "Heavenly Father",
+      "Jesus Christ",
+      "commandments",
+      "exaltation",
+      "gospel",
+      "gratitude",
+      "guidance",
+      "joy",
+      "knowledge",
+      "learning",
+      "love",
+      "obedience",
+      "plan of salvation",
+      "praise",
+      "prayer",
+      "teaching",
+      "truth"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "accompaniment": false,
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "b3a3a4d260d911eea449eeeeac1e924b12526119",
+          "attributes": {},
+          "composer": [],
+          "description": "The Tabernacle Choir at Temple Square sings \"Teach Me to Walk in the Light.\" From the 2023 October General Conference.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/b3/a3/b3a3a4d260d911eea449eeeeac1e924b12526119/2023_10_teach_me_to_walk_in_the_light.mp3",
+          "duration": 200000,
+          "featuredInstruments": [],
+          "ipCode": "0 - IRI Owned",
+          "isPartOf": [],
+          "keywords": [
+            "general conference",
+            "music"
+          ],
+          "$lastUpdatedDate": "Fri Jul 26 16:05:11 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "numVocalParts": {},
+          "numVocalPerformers": {
+            "name": "Choir"
+          },
+          "$id": "0000018c-426b-d9cf-a9df-63fb22f70000",
+          "$lang": "eng",
+          "$model": "musicRecording",
+          "$rootId": "0000018c-426b-d9cf-a9df-63fb22f70000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "The Tabernacle Choir at Temple Square sings \"Teach Me to Walk in the Light.\" From the 2023 October General Conference. ",
+          "publicDownload": [],
+          "$publishDate": "Wed Dec 06 22:56:06 EST 2023",
+          "$publishStatus": "PUBLISHED",
+          "recordingOf": [],
+          "related": [],
+          "reqCreditLine": "false",
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "The Tabernacle Choir at Temple Square sings \"Teach Me to Walk in the Light.\" From the 2023 October General Conference.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Teach Me to Walk in the Light",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "The Tabernacle Choir at Temple Square sings \"Teach Me to Walk in the Light.\" From the 2023 October General Conference.",
+          "shareableTitle": "Teach Me to Walk in the Light",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "05bc63a32c8c11ee850eeeeeac1e3c920776f078",
+            "attributes": {},
+            "description": "Come Unto Jesus",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/1920,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "0E - IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Fri Jul 26 16:05:20 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000189-e0f9-d14e-a18f-ebfb79880000",
+            "$lang": "qnl",
+            "$model": "image",
+            "$rootId": "00000189-e0f9-d14e-a18f-ebfb79880000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "\"Come Unto Jesus\" By Michael Malm - A painting depicting people kneeling at the feet of Christ ",
+            "publicDownload": [],
+            "$publishDate": "Thu Aug 10 15:43:13 EDT 2023",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1600%2C1600/0/default",
+                "height": 1600,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1600%2C1600/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1920%2C1920/0/default",
+                "height": 1920,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!1920%2C1920/0/default",
+                "width": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/05bc63a32c8c11ee850eeeeeac1e3c920776f078/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Come Unto Jesus",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Come Unto Jesus",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Come Unto Jesus",
+            "shareableTitle": "Come Unto Jesus",
+            "title": "Come Unto Jesus"
+          },
+          "title": "Teach Me to Walk in the Light",
+          "translator": [],
+          "vocalPerformerTypes": []
+        },
+        "$id": "00000196-c6e2-d455-a9f6-deee04850000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6e2-d455-a9f6-deee04850000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  }
+]

@@ -1,0 +1,2042 @@
+[
+  {
+    "title": "2021 Youth Music Festival",
+    "slug": "2021-03-youth-music-festival-2021-full-video",
+    "bookSlug": "2021-youth-music-festival",
+    "bookSectionTitle": "2021 Youth Music Festival",
+    "songNumber": "0",
+    "songDate": "2021-03-17",
+    "arrangers": [],
+    "artists": [],
+    "authors": [],
+    "composers": [],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": false,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [],
+    "voicings": [],
+    "assets": []
+  },
+  {
+    "title": "He Is Risen",
+    "subtitle": "English and Maori",
+    "slug": "2021-03-he-is-risen",
+    "bookSlug": "2021-youth-music-festival",
+    "bookSectionTitle": "Youth Music Festival",
+    "songNumber": "1",
+    "songDate": "2021-03-17",
+    "arrangers": [
+      {
+        "personName": "Josh Wallace"
+      },
+      {
+        "personName": "Amos Watene"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Nicole Winters"
+      },
+      {
+        "personName": "Myshaan Komene"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Cecil Frances Alexander"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Joachim Neander"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "Easter",
+      "Jesus Christ",
+      "hope",
+      "joy",
+      "music",
+      "plan of salvation",
+      "praise",
+      "resurrection",
+      "worship"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "3f654b9d231fa5ba13a42529c5658d5d68634618",
+          "attributes": {},
+          "composer": [],
+          "description": "Nicole Winters and Myshaan Komene sing “He is Risen” during a youth music festival event held on March 17, 2021.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/3f/65/3f654b9d231fa5ba13a42529c5658d5d68634618/he_is_risen_youth_music_festival_2021.mp3",
+          "duration": 173000,
+          "ipCode": "0 - IRI Owned",
+          "isPartOf": [],
+          "keywords": [
+            "music",
+            "festival",
+            "a great work",
+            "Maori",
+            "he is risen",
+            "youth"
+          ],
+          "$lastUpdatedDate": "Wed Jun 14 04:35:42 EDT 2023",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "0000017f-fb55-d588-a3ff-fff7789b0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "0000017f-fb55-d588-a3ff-fff7789b0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicDownload": [],
+          "$publishDate": "Tue Apr 05 16:05:57 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "Nicole Winters and Myshaan Komene sing “He is Risen” during a youth music festival event held on March 17, 2021.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "He is Risen / Kua ara te Karaiti",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "Nicole Winters and Myshaan Komene sing “He is Risen” during a youth music festival event held on March 17, 2021.",
+          "shareableTitle": "He is Risen / Kua ara te Karaiti",
+          "title": "He is Risen / Kua ara te Karaiti",
+          "translator": []
+        },
+        "$id": "00000196-c6dc-d455-a9f6-dedce13a0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dc-d455-a9f6-dedce13a0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Your Voice",
+    "slug": "2021-03-your-voice",
+    "bookSlug": "2021-youth-music-festival",
+    "bookSectionTitle": "Youth Music Festival",
+    "songNumber": "2",
+    "songDate": "2021-03-17",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "Yahosh Bonner"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "Heavenly Father",
+      "Jesus Christ",
+      "grace",
+      "guidance",
+      "hope",
+      "love",
+      "prayer",
+      "trials"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "745b784c4e4a1fa2a956caaf25b19b43b79530e8",
+          "attributes": {},
+          "composer": [],
+          "description": "Yahosh Bonner performs 'Your Voice' during a youth music festival event held on March 17, 2021",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/74/5b/745b784c4e4a1fa2a956caaf25b19b43b79530e8/2021_youth_music_festival_your_voice.mp3",
+          "duration": 266000,
+          "ipCode": "9 - IRI licensed",
+          "isPartOf": [],
+          "keywords": [
+            "music",
+            "your voice",
+            "festival",
+            "a great work",
+            "youth",
+            "yahosh bonner"
+          ],
+          "$lastUpdatedDate": "Wed Jun 14 04:35:54 EDT 2023",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee8-d3a5-ab95-1ffae11c0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee8-d3a5-ab95-1ffae11c0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicDownload": [],
+          "$publishDate": "Tue Oct 25 07:30:53 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "Yahosh Bonner performs 'Your Voice' during a youth music festival event held on March 17, 2021",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Your Voice",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "Yahosh Bonner performs 'Your Voice' during a youth music festival event held on March 17, 2021",
+          "shareableTitle": "Your Voice",
+          "title": "Your Voice",
+          "translator": []
+        },
+        "$id": "00000196-c6dc-d455-a9f6-dedce15b0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dc-d455-a9f6-dedce15b0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Come to the Well",
+    "subtitle": "Portuguese",
+    "slug": "2021-03-come-to-the-well",
+    "bookSlug": "2021-youth-music-festival",
+    "bookSectionTitle": "Youth Music Festival",
+    "songNumber": "3",
+    "songDate": "2021-03-17",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "Gabrielly Lourenço"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "Jesus Christ",
+      "grace",
+      "love",
+      "mercy"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "c2be83f6ec5a488598077a1d11adfce1555cd880",
+          "attributes": {},
+          "composer": [],
+          "description": "Gabrielly Lourenço sings “Come to the Well” during a youth music festival event held on March 17, 2021.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/c2/be/c2be83f6ec5a488598077a1d11adfce1555cd880/come_to_the_well_portuguese_youth_music_festival_2021.mp3",
+          "duration": 206000,
+          "ipCode": "0 - IRI Owned",
+          "isPartOf": [],
+          "keywords": [
+            "music",
+            "Portuguese",
+            "festival",
+            "a great work",
+            "come to the well",
+            "youth"
+          ],
+          "$lastUpdatedDate": "Wed Jun 14 04:35:49 EDT 2023",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee8-d3a5-ab95-1ffad3d50000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee8-d3a5-ab95-1ffad3d50000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicDownload": [],
+          "$publishDate": "Tue Oct 25 07:30:50 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "Gabrielly Lourenço sings “Come to the Well” during a youth music festival event held on March 17, 2021.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "A Fonte",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "Gabrielly Lourenço sings “Come to the Well” during a youth music festival event held on March 17, 2021.",
+          "shareableTitle": "A Fonte",
+          "title": "A Fonte",
+          "translator": []
+        },
+        "$id": "00000196-c6dc-d455-a9f6-dedce1790000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dc-d455-a9f6-dedce1790000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "If You Believe",
+    "subtitle": "Spanish",
+    "slug": "2021-03-if-you-believe",
+    "bookSlug": "2021-youth-music-festival",
+    "bookSectionTitle": "Youth Music Festival",
+    "songNumber": "4",
+    "songDate": "2021-03-17",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "Ysaac Martínez Marrero"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "faith",
+      "grace",
+      "hope",
+      "mercy"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "ef50d9579f9e42100c291633d434a4a411ced2d9",
+          "attributes": {},
+          "composer": [],
+          "description": "Ysaac Martínez Marrero sings “If You Believe” during a youth music festival event held on March 17, 2021.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/ef/50/ef50d9579f9e42100c291633d434a4a411ced2d9/if_you_believe_spanish_youth_music_festival_2021.mp3",
+          "duration": 165000,
+          "ipCode": "0 - IRI Owned",
+          "isPartOf": [],
+          "keywords": [
+            "music",
+            "festival",
+            "a great work",
+            "Spanish",
+            "if you believe",
+            "youth"
+          ],
+          "$lastUpdatedDate": "Wed Jun 14 04:35:40 EDT 2023",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee8-d3a5-ab95-1ffac2c90000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee8-d3a5-ab95-1ffac2c90000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicDownload": [],
+          "$publishDate": "Tue Oct 25 07:30:46 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "Ysaac Martínez Marrero sings “If You Believe” during a youth music festival event held on March 17, 2021.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Si tú lo Crees",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "Ysaac Martínez Marrero sings “If You Believe” during a youth music festival event held on March 17, 2021.",
+          "shareableTitle": "Si tú lo Crees",
+          "title": "Si tú lo Crees",
+          "translator": []
+        },
+        "$id": "00000196-c6dc-d455-a9f6-dedce1980000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dc-d455-a9f6-dedce1980000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "A Great Work",
+    "slug": "2021-03-a-great-work",
+    "bookSlug": "2021-youth-music-festival",
+    "bookSectionTitle": "Youth Music Festival",
+    "songNumber": "5",
+    "songDate": "2021-03-17",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "faith",
+      "guidance",
+      "plan of salvation",
+      "work"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "0153fe347acddb33b04439005f28df2e2dc243cb",
+          "attributes": {},
+          "composer": [],
+          "description": "<p>“A Great Work” from 2021 Youth Album (English, 2021-01-01).</p>",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/01/53/0153fe347acddb33b04439005f28df2e2dc243cb/a_great_work.mp3",
+          "duration": 240000,
+          "ipCode": "0 - IRI Owned",
+          "isPartOf": [],
+          "keywords": [
+            "music",
+            "Youth Music"
+          ],
+          "$lastUpdatedDate": "Fri Jul 26 15:44:20 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000176-6d94-d240-ad77-7dbe11970000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000176-6d94-d240-ad77-7dbe11970000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "Nik Day sings “A Great Work.”",
+          "publicDownload": [],
+          "$publishDate": "Wed Dec 16 17:03:09 EST 2020",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "<p>“A Great Work” from 2021 Youth Album (English, 2021-01-01).</p>",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "A Great Work",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“A Great Work” from 2021 Youth Album (English, 2021-01-01).",
+          "shareableTitle": "A Great Work",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "810c422b6a6e8358104a1c3ac1458addc8ce0261",
+            "attributes": {},
+            "description": "Youth theme icon - RED",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/36/63/3663fcc3d163676d831795c277236db5c4231230/youth_theme_icon.jpeg",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "0 - IRI Owned",
+            "isPartOf": [],
+            "keywords": [
+              "Youth",
+              "Icons"
+            ],
+            "$lastUpdatedDate": "Fri Aug 25 17:20:58 EDT 2023",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000177-635d-d017-a5ff-eb5d436b0000",
+            "$model": "image",
+            "$rootId": "00000177-635d-d017-a5ff-eb5d436b0000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "Youth theme icon - RED",
+            "publicDownload": [],
+            "$publishDate": "Tue Feb 02 10:29:52 EST 2021",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/810c422b6a6e8358104a1c3ac1458addc8ce0261/full/!320%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/810c422b6a6e8358104a1c3ac1458addc8ce0261/full/!320%2C200/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/810c422b6a6e8358104a1c3ac1458addc8ce0261/full/!640%2C400/0/default",
+                "height": 400,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/810c422b6a6e8358104a1c3ac1458addc8ce0261/full/!640%2C400/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/810c422b6a6e8358104a1c3ac1458addc8ce0261/full/!800%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/810c422b6a6e8358104a1c3ac1458addc8ce0261/full/!800%2C500/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/810c422b6a6e8358104a1c3ac1458addc8ce0261/full/!1280%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/810c422b6a6e8358104a1c3ac1458addc8ce0261/full/!1280%2C800/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/810c422b6a6e8358104a1c3ac1458addc8ce0261/full/!1600%2C1000/0/default",
+                "height": 1000,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/810c422b6a6e8358104a1c3ac1458addc8ce0261/full/!1600%2C1000/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/810c422b6a6e8358104a1c3ac1458addc8ce0261/full/!1920%2C1200/0/default",
+                "height": 1200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/810c422b6a6e8358104a1c3ac1458addc8ce0261/full/!1920%2C1200/0/default",
+                "width": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/810c422b6a6e8358104a1c3ac1458addc8ce0261/full/!60%2C38/0/default",
+                "height": 38,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/810c422b6a6e8358104a1c3ac1458addc8ce0261/full/!60%2C38/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/810c422b6a6e8358104a1c3ac1458addc8ce0261/full/!250%2C156/0/default",
+                "height": 156,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/810c422b6a6e8358104a1c3ac1458addc8ce0261/full/!250%2C156/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/810c422b6a6e8358104a1c3ac1458addc8ce0261/full/!200%2C125/0/default",
+                "height": 125,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/810c422b6a6e8358104a1c3ac1458addc8ce0261/full/!200%2C125/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/810c422b6a6e8358104a1c3ac1458addc8ce0261/full/!100%2C63/0/default",
+                "height": 63,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/810c422b6a6e8358104a1c3ac1458addc8ce0261/full/!100%2C63/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/810c422b6a6e8358104a1c3ac1458addc8ce0261/full/!500%2C313/0/default",
+                "height": 313,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/810c422b6a6e8358104a1c3ac1458addc8ce0261/full/!500%2C313/0/default",
+                "width": 500
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Youth theme icon - RED",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Youth Theme icon",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Youth theme icon - RED",
+            "shareableTitle": "Youth Theme icon",
+            "title": "Youth Theme icon"
+          },
+          "title": "A Great Work",
+          "translator": []
+        },
+        "$id": "00000196-c6dc-d455-a9f6-dedce1d80000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dc-d455-a9f6-dedce1d80000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Etendeni Lami",
+    "subtitle": "Zulu",
+    "slug": "2021-03-etendeni-lami",
+    "bookSlug": "2021-youth-music-festival",
+    "bookSectionTitle": "Youth Music Festival",
+    "songNumber": "6",
+    "songDate": "2021-03-17",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "Nompumelelo Ramasimong"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Langa Mbonambi"
+      },
+      {
+        "personName": "Ndumiso Manana"
+      },
+      {
+        "personName": "Bridgette Mbonambi"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Langa Mbonambi"
+      },
+      {
+        "personName": "Ndumiso Manana"
+      },
+      {
+        "personName": "Bridgette Mbonambi"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "05e8150b916ffa137703460c0856a22a81bb0dda",
+          "attributes": {},
+          "composer": [],
+          "description": "<p>“Etendeni Lami” (Zulu) from 2021 Youth Music Festival (English, 2021-03-17).</p>",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/05/e8/05e8150b916ffa137703460c0856a22a81bb0dda/etendeni_lami_zulu_youth_music_festival_2021.mp3",
+          "duration": 307000,
+          "ipCode": "1 - Not IRI Owned",
+          "isPartOf": [],
+          "keywords": [
+            "music",
+            "festival",
+            "entendeni lami",
+            "a great work",
+            "youth",
+            "Zulu"
+          ],
+          "$lastUpdatedDate": "Wed Jun 14 04:35:50 EDT 2023",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee8-d3a5-ab95-1ffae6be0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee8-d3a5-ab95-1ffae6be0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "Nompumelelo Ramasimong sings “Etendeni Lami” during a youth music festival event held on March 17, 2021.",
+          "publicDownload": [],
+          "$publishDate": "Tue Oct 25 07:30:55 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "<p>“Etendeni Lami” (Zulu) from 2021 Youth Music Festival (English, 2021-03-17).</p>",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Etendeni Lami",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“Etendeni Lami” (Zulu) from 2021 Youth Music Festival (English, 2021-03-17).",
+          "shareableTitle": "Etendeni Lami",
+          "title": "Etendeni Lami",
+          "translator": []
+        },
+        "$id": "00000196-c6dc-d455-a9f6-dedce1fc0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dc-d455-a9f6-dedce1fc0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Never That Bad",
+    "slug": "2021-03-never-that-bad",
+    "bookSlug": "2021-youth-music-festival",
+    "bookSectionTitle": "Youth Music Festival",
+    "songNumber": "7",
+    "songDate": "2021-03-17",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "Aitana Alapa"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "instrumentations": [],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "Heavenly Father",
+      "Jesus Christ",
+      "adversity",
+      "hope",
+      "love"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "43abda71c0b823b9206e8c7d635e1b1d551bf923",
+          "attributes": {},
+          "composer": [],
+          "description": "Aitana Alapa performs 'Never That Bad' during a youth music festival event held on March 17, 2021.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/43/ab/43abda71c0b823b9206e8c7d635e1b1d551bf923/2021_youth_music_festival_never_that_bad.mp3",
+          "duration": 178000,
+          "ipCode": "0 - IRI Owned",
+          "isPartOf": [],
+          "keywords": [
+            "music",
+            "festival",
+            "never that bad",
+            "a great work",
+            "aitana alapa",
+            "youth"
+          ],
+          "$lastUpdatedDate": "Wed Jun 14 04:35:52 EDT 2023",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "0000017a-1b86-dcbd-a77b-dfd623150000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "0000017a-1b86-dcbd-a77b-dfd623150000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicDownload": [],
+          "$publishDate": "Thu Jun 17 15:50:13 EDT 2021",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "Aitana Alapa performs 'Never That Bad' during a youth music festival event held on March 17, 2021.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Never That Bad",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "Aitana Alapa performs 'Never That Bad' during a youth music festival event held on March 17, 2021.",
+          "shareableTitle": "Never That Bad",
+          "title": "Never That Bad",
+          "translator": []
+        },
+        "$id": "00000196-c6dc-d455-a9f6-dedce2400000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dc-d455-a9f6-dedce2400000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "His Kindness In Me",
+    "subtitle": "English and Tagalog",
+    "slug": "2021-03-his-kindness-in-me",
+    "bookSlug": "2021-youth-music-festival",
+    "bookSectionTitle": "Youth Music Festival",
+    "songNumber": "8",
+    "songDate": "2021-03-17",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "Daday Ducena"
+      },
+      {
+        "personName": "Ralph Mallapre"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "Jesus Christ's ministry",
+      "discipleship",
+      "faith",
+      "kindness",
+      "love",
+      "repentance"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "57624060406f4b2229e4745a22a1cf6ad18da686",
+          "attributes": {},
+          "composer": [],
+          "description": "Daday Ducena and Ralph Malapre sing “His Kindness In Me” during a youth music festival event held on March 17, 2021.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/57/62/57624060406f4b2229e4745a22a1cf6ad18da686/his_kindness_in_me_tagalog_youth_music_festival_2021.mp3",
+          "duration": 222000,
+          "ipCode": "0 - IRI Owned",
+          "isPartOf": [],
+          "keywords": [
+            "music",
+            "festival",
+            "Tagalog",
+            "a great work",
+            "his kindness in me",
+            "youth"
+          ],
+          "$lastUpdatedDate": "Wed Jun 14 04:35:43 EDT 2023",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee8-d3a5-ab95-1ffaca450000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee8-d3a5-ab95-1ffaca450000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicDownload": [],
+          "$publishDate": "Tue Oct 25 07:30:47 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "Daday Ducena and Ralph Malapre sing “His Kindness In Me” during a youth music festival event held on March 17, 2021.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "His Kindness in Me / Kabaitan Niya sa Akin",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "Daday Ducena and Ralph Malapre sing “His Kindness In Me” during a youth music festival event held on March 17, 2021.",
+          "shareableTitle": "His Kindness in Me / Kabaitan Niya sa Akin",
+          "title": "His Kindness in Me / Kabaitan Niya sa Akin",
+          "translator": []
+        },
+        "$id": "00000196-c6dc-d455-a9f6-dedce25c0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dc-d455-a9f6-dedce25c0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Free My Soul",
+    "slug": "2021-03-free-my-soul",
+    "bookSlug": "2021-youth-music-festival",
+    "bookSectionTitle": "Youth Music Festival",
+    "songNumber": "9",
+    "songDate": "2021-03-17",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "Joseph Moore"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "instrumentations": [],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "Atonement of Jesus Christ",
+      "forgiveness",
+      "hope",
+      "love",
+      "youth"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "667cdb623ee192f4cde42580cbf719da50f6024e",
+          "attributes": {},
+          "composer": [],
+          "description": "Joseph Moore performs 'Free My Soul' during a youth music festival event held on March 17, 2021.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/66/7c/667cdb623ee192f4cde42580cbf719da50f6024e/2021_youth_music_festival_free_my_soul.mp3",
+          "duration": 223000,
+          "ipCode": "0 - IRI Owned",
+          "isPartOf": [],
+          "keywords": [
+            "music",
+            "festival",
+            "a great work",
+            "free my soul",
+            "youth",
+            "joseph moore"
+          ],
+          "$lastUpdatedDate": "Wed Jun 14 04:35:46 EDT 2023",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "0000017a-1b45-df1e-a57f-ff65e1760000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "0000017a-1b45-df1e-a57f-ff65e1760000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicDownload": [],
+          "$publishDate": "Thu Jun 17 14:40:02 EDT 2021",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "Joseph Moore performs 'Free My Soul' during a youth music festival event held on March 17, 2021.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Free My Soul",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "Joseph Moore performs 'Free My Soul' during a youth music festival event held on March 17, 2021.",
+          "shareableTitle": "Free My Soul",
+          "title": "Free My Soul",
+          "translator": []
+        },
+        "$id": "00000196-c6dc-d455-a9f6-dedce21e0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dc-d455-a9f6-dedce21e0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Hope of Israel",
+    "subtitle": "International Version",
+    "slug": "2021-03-hope-of-israel",
+    "bookSlug": "2021-youth-music-festival",
+    "bookSectionTitle": "Youth Music Festival",
+    "songNumber": "10",
+    "songDate": "2021-03-17",
+    "arrangers": [
+      {
+        "personName": "Kendra Lowe"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Virtual choir"
+      },
+      {
+        "personName": "Russell M. Nelson"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Joseph L. Townsend"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "William Clayson"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "Israel",
+      "Zion",
+      "commitment",
+      "hope",
+      "truth",
+      "youth"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "c1b09bfa3ab588b2bee0d2ecd184c49486eb283d",
+          "attributes": {},
+          "composer": [],
+          "description": "President Russell M. Nelson and youth from around the world perfom 'Hope of Israel' during a youth music festival event held on March 17, 2021",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/c1/b0/c1b09bfa3ab588b2bee0d2ecd184c49486eb283d/2021_youth_music_festival_hope_of_israel.mp3",
+          "duration": 363000,
+          "ipCode": "0 - IRI Owned",
+          "isPartOf": [],
+          "keywords": [
+            "president nelson",
+            "music",
+            "festival",
+            "a great work",
+            "russell m. nelson",
+            "hope of israel",
+            "youth"
+          ],
+          "$lastUpdatedDate": "Wed Jun 14 04:36:14 EDT 2023",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee8-d3a5-ab95-1ffafb8b0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee8-d3a5-ab95-1ffafb8b0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicDownload": [],
+          "$publishDate": "Tue Oct 25 07:31:00 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "President Russell M. Nelson and youth from around the world perfom 'Hope of Israel' during a youth music festival event held on March 17, 2021",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Hope of Israel",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "President Russell M. Nelson and youth from around the world perfom 'Hope of Israel' during a youth music festival event held on March 17, 2021",
+          "shareableTitle": "Hope of Israel",
+          "title": "Hope of Israel",
+          "translator": []
+        },
+        "$id": "00000196-c6dc-d455-a9f6-dedce2770000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dc-d455-a9f6-dedce2770000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "I Am a Son of God",
+    "slug": "2021-03-son-of-god",
+    "bookSlug": "2021-youth-music-festival",
+    "bookSectionTitle": "Bonus Songs",
+    "songNumber": "B1",
+    "songDate": "2021-03-17",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "Ammon Olayan"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "instrumentations": [],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "Heavenly Father",
+      "Jesus Christ",
+      "child of God",
+      "divine worth",
+      "love",
+      "obedience",
+      "prayer"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "475b2b32e75345807101d2f593e41b6c8c82c038",
+          "attributes": {},
+          "composer": [],
+          "description": "Ammon Olayan sings “Son of God”",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/47/5b/475b2b32e75345807101d2f593e41b6c8c82c038/son_of_god_acoustic_youth_music_festival_2021.mp3",
+          "duration": 195000,
+          "ipCode": "0 - IRI Owned",
+          "isPartOf": [],
+          "keywords": [
+            "music",
+            "festival",
+            "a great work",
+            "son of god",
+            "youth"
+          ],
+          "$lastUpdatedDate": "Wed Jun 14 04:35:45 EDT 2023",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000183-4820-d789-a787-fb3c6fdb0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000183-4820-d789-a787-fb3c6fdb0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicDownload": [],
+          "$publishDate": "Fri Sep 16 17:07:08 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "Ammon Olayan sings “Son of God”",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Son of God – Acoustic",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "Ammon Olayan sings “Son of God”",
+          "shareableTitle": "Son of God – Acoustic",
+          "title": "Son of God – Acoustic",
+          "translator": []
+        },
+        "$id": "00000196-c6dc-d455-a9f6-dedce2960000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dc-d455-a9f6-dedce2960000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Come to the Well",
+    "slug": "2021-03-come-to-the-well-alexander",
+    "bookSlug": "2021-youth-music-festival",
+    "bookSectionTitle": "Bonus Songs",
+    "songNumber": "B2",
+    "songDate": "2021-03-17",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "Elyse Alexander"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "Jesus Christ",
+      "grace",
+      "love",
+      "mercy"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "7fbcbbd6060becf1c0a8a2da3afd970dcc32377a",
+          "attributes": {},
+          "composer": [],
+          "description": "Elyse Alexander sings “Come to the Well”",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/7f/bc/7fbcbbd6060becf1c0a8a2da3afd970dcc32377a/come_to_the_well_acoustic_youth_music_festival_2021.mp3",
+          "duration": 171000,
+          "ipCode": "0 - IRI Owned",
+          "isPartOf": [],
+          "keywords": [
+            "music",
+            "festival",
+            "a great work",
+            "come to the well",
+            "youth"
+          ],
+          "$lastUpdatedDate": "Wed Jun 14 04:35:48 EDT 2023",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee8-d3a5-ab95-1ffad7970000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee8-d3a5-ab95-1ffad7970000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicDownload": [],
+          "$publishDate": "Tue Oct 25 07:30:51 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "Elyse Alexander sings “Come to the Well”",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Come to the Well – Acoustic",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "Elyse Alexander sings “Come to the Well”",
+          "shareableTitle": "Come to the Well – Acoustic",
+          "title": "Come to the Well – Acoustic",
+          "translator": []
+        },
+        "$id": "00000196-c6dc-d455-a9f6-dedce2ae0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dc-d455-a9f6-dedce2ae0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "His Kindness in Me",
+    "slug": "2021-03-his-kindness-in-me-bea",
+    "bookSlug": "2021-youth-music-festival",
+    "bookSectionTitle": "Bonus Songs",
+    "songNumber": "B3",
+    "songDate": "2021-03-17",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "Emily Bea"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "Jesus Christ's ministry",
+      "discipleship",
+      "faith",
+      "kindness",
+      "love",
+      "repentance"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "b446b7f001ef353d5dd9f2ddb664dddbcce686c8",
+          "attributes": {},
+          "composer": [],
+          "description": "Emily Bea sings “His Kindness in Me”",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/b4/46/b446b7f001ef353d5dd9f2ddb664dddbcce686c8/2021_youth_music_festival_his_kindness_in_me.mp3",
+          "duration": 179000,
+          "ipCode": "0 - IRI Owned",
+          "isPartOf": [],
+          "keywords": [
+            "president nelson",
+            "music",
+            "festival",
+            "a great work",
+            "russell m. nelson",
+            "hope of israel",
+            "youth"
+          ],
+          "$lastUpdatedDate": "Wed Jun 14 04:35:53 EDT 2023",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee8-d3a5-ab95-1ffadb520000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee8-d3a5-ab95-1ffadb520000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicDownload": [],
+          "$publishDate": "Tue Oct 25 07:30:52 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "Emily Bea sings “His Kindness in Me”",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "His Kindness in Me",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "Emily Bea sings “His Kindness in Me”",
+          "shareableTitle": "His Kindness in Me",
+          "title": "His Kindness in Me",
+          "translator": []
+        },
+        "$id": "00000196-c6dc-d455-a9f6-dedce2c50000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dc-d455-a9f6-dedce2c50000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "If You Believe",
+    "slug": "2021-03-if-you-believe-crowe",
+    "bookSlug": "2021-youth-music-festival",
+    "bookSectionTitle": "Bonus Songs",
+    "songNumber": "B4",
+    "songDate": "2021-03-17",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "Patch Crowe"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "faith",
+      "grace",
+      "hope",
+      "mercy"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "15e431f1fb4111ec5403a35e73b47923ab9b3522",
+          "attributes": {},
+          "composer": [],
+          "description": "Patch Crowe sings, \"If You Believe\"",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/15/e4/15e431f1fb4111ec5403a35e73b47923ab9b3522/2021_youth_music_festival_if_you_believe.mp3",
+          "duration": 152000,
+          "ipCode": "9 - IRI licensed",
+          "isPartOf": [],
+          "keywords": [
+            "president nelson",
+            "music",
+            "festival",
+            "a great work",
+            "russell m. nelson",
+            "hope of israel",
+            "youth"
+          ],
+          "$lastUpdatedDate": "Wed Jun 14 04:35:51 EDT 2023",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee8-d3a5-ab95-1ffae4e50000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee8-d3a5-ab95-1ffae4e50000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicDownload": [],
+          "$publishDate": "Tue Oct 25 07:30:54 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "Patch Crowe sings, \"If You Believe\"",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "If You Believe",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "Patch Crowe sings, \"If You Believe\"",
+          "shareableTitle": "If You Believe",
+          "title": "If You Believe",
+          "translator": []
+        },
+        "$id": "00000196-c6dd-d455-a9f6-dedd03f50000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dd-d455-a9f6-dedd03f50000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "I Will",
+    "slug": "2021-03-i-will",
+    "bookSlug": "2021-youth-music-festival",
+    "bookSectionTitle": "Bonus Songs",
+    "songNumber": "B5",
+    "songDate": "2021-03-17",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "Isabella Hixson"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "commitment",
+      "discipleship",
+      "divine worth",
+      "faith",
+      "love",
+      "ministering",
+      "revelation",
+      "service"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "2cd44c938a7ea69e829aaf6c679c751349ea82db",
+          "attributes": {},
+          "composer": [],
+          "description": "Isabella Hixson sings “I Will”",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/2c/d4/2cd44c938a7ea69e829aaf6c679c751349ea82db/2021_youth_music_festival_i_will.mp3",
+          "duration": 220000,
+          "ipCode": "0 - IRI Owned",
+          "isPartOf": [],
+          "keywords": [
+            "president nelson",
+            "music",
+            "festival",
+            "a great work",
+            "russell m. nelson",
+            "hope of israel",
+            "youth"
+          ],
+          "$lastUpdatedDate": "Wed Jun 14 04:35:47 EDT 2023",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee8-d3a5-ab95-1ffacc270000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee8-d3a5-ab95-1ffacc270000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicDownload": [],
+          "$publishDate": "Tue Oct 25 07:30:48 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "Isabella Hixson sings “I Will”",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "I Will",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "Isabella Hixson sings “I Will”",
+          "shareableTitle": "I Will",
+          "title": "I Will",
+          "translator": []
+        },
+        "$id": "00000196-c6dc-d455-a9f6-dedce2e20000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dc-d455-a9f6-dedce2e20000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Small Things",
+    "slug": "2021-03-small-things",
+    "bookSlug": "2021-youth-music-festival",
+    "bookSectionTitle": "Bonus Songs",
+    "songNumber": "B6",
+    "songDate": "2021-03-17",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "Leah Campbell"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "discipleship",
+      "faith",
+      "obedience"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "ee25ab7d022f579a710580e40917bc57abb831ca",
+          "attributes": {},
+          "composer": [],
+          "description": "Leah Campbell sings “Small Things”",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/ee/25/ee25ab7d022f579a710580e40917bc57abb831ca/small_things_acoustic_youth_music_festival_2021.mp3",
+          "duration": 202000,
+          "ipCode": "0 - IRI Owned",
+          "isPartOf": [],
+          "keywords": [
+            "music",
+            "festival",
+            "a great work",
+            "small things",
+            "youth"
+          ],
+          "$lastUpdatedDate": "Wed Jun 14 04:35:44 EDT 2023",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee8-d3a5-ab95-1ffad2000000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee8-d3a5-ab95-1ffad2000000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicDownload": [],
+          "$publishDate": "Tue Oct 25 07:30:49 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "Leah Campbell sings “Small Things”",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Small Things – Acoustic",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "Leah Campbell sings “Small Things”",
+          "shareableTitle": "Small Things – Acoustic",
+          "title": "Small Things – Acoustic",
+          "translator": []
+        },
+        "$id": "00000196-c6dc-d455-a9f6-dedce3060000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dc-d455-a9f6-dedce3060000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "He Reigns",
+    "slug": "2021-03-he-reigns",
+    "bookSlug": "2021-youth-music-festival",
+    "bookSectionTitle": "Bonus Songs",
+    "songNumber": "B7",
+    "songDate": "2021-03-17",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "Yaphet Bustos"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "Jesus Christ",
+      "grace",
+      "mercy",
+      "nature",
+      "praise",
+      "worship"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "7904d8ae78c1f9e7ec2bea585ffbfcd003759722",
+          "attributes": {},
+          "composer": [],
+          "description": "Yaphet Bustos sings “He Reigns”",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/79/04/7904d8ae78c1f9e7ec2bea585ffbfcd003759722/2021_youth_music_festival_he_reigns.mp3",
+          "duration": 216000,
+          "ipCode": "0 - IRI Owned",
+          "isPartOf": [],
+          "keywords": [
+            "president nelson",
+            "music",
+            "festival",
+            "a great work",
+            "russell m. nelson",
+            "hope of israel",
+            "youth"
+          ],
+          "$lastUpdatedDate": "Wed Jun 14 04:36:00 EDT 2023",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee8-d3a5-ab95-1ffaf5e60000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee8-d3a5-ab95-1ffaf5e60000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicDownload": [],
+          "$publishDate": "Tue Oct 25 07:30:59 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "Yaphet Bustos sings “He Reigns”",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "He Reigns",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "Yaphet Bustos sings “He Reigns”",
+          "shareableTitle": "He Reigns",
+          "title": "He Reigns",
+          "translator": []
+        },
+        "$id": "00000196-c6dc-d455-a9f6-dedce32f0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dc-d455-a9f6-dedce32f0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "One Soul",
+    "slug": "2021-03-one-soul",
+    "bookSlug": "2021-youth-music-festival",
+    "bookSectionTitle": "Bonus Songs",
+    "songNumber": "B8",
+    "songDate": "2021-03-17",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "Madilyn Paige"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "discipleship",
+      "joy",
+      "missionary work",
+      "testimony"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "a1e41970b07037f09ac158de935aa27237278e49",
+          "attributes": {},
+          "composer": [],
+          "description": "Madilyn Paige sings “One Soul”",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/a1/e4/a1e41970b07037f09ac158de935aa27237278e49/2021_youth_music_festival_one_soul.mp3",
+          "duration": 186000,
+          "ipCode": "0 - IRI Owned",
+          "isPartOf": [],
+          "keywords": [
+            "president nelson",
+            "music",
+            "festival",
+            "a great work",
+            "russell m. nelson",
+            "hope of israel",
+            "youth"
+          ],
+          "$lastUpdatedDate": "Wed Jun 14 04:35:41 EDT 2023",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee8-d3a5-ab95-1ffac6860000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee8-d3a5-ab95-1ffac6860000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicDownload": [],
+          "$publishDate": "Tue Oct 25 07:30:47 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "Madilyn Paige sings “One Soul”",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "One Soul",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "Madilyn Paige sings “One Soul”",
+          "shareableTitle": "One Soul",
+          "title": "One Soul",
+          "translator": []
+        },
+        "$id": "00000196-c6dc-d455-a9f6-dedce3520000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dc-d455-a9f6-dedce3520000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "We Know His Name",
+    "slug": "2021-03-we-know-his-name",
+    "bookSlug": "2021-youth-music-festival",
+    "bookSectionTitle": "Bonus Songs",
+    "songNumber": "B9",
+    "songDate": "2021-03-17",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "Kainoa Sorensen"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "Jesus Christ",
+      "discipleship",
+      "love"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "d4693a79e48914d59833ab673f0a434a8781d5b3",
+          "attributes": {},
+          "composer": [],
+          "description": "Kainoa Sorensen sings “We Know His Name”",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/d4/69/d4693a79e48914d59833ab673f0a434a8781d5b3/2021_youth_music_festival_we_know_his_name.mp3",
+          "duration": 164000,
+          "ipCode": "0 - IRI Owned",
+          "isPartOf": [],
+          "keywords": [
+            "president nelson",
+            "music",
+            "festival",
+            "a great work",
+            "russell m. nelson",
+            "hope of israel",
+            "youth"
+          ],
+          "$lastUpdatedDate": "Wed Jun 14 04:35:41 EDT 2023",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee8-d3a5-ab95-1ffac4a00000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee8-d3a5-ab95-1ffac4a00000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicDownload": [],
+          "$publishDate": "Tue Oct 25 07:30:46 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "Kainoa Sorensen sings “We Know His Name”",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "We Know His Name",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "Kainoa Sorensen sings “We Know His Name”",
+          "shareableTitle": "We Know His Name",
+          "title": "We Know His Name",
+          "translator": []
+        },
+        "$id": "00000196-c6dc-d455-a9f6-dedce37c0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dc-d455-a9f6-dedce37c0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  }
+]

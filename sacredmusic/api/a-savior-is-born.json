@@ -1,0 +1,1463 @@
+[
+  {
+    "title": "A Savior Is Born",
+    "slug": "a-savior-is-born",
+    "bookSlug": "a-savior-is-born",
+    "bookSectionTitle": "A Savior Is Born",
+    "songNumber": "1",
+    "songDate": "2021-11-01",
+    "arrangers": [
+      {
+        "personName": "Nik Day"
+      },
+      {
+        "personName": "Scott Wiley"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      },
+      {
+        "name": "Guitar"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": true,
+    "videoAvailable": false,
+    "tags": [
+      "Christmas",
+      "Jesus Christ",
+      "grace",
+      "music",
+      "praise",
+      "salvation"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_ACCOMPANIMENT",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "63b63d62939211ee93adeeeeac1ea374c1ad4ff9",
+          "attributes": {},
+          "composer": [],
+          "description": "Accompaniment for an arrangement of the Christmas carol \"A Savior Is Born.\"",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/63/b6/63b63d62939211ee93adeeeeac1ea374c1ad4ff9/a_savior_is_born_day_acc.mp3",
+          "duration": 195000,
+          "ipCode": "0 - IRI Owned",
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Thu Dec 12 12:53:35 EST 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000193-bc01-ddac-a1b3-febf34d10000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000193-bc01-ddac-a1b3-febf34d10000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "Accompaniment for an arrangement of the Christmas carol \"A Savior Is Born.\"",
+          "publicDownload": [],
+          "$publishDate": "Thu Dec 12 12:53:35 EST 2024",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "Accompaniment for an arrangement of the Christmas carol \"A Savior Is Born.\"",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "A Savior is Born",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "Accompaniment for an arrangement of the Christmas carol \"A Savior Is Born.\"",
+          "shareableTitle": "A Savior is Born",
+          "title": "A Savior is Born",
+          "translator": []
+        },
+        "$id": "00000196-c6d9-d455-a9f6-dedd1aa50000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6d9-d455-a9f6-dedd1aa50000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      },
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "8034b148e97e11eb8572eeeeac1e4782768ab470",
+          "attributes": {},
+          "composer": [],
+          "description": "A Savior Is Born Arranger: Scott Wiley (contractor)Singer: Niklaus Christian Day",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/gospel-living-christmas-music-playlist/2021-05-0005-a-savior-is-born-256k-eng.mp3",
+          "duration": 195000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Sun May 25 21:50:28 EDT 2025",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "0000017b-12ad-d57a-abff-37ef95130000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "0000017b-12ad-d57a-abff-37ef95130000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicDownload": [],
+          "$publishDate": "Wed Aug 04 15:39:30 EDT 2021",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "A Savior Is Born Arranger: Scott Wiley (contractor)Singer: Niklaus Christian Day",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "A Savior Is Born",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "A Savior Is Born Arranger: Scott Wiley (contractor)Singer: Niklaus Christian Day",
+          "shareableTitle": "A Savior Is Born",
+          "thumbnail": {
+            "altText": "Cover art for Christmas album",
+            "annotatedFields": {},
+            "assetID": "2c8651db380411ec8ef9eeeeac1e99aaa1492bf9",
+            "attributes": {},
+            "description": "A Savior Is Born",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/1600,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "1 - Not IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Fri Aug 02 14:23:12 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "0000017d-b4e4-d097-a1ff-befc818e0000",
+            "$lang": "qnl",
+            "$model": "image",
+            "$rootId": "0000017d-b4e4-d097-a1ff-befc818e0000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "A logo showing silhouttes of the three wise men travelling on their camels. The words, \"A Savior Is Born\" are above them.",
+            "publicDownload": [],
+            "$publishDate": "Mon Dec 13 12:43:34 EST 2021",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!1600%2C1600/0/default",
+                "height": 1600,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!1600%2C1600/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "A Savior Is Born",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "A Savior Is Born",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "A Savior Is Born",
+            "shareableTitle": "A Savior Is Born",
+            "title": "A Savior Is Born"
+          },
+          "title": "A Savior Is Born",
+          "translator": []
+        },
+        "$id": "00000196-c6d9-d455-a9f6-dedd1aa50001",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6d9-d455-a9f6-dedd1aa50001",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Angels We Have Heard on High",
+    "slug": "angels-we-have-heard-on-high-wiley",
+    "bookSlug": "a-savior-is-born",
+    "bookSectionTitle": "A Savior Is Born",
+    "songNumber": "2",
+    "songDate": "2021-11-01",
+    "arrangers": [
+      {
+        "personName": "Scott Wiley"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Brady Parks"
+      },
+      {
+        "personName": "Megan Parks"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Anon."
+      },
+      {
+        "personName": "French carol"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Anon."
+      },
+      {
+        "personName": "French carol"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      },
+      {
+        "name": "Piano"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": true,
+    "videoAvailable": false,
+    "tags": [
+      "Christmas",
+      "Jesus Christ",
+      "praise",
+      "worship"
+    ],
+    "voicings": [
+      {
+        "name": "Two-Part"
+      }
+    ],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_ACCOMPANIMENT",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "accompaniment": true,
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "62fe10f2939211eea1f5eeeeac1e686cb74a47fa",
+          "attributes": {},
+          "composer": [],
+          "description": "Accompaniment of an arrangement of the Christmas carol \"Angels We Have Heard on High.\"",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/62/fe/62fe10f2939211eea1f5eeeeac1e686cb74a47fa/angels_we_have_heard_on_high_wiley_acc.mp3",
+          "duration": 204000,
+          "featuredInstruments": [],
+          "ipCode": "0 - IRI Owned",
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Thu Dec 12 12:53:38 EST 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000193-bc01-ddac-a1b3-febf3e910000",
+          "$lang": "eng",
+          "$model": "musicRecording",
+          "$rootId": "00000193-bc01-ddac-a1b3-febf3e910000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "Accompaniment of an arrangement of the Christmas carol \"Angels We Have Heard on High.\"",
+          "publicDownload": [],
+          "$publishDate": "Thu Dec 12 12:53:38 EST 2024",
+          "$publishStatus": "PUBLISHED",
+          "recordingOf": [],
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "Accompaniment of an arrangement of the Christmas carol \"Angels We Have Heard on High.\"",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Angels We Have Heard on High",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "Accompaniment of an arrangement of the Christmas carol \"Angels We Have Heard on High.\"",
+          "shareableTitle": "Angels We Have Heard on High",
+          "title": "Angels We Have Heard on High",
+          "translator": [],
+          "vocalPerformerTypes": []
+        },
+        "$id": "00000196-c6dd-d455-a9f6-dedd6cb40000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dd-d455-a9f6-dedd6cb40000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      },
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "7f48a393e97e11eba803eeeeac1e09e2fee02667",
+          "attributes": {},
+          "composer": [],
+          "description": "Angels We Have Heard on High Scott WileySingers: Brady Parks, Megan Parks",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/gospel-living-christmas-music-playlist/2021-05-0001-angels-we-have-heard-on-high-256k-eng.mp3",
+          "duration": 203000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Sat May 24 10:30:20 EDT 2025",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "0000017a-cf25-d1ab-a57b-df7d30d60000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "0000017a-cf25-d1ab-a57b-df7d30d60000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicDownload": [],
+          "$publishDate": "Thu Jul 22 12:55:58 EDT 2021",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "Angels We Have Heard on High Scott WileySingers: Brady Parks, Megan Parks",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Angels We Have Heard on High",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "Angels We Have Heard on High Scott WileySingers: Brady Parks, Megan Parks",
+          "shareableTitle": "Angels We Have Heard on High",
+          "thumbnail": {
+            "altText": "Cover art for Christmas album",
+            "annotatedFields": {},
+            "assetID": "2c8651db380411ec8ef9eeeeac1e99aaa1492bf9",
+            "attributes": {},
+            "description": "A Savior Is Born",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/1600,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "1 - Not IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Fri Aug 02 14:23:12 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "0000017d-b4e4-d097-a1ff-befc818e0000",
+            "$lang": "qnl",
+            "$model": "image",
+            "$rootId": "0000017d-b4e4-d097-a1ff-befc818e0000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "A logo showing silhouttes of the three wise men travelling on their camels. The words, \"A Savior Is Born\" are above them.",
+            "publicDownload": [],
+            "$publishDate": "Mon Dec 13 12:43:34 EST 2021",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!1600%2C1600/0/default",
+                "height": 1600,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!1600%2C1600/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "A Savior Is Born",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "A Savior Is Born",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "A Savior Is Born",
+            "shareableTitle": "A Savior Is Born",
+            "title": "A Savior Is Born"
+          },
+          "title": "Angels We Have Heard on High",
+          "translator": []
+        },
+        "$id": "00000196-c6dd-d455-a9f6-dedd6cb40001",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dd-d455-a9f6-dedd6cb40001",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Silent Night",
+    "slug": "silent-night-wiley",
+    "bookSlug": "a-savior-is-born",
+    "bookSectionTitle": "A Savior Is Born",
+    "songNumber": "3",
+    "songDate": "2021-11-01",
+    "arrangers": [
+      {
+        "personName": "Scott Wiley"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Laken Quigley"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Joseph Mohr"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Franz Gruber"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Piano"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": false,
+    "tags": [
+      "Christmas",
+      "Jesus Christ",
+      "grace",
+      "lullaby",
+      "peace",
+      "praise",
+      "shepherd",
+      "worship"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_ACCOMPANIMENT",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "613e86a2939211ee8612eeeeac1e2afddf6b9426",
+          "attributes": {},
+          "composer": [],
+          "description": "Accompaniment for an arrangement of the Christmas carol \"Silent Night.\"",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/61/3e/613e86a2939211ee8612eeeeac1e2afddf6b9426/silent_night_wiley_acc.mp3",
+          "duration": 197000,
+          "ipCode": "0 - IRI Owned",
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Thu Dec 12 12:53:40 EST 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000193-bc01-ddac-a1b3-febf47aa0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000193-bc01-ddac-a1b3-febf47aa0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "Accompaniment for an arrangement of the Christmas carol \"Silent Night.\"",
+          "publicDownload": [],
+          "$publishDate": "Thu Dec 12 12:53:40 EST 2024",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "Accompaniment for an arrangement of the Christmas carol \"Silent Night.\"",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Silent Night",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "Accompaniment for an arrangement of the Christmas carol \"Silent Night.\"",
+          "shareableTitle": "Silent Night",
+          "title": "Silent Night",
+          "translator": []
+        },
+        "$id": "00000196-c6dd-d455-a9f6-dedd6cda0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dd-d455-a9f6-dedd6cda0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      },
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "7ffead2ce97e11eb81e2eeeeac1e819983a63d23",
+          "attributes": {},
+          "composer": [],
+          "description": "Silent Night Arrangers: Scott WileySingers: Aaliyah Rose",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/gospel-living-christmas-music-playlist/2021-05-0004-silent-night-256k-eng.mp3",
+          "duration": 197000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Mon May 26 03:06:51 EDT 2025",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "0000017b-12ad-d01c-a97f-92fd2da30000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "0000017b-12ad-d01c-a97f-92fd2da30000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicDownload": [],
+          "$publishDate": "Wed Aug 04 15:39:04 EDT 2021",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "Silent Night Arrangers: Scott WileySingers: Aaliyah Rose",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Silent Night",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "Silent Night Arrangers: Scott WileySingers: Aaliyah Rose",
+          "shareableTitle": "Silent Night",
+          "thumbnail": {
+            "altText": "Cover art for Christmas album",
+            "annotatedFields": {},
+            "assetID": "2c8651db380411ec8ef9eeeeac1e99aaa1492bf9",
+            "attributes": {},
+            "description": "A Savior Is Born",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/1600,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "1 - Not IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Fri Aug 02 14:23:12 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "0000017d-b4e4-d097-a1ff-befc818e0000",
+            "$lang": "qnl",
+            "$model": "image",
+            "$rootId": "0000017d-b4e4-d097-a1ff-befc818e0000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "A logo showing silhouttes of the three wise men travelling on their camels. The words, \"A Savior Is Born\" are above them.",
+            "publicDownload": [],
+            "$publishDate": "Mon Dec 13 12:43:34 EST 2021",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!1600%2C1600/0/default",
+                "height": 1600,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!1600%2C1600/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "A Savior Is Born",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "A Savior Is Born",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "A Savior Is Born",
+            "shareableTitle": "A Savior Is Born",
+            "title": "A Savior Is Born"
+          },
+          "title": "Silent Night",
+          "translator": []
+        },
+        "$id": "00000196-c6dd-d455-a9f6-dedd6cda0001",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dd-d455-a9f6-dedd6cda0001",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Still, Still, Still",
+    "slug": "still-still-still-jones",
+    "bookSlug": "a-savior-is-born",
+    "bookSectionTitle": "A Savior Is Born",
+    "songNumber": "4",
+    "songDate": "2021-11-01",
+    "arrangers": [
+      {
+        "personName": "Jed Jones"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Aaliyah Rose"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Anon."
+      },
+      {
+        "personName": "Austrian carol"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Anon."
+      },
+      {
+        "personName": "Austrian carol"
+      }
+    ],
+    "instrumentations": [],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": false,
+    "tags": [],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_ACCOMPANIMENT",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "60313552939211ee9759eeeeac1ef5a118b4012d",
+          "attributes": {},
+          "composer": [],
+          "description": "Still, Still, Still",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/60/31/60313552939211ee9759eeeeac1ef5a118b4012d/still_still_still_jones_acc.mp3",
+          "duration": 192000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Jan 03 13:34:56 EST 2025",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000194-2d72-d576-af9f-6ff2f45e0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000194-2d72-d576-af9f-6ff2f45e0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "Accompaniment for an arrangement of the Christmas carol \"Still, Still, Still.\"",
+          "publicDownload": [],
+          "$publishDate": "Fri Jan 03 13:34:55 EST 2025",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "Still, Still, Still",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Still, Still, Still",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "Still, Still, Still",
+          "shareableTitle": "Still, Still, Still",
+          "title": "Still, Still, Still",
+          "translator": []
+        },
+        "$id": "00000196-c6dd-d455-a9f6-dedd6cfe0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dd-d455-a9f6-dedd6cfe0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      },
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "808b0e9ae97e11ebb127eeeeac1e28a40e2c43cc",
+          "attributes": {},
+          "composer": [],
+          "description": "Still, Still, Still  Arranger: Jed Jones Singer: Aaliyah Rose",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/gospel-living-christmas-music-playlist/2021-05-0006-still-still-still-256k-eng.mp3",
+          "duration": 191000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Sat May 24 13:47:44 EDT 2025",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "0000017b-12ae-d01c-a97f-92fe16670000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "0000017b-12ae-d01c-a97f-92fe16670000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicDownload": [],
+          "$publishDate": "Wed Aug 04 15:40:04 EDT 2021",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "Still, Still, Still  Arranger: Jed Jones Singer: Aaliyah Rose",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Still, Still, Still",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "Still, Still, Still Arranger: Jed Jones Singer: Aaliyah Rose",
+          "shareableTitle": "Still, Still, Still",
+          "thumbnail": {
+            "altText": "Cover art for Christmas album",
+            "annotatedFields": {},
+            "assetID": "2c8651db380411ec8ef9eeeeac1e99aaa1492bf9",
+            "attributes": {},
+            "description": "A Savior Is Born",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/1600,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "1 - Not IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Fri Aug 02 14:23:12 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "0000017d-b4e4-d097-a1ff-befc818e0000",
+            "$lang": "qnl",
+            "$model": "image",
+            "$rootId": "0000017d-b4e4-d097-a1ff-befc818e0000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "A logo showing silhouttes of the three wise men travelling on their camels. The words, \"A Savior Is Born\" are above them.",
+            "publicDownload": [],
+            "$publishDate": "Mon Dec 13 12:43:34 EST 2021",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!1600%2C1600/0/default",
+                "height": 1600,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!1600%2C1600/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "A Savior Is Born",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "A Savior Is Born",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "A Savior Is Born",
+            "shareableTitle": "A Savior Is Born",
+            "title": "A Savior Is Born"
+          },
+          "title": "Still, Still, Still",
+          "translator": []
+        },
+        "$id": "00000196-c6dd-d455-a9f6-dedd6cfe0001",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dd-d455-a9f6-dedd6cfe0001",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "The First Noel",
+    "slug": "the-first-noel-jones",
+    "bookSlug": "a-savior-is-born",
+    "bookSectionTitle": "A Savior Is Born",
+    "songNumber": "5",
+    "songDate": "2021-11-01",
+    "arrangers": [
+      {
+        "personName": "Jed Jones"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Jed Jones"
+      },
+      {
+        "personName": "Anna Kennedy"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Anon."
+      },
+      {
+        "personName": "Traditional English carol"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Anon."
+      },
+      {
+        "personName": "Traditional English carol"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Piano"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": false,
+    "tags": [
+      "Atonement of Jesus Christ",
+      "Christmas",
+      "Jesus Christ",
+      "praise",
+      "shepherd",
+      "worship"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_ACCOMPANIMENT",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "626860a2939211eeb89eeeeeac1e7ce7a6c3ed9c",
+          "attributes": {},
+          "composer": [],
+          "description": "Accompaniment of an arrangement of the Christmas carol \"The First Noel.\"",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/62/68/626860a2939211eeb89eeeeeac1e7ce7a6c3ed9c/the_first_noel_jones_acc.mp3",
+          "duration": 188000,
+          "ipCode": "0 - IRI Owned",
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Thu Dec 12 12:53:44 EST 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000193-bc01-ddac-a1b3-febf57210000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000193-bc01-ddac-a1b3-febf57210000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "Accompaniment of an arrangement of the Christmas carol \"The First Noel.\"",
+          "publicDownload": [],
+          "$publishDate": "Thu Dec 12 12:53:44 EST 2024",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "Accompaniment of an arrangement of the Christmas carol \"The First Noel.\"",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "The First Noel",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "Accompaniment of an arrangement of the Christmas carol \"The First Noel.\"",
+          "shareableTitle": "The First Noel",
+          "title": "The First Noel",
+          "translator": []
+        },
+        "$id": "00000196-c6dd-d455-a9f6-dedd6d250000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dd-d455-a9f6-dedd6d250000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      },
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "7f8d269de97e11eb8863eeeeac1ec9db9e1e3f66",
+          "attributes": {},
+          "composer": [],
+          "description": "The First Noel Arrangers: Jed JonesSingers: Jed Jones, Anna Kennedy",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/gospel-living-christmas-music-playlist/2021-05-0002-the-first-noel-256k-eng.mp3",
+          "duration": 188000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri May 23 18:11:31 EDT 2025",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "0000017a-cf4c-d895-adfb-ff7c41e50000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "0000017a-cf4c-d895-adfb-ff7c41e50000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicDownload": [],
+          "$publishDate": "Thu Jul 22 13:38:39 EDT 2021",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "The First Noel Arrangers: Jed JonesSingers: Jed Jones, Anna Kennedy",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "The First Noel",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "The First Noel Arrangers: Jed JonesSingers: Jed Jones, Anna Kennedy",
+          "shareableTitle": "The First Noel",
+          "thumbnail": {
+            "altText": "Cover art for Christmas album",
+            "annotatedFields": {},
+            "assetID": "2c8651db380411ec8ef9eeeeac1e99aaa1492bf9",
+            "attributes": {},
+            "description": "A Savior Is Born",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/1600,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "1 - Not IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Fri Aug 02 14:23:12 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "0000017d-b4e4-d097-a1ff-befc818e0000",
+            "$lang": "qnl",
+            "$model": "image",
+            "$rootId": "0000017d-b4e4-d097-a1ff-befc818e0000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "A logo showing silhouttes of the three wise men travelling on their camels. The words, \"A Savior Is Born\" are above them.",
+            "publicDownload": [],
+            "$publishDate": "Mon Dec 13 12:43:34 EST 2021",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!1600%2C1600/0/default",
+                "height": 1600,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!1600%2C1600/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "A Savior Is Born",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "A Savior Is Born",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "A Savior Is Born",
+            "shareableTitle": "A Savior Is Born",
+            "title": "A Savior Is Born"
+          },
+          "title": "The First Noel",
+          "translator": []
+        },
+        "$id": "00000196-c6dd-d455-a9f6-dedd6d250001",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dd-d455-a9f6-dedd6d250001",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "O Little Town of Bethlehem",
+    "slug": "o-little-town-of-bethlehem-wiley",
+    "bookSlug": "a-savior-is-born",
+    "bookSectionTitle": "A Savior Is Born",
+    "songNumber": "6",
+    "songDate": "2021-11-01",
+    "arrangers": [
+      {
+        "personName": "Scott Wiley"
+      },
+      {
+        "personName": "Clara Campbell"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Clara Campbell"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Phillips Brooks"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Lewis H. Redner"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Piano"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": false,
+    "tags": [
+      "Christmas",
+      "Jesus Christ",
+      "praise"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "7fc7e5b1e97e11ebae56eeeeac1e51e4c7fd6b90",
+          "attributes": {},
+          "composer": [],
+          "description": "O Little Town of Bethlehem Arrangers: Clara Campbell and Scott WileySingers: Laken Quigley",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/gospel-living-christmas-music-playlist/2021-05-0003-o-little-town-of-bethlehem-256k-eng.mp3",
+          "duration": 299000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Sat May 24 14:37:00 EDT 2025",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "0000017a-cfaf-d996-ad7b-dfaf48750000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "0000017a-cfaf-d996-ad7b-dfaf48750000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicDownload": [],
+          "$publishDate": "Thu Jul 22 15:26:48 EDT 2021",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "O Little Town of Bethlehem Arrangers: Clara Campbell and Scott WileySingers: Laken Quigley",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "O Little Town of Bethlehem",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "O Little Town of Bethlehem Arrangers: Clara Campbell and Scott WileySingers: Laken Quigley",
+          "shareableTitle": "O Little Town of Bethlehem",
+          "thumbnail": {
+            "altText": "Cover art for Christmas album",
+            "annotatedFields": {},
+            "assetID": "2c8651db380411ec8ef9eeeeac1e99aaa1492bf9",
+            "attributes": {},
+            "description": "A Savior Is Born",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/1600,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "1 - Not IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Fri Aug 02 14:23:12 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "0000017d-b4e4-d097-a1ff-befc818e0000",
+            "$lang": "qnl",
+            "$model": "image",
+            "$rootId": "0000017d-b4e4-d097-a1ff-befc818e0000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "A logo showing silhouttes of the three wise men travelling on their camels. The words, \"A Savior Is Born\" are above them.",
+            "publicDownload": [],
+            "$publishDate": "Mon Dec 13 12:43:34 EST 2021",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!1600%2C1600/0/default",
+                "height": 1600,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!1600%2C1600/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "A Savior Is Born",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "A Savior Is Born",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "A Savior Is Born",
+            "shareableTitle": "A Savior Is Born",
+            "title": "A Savior Is Born"
+          },
+          "title": "O Little Town of Bethlehem",
+          "translator": []
+        },
+        "$id": "00000196-c6dd-d455-a9f6-dedd6d440000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dd-d455-a9f6-dedd6d440000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  }
+]

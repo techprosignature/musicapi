@@ -1,0 +1,426 @@
+[
+  {
+    "title": "Arise",
+    "slug": "arise",
+    "bookSlug": "arise-strength-of-youth-media-2012",
+    "bookSectionTitle": "Arise: Strength of Youth Media 2012",
+    "songNumber": "1",
+    "songDate": "2012-01-01",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "Marcus Muti"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Chase Baker"
+      },
+      {
+        "personName": "Nik Day"
+      },
+      {
+        "personName": "Taylor Olson"
+      },
+      {
+        "personName": "Todd Schwartzman"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Chase Baker"
+      },
+      {
+        "personName": "Nik Day"
+      },
+      {
+        "personName": "Taylor Olson"
+      },
+      {
+        "personName": "Todd Schwartzman"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      },
+      {
+        "name": "Piano"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": true,
+    "videoAvailable": true,
+    "tags": [
+      "commitment",
+      "courage",
+      "faith",
+      "humility"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "958c49374006b6b6a9368f94b9c3d154b17fa3da",
+          "attributes": {},
+          "composer": [],
+          "description": "“Arise” from Strength of Youth Media 2012 (English, 2012-01-01).",
+          "distributionUrl": "https://broadcast2.lds.org/strength-of-youth/2011-12-20-arise-160k-eng.mp3",
+          "duration": 223000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Tue Nov 26 21:16:16 EST 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000183-2a82-d9d2-a5a3-fe9a5f300000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000183-2a82-d9d2-a5a3-fe9a5f300000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“Arise” from Strength of Youth Media 2012 (English, 2012-01-01).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Sat Sep 10 23:05:30 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“Arise” from Strength of Youth Media 2012 (English, 2012-01-01).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Arise",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“Arise” from Strength of Youth Media 2012 (English, 2012-01-01).",
+          "shareableTitle": "Arise",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "86d1956143a560531b93f64341a01364e40c90bf",
+            "attributes": {},
+            "description": "Come, Follow Me, We Believe (yc)",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/500,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "9 - IRI licensed",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Tue Nov 26 21:16:31 EST 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "0000017a-3aa6-d0e3-a7fb-7fe7ab070000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "0000017a-3aa6-d0e3-a7fb-7fe7ab070000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "A cover with a conglomerate of photos of men and women of varying ages and ethnicities. The words \"We Believe\" are across the middle of the cover with many different sized squares of color behind.",
+            "publicDownload": [],
+            "$publishDate": "Wed Jun 23 16:53:59 EDT 2021",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Come, Follow Me, We Believe (yc)",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Come, Follow Me, We Believe (yc)",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Come, Follow Me, We Believe (yc)",
+            "shareableTitle": "Come, Follow Me, We Believe (yc)",
+            "title": "Come, Follow Me, We Believe (yc)"
+          },
+          "title": "Arise",
+          "translator": []
+        },
+        "$id": "00000196-c6d8-d455-a9f6-dedcd01a0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6d8-d455-a9f6-dedcd01a0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Arise to the Mountain",
+    "slug": "arise-to-the-mountain",
+    "bookSlug": "arise-strength-of-youth-media-2012",
+    "bookSectionTitle": "Arise: Strength of Youth Media 2012",
+    "songNumber": "2",
+    "songDate": "2012-01-01",
+    "arrangers": [],
+    "artists": [],
+    "authors": [
+      {
+        "personName": "Joel H. Johnson"
+      },
+      {
+        "personName": "Anon."
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Ebenezer Beesley"
+      },
+      {
+        "personName": "Anon."
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      },
+      {
+        "name": "Piano"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": true,
+    "videoAvailable": true,
+    "tags": [
+      "Jesus Christ",
+      "Restoration",
+      "Zion",
+      "commitment",
+      "exaltation",
+      "learning",
+      "obedience",
+      "service",
+      "temples",
+      "truth",
+      "wisdom"
+    ],
+    "voicings": [
+      {
+        "name": "Two-Part"
+      }
+    ],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_ACCOMPANIMENT",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "16646c939ff6de71631773cf1b493ac9d2405d09",
+          "attributes": {},
+          "composer": [],
+          "description": "“Arise to the Mountain” from Strength of Youth Media 2012 (English, 2012-01-01).",
+          "distributionUrl": "https://broadcast2.lds.org/general-young-women-meeting/2012-april/2012-03-0030-arise-to-the-mountain-without-words-256k-eng.mp3",
+          "duration": 216000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Tue Nov 26 21:16:11 EST 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000183-2a82-d9d2-a5a3-fe9a58370000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000183-2a82-d9d2-a5a3-fe9a58370000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“Arise to the Mountain” from Strength of Youth Media 2012 (English, 2012-01-01).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Sat Sep 10 23:05:28 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“Arise to the Mountain” from Strength of Youth Media 2012 (English, 2012-01-01).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Arise to the Mountain",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“Arise to the Mountain” from Strength of Youth Media 2012 (English, 2012-01-01).",
+          "shareableTitle": "Arise to the Mountain",
+          "title": "Arise to the Mountain",
+          "translator": []
+        },
+        "$id": "00000196-c6d8-d455-a9f6-dedcd07c0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6d8-d455-a9f6-dedcd07c0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      },
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "5efe093bbb80c4bcd8b585b0d6685d7ddd5fde63",
+          "attributes": {},
+          "composer": [],
+          "description": "“Arise to the Mountain” from Strength of Youth Media 2012 (English, 2012-01-01).",
+          "distributionUrl": "https://broadcast2.lds.org/general-young-women-meeting/2012-april/2012-03-0030-arise-to-the-mountain-256k-eng.mp3",
+          "duration": 216000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Tue Nov 26 21:16:15 EST 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000183-2a82-d9d2-a5a3-fe9a5e470000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000183-2a82-d9d2-a5a3-fe9a5e470000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“Arise to the Mountain” from Strength of Youth Media 2012 (English, 2012-01-01).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Sat Sep 10 23:05:30 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“Arise to the Mountain” from Strength of Youth Media 2012 (English, 2012-01-01).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Arise to the Mountain",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“Arise to the Mountain” from Strength of Youth Media 2012 (English, 2012-01-01).",
+          "shareableTitle": "Arise to the Mountain",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "86d1956143a560531b93f64341a01364e40c90bf",
+            "attributes": {},
+            "description": "Come, Follow Me, We Believe (yc)",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/500,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "9 - IRI licensed",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Tue Nov 26 21:16:31 EST 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "0000017a-3aa6-d0e3-a7fb-7fe7ab070000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "0000017a-3aa6-d0e3-a7fb-7fe7ab070000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "A cover with a conglomerate of photos of men and women of varying ages and ethnicities. The words \"We Believe\" are across the middle of the cover with many different sized squares of color behind.",
+            "publicDownload": [],
+            "$publishDate": "Wed Jun 23 16:53:59 EDT 2021",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Come, Follow Me, We Believe (yc)",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Come, Follow Me, We Believe (yc)",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Come, Follow Me, We Believe (yc)",
+            "shareableTitle": "Come, Follow Me, We Believe (yc)",
+            "title": "Come, Follow Me, We Believe (yc)"
+          },
+          "title": "Arise to the Mountain",
+          "translator": []
+        },
+        "$id": "00000196-c6d8-d455-a9f6-dedcd07c0001",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6d8-d455-a9f6-dedcd07c0001",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  }
+]

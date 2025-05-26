@@ -1,0 +1,2008 @@
+[
+  {
+    "title": "If We Love Him",
+    "slug": "if-we-love-him-arp299",
+    "bookSlug": "strong-remixes",
+    "songNumber": "1",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "Lauryn Judd"
+      },
+      {
+        "personName": "ARP 299.00"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": false,
+    "tags": [
+      "Jesus Christ",
+      "commitment",
+      "discipleship",
+      "grace",
+      "love",
+      "obedience"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "20eb8877c2c00181e9132a93d3c12b20ead98027",
+          "attributes": {},
+          "composer": [],
+          "description": "Remix – Featuring Lauryn Judd and ARP299",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/20/eb/20eb8877c2c00181e9132a93d3c12b20ead98027/if_we_love_him_strong_remixes.mp3",
+          "duration": 245000,
+          "ipCode": "0 - IRI Owned",
+          "isPartOf": [],
+          "keywords": [
+            "strong",
+            "music",
+            "youth",
+            "remix"
+          ],
+          "$lastUpdatedDate": "Sun Oct 13 06:11:02 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$owningSite": "gospel-living",
+          "$id": "00000173-da5d-dcfc-a3ff-fefd46bd0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000173-da5d-dcfc-a3ff-fefd46bd0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicDownload": [],
+          "$publishDate": "Mon Aug 10 17:53:32 EDT 2020",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "Remix – Featuring Lauryn Judd and ARP299",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "If We Love Him",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "Remix – Featuring Lauryn Judd and ARP299",
+          "shareableTitle": "If We Love Him",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "eef3760b44f2fc3ef94158e496b0bc0eaccc3b39",
+            "attributes": {},
+            "description": "Strong Playlist",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/1920,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "0 - IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Sun Oct 13 08:28:26 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$owningSite": "gospel-living",
+            "$id": "00000173-0ad3-dfde-a17f-6fd357640000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000173-0ad3-dfde-a17f-6fd357640000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "Hexagon shapes with varying patterns of green, yellow, red and blue in different shades cover the image. The center hexagon is white with the blue text \"Strong\" in the center.",
+            "publicDownload": [],
+            "$publishDate": "Wed Jul 01 10:41:27 EDT 2020",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!1600%2C1600/0/default",
+                "height": 1600,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!1600%2C1600/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!1920%2C1920/0/default",
+                "height": 1920,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!1920%2C1920/0/default",
+                "width": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Strong Playlist",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "No Title",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Strong Playlist",
+            "shareableTitle": "No Title",
+            "title": "No Title"
+          },
+          "title": "If We Love Him",
+          "translator": []
+        },
+        "$id": "00000196-c6dc-d455-a9f6-dedc2b860000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dc-d455-a9f6-dedc2b860000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "I Will Follow Him",
+    "slug": "i-will-follow-him-arp299",
+    "bookSlug": "strong-remixes",
+    "songNumber": "2",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "Kalaya Arne"
+      },
+      {
+        "personName": "ARP 299.00"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Kalaya Arne"
+      },
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Kalaya Arne"
+      },
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": false,
+    "tags": [
+      "Jesus Christ",
+      "agency",
+      "commitment",
+      "faith",
+      "guidance",
+      "love",
+      "plan of salvation"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "fe8d4230a8215e1017623f0c92e267ad31b5af8b",
+          "attributes": {},
+          "composer": [],
+          "description": "“I Will Follow Him” from Strong (Remixes) (English).",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/fe/8d/fe8d4230a8215e1017623f0c92e267ad31b5af8b/i_will_follow_him_strong_remixes.mp3",
+          "duration": 192000,
+          "ipCode": "9 - IRI licensed",
+          "isPartOf": [],
+          "keywords": [
+            "strong",
+            "music",
+            "youth",
+            "remix"
+          ],
+          "$lastUpdatedDate": "Sun Oct 13 06:10:57 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-40af-d6e6-a59e-73ff999e0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-40af-d6e6-a59e-73ff999e0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“I Will Follow Him” from Strong (Remixes) (English).",
+          "publicDownload": [],
+          "$publishDate": "Thu Nov 03 23:29:20 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "reqCreditLine": "false",
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“I Will Follow Him” from Strong (Remixes) (English).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "I Will Follow Him",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“I Will Follow Him” from Strong (Remixes) (English).",
+          "shareableTitle": "I Will Follow Him",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "eef3760b44f2fc3ef94158e496b0bc0eaccc3b39",
+            "attributes": {},
+            "description": "Strong Playlist",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/1920,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "0 - IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Sun Oct 13 08:28:26 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$owningSite": "gospel-living",
+            "$id": "00000173-0ad3-dfde-a17f-6fd357640000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000173-0ad3-dfde-a17f-6fd357640000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "Hexagon shapes with varying patterns of green, yellow, red and blue in different shades cover the image. The center hexagon is white with the blue text \"Strong\" in the center.",
+            "publicDownload": [],
+            "$publishDate": "Wed Jul 01 10:41:27 EDT 2020",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!1600%2C1600/0/default",
+                "height": 1600,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!1600%2C1600/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!1920%2C1920/0/default",
+                "height": 1920,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!1920%2C1920/0/default",
+                "width": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Strong Playlist",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "No Title",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Strong Playlist",
+            "shareableTitle": "No Title",
+            "title": "No Title"
+          },
+          "title": "I Will Follow Him",
+          "translator": []
+        },
+        "$id": "00000196-c6dc-d455-a9f6-dedc2ba50000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dc-d455-a9f6-dedc2ba50000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Strong",
+    "slug": "strong-arp299",
+    "bookSlug": "strong-remixes",
+    "songNumber": "3",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "McKenna Hixson"
+      },
+      {
+        "personName": "ARP 299.00"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Nik Day"
+      },
+      {
+        "personName": "McKenna Hixson"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Nik Day"
+      },
+      {
+        "personName": "McKenna Hixson"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": false,
+    "tags": [
+      "child of God",
+      "courage",
+      "divine worth",
+      "repentance"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "8f5f3c382dafb1759875e9349875e5fb1b4bdaed",
+          "attributes": {},
+          "composer": [],
+          "description": "Remix – Featuring McKenna Hixson and ARP299",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/8f/5f/8f5f3c382dafb1759875e9349875e5fb1b4bdaed/strong_remixes.mp3",
+          "duration": 201000,
+          "ipCode": "0 - IRI Owned",
+          "isPartOf": [],
+          "keywords": [
+            "strong",
+            "music",
+            "youth",
+            "remix"
+          ],
+          "$lastUpdatedDate": "Sun Oct 13 05:25:44 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$owningSite": "gospel-living",
+          "$id": "00000173-77bb-de67-ad73-ffbf47440000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000173-77bb-de67-ad73-ffbf47440000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicDownload": [],
+          "$publishDate": "Wed Jul 22 14:13:48 EDT 2020",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "Remix – Featuring McKenna Hixson and ARP299",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Strong",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "Remix – Featuring McKenna Hixson and ARP299",
+          "shareableTitle": "Strong",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "eef3760b44f2fc3ef94158e496b0bc0eaccc3b39",
+            "attributes": {},
+            "description": "Strong Playlist",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/1920,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "0 - IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Sun Oct 13 08:28:26 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$owningSite": "gospel-living",
+            "$id": "00000173-0ad3-dfde-a17f-6fd357640000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000173-0ad3-dfde-a17f-6fd357640000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "Hexagon shapes with varying patterns of green, yellow, red and blue in different shades cover the image. The center hexagon is white with the blue text \"Strong\" in the center.",
+            "publicDownload": [],
+            "$publishDate": "Wed Jul 01 10:41:27 EDT 2020",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!1600%2C1600/0/default",
+                "height": 1600,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!1600%2C1600/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!1920%2C1920/0/default",
+                "height": 1920,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!1920%2C1920/0/default",
+                "width": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Strong Playlist",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "No Title",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Strong Playlist",
+            "shareableTitle": "No Title",
+            "title": "No Title"
+          },
+          "title": "Strong",
+          "translator": []
+        },
+        "$id": "00000196-c6dc-d455-a9f6-dedc2bc10000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dc-d455-a9f6-dedc2bc10000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Good Day",
+    "slug": "good-day",
+    "bookSlug": "strong-remixes",
+    "songNumber": "4",
+    "arrangers": [
+      {
+        "personName": "Mitch Davis"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Liahona Olayan"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "Creator",
+      "faith",
+      "happiness",
+      "hope",
+      "joy",
+      "love",
+      "trials"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_ACCOMPANIMENT",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "9fecbc2066e78e7c4a046cd88515d021e364b877",
+          "attributes": {},
+          "composer": [],
+          "description": "“Good Day” from 2020 Youth Album (English, 2020-06-05).",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/9f/ec/9fecbc2066e78e7c4a046cd88515d021e364b877/good_day.mp3",
+          "duration": 168000,
+          "isPartOf": [],
+          "keywords": [
+            "music",
+            "Youth Music",
+            "youth"
+          ],
+          "$lastUpdatedDate": "Mon Jul 15 15:45:55 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "0000017f-fbb7-d44e-a7ff-fbf7999f0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "0000017f-fbb7-d44e-a7ff-fbf7999f0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“Good Day” from 2020 Youth Album (English, 2020-06-05).",
+          "publicDownload": [],
+          "$publishDate": "Tue Apr 05 17:53:07 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“Good Day” from 2020 Youth Album (English, 2020-06-05).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Good Day",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“Good Day” from 2020 Youth Album (English, 2020-06-05).",
+          "shareableTitle": "Good Day",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "bdf288514c35ce9f3e11c34e0a4e8dcace4393f2",
+            "attributes": {},
+            "description": "Illustration of a blue rectangle with smaller different color blue and white rectangles inside of each other.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/800,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "0 - IRI Owned",
+            "isPartOf": [],
+            "keywords": [
+              "Optical Designs",
+              "Davie, Jolene",
+              "Text",
+              "Abstract designs"
+            ],
+            "$lastUpdatedDate": "Wed Mar 05 00:58:14 EST 2025",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000177-cf85-d691-a9f7-cfcfa0a60001",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000177-cf85-d691-a9f7-cfcfa0a60001",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "Illustration of a blue rectangle with smaller different color blue and white rectangles inside of each other.",
+            "publicDownload": [],
+            "$publishDate": "Tue Feb 23 10:32:57 EST 2021",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "No",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Illustration of a blue rectangle with smaller different color blue and white rectangles inside of each other.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Youth Theme- Go and Do",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Illustration of a blue rectangle with smaller different color blue and white rectangles inside of each other.",
+            "shareableTitle": "Youth Theme- Go and Do",
+            "title": "Youth Theme- Go and Do"
+          },
+          "title": "Good Day",
+          "translator": []
+        },
+        "$id": "00000196-c6db-d455-a9f6-dedfd32e0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6db-d455-a9f6-dedfd32e0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      },
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "6091209f078a55c1f523e9fbaaca96bec3045cbe",
+          "attributes": {},
+          "composer": [],
+          "description": "“Good Day” from 2020 Youth Album (English, 2020-06-05).",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/60/91/6091209f078a55c1f523e9fbaaca96bec3045cbe/good_day.mp3",
+          "duration": 168000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Jul 26 15:24:03 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$owningSite": "gospel-living",
+          "$id": "00000172-8110-d9cf-a17f-b1bb03910000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000172-8110-d9cf-a17f-b1bb03910000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“Good Day” from 2020 Youth Album (English, 2020-06-05).",
+          "publicDownload": [],
+          "$publishDate": "Thu Jun 04 16:40:09 EDT 2020",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“Good Day” from 2020 Youth Album (English, 2020-06-05).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Good Day",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“Good Day” from 2020 Youth Album (English, 2020-06-05).",
+          "shareableTitle": "Good Day",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "bdf288514c35ce9f3e11c34e0a4e8dcace4393f2",
+            "attributes": {},
+            "description": "Illustration of a blue rectangle with smaller different color blue and white rectangles inside of each other.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/800,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "0 - IRI Owned",
+            "isPartOf": [],
+            "keywords": [
+              "Optical Designs",
+              "Davie, Jolene",
+              "Text",
+              "Abstract designs"
+            ],
+            "$lastUpdatedDate": "Wed Mar 05 00:58:14 EST 2025",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000177-cf85-d691-a9f7-cfcfa0a60001",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000177-cf85-d691-a9f7-cfcfa0a60001",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "Illustration of a blue rectangle with smaller different color blue and white rectangles inside of each other.",
+            "publicDownload": [],
+            "$publishDate": "Tue Feb 23 10:32:57 EST 2021",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "No",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Illustration of a blue rectangle with smaller different color blue and white rectangles inside of each other.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Youth Theme- Go and Do",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Illustration of a blue rectangle with smaller different color blue and white rectangles inside of each other.",
+            "shareableTitle": "Youth Theme- Go and Do",
+            "title": "Youth Theme- Go and Do"
+          },
+          "title": "Good Day",
+          "translator": []
+        },
+        "$id": "00000196-c6db-d455-a9f6-dedfd32e0001",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6db-d455-a9f6-dedfd32e0001",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Hide",
+    "slug": "hide-arp299",
+    "bookSlug": "strong-remixes",
+    "songNumber": "5",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "Shalia Rokobuludrau"
+      },
+      {
+        "personName": "ARP 299.00"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": false,
+    "tags": [
+      "courage",
+      "example",
+      "faith",
+      "hope",
+      "missionary work"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "b145860956c9762d3a500fc994b449a9cfbbfead",
+          "attributes": {},
+          "composer": [],
+          "description": "“Hide” from Strong (Remixes) (English).",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/b1/45/b145860956c9762d3a500fc994b449a9cfbbfead/hide_strong_remixes.mp3",
+          "duration": 214000,
+          "ipCode": "0 - IRI Owned",
+          "isPartOf": [],
+          "keywords": [
+            "strong",
+            "music",
+            "youth",
+            "remix"
+          ],
+          "$lastUpdatedDate": "Sun Oct 13 06:10:47 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-40af-d6e6-a59e-73ffa03a0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-40af-d6e6-a59e-73ffa03a0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“Hide” from Strong (Remixes) (English).",
+          "publicDownload": [],
+          "$publishDate": "Thu Nov 03 23:29:22 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“Hide” from Strong (Remixes) (English).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Hide",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“Hide” from Strong (Remixes) (English).",
+          "shareableTitle": "Hide",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "eef3760b44f2fc3ef94158e496b0bc0eaccc3b39",
+            "attributes": {},
+            "description": "Strong Playlist",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/1920,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "0 - IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Sun Oct 13 08:28:26 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$owningSite": "gospel-living",
+            "$id": "00000173-0ad3-dfde-a17f-6fd357640000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000173-0ad3-dfde-a17f-6fd357640000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "Hexagon shapes with varying patterns of green, yellow, red and blue in different shades cover the image. The center hexagon is white with the blue text \"Strong\" in the center.",
+            "publicDownload": [],
+            "$publishDate": "Wed Jul 01 10:41:27 EDT 2020",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!1600%2C1600/0/default",
+                "height": 1600,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!1600%2C1600/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!1920%2C1920/0/default",
+                "height": 1920,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!1920%2C1920/0/default",
+                "width": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Strong Playlist",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "No Title",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Strong Playlist",
+            "shareableTitle": "No Title",
+            "title": "No Title"
+          },
+          "title": "Hide",
+          "translator": []
+        },
+        "$id": "00000196-c6dc-d455-a9f6-dedc2bdc0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dc-d455-a9f6-dedc2bdc0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Like a Child",
+    "slug": "like-a-child-arp299",
+    "bookSlug": "strong-remixes",
+    "songNumber": "6",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "Evelyn Detzany"
+      },
+      {
+        "personName": "ARP 299.00"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Nik Day"
+      },
+      {
+        "personName": "Evelyn Detzany"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Nik Day"
+      },
+      {
+        "personName": "Evelyn Detzany"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": false,
+    "tags": [
+      "Jesus Christ",
+      "child of God",
+      "faith"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "dc13f494d23d28f035a0f3ed50486b0fb26455e9",
+          "attributes": {},
+          "composer": [],
+          "description": "Remix – Featuring Evelyn Detzany and ARP299",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/dc/13/dc13f494d23d28f035a0f3ed50486b0fb26455e9/like_a_child_strong_remixes.mp3",
+          "duration": 210000,
+          "ipCode": "0 - IRI Owned",
+          "isPartOf": [],
+          "keywords": [
+            "strong",
+            "music",
+            "youth",
+            "remix"
+          ],
+          "$lastUpdatedDate": "Sun Oct 13 06:10:31 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$owningSite": "gospel-living",
+          "$id": "00000173-7869-d4ed-adf7-7efb538e0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000173-7869-d4ed-adf7-7efb538e0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicDownload": [],
+          "$publishDate": "Wed Jul 22 17:23:55 EDT 2020",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "Remix – Featuring Evelyn Detzany and ARP299",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Like a Child",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "Remix – Featuring Evelyn Detzany and ARP299",
+          "shareableTitle": "Like a Child",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "eef3760b44f2fc3ef94158e496b0bc0eaccc3b39",
+            "attributes": {},
+            "description": "Strong Playlist",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/1920,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "0 - IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Sun Oct 13 08:28:26 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$owningSite": "gospel-living",
+            "$id": "00000173-0ad3-dfde-a17f-6fd357640000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000173-0ad3-dfde-a17f-6fd357640000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "Hexagon shapes with varying patterns of green, yellow, red and blue in different shades cover the image. The center hexagon is white with the blue text \"Strong\" in the center.",
+            "publicDownload": [],
+            "$publishDate": "Wed Jul 01 10:41:27 EDT 2020",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!1600%2C1600/0/default",
+                "height": 1600,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!1600%2C1600/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!1920%2C1920/0/default",
+                "height": 1920,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!1920%2C1920/0/default",
+                "width": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Strong Playlist",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "No Title",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Strong Playlist",
+            "shareableTitle": "No Title",
+            "title": "No Title"
+          },
+          "title": "Like a Child",
+          "translator": []
+        },
+        "$id": "00000196-c6dc-d455-a9f6-dedc2bf80000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dc-d455-a9f6-dedc2bf80000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "The Unknown",
+    "slug": "the-unknown-arp299",
+    "bookSlug": "strong-remixes",
+    "songNumber": "7",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "Sabrina Haskett"
+      },
+      {
+        "personName": "ARP 299.00"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Nik Day"
+      },
+      {
+        "personName": "Sabrina Haskett"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Nik Day"
+      },
+      {
+        "personName": "Sabrina Haskett"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": false,
+    "tags": [
+      "Jesus Christ",
+      "adversity",
+      "faith",
+      "hope"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "5ba6ee6bcd2e3185795665965496e14aebf1d461",
+          "attributes": {},
+          "composer": [],
+          "description": "“The Unknown” from Strong (Remixes) (English).",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/5b/a6/5ba6ee6bcd2e3185795665965496e14aebf1d461/the_unknown_strong_remixes.mp3",
+          "duration": 235000,
+          "ipCode": "0 - IRI Owned",
+          "isPartOf": [],
+          "keywords": [
+            "strong",
+            "music",
+            "youth",
+            "remix"
+          ],
+          "$lastUpdatedDate": "Sun Oct 13 06:10:29 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-40af-d6e6-a59e-73ffa6ca0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-40af-d6e6-a59e-73ffa6ca0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“The Unknown” from Strong (Remixes) (English).",
+          "publicDownload": [],
+          "$publishDate": "Thu Nov 03 23:29:24 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“The Unknown” from Strong (Remixes) (English).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "The Unknown",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“The Unknown” from Strong (Remixes) (English).",
+          "shareableTitle": "The Unknown",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "eef3760b44f2fc3ef94158e496b0bc0eaccc3b39",
+            "attributes": {},
+            "description": "Strong Playlist",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/1920,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "0 - IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Sun Oct 13 08:28:26 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$owningSite": "gospel-living",
+            "$id": "00000173-0ad3-dfde-a17f-6fd357640000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000173-0ad3-dfde-a17f-6fd357640000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "Hexagon shapes with varying patterns of green, yellow, red and blue in different shades cover the image. The center hexagon is white with the blue text \"Strong\" in the center.",
+            "publicDownload": [],
+            "$publishDate": "Wed Jul 01 10:41:27 EDT 2020",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!1600%2C1600/0/default",
+                "height": 1600,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!1600%2C1600/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!1920%2C1920/0/default",
+                "height": 1920,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!1920%2C1920/0/default",
+                "width": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Strong Playlist",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "No Title",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Strong Playlist",
+            "shareableTitle": "No Title",
+            "title": "No Title"
+          },
+          "title": "The Unknown",
+          "translator": []
+        },
+        "$id": "00000196-c6dc-d455-a9f6-dedc2c120000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dc-d455-a9f6-dedc2c120000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Change",
+    "slug": "change-arp299",
+    "bookSlug": "strong-remixes",
+    "songNumber": "8",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "Camry Pula"
+      },
+      {
+        "personName": "ARP 299.00"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Nik Day"
+      },
+      {
+        "personName": "Camry Pula"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Nik Day"
+      },
+      {
+        "personName": "Camry Pula"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": false,
+    "tags": [
+      "adversity",
+      "agency",
+      "child of God",
+      "plan of salvation"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "4c8baddbaed8dadd16a1a9257e26a9ecda442629",
+          "attributes": {},
+          "composer": [],
+          "description": "Remix – Featuring Camry Pula and ARP299",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/4c/8b/4c8baddbaed8dadd16a1a9257e26a9ecda442629/change_strong_remixes.mp3",
+          "duration": 224000,
+          "ipCode": "0 - IRI Owned",
+          "isPartOf": [],
+          "keywords": [
+            "strong",
+            "music",
+            "youth",
+            "remix"
+          ],
+          "$lastUpdatedDate": "Sun Oct 13 07:19:36 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$owningSite": "gospel-living",
+          "$id": "00000173-77bc-d737-a77f-77bf86b20000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000173-77bc-d737-a77f-77bf86b20000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicDownload": [],
+          "$publishDate": "Wed Jul 22 14:15:10 EDT 2020",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "Remix – Featuring Camry Pula and ARP299",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Change",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "Remix – Featuring Camry Pula and ARP299",
+          "shareableTitle": "Change",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "eef3760b44f2fc3ef94158e496b0bc0eaccc3b39",
+            "attributes": {},
+            "description": "Strong Playlist",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/1920,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "0 - IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Sun Oct 13 08:28:26 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$owningSite": "gospel-living",
+            "$id": "00000173-0ad3-dfde-a17f-6fd357640000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000173-0ad3-dfde-a17f-6fd357640000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "Hexagon shapes with varying patterns of green, yellow, red and blue in different shades cover the image. The center hexagon is white with the blue text \"Strong\" in the center.",
+            "publicDownload": [],
+            "$publishDate": "Wed Jul 01 10:41:27 EDT 2020",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!1600%2C1600/0/default",
+                "height": 1600,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!1600%2C1600/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!1920%2C1920/0/default",
+                "height": 1920,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!1920%2C1920/0/default",
+                "width": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Strong Playlist",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "No Title",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Strong Playlist",
+            "shareableTitle": "No Title",
+            "title": "No Title"
+          },
+          "title": "Change",
+          "translator": []
+        },
+        "$id": "00000196-c6dc-d455-a9f6-dedc2c2f0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dc-d455-a9f6-dedc2c2f0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "You’re Not Your Mistakes",
+    "slug": "youre-not-your-mistakes-arp299",
+    "bookSlug": "strong-remixes",
+    "songNumber": "9",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "Kainoa Sorensen"
+      },
+      {
+        "personName": "ARP 299.00"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": false,
+    "tags": [
+      "divine worth",
+      "hope",
+      "repentance",
+      "self-esteem",
+      "temptation",
+      "trials"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "7d51cf29f50f0e92ee827c0e601ad45b6eb7fc53",
+          "attributes": {},
+          "composer": [],
+          "description": "Remix – Featuring Kainoa Sorensen and ARP299",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/7d/51/7d51cf29f50f0e92ee827c0e601ad45b6eb7fc53/not_your_mistakes_strong_remixes.mp3",
+          "duration": 257000,
+          "ipCode": "0 - IRI Owned",
+          "isPartOf": [],
+          "keywords": [
+            "strong",
+            "music",
+            "youth",
+            "remix"
+          ],
+          "$lastUpdatedDate": "Sun Oct 13 08:28:26 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$owningSite": "gospel-living",
+          "$id": "00000173-77bd-d854-a377-77ff7a690000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000173-77bd-d854-a377-77ff7a690000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicDownload": [],
+          "$publishDate": "Wed Jul 22 14:16:13 EDT 2020",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "Remix – Featuring Kainoa Sorensen and ARP299",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "You're Not Your Mistakes",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "Remix – Featuring Kainoa Sorensen and ARP299",
+          "shareableTitle": "You're Not Your Mistakes",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "eef3760b44f2fc3ef94158e496b0bc0eaccc3b39",
+            "attributes": {},
+            "description": "Strong Playlist",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/1920,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "0 - IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Sun Oct 13 08:28:26 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$owningSite": "gospel-living",
+            "$id": "00000173-0ad3-dfde-a17f-6fd357640000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000173-0ad3-dfde-a17f-6fd357640000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "Hexagon shapes with varying patterns of green, yellow, red and blue in different shades cover the image. The center hexagon is white with the blue text \"Strong\" in the center.",
+            "publicDownload": [],
+            "$publishDate": "Wed Jul 01 10:41:27 EDT 2020",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!1600%2C1600/0/default",
+                "height": 1600,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!1600%2C1600/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!1920%2C1920/0/default",
+                "height": 1920,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!1920%2C1920/0/default",
+                "width": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/eef3760b44f2fc3ef94158e496b0bc0eaccc3b39/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Strong Playlist",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "No Title",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Strong Playlist",
+            "shareableTitle": "No Title",
+            "title": "No Title"
+          },
+          "title": "You're Not Your Mistakes",
+          "translator": []
+        },
+        "$id": "00000196-c6dc-d455-a9f6-dedc2c4c0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dc-d455-a9f6-dedc2c4c0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  }
+]

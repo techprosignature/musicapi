@@ -1,0 +1,3746 @@
+[
+  {
+    "title": "2022 Church Music Festival",
+    "subtitle": "Full Video",
+    "slug": "2022-08-church-music-festival-2021-full-video",
+    "bookSlug": "2022-church-music-festival",
+    "bookSectionTitle": "Rejoice!: 2022 Church Music Festival",
+    "songNumber": "0",
+    "songDate": "2022-08-01",
+    "arrangers": [],
+    "artists": [],
+    "authors": [],
+    "composers": [],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": false,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [],
+    "voicings": [],
+    "assets": []
+  },
+  {
+    "title": "The Day Dawn Is Breaking",
+    "slug": "the-day-dawn-is-breaking-shippen",
+    "bookSlug": "2022-church-music-festival",
+    "bookSectionTitle": "Songs",
+    "songNumber": "1",
+    "songDate": "2022-08-01",
+    "arrangers": [
+      {
+        "personName": "Suzanne Ostler Shippen"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Choir"
+      },
+      {
+        "personName": "Diane Bastian"
+      },
+      {
+        "personName": "Diane Bastian"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Joseph L. Townsend"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "William Clayson"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Piano"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": true,
+    "videoAvailable": true,
+    "tags": [
+      "Jesus Christ",
+      "Millennium",
+      "peace",
+      "temples",
+      "unity",
+      "worship"
+    ],
+    "voicings": [
+      {
+        "name": "SATB"
+      }
+    ],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "4b8dc35322ff11edb2d9eeeeac1ea7e675040916",
+          "attributes": {},
+          "composer": [],
+          "description": "A performance of \"The Day Dawn is Breaking\" during the 2022 Church Music Festival. Arrangement by Suzanne Ostler Shippen; performed by members of a local mixed choir directed by Geoff Anderson with accompaniment by Diane Bastian.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/4b/8d/4b8dc35322ff11edb2d9eeeeac1ea7e675040916/the_day_dawn_is_breaking_shippen_2022.mp3",
+          "duration": 227000,
+          "ipCode": "0 - IRI Owned",
+          "isPartOf": [],
+          "keywords": [
+            "Festivals",
+            "music",
+            "dispensations"
+          ],
+          "$lastUpdatedDate": "Thu Jun 06 01:45:06 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ed7-d3a5-ab95-1fffb7e10000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ed7-d3a5-ab95-1fffb7e10000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "A performance of \"The Day Dawn is Breaking\" during the 2022 Church Music Festival. Arrangement by Suzanne Ostler Shippen; performed by members of a local mixed choir directed by Geoff Anderson with accompaniment by Diane Bastian.",
+          "publicDownload": [],
+          "$publishDate": "Tue Oct 25 07:12:09 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "A performance of \"The Day Dawn is Breaking\" during the 2022 Church Music Festival. Arrangement by Suzanne Ostler Shippen; performed by members of a local mixed choir directed by Geoff Anderson with accompaniment by Diane Bastian.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "The Day Dawn is Breaking",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "A performance of \"The Day Dawn is Breaking\" during the 2022 Church Music Festival. Arrangement by Suzanne Ostler Shippen; performed by members of a local mixed choir directed by Geoff Anderson with accompaniment by Diane Bastian.",
+          "shareableTitle": "The Day Dawn is Breaking",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "4af047c91cb611ed8e44eeeeac1e5dcde1734669",
+            "attributes": {},
+            "description": "The sun rising or setting over a mountain.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/1280,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "1 - Not IRI Owned",
+            "isPartOf": [],
+            "keywords": [
+              "mountains",
+              "Sunbursts",
+              "Sunlight",
+              "hills",
+              "Sunrises",
+              "Sun rays",
+              "Sunsets"
+            ],
+            "$lastUpdatedDate": "Thu Jun 06 01:45:17 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000184-0ed7-d3a5-ab95-1fffdab00000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000184-0ed7-d3a5-ab95-1fffdab00000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "The sun rising or setting over a mountain.",
+            "publicDownload": [],
+            "$publishDate": "Tue Oct 25 07:12:18 EDT 2022",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "The sun rising or setting over a mountain.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Sunrise/Sunset",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "The sun rising or setting over a mountain.",
+            "shareableTitle": "Sunrise/Sunset",
+            "title": "Sunrise/Sunset"
+          },
+          "title": "The Day Dawn is Breaking",
+          "translator": []
+        },
+        "$id": "00000196-c6dd-d455-a9f6-dedda1a70000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dd-d455-a9f6-dedda1a70000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Grateful",
+    "slug": "grateful-choque",
+    "bookSlug": "2022-church-music-festival",
+    "bookSectionTitle": "Songs",
+    "songNumber": "2",
+    "songDate": "2022-08-01",
+    "arrangers": [
+      {
+        "personName": "Dixie Linn Choque"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Dixie Linn Choque"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Dixie Linn Choque"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Dixie Linn Choque"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Piano"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": true,
+    "videoAvailable": true,
+    "tags": [
+      "gratitude",
+      "joy",
+      "music"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "3975f53122ff11ed8de0eeeeac1e5d7a28bc91d3",
+          "attributes": {},
+          "composer": [],
+          "description": "A performance of \"Grateful\" during the 2022 Church Music Festival. Words and music by Dixie Linn Choque; lyric video featuring Dixie Linn Choque.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/39/75/3975f53122ff11ed8de0eeeeac1e5d7a28bc91d3/grateful_cheque_2022.mp3",
+          "duration": 194000,
+          "isPartOf": [],
+          "keywords": [
+            "Festivals",
+            "music",
+            "gratitude"
+          ],
+          "$lastUpdatedDate": "Thu Jun 06 01:45:07 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ed7-d3a5-ab95-1fffbb7e0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ed7-d3a5-ab95-1fffbb7e0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "A performance of \"Grateful\" during the 2022 Church Music Festival. Words and music by Dixie Linn Choque; lyric video featuring Dixie Linn Choque.",
+          "publicDownload": [],
+          "$publishDate": "Tue Oct 25 07:12:10 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "A performance of \"Grateful\" during the 2022 Church Music Festival. Words and music by Dixie Linn Choque; lyric video featuring Dixie Linn Choque.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Grateful",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "A performance of \"Grateful\" during the 2022 Church Music Festival. Words and music by Dixie Linn Choque; lyric video featuring Dixie Linn Choque.",
+          "shareableTitle": "Grateful",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "4af047c91cb611ed8e44eeeeac1e5dcde1734669",
+            "attributes": {},
+            "description": "The sun rising or setting over a mountain.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/1280,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "1 - Not IRI Owned",
+            "isPartOf": [],
+            "keywords": [
+              "mountains",
+              "Sunbursts",
+              "Sunlight",
+              "hills",
+              "Sunrises",
+              "Sun rays",
+              "Sunsets"
+            ],
+            "$lastUpdatedDate": "Thu Jun 06 01:45:17 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000184-0ed7-d3a5-ab95-1fffdab00000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000184-0ed7-d3a5-ab95-1fffdab00000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "The sun rising or setting over a mountain.",
+            "publicDownload": [],
+            "$publishDate": "Tue Oct 25 07:12:18 EDT 2022",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "The sun rising or setting over a mountain.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Sunrise/Sunset",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "The sun rising or setting over a mountain.",
+            "shareableTitle": "Sunrise/Sunset",
+            "title": "Sunrise/Sunset"
+          },
+          "title": "Grateful",
+          "translator": []
+        },
+        "$id": "00000196-c6dd-d455-a9f6-deddb7760000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dd-d455-a9f6-deddb7760000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Along the Covenant Path",
+    "slug": "along-the-covenant-path-parmer",
+    "bookSlug": "2022-church-music-festival",
+    "bookSectionTitle": "Songs",
+    "songNumber": "3",
+    "songDate": "2022-08-01",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "Elle Hirst"
+      },
+      {
+        "personName": "Dennis Hirst"
+      },
+      {
+        "personName": "Elle Hirst"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Jocelyn Parker Parmer"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Jocelyn Parker Parmer"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Piano"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": true,
+    "videoAvailable": true,
+    "tags": [
+      "baptism",
+      "covenants",
+      "love",
+      "obedience"
+    ],
+    "voicings": [
+      {
+        "name": "Unison"
+      }
+    ],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "0fdfbf6622ff11edb765eeeeac1eac1cc0a62ebc",
+          "attributes": {},
+          "composer": [],
+          "description": "A performance of \"Along the Covenant Path\" during the 2022 Church Music Festival. Words and music by Jocelyn Parker Parmer; performed by Elle Hirst with accompaniment by Dennis Hirst. ",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/0f/df/0fdfbf6622ff11edb765eeeeac1eac1cc0a62ebc/along_the_covenant_path_parmer_2022.mp3",
+          "duration": 186000,
+          "isPartOf": [],
+          "keywords": [
+            "Festivals",
+            "covenants",
+            "music"
+          ],
+          "$lastUpdatedDate": "Thu Jun 06 01:45:08 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ed7-d3a5-ab95-1fffbd5d0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ed7-d3a5-ab95-1fffbd5d0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "A performance of \"Along the Covenant Path\" during the 2022 Church Music Festival. Words and music by Jocelyn Parker Parmer; performed by Elle Hirst with accompaniment by Dennis Hirst. ",
+          "publicDownload": [],
+          "$publishDate": "Tue Oct 25 07:12:10 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "A performance of \"Along the Covenant Path\" during the 2022 Church Music Festival. Words and music by Jocelyn Parker Parmer; performed by Elle Hirst with accompaniment by Dennis Hirst.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Along the Covenant Path",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "A performance of \"Along the Covenant Path\" during the 2022 Church Music Festival. Words and music by Jocelyn Parker Parmer; performed by Elle Hirst with accompaniment by Dennis Hirst.",
+          "shareableTitle": "Along the Covenant Path",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "4af047c91cb611ed8e44eeeeac1e5dcde1734669",
+            "attributes": {},
+            "description": "The sun rising or setting over a mountain.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/1280,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "1 - Not IRI Owned",
+            "isPartOf": [],
+            "keywords": [
+              "mountains",
+              "Sunbursts",
+              "Sunlight",
+              "hills",
+              "Sunrises",
+              "Sun rays",
+              "Sunsets"
+            ],
+            "$lastUpdatedDate": "Thu Jun 06 01:45:17 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000184-0ed7-d3a5-ab95-1fffdab00000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000184-0ed7-d3a5-ab95-1fffdab00000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "The sun rising or setting over a mountain.",
+            "publicDownload": [],
+            "$publishDate": "Tue Oct 25 07:12:18 EDT 2022",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "The sun rising or setting over a mountain.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Sunrise/Sunset",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "The sun rising or setting over a mountain.",
+            "shareableTitle": "Sunrise/Sunset",
+            "title": "Sunrise/Sunset"
+          },
+          "title": "Along the Covenant Path",
+          "translator": []
+        },
+        "$id": "00000196-c6dd-d455-a9f6-dedd9ee80000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dd-d455-a9f6-dedd9ee80000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "I Will Say a Prayer",
+    "slug": "i-will-say-a-prayer-perry",
+    "bookSlug": "2022-church-music-festival",
+    "bookSectionTitle": "Songs",
+    "songNumber": "4",
+    "songDate": "2022-08-01",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "Chacon Family"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Janice Kapp Perry"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Janice Kapp Perry"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Piano"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": true,
+    "videoAvailable": true,
+    "tags": [
+      "Heavenly Father",
+      "love",
+      "peace",
+      "prayer"
+    ],
+    "voicings": [
+      {
+        "name": "Two-Part"
+      }
+    ],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "3e91a2c122ff11edbfc5eeeeac1e2e60274e98cf",
+          "attributes": {},
+          "composer": [],
+          "description": "A performance of \"I Will Say a Prayer\" during the 2022 Church Music Festival. Words and music by Janice Kapp Perry; performed by the Chacon family: Alexandros, Harumi, Jonathan, Miyuki, Sayuri, Tsukie, Yukari, and Yuzuki; accompanied by Ellis Lucero.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/3e/91/3e91a2c122ff11edbfc5eeeeac1e2e60274e98cf/i_will_say_a_prayer_perry_2022.mp3",
+          "duration": 152000,
+          "isPartOf": [],
+          "keywords": [
+            "Festivals",
+            "music",
+            "prayer",
+            "family prayer"
+          ],
+          "$lastUpdatedDate": "Thu Jun 06 01:45:08 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ed7-d3a5-ab95-1fffbf4c0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ed7-d3a5-ab95-1fffbf4c0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "A performance of \"I Will Say a Prayer\" during the 2022 Church Music Festival. Words and music by Janice Kapp Perry; performed by the Chacon family: Alexandros, Harumi, Jonathan, Miyuki, Sayuri, Tsukie, Yukari, and Yuzuki; accompanied by Ellis Lucero.",
+          "publicDownload": [],
+          "$publishDate": "Tue Oct 25 07:12:11 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "A performance of \"I Will Say a Prayer\" during the 2022 Church Music Festival. Words and music by Janice Kapp Perry; performed by the Chacon family: Alexandros, Harumi, Jonathan, Miyuki, Sayuri, Tsukie, Yukari, and Yuzuki; accompanied by Ellis Lucero.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "I Will Say a Prayer",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "A performance of \"I Will Say a Prayer\" during the 2022 Church Music Festival. Words and music by Janice Kapp Perry; performed by the Chacon family: Alexandros, Harumi, Jonathan, Miyuki, Sayuri, Tsukie, Yukari, and Yuzuki; accompanied by Ellis Lucero.",
+          "shareableTitle": "I Will Say a Prayer",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "4af047c91cb611ed8e44eeeeac1e5dcde1734669",
+            "attributes": {},
+            "description": "The sun rising or setting over a mountain.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/1280,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "1 - Not IRI Owned",
+            "isPartOf": [],
+            "keywords": [
+              "mountains",
+              "Sunbursts",
+              "Sunlight",
+              "hills",
+              "Sunrises",
+              "Sun rays",
+              "Sunsets"
+            ],
+            "$lastUpdatedDate": "Thu Jun 06 01:45:17 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000184-0ed7-d3a5-ab95-1fffdab00000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000184-0ed7-d3a5-ab95-1fffdab00000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "The sun rising or setting over a mountain.",
+            "publicDownload": [],
+            "$publishDate": "Tue Oct 25 07:12:18 EDT 2022",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "The sun rising or setting over a mountain.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Sunrise/Sunset",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "The sun rising or setting over a mountain.",
+            "shareableTitle": "Sunrise/Sunset",
+            "title": "Sunrise/Sunset"
+          },
+          "title": "I Will Say a Prayer",
+          "translator": []
+        },
+        "$id": "00000196-c6dd-d455-a9f6-dedda40d0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dd-d455-a9f6-dedda40d0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Every Step Along the Way",
+    "slug": "every-step-along-the-way-mohlman",
+    "bookSlug": "2022-church-music-festival",
+    "bookSectionTitle": "Songs",
+    "songNumber": "5",
+    "songDate": "2022-08-01",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "Emily Summerhays"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Rachel P. Mohlman"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Rachel P. Mohlman"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Piano"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": true,
+    "videoAvailable": true,
+    "tags": [
+      "Jesus Christ",
+      "comfort",
+      "faith"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "1654e29c22ff11ed89b6eeeeac1e6fb0381e2e8b",
+          "attributes": {},
+          "composer": [],
+          "description": "A performance of \"Every Step along the Way\" during the 2022 Church Music Festival. Words and music by Rachel P. Mohlman; performed by Emily Summerhays with accompaniment by Diane Bastian. ",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/16/54/1654e29c22ff11ed89b6eeeeac1e6fb0381e2e8b/every_step_along_the_way_mohlman_2022.mp3",
+          "duration": 195000,
+          "isPartOf": [],
+          "keywords": [
+            "Festivals",
+            "music",
+            "faith"
+          ],
+          "$lastUpdatedDate": "Thu Jun 06 01:45:09 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ed7-d3a5-ab95-1fffc1100000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ed7-d3a5-ab95-1fffc1100000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "A performance of \"Every Step along the Way\" during the 2022 Church Music Festival. Words and music by Rachel P. Mohlman; performed by Emily Summerhays with accompaniment by Diane Bastian. ",
+          "publicDownload": [],
+          "$publishDate": "Tue Oct 25 07:12:11 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "A performance of \"Every Step along the Way\" during the 2022 Church Music Festival. Words and music by Rachel P. Mohlman; performed by Emily Summerhays with accompaniment by Diane Bastian.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Every Step along the Way",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "A performance of \"Every Step along the Way\" during the 2022 Church Music Festival. Words and music by Rachel P. Mohlman; performed by Emily Summerhays with accompaniment by Diane Bastian.",
+          "shareableTitle": "Every Step along the Way",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "4af047c91cb611ed8e44eeeeac1e5dcde1734669",
+            "attributes": {},
+            "description": "The sun rising or setting over a mountain.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/1280,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "1 - Not IRI Owned",
+            "isPartOf": [],
+            "keywords": [
+              "mountains",
+              "Sunbursts",
+              "Sunlight",
+              "hills",
+              "Sunrises",
+              "Sun rays",
+              "Sunsets"
+            ],
+            "$lastUpdatedDate": "Thu Jun 06 01:45:17 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000184-0ed7-d3a5-ab95-1fffdab00000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000184-0ed7-d3a5-ab95-1fffdab00000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "The sun rising or setting over a mountain.",
+            "publicDownload": [],
+            "$publishDate": "Tue Oct 25 07:12:18 EDT 2022",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "The sun rising or setting over a mountain.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Sunrise/Sunset",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "The sun rising or setting over a mountain.",
+            "shareableTitle": "Sunrise/Sunset",
+            "title": "Sunrise/Sunset"
+          },
+          "title": "Every Step along the Way",
+          "translator": []
+        },
+        "$id": "00000196-c6dd-d455-a9f6-dedda00c0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dd-d455-a9f6-dedda00c0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Follow Me",
+    "subtitle": "Ukulele",
+    "slug": "follow-me-yordy",
+    "bookSlug": "2022-church-music-festival",
+    "bookSectionTitle": "Songs",
+    "songNumber": "6",
+    "songDate": "2022-08-01",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "Joshua Yordy"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Joshua Yordy"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Joshua Yordy"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Ukulele"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": true,
+    "videoAvailable": true,
+    "tags": [
+      "Jesus Christ",
+      "grace"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "1856cd2022ff11ed8de0eeeeac1e5d7afcc0caa0",
+          "attributes": {},
+          "composer": [],
+          "description": "A performance of \"Follow Me\" during the 2022 Church Music Festival. Words and music by Joshua Yordy; performed by Joshua Yordy. ",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/18/56/1856cd2022ff11ed8de0eeeeac1e5d7afcc0caa0/follow_me_yordy_2022.mp3",
+          "duration": 221000,
+          "isPartOf": [],
+          "keywords": [
+            "Festivals",
+            "obedience",
+            "music"
+          ],
+          "$lastUpdatedDate": "Thu Jun 06 01:45:10 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ed7-d3a5-ab95-1fffc4bf0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ed7-d3a5-ab95-1fffc4bf0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "A performance of \"Follow Me\" during the 2022 Church Music Festival. Words and music by Joshua Yordy; performed by Joshua Yordy. ",
+          "publicDownload": [],
+          "$publishDate": "Tue Oct 25 07:12:12 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "A performance of \"Follow Me\" during the 2022 Church Music Festival. Words and music by Joshua Yordy; performed by Joshua Yordy.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Follow Me",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "A performance of \"Follow Me\" during the 2022 Church Music Festival. Words and music by Joshua Yordy; performed by Joshua Yordy.",
+          "shareableTitle": "Follow Me",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "4af047c91cb611ed8e44eeeeac1e5dcde1734669",
+            "attributes": {},
+            "description": "The sun rising or setting over a mountain.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/1280,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "1 - Not IRI Owned",
+            "isPartOf": [],
+            "keywords": [
+              "mountains",
+              "Sunbursts",
+              "Sunlight",
+              "hills",
+              "Sunrises",
+              "Sun rays",
+              "Sunsets"
+            ],
+            "$lastUpdatedDate": "Thu Jun 06 01:45:17 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000184-0ed7-d3a5-ab95-1fffdab00000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000184-0ed7-d3a5-ab95-1fffdab00000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "The sun rising or setting over a mountain.",
+            "publicDownload": [],
+            "$publishDate": "Tue Oct 25 07:12:18 EDT 2022",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "The sun rising or setting over a mountain.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Sunrise/Sunset",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "The sun rising or setting over a mountain.",
+            "shareableTitle": "Sunrise/Sunset",
+            "title": "Sunrise/Sunset"
+          },
+          "title": "Follow Me",
+          "translator": []
+        },
+        "$id": "00000196-c6dd-d455-a9f6-deddb7010000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dd-d455-a9f6-deddb7010000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Touch Thou My Eyes",
+    "slug": "touch-thou-my-eyes-pinborough",
+    "bookSlug": "2022-church-music-festival",
+    "bookSectionTitle": "Songs",
+    "songNumber": "7",
+    "songDate": "2022-08-01",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "Choir"
+      },
+      {
+        "personName": "LaChelle Hansen"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Jan Underwood Pinborough"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Michael Finlinson Moody"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Piano"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": true,
+    "videoAvailable": true,
+    "tags": [
+      "Jesus Christ",
+      "compassion",
+      "faith",
+      "music"
+    ],
+    "voicings": [
+      {
+        "name": "SATB"
+      }
+    ],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "4d40556122ff11edbd03eeeeac1e524daf8cb37d",
+          "attributes": {},
+          "composer": [],
+          "description": "A performance of \"Touch Thou My Eyes\" during the 2022 Church Music Festival. Words by Jan Pinborough, music by Michael Finlinson Moody; Performed by members of a local men's double quartet directed by Bryson Gray with accompaniment by LaChelle Hansen.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/4d/40/4d40556122ff11edbd03eeeeac1e524daf8cb37d/touch_thou_my_eyes_pinborough_2022.mp3",
+          "duration": 175000,
+          "isPartOf": [],
+          "keywords": [
+            "Festivals",
+            "music",
+            "Healings"
+          ],
+          "$lastUpdatedDate": "Thu Jun 06 01:45:09 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ed7-d3a5-ab95-1fffc2e20000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ed7-d3a5-ab95-1fffc2e20000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "A performance of \"Touch Thou My Eyes\" during the 2022 Church Music Festival. Words by Jan Pinborough, music by Michael Finlinson Moody; Performed by members of a local men's double quartet directed by Bryson Gray with accompaniment by LaChelle Hansen.",
+          "publicDownload": [],
+          "$publishDate": "Tue Oct 25 07:12:11 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "A performance of \"Touch Thou My Eyes\" during the 2022 Church Music Festival. Words by Jan Pinborough, music by Michael Finlinson Moody; Performed by members of a local men's double quartet directed by Bryson Gray with accompaniment by LaChelle Hansen.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Touch Thou My Eyes",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "A performance of \"Touch Thou My Eyes\" during the 2022 Church Music Festival. Words by Jan Pinborough, music by Michael Finlinson Moody; Performed by members of a local men's double quartet directed by Bryson Gray with accompaniment by LaChelle Hansen.",
+          "shareableTitle": "Touch Thou My Eyes",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "4af047c91cb611ed8e44eeeeac1e5dcde1734669",
+            "attributes": {},
+            "description": "The sun rising or setting over a mountain.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/1280,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "1 - Not IRI Owned",
+            "isPartOf": [],
+            "keywords": [
+              "mountains",
+              "Sunbursts",
+              "Sunlight",
+              "hills",
+              "Sunrises",
+              "Sun rays",
+              "Sunsets"
+            ],
+            "$lastUpdatedDate": "Thu Jun 06 01:45:17 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000184-0ed7-d3a5-ab95-1fffdab00000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000184-0ed7-d3a5-ab95-1fffdab00000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "The sun rising or setting over a mountain.",
+            "publicDownload": [],
+            "$publishDate": "Tue Oct 25 07:12:18 EDT 2022",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "The sun rising or setting over a mountain.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Sunrise/Sunset",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "The sun rising or setting over a mountain.",
+            "shareableTitle": "Sunrise/Sunset",
+            "title": "Sunrise/Sunset"
+          },
+          "title": "Touch Thou My Eyes",
+          "translator": []
+        },
+        "$id": "00000196-c6dd-d455-a9f6-deddb72c0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dd-d455-a9f6-deddb72c0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "How Wondrous and Great",
+    "slug": "how-wondrous-and-great-hannig",
+    "bookSlug": "2022-church-music-festival",
+    "bookSectionTitle": "Songs",
+    "songNumber": "8",
+    "songDate": "2022-08-01",
+    "arrangers": [
+      {
+        "personName": "Shelley Hannig"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Choir"
+      },
+      {
+        "personName": "Kasey Bradbury"
+      },
+      {
+        "personName": "Caleb Saunders"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Henry U. Onderdonk"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Joseph Martin Kraus"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Piano"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": true,
+    "videoAvailable": true,
+    "tags": [
+      "Restoration",
+      "missionary work",
+      "praise",
+      "worship"
+    ],
+    "voicings": [
+      {
+        "name": "SSA"
+      }
+    ],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "3bbe85ac22ff11eda2c5eeeeac1ee1aff2c40f13",
+          "attributes": {},
+          "composer": [],
+          "description": "A performance of \"How Wondrous and Great\" during the 2022 Church Music Festival. Arrangement by Shelley Hannig; performed by members of a local women's choir directed by Kasey Bradbury with accompaniment by Caleb Saunders.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/3b/be/3bbe85ac22ff11eda2c5eeeeac1ee1aff2c40f13/how_wondrous_and_great_hannig_2022.mp3",
+          "duration": 88000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Thu Jun 06 01:45:10 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ed7-d3a5-ab95-1fffc68e0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ed7-d3a5-ab95-1fffc68e0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "A performance of \"How Wondrous and Great\" during the 2022 Church Music Festival. Arrangement by Shelley Hannig; performed by members of a local women's choir directed by Kasey Bradbury with accompaniment by Caleb Saunders.",
+          "publicDownload": [],
+          "$publishDate": "Tue Oct 25 07:12:12 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "A performance of \"How Wondrous and Great\" during the 2022 Church Music Festival. Arrangement by Shelley Hannig; performed by members of a local women's choir directed by Kasey Bradbury with accompaniment by Caleb Saunders.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "How Wondrous and Great",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "A performance of \"How Wondrous and Great\" during the 2022 Church Music Festival. Arrangement by Shelley Hannig; performed by members of a local women's choir directed by Kasey Bradbury with accompaniment by Caleb Saunders.",
+          "shareableTitle": "How Wondrous and Great",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "4af047c91cb611ed8e44eeeeac1e5dcde1734669",
+            "attributes": {},
+            "description": "The sun rising or setting over a mountain.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/1280,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "1 - Not IRI Owned",
+            "isPartOf": [],
+            "keywords": [
+              "mountains",
+              "Sunbursts",
+              "Sunlight",
+              "hills",
+              "Sunrises",
+              "Sun rays",
+              "Sunsets"
+            ],
+            "$lastUpdatedDate": "Thu Jun 06 01:45:17 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000184-0ed7-d3a5-ab95-1fffdab00000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000184-0ed7-d3a5-ab95-1fffdab00000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "The sun rising or setting over a mountain.",
+            "publicDownload": [],
+            "$publishDate": "Tue Oct 25 07:12:18 EDT 2022",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "The sun rising or setting over a mountain.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Sunrise/Sunset",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "The sun rising or setting over a mountain.",
+            "shareableTitle": "Sunrise/Sunset",
+            "title": "Sunrise/Sunset"
+          },
+          "title": "How Wondrous and Great",
+          "translator": []
+        },
+        "$id": "00000196-c6dd-d455-a9f6-dedda3a30000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dd-d455-a9f6-dedda3a30000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "May the Candle Guide My Vision",
+    "subtitle": "for Eliza R. Snow",
+    "slug": "may-the-candle-guide-my-vision-molgard-mohlman",
+    "bookSlug": "2022-church-music-festival",
+    "bookSectionTitle": "Songs",
+    "songNumber": "9",
+    "songDate": "2022-08-01",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "Choir"
+      },
+      {
+        "personName": "Kasey Bradbury"
+      },
+      {
+        "personName": "Caleb Saunders"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Rachel P. Mohlman"
+      },
+      {
+        "personName": "Anna M. Molgard"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Rachel P. Mohlman"
+      },
+      {
+        "personName": "Anna M. Molgard"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Piano"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": true,
+    "videoAvailable": true,
+    "tags": [
+      "faith",
+      "hope",
+      "pioneers",
+      "prayer"
+    ],
+    "voicings": [
+      {
+        "name": "SSA"
+      }
+    ],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "429a0baa22ff11ed9164eeeeac1e7ef9560c41bc",
+          "attributes": {},
+          "composer": [],
+          "description": "A performance of \"May the Candle Guide My Vison\" during the 2022 Church Music Festival. Words by Anne M. Molgard, music by Rachel P. Mohlman; performed by members of a local women's choir directed by Kasey Bradbury with accompaniment by Caleb Saunders. ",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/42/9a/429a0baa22ff11ed9164eeeeac1e7ef9560c41bc/may_the_candle_guide_my_vision_molgard_2022.mp3",
+          "duration": 172000,
+          "isPartOf": [],
+          "keywords": [
+            "Festivals",
+            "music"
+          ],
+          "$lastUpdatedDate": "Thu Jun 06 01:45:11 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ed7-d3a5-ab95-1fffc8550000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ed7-d3a5-ab95-1fffc8550000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "A performance of \"May the Candle Guide My Vison\" during the 2022 Church Music Festival. Words by Anne M. Molgard, music by Rachel P. Mohlman; performed by members of a local women's choir directed by Kasey Bradbury with accompaniment by Caleb Saunders. ",
+          "publicDownload": [],
+          "$publishDate": "Tue Oct 25 07:12:13 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "A performance of \"May the Candle Guide My Vison\" during the 2022 Church Music Festival. Words by Anne M. Molgard, music by Rachel P. Mohlman; performed by members of a local women's choir directed by Kasey Bradbury with accompaniment by Caleb Saunders.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "May the Candle Guide My Vision",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "A performance of \"May the Candle Guide My Vison\" during the 2022 Church Music Festival. Words by Anne M. Molgard, music by Rachel P. Mohlman; performed by members of a local women's choir directed by Kasey Bradbury with accompaniment by Caleb Saunders.",
+          "shareableTitle": "May the Candle Guide My Vision",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "4af047c91cb611ed8e44eeeeac1e5dcde1734669",
+            "attributes": {},
+            "description": "The sun rising or setting over a mountain.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/1280,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "1 - Not IRI Owned",
+            "isPartOf": [],
+            "keywords": [
+              "mountains",
+              "Sunbursts",
+              "Sunlight",
+              "hills",
+              "Sunrises",
+              "Sun rays",
+              "Sunsets"
+            ],
+            "$lastUpdatedDate": "Thu Jun 06 01:45:17 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000184-0ed7-d3a5-ab95-1fffdab00000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000184-0ed7-d3a5-ab95-1fffdab00000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "The sun rising or setting over a mountain.",
+            "publicDownload": [],
+            "$publishDate": "Tue Oct 25 07:12:18 EDT 2022",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "The sun rising or setting over a mountain.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Sunrise/Sunset",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "The sun rising or setting over a mountain.",
+            "shareableTitle": "Sunrise/Sunset",
+            "title": "Sunrise/Sunset"
+          },
+          "title": "May the Candle Guide My Vision",
+          "translator": []
+        },
+        "$id": "00000196-c6dd-d455-a9f6-dedda48b0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dd-d455-a9f6-dedda48b0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Child in a Manger",
+    "slug": "child-in-a-manger-wright-deford",
+    "bookSlug": "2022-church-music-festival",
+    "bookSectionTitle": "Songs",
+    "songNumber": "10",
+    "songDate": "2022-08-01",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "Katie Bastian"
+      },
+      {
+        "personName": "Josh Rich"
+      },
+      {
+        "personName": "Hailey Gibb"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Sally DeFord"
+      }
+    ],
+    "composers": [],
+    "instrumentations": [
+      {
+        "name": "Piano"
+      },
+      {
+        "name": "Viola"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": true,
+    "videoAvailable": true,
+    "tags": [
+      "Christmas",
+      "Jesus Christ",
+      "love",
+      "lullaby",
+      "praise"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "1294f46922ff11edb788eeeeac1e9c2d6ef73006",
+          "attributes": {},
+          "composer": [],
+          "description": "A performance of \"Child in a Manger\" during the 2022 Church Music Festival. Words by Sally DeFord, music by Katherine Wright; performed by Katie Bastian and Josh Rich with Hailey Gibb on cello; accompanied by Ellis Lucero. ",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/12/94/1294f46922ff11edb788eeeeac1e9c2d6ef73006/child_in_a_manger_deford_festival_2022.mp3",
+          "duration": 272000,
+          "isPartOf": [],
+          "keywords": [
+            "Festivals",
+            "music",
+            "Christmas"
+          ],
+          "$lastUpdatedDate": "Thu Jun 06 01:45:11 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ed7-d3a5-ab95-1fffca5f0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ed7-d3a5-ab95-1fffca5f0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "A performance of \"Child in a Manger\" during the 2022 Church Music Festival. Words by Sally DeFord, music by Katherine Wright; performed by Katie Bastian and Josh Rich with Hailey Gibb on cello; accompanied by Ellis Lucero. ",
+          "publicDownload": [],
+          "$publishDate": "Tue Oct 25 07:12:13 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "A performance of \"Child in a Manger\" during the 2022 Church Music Festival. Words by Sally DeFord, music by Katherine Wright; performed by Katie Bastian and Josh Rich with Hailey Gibb on cello; accompanied by Ellis Lucero.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Child in a Manger",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "A performance of \"Child in a Manger\" during the 2022 Church Music Festival. Words by Sally DeFord, music by Katherine Wright; performed by Katie Bastian and Josh Rich with Hailey Gibb on cello; accompanied by Ellis Lucero.",
+          "shareableTitle": "Child in a Manger",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "4af047c91cb611ed8e44eeeeac1e5dcde1734669",
+            "attributes": {},
+            "description": "The sun rising or setting over a mountain.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/1280,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "1 - Not IRI Owned",
+            "isPartOf": [],
+            "keywords": [
+              "mountains",
+              "Sunbursts",
+              "Sunlight",
+              "hills",
+              "Sunrises",
+              "Sun rays",
+              "Sunsets"
+            ],
+            "$lastUpdatedDate": "Thu Jun 06 01:45:17 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000184-0ed7-d3a5-ab95-1fffdab00000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000184-0ed7-d3a5-ab95-1fffdab00000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "The sun rising or setting over a mountain.",
+            "publicDownload": [],
+            "$publishDate": "Tue Oct 25 07:12:18 EDT 2022",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "The sun rising or setting over a mountain.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Sunrise/Sunset",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "The sun rising or setting over a mountain.",
+            "shareableTitle": "Sunrise/Sunset",
+            "title": "Sunrise/Sunset"
+          },
+          "title": "Child in a Manger",
+          "translator": []
+        },
+        "$id": "00000196-c6dd-d455-a9f6-dedd9faf0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dd-d455-a9f6-dedd9faf0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      },
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL_FAMILY",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "faef69e1d0a811ec87f5eeeeac1ee490e069368f",
+          "attributes": {},
+          "composer": [],
+          "description": "A performance of \"Child in a Manger\" during the 2022 Church Music Festival. Words by Sally DeFord, music by Katherine Wright; performed by Katie Bastian and Josh Rich with Hailey Gibb on cello; accompanied by Ellis Lucero.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/fa/ef/faef69e1d0a811ec87f5eeeeac1ee490e069368f/child_in_a_manger_wright_deford_eng.mp3",
+          "duration": 280000,
+          "isPartOf": [],
+          "keywords": [
+            "music",
+            "2021 Music Submission"
+          ],
+          "$lastUpdatedDate": "Thu Jun 06 01:45:12 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "0000018b-95d1-d9af-a78b-d5dd672a0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "0000018b-95d1-d9af-a78b-d5dd672a0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "A performance of \"Child in a Manger\" during the 2022 Church Music Festival. Words by Sally DeFord, music by Katherine Wright; performed by Katie Bastian and Josh Rich with Hailey Gibb on cello; accompanied by Ellis Lucero.",
+          "publicDownload": [],
+          "$publishDate": "Fri Nov 03 11:33:30 EDT 2023",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "A performance of \"Child in a Manger\" during the 2022 Church Music Festival. Words by Sally DeFord, music by Katherine Wright; performed by Katie Bastian and Josh Rich with Hailey Gibb on cello; accompanied by Ellis Lucero.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Child in a Manger",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "A performance of \"Child in a Manger\" during the 2022 Church Music Festival. Words by Sally DeFord, music by Katherine Wright; performed by Katie Bastian and Josh Rich with Hailey Gibb on cello; accompanied by Ellis Lucero.",
+          "shareableTitle": "Child in a Manger",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "4af047c91cb611ed8e44eeeeac1e5dcde1734669",
+            "attributes": {},
+            "description": "The sun rising or setting over a mountain.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/1280,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "1 - Not IRI Owned",
+            "isPartOf": [],
+            "keywords": [
+              "mountains",
+              "Sunbursts",
+              "Sunlight",
+              "hills",
+              "Sunrises",
+              "Sun rays",
+              "Sunsets"
+            ],
+            "$lastUpdatedDate": "Thu Jun 06 01:45:17 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000184-0ed7-d3a5-ab95-1fffdab00000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000184-0ed7-d3a5-ab95-1fffdab00000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "The sun rising or setting over a mountain.",
+            "publicDownload": [],
+            "$publishDate": "Tue Oct 25 07:12:18 EDT 2022",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "The sun rising or setting over a mountain.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Sunrise/Sunset",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "The sun rising or setting over a mountain.",
+            "shareableTitle": "Sunrise/Sunset",
+            "title": "Sunrise/Sunset"
+          },
+          "title": "Child in a Manger",
+          "translator": []
+        },
+        "$id": "00000196-c6dd-d455-a9f6-dedd9faf0001",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dd-d455-a9f6-dedd9faf0001",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "With Wondering Awe",
+    "slug": "with-wondering-awe-farnworth",
+    "bookSlug": "2022-church-music-festival",
+    "bookSectionTitle": "Songs",
+    "songNumber": "11",
+    "songDate": "2022-08-01",
+    "arrangers": [
+      {
+        "personName": "Ross Farnworth"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Choir"
+      },
+      {
+        "personName": "LaChelle Hansen"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Anon."
+      },
+      {
+        "personName": "Laudis Corona"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Anon."
+      },
+      {
+        "personName": "Laudis Corona"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Piano"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": true,
+    "videoAvailable": true,
+    "tags": [
+      "Christmas",
+      "Jesus Christ",
+      "praise"
+    ],
+    "voicings": [
+      {
+        "name": "TTBB"
+      }
+    ],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "accompaniment": false,
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "4f73d72422ff11eda4e6eeeeac1e60ee2bb0147f",
+          "attributes": {},
+          "composer": [],
+          "description": "A performance of \"With Wondering Awe\" during the 2022 Church Music Festival. Arrangement by Ross Farnworth; performed by members of a local men's double quartet directed by Bryson Gray with accompaniment by LaChelle Hansen.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/4f/73/4f73d72422ff11eda4e6eeeeac1e60ee2bb0147f/with_wondering_awe_ross_farnworth.mp3",
+          "duration": 227000,
+          "featuredInstruments": [],
+          "isPartOf": [],
+          "keywords": [
+            "Festivals",
+            "music",
+            "Christmas"
+          ],
+          "$lastUpdatedDate": "Thu Jun 06 01:45:12 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "numVocalParts": {},
+          "numVocalPerformers": {
+            "name": "Choir"
+          },
+          "$id": "00000184-0ed7-d3a5-ab95-1fffce110000",
+          "$lang": "eng",
+          "$model": "musicRecording",
+          "$rootId": "00000184-0ed7-d3a5-ab95-1fffce110000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "A performance of \"With Wondering Awe\" during the 2022 Church Music Festival. Arrangement by Ross Farnworth; performed by members of a local men's double quartet directed by Bryson Gray with accompaniment by LaChelle Hansen.",
+          "publicDownload": [],
+          "$publishDate": "Tue Oct 25 07:12:14 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "recordingOf": [],
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "A performance of \"With Wondering Awe\" during the 2022 Church Music Festival. Arrangement by Ross Farnworth; performed by members of a local men's double quartet directed by Bryson Gray with accompaniment by LaChelle Hansen.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "With Wondering Awe",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "A performance of \"With Wondering Awe\" during the 2022 Church Music Festival. Arrangement by Ross Farnworth; performed by members of a local men's double quartet directed by Bryson Gray with accompaniment by LaChelle Hansen.",
+          "shareableTitle": "With Wondering Awe",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "4af047c91cb611ed8e44eeeeac1e5dcde1734669",
+            "attributes": {},
+            "description": "The sun rising or setting over a mountain.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/1280,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "1 - Not IRI Owned",
+            "isPartOf": [],
+            "keywords": [
+              "mountains",
+              "Sunbursts",
+              "Sunlight",
+              "hills",
+              "Sunrises",
+              "Sun rays",
+              "Sunsets"
+            ],
+            "$lastUpdatedDate": "Thu Jun 06 01:45:17 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000184-0ed7-d3a5-ab95-1fffdab00000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000184-0ed7-d3a5-ab95-1fffdab00000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "The sun rising or setting over a mountain.",
+            "publicDownload": [],
+            "$publishDate": "Tue Oct 25 07:12:18 EDT 2022",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "The sun rising or setting over a mountain.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Sunrise/Sunset",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "The sun rising or setting over a mountain.",
+            "shareableTitle": "Sunrise/Sunset",
+            "title": "Sunrise/Sunset"
+          },
+          "title": "With Wondering Awe",
+          "translator": [],
+          "vocalPerformerTypes": []
+        },
+        "$id": "00000196-c6dd-d455-a9f6-dedda3180000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dd-d455-a9f6-dedda3180000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Silent Night",
+    "slug": "silent-night-mohlman",
+    "bookSlug": "2022-church-music-festival",
+    "bookSectionTitle": "Songs",
+    "songNumber": "12",
+    "songDate": "2022-08-01",
+    "arrangers": [
+      {
+        "personName": "Rachel P. Mohlman"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "ShaRee Larsen"
+      },
+      {
+        "personName": "Leslie Moon"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Joseph Mohr"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Franz Gruber"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Piano"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": true,
+    "videoAvailable": true,
+    "tags": [
+      "Christmas",
+      "Jesus Christ",
+      "grace",
+      "lullaby",
+      "peace",
+      "praise",
+      "shepherd",
+      "worship"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "accompaniment": false,
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "4979895822ff11ed87fceeeeac1e9445e5f8a59d",
+          "attributes": {},
+          "composer": [],
+          "description": "A performance of \"Silent Night\" during the 2022 Church Music Festival. Arrangement by Rachel P. Mohlman; performed by ShaRee Larsen with accompaniment by Leslie Moon. ",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/49/79/4979895822ff11ed87fceeeeac1e9445e5f8a59d/silent_night_rachel_mohlman.mp3",
+          "duration": 273000,
+          "featuredInstruments": [],
+          "isPartOf": [],
+          "keywords": [
+            "Festivals",
+            "music",
+            "Christmas"
+          ],
+          "$lastUpdatedDate": "Thu Jun 06 01:45:13 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "numVocalParts": {
+            "name": "One"
+          },
+          "numVocalPerformers": {
+            "name": "One"
+          },
+          "$id": "00000184-0ed7-d3a5-ab95-1fffcfe20000",
+          "$lang": "eng",
+          "$model": "musicRecording",
+          "$rootId": "00000184-0ed7-d3a5-ab95-1fffcfe20000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "A performance of \"Silent Night\" during the 2022 Church Music Festival. Arrangement by Rachel P. Mohlman; performed by ShaRee Larsen with accompaniment by Leslie Moon. ",
+          "publicDownload": [],
+          "$publishDate": "Tue Oct 25 07:12:15 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "recordingOf": [],
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "A performance of \"Silent Night\" during the 2022 Church Music Festival. Arrangement by Rachel P. Mohlman; performed by ShaRee Larsen with accompaniment by Leslie Moon.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Silent Night",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "A performance of \"Silent Night\" during the 2022 Church Music Festival. Arrangement by Rachel P. Mohlman; performed by ShaRee Larsen with accompaniment by Leslie Moon.",
+          "shareableTitle": "Silent Night",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "4af047c91cb611ed8e44eeeeac1e5dcde1734669",
+            "attributes": {},
+            "description": "The sun rising or setting over a mountain.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/1280,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "1 - Not IRI Owned",
+            "isPartOf": [],
+            "keywords": [
+              "mountains",
+              "Sunbursts",
+              "Sunlight",
+              "hills",
+              "Sunrises",
+              "Sun rays",
+              "Sunsets"
+            ],
+            "$lastUpdatedDate": "Thu Jun 06 01:45:17 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000184-0ed7-d3a5-ab95-1fffdab00000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000184-0ed7-d3a5-ab95-1fffdab00000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "The sun rising or setting over a mountain.",
+            "publicDownload": [],
+            "$publishDate": "Tue Oct 25 07:12:18 EDT 2022",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "The sun rising or setting over a mountain.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Sunrise/Sunset",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "The sun rising or setting over a mountain.",
+            "shareableTitle": "Sunrise/Sunset",
+            "title": "Sunrise/Sunset"
+          },
+          "title": "Silent Night",
+          "translator": [],
+          "vocalPerformerTypes": []
+        },
+        "$id": "00000196-c6dd-d455-a9f6-dedda1690000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dd-d455-a9f6-dedda1690000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Journey to Bethlehem",
+    "slug": "journey-to-bethlehem-wright",
+    "bookSlug": "2022-church-music-festival",
+    "bookSectionTitle": "Songs",
+    "songNumber": "13",
+    "songDate": "2022-08-01",
+    "arrangers": [
+      {
+        "personName": "Katherine Wright"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Emily Rice"
+      },
+      {
+        "personName": "Abby Kagie"
+      },
+      {
+        "personName": "Jonny Steward"
+      }
+    ],
+    "authors": [],
+    "composers": [
+      {
+        "personName": "Anon."
+      },
+      {
+        "personName": "French carol"
+      },
+      {
+        "personName": "Traditional English carol"
+      },
+      {
+        "personName": "Henry Hopkins Jr."
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Piano"
+      },
+      {
+        "name": "Violin"
+      },
+      {
+        "name": "Cello"
+      },
+      {
+        "name": "Viola"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": true,
+    "videoAvailable": true,
+    "tags": [],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_INSTRUMENTAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "accompaniment": false,
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "40b2ae0e22ff11ed9cc6eeeeac1e59b6067f0195",
+          "attributes": {},
+          "composer": [],
+          "description": "A performance of \"Journey to Bethlehem\" during the 2022 Church Music Festival. Arrangement by Katherine Wright; performed by Emily Rice, Abby Kagie, and Jonny Steward with accompaniment by Jim Bergstedt. ",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/40/b2/40b2ae0e22ff11ed9cc6eeeeac1e59b6067f0195/journey_to_bethlehem.mp3",
+          "duration": 278000,
+          "featuredInstruments": [],
+          "isPartOf": [],
+          "keywords": [
+            "Festivals",
+            "music",
+            "Christmas"
+          ],
+          "$lastUpdatedDate": "Thu Jun 06 01:45:13 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "numVocalParts": {
+            "name": "None"
+          },
+          "numVocalPerformers": {
+            "name": "None"
+          },
+          "$id": "00000184-0ed7-d3a5-ab95-1fffd1bf0000",
+          "$lang": "eng",
+          "$model": "musicRecording",
+          "$rootId": "00000184-0ed7-d3a5-ab95-1fffd1bf0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "A performance of \"Journey to Bethlehem\" during the 2022 Church Music Festival. Arrangement by Katherine Wright; performed by Emily Rice, Abby Kagie, and Jonny Steward with accompaniment by Jim Bergstedt. ",
+          "publicDownload": [],
+          "$publishDate": "Tue Oct 25 07:12:15 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "recordingOf": [],
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "A performance of \"Journey to Bethlehem\" during the 2022 Church Music Festival. Arrangement by Katherine Wright; performed by Emily Rice, Abby Kagie, and Jonny Steward with accompaniment by Jim Bergstedt.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Journey to Bethlehem",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "A performance of \"Journey to Bethlehem\" during the 2022 Church Music Festival. Arrangement by Katherine Wright; performed by Emily Rice, Abby Kagie, and Jonny Steward with accompaniment by Jim Bergstedt.",
+          "shareableTitle": "Journey to Bethlehem",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "4af047c91cb611ed8e44eeeeac1e5dcde1734669",
+            "attributes": {},
+            "description": "The sun rising or setting over a mountain.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/1280,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "1 - Not IRI Owned",
+            "isPartOf": [],
+            "keywords": [
+              "mountains",
+              "Sunbursts",
+              "Sunlight",
+              "hills",
+              "Sunrises",
+              "Sun rays",
+              "Sunsets"
+            ],
+            "$lastUpdatedDate": "Thu Jun 06 01:45:17 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000184-0ed7-d3a5-ab95-1fffdab00000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000184-0ed7-d3a5-ab95-1fffdab00000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "The sun rising or setting over a mountain.",
+            "publicDownload": [],
+            "$publishDate": "Tue Oct 25 07:12:18 EDT 2022",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "The sun rising or setting over a mountain.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Sunrise/Sunset",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "The sun rising or setting over a mountain.",
+            "shareableTitle": "Sunrise/Sunset",
+            "title": "Sunrise/Sunset"
+          },
+          "title": "Journey to Bethlehem",
+          "translator": [],
+          "vocalPerformerTypes": []
+        },
+        "$id": "00000196-c6dd-d455-a9f6-dedda44a0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dd-d455-a9f6-dedda44a0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Nearer, My God, to Thee",
+    "slug": "nearer-my-god-to-thee-badger",
+    "bookSlug": "2022-church-music-festival",
+    "bookSectionTitle": "Songs",
+    "songNumber": "14",
+    "songDate": "2022-08-01",
+    "arrangers": [
+      {
+        "personName": "Heather Badger"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Jonny Steward"
+      },
+      {
+        "personName": "Diane Bastian"
+      }
+    ],
+    "authors": [],
+    "composers": [
+      {
+        "personName": "Lowell Mason"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Piano"
+      },
+      {
+        "name": "Cello"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": true,
+    "videoAvailable": true,
+    "tags": [],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_INSTRUMENTAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "accompaniment": false,
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "4517dcdc22ff11eda598eeeeac1e8c3d3461bb14",
+          "attributes": {},
+          "composer": [],
+          "description": "A performance of \"Nearer, My God, to Thee\" during the 2022 Church Music Festival. Arrangement by Heather G. Badger; performed by Jonny Stewart with accompaniment by Diane Bastian. ",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/45/17/4517dcdc22ff11eda598eeeeac1e8c3d3461bb14/nearer_my_god_to_thee_badger.mp3",
+          "duration": 234000,
+          "featuredInstruments": [],
+          "isPartOf": [],
+          "keywords": [
+            "Festivals",
+            "music",
+            "hope"
+          ],
+          "$lastUpdatedDate": "Thu Jun 06 01:45:14 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "numVocalParts": {
+            "name": "None"
+          },
+          "numVocalPerformers": {
+            "name": "None"
+          },
+          "$id": "00000184-0ed7-d3a5-ab95-1fffd39b0000",
+          "$lang": "eng",
+          "$model": "musicRecording",
+          "$rootId": "00000184-0ed7-d3a5-ab95-1fffd39b0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "A performance of \"Nearer, My God, to Thee\" during the 2022 Church Music Festival. Arrangement by Heather G. Badger; performed by Jonny Stewart with accompaniment by Diane Bastian. ",
+          "publicDownload": [],
+          "$publishDate": "Tue Oct 25 07:12:16 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "recordingOf": [],
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "A performance of \"Nearer, My God, to Thee\" during the 2022 Church Music Festival. Arrangement by Heather G. Badger; performed by Jonny Stewart with accompaniment by Diane Bastian.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Nearer My God to Thee",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "A performance of \"Nearer, My God, to Thee\" during the 2022 Church Music Festival. Arrangement by Heather G. Badger; performed by Jonny Stewart with accompaniment by Diane Bastian.",
+          "shareableTitle": "Nearer My God to Thee",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "4af047c91cb611ed8e44eeeeac1e5dcde1734669",
+            "attributes": {},
+            "description": "The sun rising or setting over a mountain.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/1280,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "1 - Not IRI Owned",
+            "isPartOf": [],
+            "keywords": [
+              "mountains",
+              "Sunbursts",
+              "Sunlight",
+              "hills",
+              "Sunrises",
+              "Sun rays",
+              "Sunsets"
+            ],
+            "$lastUpdatedDate": "Thu Jun 06 01:45:17 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000184-0ed7-d3a5-ab95-1fffdab00000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000184-0ed7-d3a5-ab95-1fffdab00000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "The sun rising or setting over a mountain.",
+            "publicDownload": [],
+            "$publishDate": "Tue Oct 25 07:12:18 EDT 2022",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "The sun rising or setting over a mountain.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Sunrise/Sunset",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "The sun rising or setting over a mountain.",
+            "shareableTitle": "Sunrise/Sunset",
+            "title": "Sunrise/Sunset"
+          },
+          "title": "Nearer My God to Thee",
+          "translator": [],
+          "vocalPerformerTypes": []
+        },
+        "$id": "00000196-c6dd-d455-a9f6-deddb74e0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dd-d455-a9f6-deddb74e0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "It Is Glorious",
+    "slug": "it-is-glorious-tarbet-pearson",
+    "bookSlug": "2022-church-music-festival",
+    "bookSectionTitle": "Songs",
+    "songNumber": "15",
+    "songDate": "2022-08-01",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "April Kerr"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Larry Pearson"
+      },
+      {
+        "personName": "Marie Tarbet"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Larry Pearson"
+      },
+      {
+        "personName": "Marie Tarbet"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Piano"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": true,
+    "videoAvailable": true,
+    "tags": [
+      "Jesus Christ",
+      "faith",
+      "grace",
+      "plan of salvation",
+      "praise"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "accompaniment": false,
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "3d11926822ff11edb765eeeeac1eac1c4f7ba9ea",
+          "attributes": {},
+          "composer": [],
+          "description": "A performance of \"It Is Glorious\" during the 2022 Church Music Festival. Words and music by Marie Tarbet and Larry Pearson; performed by April Kerr. ",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/3d/11/3d11926822ff11edb765eeeeac1eac1c4f7ba9ea/it_is_glorious_eng.mp3",
+          "duration": 227000,
+          "featuredInstruments": [],
+          "isPartOf": [],
+          "keywords": [
+            "Festivals",
+            "music",
+            "hope"
+          ],
+          "$lastUpdatedDate": "Thu Jun 06 01:45:14 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "numVocalParts": {
+            "name": "One"
+          },
+          "numVocalPerformers": {
+            "name": "One"
+          },
+          "$id": "00000184-0ed7-d3a5-ab95-1fffd5700000",
+          "$lang": "eng",
+          "$model": "musicRecording",
+          "$rootId": "00000184-0ed7-d3a5-ab95-1fffd5700000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "A performance of \"It Is Glorious\" during the 2022 Church Music Festival. Words and music by Marie Tarbet and Larry Pearson; performed by April Kerr. ",
+          "publicDownload": [],
+          "$publishDate": "Tue Oct 25 07:12:16 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "recordingOf": [],
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "A performance of \"It Is Glorious\" during the 2022 Church Music Festival. Words and music by Marie Tarbet and Larry Pearson; performed by April Kerr.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "It Is Glorious",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "A performance of \"It Is Glorious\" during the 2022 Church Music Festival. Words and music by Marie Tarbet and Larry Pearson; performed by April Kerr.",
+          "shareableTitle": "It Is Glorious",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "4af047c91cb611ed8e44eeeeac1e5dcde1734669",
+            "attributes": {},
+            "description": "The sun rising or setting over a mountain.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/1280,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "1 - Not IRI Owned",
+            "isPartOf": [],
+            "keywords": [
+              "mountains",
+              "Sunbursts",
+              "Sunlight",
+              "hills",
+              "Sunrises",
+              "Sun rays",
+              "Sunsets"
+            ],
+            "$lastUpdatedDate": "Thu Jun 06 01:45:17 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000184-0ed7-d3a5-ab95-1fffdab00000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000184-0ed7-d3a5-ab95-1fffdab00000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "The sun rising or setting over a mountain.",
+            "publicDownload": [],
+            "$publishDate": "Tue Oct 25 07:12:18 EDT 2022",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "The sun rising or setting over a mountain.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Sunrise/Sunset",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "The sun rising or setting over a mountain.",
+            "shareableTitle": "Sunrise/Sunset",
+            "title": "Sunrise/Sunset"
+          },
+          "title": "It Is Glorious",
+          "translator": [],
+          "vocalPerformerTypes": []
+        },
+        "$id": "00000196-c6dd-d455-a9f6-deddb7980000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dd-d455-a9f6-deddb7980000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Reverently and Meekly Now",
+    "slug": "reverently-and-meekly-now-hannig",
+    "bookSlug": "2022-church-music-festival",
+    "bookSectionTitle": "Songs",
+    "songNumber": "16",
+    "songDate": "2022-08-01",
+    "arrangers": [
+      {
+        "personName": "Shelley Hannig"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Choir"
+      },
+      {
+        "personName": "Diane Bastian"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Joseph L. Townsend"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Shelley Hannig"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Piano"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": true,
+    "videoAvailable": true,
+    "tags": [
+      "Jesus Christ",
+      "forgiveness",
+      "grace",
+      "mercy",
+      "reverence",
+      "the sacrament",
+      "worthiness"
+    ],
+    "voicings": [
+      {
+        "name": "SATB"
+      }
+    ],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "accompaniment": false,
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "475aa0f222ff11edb2d9eeeeac1ea7e66504c158",
+          "attributes": {},
+          "composer": [],
+          "description": "A performance of \"Reverently and Meekly Now\" during the 2022 Church Music Festival. Music by Shelley Hannig; performed by members of a local mixed choir directed by Geoff Anderson with accompaniment by Diane Bastian.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/47/5a/475aa0f222ff11edb2d9eeeeac1ea7e66504c158/reverently_and_meekly_now_hannig.mp3",
+          "duration": 260000,
+          "featuredInstruments": [],
+          "isPartOf": [],
+          "keywords": [
+            "Festivals",
+            "emblems of the sacrament",
+            "music",
+            "sacrament meetings"
+          ],
+          "$lastUpdatedDate": "Thu Jun 06 01:45:15 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "numVocalParts": {},
+          "numVocalPerformers": {
+            "name": "Choir"
+          },
+          "$id": "00000184-0ed7-d3a5-ab95-1fffd7480000",
+          "$lang": "eng",
+          "$model": "musicRecording",
+          "$rootId": "00000184-0ed7-d3a5-ab95-1fffd7480000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "A performance of \"Reverently and Meekly Now\" during the 2022 Church Music Festival. Music by Shelley Hannig; performed by members of a local mixed choir directed by Geoff Anderson with accompaniment by Diane Bastian.",
+          "publicDownload": [],
+          "$publishDate": "Tue Oct 25 07:12:17 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "recordingOf": [],
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "A performance of \"Reverently and Meekly Now\" during the 2022 Church Music Festival. Music by Shelley Hannig; performed by members of a local mixed choir directed by Geoff Anderson with accompaniment by Diane Bastian.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Reverently and Meekly Now",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "A performance of \"Reverently and Meekly Now\" during the 2022 Church Music Festival. Music by Shelley Hannig; performed by members of a local mixed choir directed by Geoff Anderson with accompaniment by Diane Bastian.",
+          "shareableTitle": "Reverently and Meekly Now",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "4af047c91cb611ed8e44eeeeac1e5dcde1734669",
+            "attributes": {},
+            "description": "The sun rising or setting over a mountain.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/1280,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "1 - Not IRI Owned",
+            "isPartOf": [],
+            "keywords": [
+              "mountains",
+              "Sunbursts",
+              "Sunlight",
+              "hills",
+              "Sunrises",
+              "Sun rays",
+              "Sunsets"
+            ],
+            "$lastUpdatedDate": "Thu Jun 06 01:45:17 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000184-0ed7-d3a5-ab95-1fffdab00000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000184-0ed7-d3a5-ab95-1fffdab00000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "The sun rising or setting over a mountain.",
+            "publicDownload": [],
+            "$publishDate": "Tue Oct 25 07:12:18 EDT 2022",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "The sun rising or setting over a mountain.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Sunrise/Sunset",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "The sun rising or setting over a mountain.",
+            "shareableTitle": "Sunrise/Sunset",
+            "title": "Sunrise/Sunset"
+          },
+          "title": "Reverently and Meekly Now",
+          "translator": [],
+          "vocalPerformerTypes": []
+        },
+        "$id": "00000196-c6dd-d455-a9f6-dedda10a0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dd-d455-a9f6-dedda10a0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Come, Rejoice!",
+    "subtitle": "Hymn Medley",
+    "slug": "come-rejoice-petersen",
+    "bookSlug": "2022-church-music-festival",
+    "bookSectionTitle": "Songs",
+    "songNumber": "17",
+    "songDate": "2022-08-01",
+    "arrangers": [
+      {
+        "personName": "Tami Petersen"
+      }
+    ],
+    "artists": [
+      {
+        "personName": "Choir"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Tracy Y. Cannon"
+      },
+      {
+        "personName": "Edward Partridge"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Tracy Y. Cannon"
+      },
+      {
+        "personName": "Anon."
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Piano"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": true,
+    "videoAvailable": true,
+    "tags": [
+      "Jesus Christ",
+      "Joseph Smith",
+      "Millennium",
+      "Restoration",
+      "Second Coming",
+      "Zion",
+      "baptism",
+      "faith",
+      "family",
+      "gospel",
+      "joy",
+      "missionary work",
+      "peace",
+      "praise",
+      "preparation",
+      "priesthood",
+      "scriptures",
+      "temples",
+      "truth"
+    ],
+    "voicings": [
+      {
+        "name": "SSATTB"
+      }
+    ],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "accompaniment": false,
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "142d95b922ff11ed9154eeeeac1ea2971476f2bb",
+          "attributes": {},
+          "composer": [],
+          "description": "A performance of \"Come, Rejoice!\" during the 2022 Church Music Festival. Arrangement by Tami N. Petersen; performed by members of a local mixed choir directed by Geoff Anderson with accompaniment by Diane Bastian.",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/14/2d/142d95b922ff11ed9154eeeeac1ea2971476f2bb/come_rejoice_tami_peterson.mp3",
+          "duration": 184000,
+          "featuredInstruments": [],
+          "isPartOf": [],
+          "keywords": [
+            "Festivals",
+            "music"
+          ],
+          "$lastUpdatedDate": "Thu Jun 06 01:45:06 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "numVocalParts": {},
+          "numVocalPerformers": {
+            "name": "Choir"
+          },
+          "$id": "00000184-0ed7-d3a5-ab95-1fffb6140000",
+          "$lang": "eng",
+          "$model": "musicRecording",
+          "$rootId": "00000184-0ed7-d3a5-ab95-1fffb6140000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "A performance of \"Come, Rejoice!\" during the 2022 Church Music Festival. Arrangement by Tami N. Petersen; performed by members of a local mixed choir directed by Geoff Anderson with accompaniment by Diane Bastian.",
+          "publicDownload": [],
+          "$publishDate": "Tue Oct 25 07:12:08 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "recordingOf": [],
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "A performance of \"Come, Rejoice!\" during the 2022 Church Music Festival. Arrangement by Tami N. Petersen; performed by members of a local mixed choir directed by Geoff Anderson with accompaniment by Diane Bastian.",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Come Rejoice!",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "A performance of \"Come, Rejoice!\" during the 2022 Church Music Festival. Arrangement by Tami N. Petersen; performed by members of a local mixed choir directed by Geoff Anderson with accompaniment by Diane Bastian.",
+          "shareableTitle": "Come Rejoice!",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "4af047c91cb611ed8e44eeeeac1e5dcde1734669",
+            "attributes": {},
+            "description": "The sun rising or setting over a mountain.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/1280,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "1 - Not IRI Owned",
+            "isPartOf": [],
+            "keywords": [
+              "mountains",
+              "Sunbursts",
+              "Sunlight",
+              "hills",
+              "Sunrises",
+              "Sun rays",
+              "Sunsets"
+            ],
+            "$lastUpdatedDate": "Thu Jun 06 01:45:17 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000184-0ed7-d3a5-ab95-1fffdab00000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000184-0ed7-d3a5-ab95-1fffdab00000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "The sun rising or setting over a mountain.",
+            "publicDownload": [],
+            "$publishDate": "Tue Oct 25 07:12:18 EDT 2022",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "The sun rising or setting over a mountain.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Sunrise/Sunset",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "The sun rising or setting over a mountain.",
+            "shareableTitle": "Sunrise/Sunset",
+            "title": "Sunrise/Sunset"
+          },
+          "title": "Come Rejoice!",
+          "translator": [],
+          "vocalPerformerTypes": []
+        },
+        "$id": "00000196-c6dd-d455-a9f6-dedd9fe80000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6dd-d455-a9f6-dedd9fe80000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  }
+]

@@ -1,0 +1,2514 @@
+[
+  {
+    "title": "Cumorah Processional",
+    "subtitle": "Prelude no. 1",
+    "slug": "cumorah-processional-prelude-no-1",
+    "bookSlug": "hill-cumorah-pageant",
+    "bookSectionTitle": "Hill Cumorah Pageant: America’s Witness for Christ",
+    "songNumber": "1",
+    "arrangers": [],
+    "artists": [],
+    "authors": [],
+    "composers": [
+      {
+        "personName": "Crawford Gates"
+      }
+    ],
+    "instrumentations": [],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": false,
+    "tags": [],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_INSTRUMENTAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "2d9c5773773cf435293ff220b826e764b7f8ec5e",
+          "attributes": {},
+          "composer": [],
+          "description": "“Cumorah Processional” (Prelude no. 1) from Hill Cumorah Pageant (English).",
+          "distributionUrl": "https://media2.ldscdn.org/assets/missionary/hill-cumorah-pageant-soundtrack/2004-06-001-cumorah-processional-32k-eng.mp3",
+          "duration": 160000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Aug 02 13:22:41 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee9-d3a5-ab95-1ffbb11d0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee9-d3a5-ab95-1ffbb11d0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“Cumorah Processional” (Prelude no. 1) from Hill Cumorah Pageant (English).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:31:47 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“Cumorah Processional” (Prelude no. 1) from Hill Cumorah Pageant (English).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Cumorah Processional",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“Cumorah Processional” (Prelude no. 1) from Hill Cumorah Pageant (English).",
+          "shareableTitle": "Cumorah Processional",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "a8fe0653fcdde0e6dc940532a8326d0cf5b0043c",
+            "attributes": {},
+            "description": "Various exterior shots of the sunlight breaking through trees at the Hill Cumorah in Manchester, New York.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/1920,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "0 - IRI Owned",
+            "isPartOf": [],
+            "keywords": [
+              "Nilsson, Leslie",
+              "Trees",
+              "Historic buildings",
+              "Pathways",
+              "Historic sites -- New York",
+              "Sunlight",
+              "Historic sites",
+              "Hill Cumorah (New York)"
+            ],
+            "$lastUpdatedDate": "Wed Oct 16 18:51:00 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000184-0ee9-d3a5-ab95-1ffbb66a0000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000184-0ee9-d3a5-ab95-1ffbb66a0000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "Various exterior shots of the sunlight breaking through trees at the Hill Cumorah in Manchester, New York.",
+            "publicDownload": [],
+            "$publishDate": "Tue Oct 25 07:31:48 EDT 2022",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!320%2C213/0/default",
+                "height": 213,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!320%2C213/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!640%2C427/0/default",
+                "height": 427,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!640%2C427/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!800%2C533/0/default",
+                "height": 533,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!800%2C533/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1280%2C853/0/default",
+                "height": 853,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1280%2C853/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1600%2C1067/0/default",
+                "height": 1067,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1600%2C1067/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1920%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1920%2C1280/0/default",
+                "width": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!60%2C40/0/default",
+                "height": 40,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!60%2C40/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!250%2C167/0/default",
+                "height": 167,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!250%2C167/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!200%2C133/0/default",
+                "height": 133,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!200%2C133/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!100%2C67/0/default",
+                "height": 67,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!100%2C67/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!500%2C333/0/default",
+                "height": 333,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!500%2C333/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Various exterior shots of the sunlight breaking through trees at the Hill Cumorah in Manchester, New York.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Hill Cumorah Visitors' Center: Manchester, New York",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Various exterior shots of the sunlight breaking through trees at the Hill Cumorah in Manchester, New York.",
+            "shareableTitle": "Hill Cumorah Visitors' Center: Manchester, New York",
+            "title": "Hill Cumorah Visitors’ Center: Manchester, New York"
+          },
+          "title": "Cumorah Processional",
+          "translator": []
+        },
+        "$id": "00000196-c6db-d455-a9f6-dedf8bf10000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6db-d455-a9f6-dedf8bf10000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Herald Trumpeters",
+    "subtitle": "Prelude no. 2",
+    "slug": "herald-trumpeters-prelude-no-2",
+    "bookSlug": "hill-cumorah-pageant",
+    "bookSectionTitle": "Hill Cumorah Pageant: America’s Witness for Christ",
+    "songNumber": "2",
+    "arrangers": [],
+    "artists": [],
+    "authors": [],
+    "composers": [
+      {
+        "personName": "Crawford Gates"
+      }
+    ],
+    "instrumentations": [],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": false,
+    "tags": [],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_INSTRUMENTAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "d898cd756e02a665b6822a2219c028fe692b6b1d",
+          "attributes": {},
+          "composer": [],
+          "description": "“Herald Trumpeters” (Prelude no. 2) from Hill Cumorah Pageant (English).",
+          "distributionUrl": "https://media2.ldscdn.org/assets/missionary/hill-cumorah-pageant-soundtrack/2004-06-002-herald-trumpeters-32k-eng.mp3",
+          "duration": 35000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Aug 02 13:22:42 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee9-d3a5-ab95-1ffbabb30000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee9-d3a5-ab95-1ffbabb30000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“Herald Trumpeters” (Prelude no. 2) from Hill Cumorah Pageant (English).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:31:45 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“Herald Trumpeters” (Prelude no. 2) from Hill Cumorah Pageant (English).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Herald Trumpeters",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“Herald Trumpeters” (Prelude no. 2) from Hill Cumorah Pageant (English).",
+          "shareableTitle": "Herald Trumpeters",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "a8fe0653fcdde0e6dc940532a8326d0cf5b0043c",
+            "attributes": {},
+            "description": "Various exterior shots of the sunlight breaking through trees at the Hill Cumorah in Manchester, New York.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/1920,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "0 - IRI Owned",
+            "isPartOf": [],
+            "keywords": [
+              "Nilsson, Leslie",
+              "Trees",
+              "Historic buildings",
+              "Pathways",
+              "Historic sites -- New York",
+              "Sunlight",
+              "Historic sites",
+              "Hill Cumorah (New York)"
+            ],
+            "$lastUpdatedDate": "Wed Oct 16 18:51:00 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000184-0ee9-d3a5-ab95-1ffbb66a0000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000184-0ee9-d3a5-ab95-1ffbb66a0000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "Various exterior shots of the sunlight breaking through trees at the Hill Cumorah in Manchester, New York.",
+            "publicDownload": [],
+            "$publishDate": "Tue Oct 25 07:31:48 EDT 2022",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!320%2C213/0/default",
+                "height": 213,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!320%2C213/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!640%2C427/0/default",
+                "height": 427,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!640%2C427/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!800%2C533/0/default",
+                "height": 533,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!800%2C533/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1280%2C853/0/default",
+                "height": 853,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1280%2C853/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1600%2C1067/0/default",
+                "height": 1067,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1600%2C1067/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1920%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1920%2C1280/0/default",
+                "width": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!60%2C40/0/default",
+                "height": 40,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!60%2C40/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!250%2C167/0/default",
+                "height": 167,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!250%2C167/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!200%2C133/0/default",
+                "height": 133,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!200%2C133/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!100%2C67/0/default",
+                "height": 67,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!100%2C67/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!500%2C333/0/default",
+                "height": 333,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!500%2C333/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Various exterior shots of the sunlight breaking through trees at the Hill Cumorah in Manchester, New York.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Hill Cumorah Visitors' Center: Manchester, New York",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Various exterior shots of the sunlight breaking through trees at the Hill Cumorah in Manchester, New York.",
+            "shareableTitle": "Hill Cumorah Visitors' Center: Manchester, New York",
+            "title": "Hill Cumorah Visitors’ Center: Manchester, New York"
+          },
+          "title": "Herald Trumpeters",
+          "translator": []
+        },
+        "$id": "00000196-c6db-d455-a9f6-dedf8c0c0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6db-d455-a9f6-dedf8c0c0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "The Prophet Lehi",
+    "subtitle": "Story no. 1",
+    "slug": "the-prophet-lehi-story-no-1",
+    "bookSlug": "hill-cumorah-pageant",
+    "bookSectionTitle": "Hill Cumorah Pageant: America’s Witness for Christ",
+    "songNumber": "3",
+    "arrangers": [],
+    "artists": [],
+    "authors": [],
+    "composers": [
+      {
+        "personName": "Crawford Gates"
+      }
+    ],
+    "instrumentations": [],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": false,
+    "tags": [],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_INSTRUMENTAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "efd797fe29f4fd09e4bea3f13d54614fc0511924",
+          "attributes": {},
+          "composer": [],
+          "description": "“The Prophet Lehi” (Story no. 1) from Hill Cumorah Pageant (English).",
+          "distributionUrl": "https://media2.ldscdn.org/assets/missionary/hill-cumorah-pageant-soundtrack/2004-06-003-the-prophet-lehi-32k-eng.mp3",
+          "duration": 256000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Aug 02 13:22:43 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee9-d3a5-ab95-1ffbad860000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee9-d3a5-ab95-1ffbad860000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“The Prophet Lehi” (Story no. 1) from Hill Cumorah Pageant (English).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:31:46 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“The Prophet Lehi” (Story no. 1) from Hill Cumorah Pageant (English).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "The Prophet Lehi",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“The Prophet Lehi” (Story no. 1) from Hill Cumorah Pageant (English).",
+          "shareableTitle": "The Prophet Lehi",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "a8fe0653fcdde0e6dc940532a8326d0cf5b0043c",
+            "attributes": {},
+            "description": "Various exterior shots of the sunlight breaking through trees at the Hill Cumorah in Manchester, New York.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/1920,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "0 - IRI Owned",
+            "isPartOf": [],
+            "keywords": [
+              "Nilsson, Leslie",
+              "Trees",
+              "Historic buildings",
+              "Pathways",
+              "Historic sites -- New York",
+              "Sunlight",
+              "Historic sites",
+              "Hill Cumorah (New York)"
+            ],
+            "$lastUpdatedDate": "Wed Oct 16 18:51:00 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000184-0ee9-d3a5-ab95-1ffbb66a0000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000184-0ee9-d3a5-ab95-1ffbb66a0000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "Various exterior shots of the sunlight breaking through trees at the Hill Cumorah in Manchester, New York.",
+            "publicDownload": [],
+            "$publishDate": "Tue Oct 25 07:31:48 EDT 2022",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!320%2C213/0/default",
+                "height": 213,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!320%2C213/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!640%2C427/0/default",
+                "height": 427,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!640%2C427/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!800%2C533/0/default",
+                "height": 533,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!800%2C533/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1280%2C853/0/default",
+                "height": 853,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1280%2C853/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1600%2C1067/0/default",
+                "height": 1067,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1600%2C1067/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1920%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1920%2C1280/0/default",
+                "width": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!60%2C40/0/default",
+                "height": 40,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!60%2C40/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!250%2C167/0/default",
+                "height": 167,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!250%2C167/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!200%2C133/0/default",
+                "height": 133,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!200%2C133/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!100%2C67/0/default",
+                "height": 67,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!100%2C67/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!500%2C333/0/default",
+                "height": 333,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!500%2C333/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Various exterior shots of the sunlight breaking through trees at the Hill Cumorah in Manchester, New York.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Hill Cumorah Visitors' Center: Manchester, New York",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Various exterior shots of the sunlight breaking through trees at the Hill Cumorah in Manchester, New York.",
+            "shareableTitle": "Hill Cumorah Visitors' Center: Manchester, New York",
+            "title": "Hill Cumorah Visitors’ Center: Manchester, New York"
+          },
+          "title": "The Prophet Lehi",
+          "translator": []
+        },
+        "$id": "00000196-c6db-d455-a9f6-dedf8c260000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6db-d455-a9f6-dedf8c260000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "The Visions of Christ",
+    "subtitle": "Story no. 2",
+    "slug": "the-visions-of-christ-story-no-2",
+    "bookSlug": "hill-cumorah-pageant",
+    "bookSectionTitle": "Hill Cumorah Pageant: America’s Witness for Christ",
+    "songNumber": "4",
+    "arrangers": [],
+    "artists": [],
+    "authors": [
+      {
+        "personName": "Crawford Gates"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Crawford Gates"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": false,
+    "tags": [],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "fc7c74f49a979bd2f25bbcc3daa962057f57b912",
+          "attributes": {},
+          "composer": [],
+          "description": "“The Visions of Christ” (Story no. 2) from Hill Cumorah Pageant (English).",
+          "distributionUrl": "https://media2.ldscdn.org/assets/missionary/hill-cumorah-pageant-soundtrack/2004-06-004-the-visions-of-the-christ-32k-eng.mp3",
+          "duration": 654000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Aug 02 13:22:44 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee9-d3a5-ab95-1ffb9cff0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee9-d3a5-ab95-1ffb9cff0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“The Visions of Christ” (Story no. 2) from Hill Cumorah Pageant (English).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:31:41 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“The Visions of Christ” (Story no. 2) from Hill Cumorah Pageant (English).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "The Visions of Christ",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“The Visions of Christ” (Story no. 2) from Hill Cumorah Pageant (English).",
+          "shareableTitle": "The Visions of Christ",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "a8fe0653fcdde0e6dc940532a8326d0cf5b0043c",
+            "attributes": {},
+            "description": "Various exterior shots of the sunlight breaking through trees at the Hill Cumorah in Manchester, New York.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/1920,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "0 - IRI Owned",
+            "isPartOf": [],
+            "keywords": [
+              "Nilsson, Leslie",
+              "Trees",
+              "Historic buildings",
+              "Pathways",
+              "Historic sites -- New York",
+              "Sunlight",
+              "Historic sites",
+              "Hill Cumorah (New York)"
+            ],
+            "$lastUpdatedDate": "Wed Oct 16 18:51:00 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000184-0ee9-d3a5-ab95-1ffbb66a0000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000184-0ee9-d3a5-ab95-1ffbb66a0000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "Various exterior shots of the sunlight breaking through trees at the Hill Cumorah in Manchester, New York.",
+            "publicDownload": [],
+            "$publishDate": "Tue Oct 25 07:31:48 EDT 2022",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!320%2C213/0/default",
+                "height": 213,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!320%2C213/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!640%2C427/0/default",
+                "height": 427,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!640%2C427/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!800%2C533/0/default",
+                "height": 533,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!800%2C533/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1280%2C853/0/default",
+                "height": 853,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1280%2C853/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1600%2C1067/0/default",
+                "height": 1067,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1600%2C1067/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1920%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1920%2C1280/0/default",
+                "width": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!60%2C40/0/default",
+                "height": 40,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!60%2C40/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!250%2C167/0/default",
+                "height": 167,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!250%2C167/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!200%2C133/0/default",
+                "height": 133,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!200%2C133/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!100%2C67/0/default",
+                "height": 67,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!100%2C67/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!500%2C333/0/default",
+                "height": 333,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!500%2C333/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Various exterior shots of the sunlight breaking through trees at the Hill Cumorah in Manchester, New York.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Hill Cumorah Visitors' Center: Manchester, New York",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Various exterior shots of the sunlight breaking through trees at the Hill Cumorah in Manchester, New York.",
+            "shareableTitle": "Hill Cumorah Visitors' Center: Manchester, New York",
+            "title": "Hill Cumorah Visitors’ Center: Manchester, New York"
+          },
+          "title": "The Visions of Christ",
+          "translator": []
+        },
+        "$id": "00000196-c6db-d455-a9f6-dedf8c410000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6db-d455-a9f6-dedf8c410000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "The Building of a Ship",
+    "subtitle": "Story no. 3",
+    "slug": "the-building-of-a-ship-story-no-3",
+    "bookSlug": "hill-cumorah-pageant",
+    "bookSectionTitle": "Hill Cumorah Pageant: America’s Witness for Christ",
+    "songNumber": "5",
+    "arrangers": [],
+    "artists": [],
+    "authors": [],
+    "composers": [
+      {
+        "personName": "Crawford Gates"
+      }
+    ],
+    "instrumentations": [],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": false,
+    "tags": [],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_INSTRUMENTAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "5561ecf1606ae8b67e7fc99994f5477d1ea390a4",
+          "attributes": {},
+          "composer": [],
+          "description": "“The Building of a Ship” (Story no. 3) from Hill Cumorah Pageant (English).",
+          "distributionUrl": "https://media2.ldscdn.org/assets/missionary/hill-cumorah-pageant-soundtrack/2004-06-005-the-building-of-a-ship-32k-eng.mp3",
+          "duration": 278000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Aug 02 13:22:45 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee9-d3a5-ab95-1ffbaf5b0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee9-d3a5-ab95-1ffbaf5b0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“The Building of a Ship” (Story no. 3) from Hill Cumorah Pageant (English).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:31:46 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“The Building of a Ship” (Story no. 3) from Hill Cumorah Pageant (English).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "The Building of a Ship",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“The Building of a Ship” (Story no. 3) from Hill Cumorah Pageant (English).",
+          "shareableTitle": "The Building of a Ship",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "a8fe0653fcdde0e6dc940532a8326d0cf5b0043c",
+            "attributes": {},
+            "description": "Various exterior shots of the sunlight breaking through trees at the Hill Cumorah in Manchester, New York.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/1920,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "0 - IRI Owned",
+            "isPartOf": [],
+            "keywords": [
+              "Nilsson, Leslie",
+              "Trees",
+              "Historic buildings",
+              "Pathways",
+              "Historic sites -- New York",
+              "Sunlight",
+              "Historic sites",
+              "Hill Cumorah (New York)"
+            ],
+            "$lastUpdatedDate": "Wed Oct 16 18:51:00 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000184-0ee9-d3a5-ab95-1ffbb66a0000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000184-0ee9-d3a5-ab95-1ffbb66a0000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "Various exterior shots of the sunlight breaking through trees at the Hill Cumorah in Manchester, New York.",
+            "publicDownload": [],
+            "$publishDate": "Tue Oct 25 07:31:48 EDT 2022",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!320%2C213/0/default",
+                "height": 213,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!320%2C213/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!640%2C427/0/default",
+                "height": 427,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!640%2C427/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!800%2C533/0/default",
+                "height": 533,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!800%2C533/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1280%2C853/0/default",
+                "height": 853,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1280%2C853/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1600%2C1067/0/default",
+                "height": 1067,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1600%2C1067/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1920%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1920%2C1280/0/default",
+                "width": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!60%2C40/0/default",
+                "height": 40,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!60%2C40/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!250%2C167/0/default",
+                "height": 167,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!250%2C167/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!200%2C133/0/default",
+                "height": 133,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!200%2C133/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!100%2C67/0/default",
+                "height": 67,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!100%2C67/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!500%2C333/0/default",
+                "height": 333,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!500%2C333/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Various exterior shots of the sunlight breaking through trees at the Hill Cumorah in Manchester, New York.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Hill Cumorah Visitors' Center: Manchester, New York",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Various exterior shots of the sunlight breaking through trees at the Hill Cumorah in Manchester, New York.",
+            "shareableTitle": "Hill Cumorah Visitors' Center: Manchester, New York",
+            "title": "Hill Cumorah Visitors’ Center: Manchester, New York"
+          },
+          "title": "The Building of a Ship",
+          "translator": []
+        },
+        "$id": "00000196-c6db-d455-a9f6-dedf8c5d0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6db-d455-a9f6-dedf8c5d0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "The Voyage to Ancient America",
+    "subtitle": "Story no. 4",
+    "slug": "the-voyage-to-ancient-america-story-no-4",
+    "bookSlug": "hill-cumorah-pageant",
+    "bookSectionTitle": "Hill Cumorah Pageant: America’s Witness for Christ",
+    "songNumber": "6",
+    "arrangers": [],
+    "artists": [],
+    "authors": [],
+    "composers": [
+      {
+        "personName": "Crawford Gates"
+      }
+    ],
+    "instrumentations": [],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": false,
+    "tags": [],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_INSTRUMENTAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "62e04dbaea909ee64ac62eab6e9f6eedb39a17fd",
+          "attributes": {},
+          "composer": [],
+          "description": "“The Voyage to Ancient America” (Story no. 4) from Hill Cumorah Pageant (English).",
+          "distributionUrl": "https://media2.ldscdn.org/assets/missionary/hill-cumorah-pageant-soundtrack/2004-06-006-the-voyage-of-ancient-america-32k-eng.mp3",
+          "duration": 593000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Aug 02 13:22:43 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee9-d3a5-ab95-1ffbb2fb0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee9-d3a5-ab95-1ffbb2fb0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“The Voyage to Ancient America” (Story no. 4) from Hill Cumorah Pageant (English).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:31:47 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“The Voyage to Ancient America” (Story no. 4) from Hill Cumorah Pageant (English).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "The Voyage to Ancient America",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“The Voyage to Ancient America” (Story no. 4) from Hill Cumorah Pageant (English).",
+          "shareableTitle": "The Voyage to Ancient America",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "a8fe0653fcdde0e6dc940532a8326d0cf5b0043c",
+            "attributes": {},
+            "description": "Various exterior shots of the sunlight breaking through trees at the Hill Cumorah in Manchester, New York.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/1920,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "0 - IRI Owned",
+            "isPartOf": [],
+            "keywords": [
+              "Nilsson, Leslie",
+              "Trees",
+              "Historic buildings",
+              "Pathways",
+              "Historic sites -- New York",
+              "Sunlight",
+              "Historic sites",
+              "Hill Cumorah (New York)"
+            ],
+            "$lastUpdatedDate": "Wed Oct 16 18:51:00 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000184-0ee9-d3a5-ab95-1ffbb66a0000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000184-0ee9-d3a5-ab95-1ffbb66a0000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "Various exterior shots of the sunlight breaking through trees at the Hill Cumorah in Manchester, New York.",
+            "publicDownload": [],
+            "$publishDate": "Tue Oct 25 07:31:48 EDT 2022",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!320%2C213/0/default",
+                "height": 213,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!320%2C213/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!640%2C427/0/default",
+                "height": 427,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!640%2C427/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!800%2C533/0/default",
+                "height": 533,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!800%2C533/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1280%2C853/0/default",
+                "height": 853,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1280%2C853/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1600%2C1067/0/default",
+                "height": 1067,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1600%2C1067/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1920%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1920%2C1280/0/default",
+                "width": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!60%2C40/0/default",
+                "height": 40,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!60%2C40/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!250%2C167/0/default",
+                "height": 167,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!250%2C167/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!200%2C133/0/default",
+                "height": 133,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!200%2C133/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!100%2C67/0/default",
+                "height": 67,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!100%2C67/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!500%2C333/0/default",
+                "height": 333,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!500%2C333/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Various exterior shots of the sunlight breaking through trees at the Hill Cumorah in Manchester, New York.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Hill Cumorah Visitors' Center: Manchester, New York",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Various exterior shots of the sunlight breaking through trees at the Hill Cumorah in Manchester, New York.",
+            "shareableTitle": "Hill Cumorah Visitors' Center: Manchester, New York",
+            "title": "Hill Cumorah Visitors’ Center: Manchester, New York"
+          },
+          "title": "The Voyage to Ancient America",
+          "translator": []
+        },
+        "$id": "00000196-c6db-d455-a9f6-dedf8c780000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6db-d455-a9f6-dedf8c780000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "The Burning of Abinadi",
+    "subtitle": "Story no. 5",
+    "slug": "the-burning-of-abinadi-story-no-5",
+    "bookSlug": "hill-cumorah-pageant",
+    "bookSectionTitle": "Hill Cumorah Pageant: America’s Witness for Christ",
+    "songNumber": "7",
+    "arrangers": [],
+    "artists": [],
+    "authors": [],
+    "composers": [
+      {
+        "personName": "Crawford Gates"
+      }
+    ],
+    "instrumentations": [],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": false,
+    "tags": [],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_INSTRUMENTAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "164c65364cd63a7c127a841d898771a066791061",
+          "attributes": {},
+          "composer": [],
+          "description": "“The Burning of Abinadi” (Story no. 5) from Hill Cumorah Pageant (English).",
+          "distributionUrl": "https://media2.ldscdn.org/assets/missionary/hill-cumorah-pageant-soundtrack/2004-06-007-the-burning-of-abinadi-32k-eng.mp3",
+          "duration": 684000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Aug 02 13:22:45 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee9-d3a5-ab95-1ffba9f10000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee9-d3a5-ab95-1ffba9f10000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“The Burning of Abinadi” (Story no. 5) from Hill Cumorah Pageant (English).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:31:45 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“The Burning of Abinadi” (Story no. 5) from Hill Cumorah Pageant (English).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "The Burning of Abinadi",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“The Burning of Abinadi” (Story no. 5) from Hill Cumorah Pageant (English).",
+          "shareableTitle": "The Burning of Abinadi",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "a8fe0653fcdde0e6dc940532a8326d0cf5b0043c",
+            "attributes": {},
+            "description": "Various exterior shots of the sunlight breaking through trees at the Hill Cumorah in Manchester, New York.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/1920,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "0 - IRI Owned",
+            "isPartOf": [],
+            "keywords": [
+              "Nilsson, Leslie",
+              "Trees",
+              "Historic buildings",
+              "Pathways",
+              "Historic sites -- New York",
+              "Sunlight",
+              "Historic sites",
+              "Hill Cumorah (New York)"
+            ],
+            "$lastUpdatedDate": "Wed Oct 16 18:51:00 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000184-0ee9-d3a5-ab95-1ffbb66a0000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000184-0ee9-d3a5-ab95-1ffbb66a0000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "Various exterior shots of the sunlight breaking through trees at the Hill Cumorah in Manchester, New York.",
+            "publicDownload": [],
+            "$publishDate": "Tue Oct 25 07:31:48 EDT 2022",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!320%2C213/0/default",
+                "height": 213,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!320%2C213/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!640%2C427/0/default",
+                "height": 427,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!640%2C427/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!800%2C533/0/default",
+                "height": 533,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!800%2C533/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1280%2C853/0/default",
+                "height": 853,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1280%2C853/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1600%2C1067/0/default",
+                "height": 1067,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1600%2C1067/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1920%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1920%2C1280/0/default",
+                "width": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!60%2C40/0/default",
+                "height": 40,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!60%2C40/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!250%2C167/0/default",
+                "height": 167,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!250%2C167/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!200%2C133/0/default",
+                "height": 133,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!200%2C133/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!100%2C67/0/default",
+                "height": 67,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!100%2C67/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!500%2C333/0/default",
+                "height": 333,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!500%2C333/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Various exterior shots of the sunlight breaking through trees at the Hill Cumorah in Manchester, New York.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Hill Cumorah Visitors' Center: Manchester, New York",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Various exterior shots of the sunlight breaking through trees at the Hill Cumorah in Manchester, New York.",
+            "shareableTitle": "Hill Cumorah Visitors' Center: Manchester, New York",
+            "title": "Hill Cumorah Visitors’ Center: Manchester, New York"
+          },
+          "title": "The Burning of Abinadi",
+          "translator": []
+        },
+        "$id": "00000196-c6db-d455-a9f6-dedf8c960000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6db-d455-a9f6-dedf8c960000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "The Ministry of Alma",
+    "subtitle": "Story no. 6",
+    "slug": "the-ministry-of-alma-story-no-6",
+    "bookSlug": "hill-cumorah-pageant",
+    "bookSectionTitle": "Hill Cumorah Pageant: America’s Witness for Christ",
+    "songNumber": "8",
+    "arrangers": [],
+    "artists": [],
+    "authors": [],
+    "composers": [
+      {
+        "personName": "Crawford Gates"
+      }
+    ],
+    "instrumentations": [],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": false,
+    "tags": [],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_INSTRUMENTAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "9cbe08cb415bef452f4a16e9581b756d14866f00",
+          "attributes": {},
+          "composer": [],
+          "description": "“The Ministry of Alma” (Story no. 6) from Hill Cumorah Pageant (English).",
+          "distributionUrl": "https://media2.ldscdn.org/assets/missionary/hill-cumorah-pageant-soundtrack/2004-06-008-the-ministry-of-alma-32k-eng.mp3",
+          "duration": 228000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Aug 02 13:22:44 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee9-d3a5-ab95-1ffba6680000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee9-d3a5-ab95-1ffba6680000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“The Ministry of Alma” (Story no. 6) from Hill Cumorah Pageant (English).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:31:44 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“The Ministry of Alma” (Story no. 6) from Hill Cumorah Pageant (English).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "The Ministry of Alma",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“The Ministry of Alma” (Story no. 6) from Hill Cumorah Pageant (English).",
+          "shareableTitle": "The Ministry of Alma",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "a8fe0653fcdde0e6dc940532a8326d0cf5b0043c",
+            "attributes": {},
+            "description": "Various exterior shots of the sunlight breaking through trees at the Hill Cumorah in Manchester, New York.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/1920,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "0 - IRI Owned",
+            "isPartOf": [],
+            "keywords": [
+              "Nilsson, Leslie",
+              "Trees",
+              "Historic buildings",
+              "Pathways",
+              "Historic sites -- New York",
+              "Sunlight",
+              "Historic sites",
+              "Hill Cumorah (New York)"
+            ],
+            "$lastUpdatedDate": "Wed Oct 16 18:51:00 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000184-0ee9-d3a5-ab95-1ffbb66a0000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000184-0ee9-d3a5-ab95-1ffbb66a0000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "Various exterior shots of the sunlight breaking through trees at the Hill Cumorah in Manchester, New York.",
+            "publicDownload": [],
+            "$publishDate": "Tue Oct 25 07:31:48 EDT 2022",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!320%2C213/0/default",
+                "height": 213,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!320%2C213/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!640%2C427/0/default",
+                "height": 427,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!640%2C427/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!800%2C533/0/default",
+                "height": 533,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!800%2C533/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1280%2C853/0/default",
+                "height": 853,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1280%2C853/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1600%2C1067/0/default",
+                "height": 1067,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1600%2C1067/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1920%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1920%2C1280/0/default",
+                "width": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!60%2C40/0/default",
+                "height": 40,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!60%2C40/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!250%2C167/0/default",
+                "height": 167,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!250%2C167/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!200%2C133/0/default",
+                "height": 133,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!200%2C133/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!100%2C67/0/default",
+                "height": 67,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!100%2C67/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!500%2C333/0/default",
+                "height": 333,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!500%2C333/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Various exterior shots of the sunlight breaking through trees at the Hill Cumorah in Manchester, New York.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Hill Cumorah Visitors' Center: Manchester, New York",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Various exterior shots of the sunlight breaking through trees at the Hill Cumorah in Manchester, New York.",
+            "shareableTitle": "Hill Cumorah Visitors' Center: Manchester, New York",
+            "title": "Hill Cumorah Visitors’ Center: Manchester, New York"
+          },
+          "title": "The Ministry of Alma",
+          "translator": []
+        },
+        "$id": "00000196-c6db-d455-a9f6-dedf8cb20000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6db-d455-a9f6-dedf8cb20000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "The Prophecy: A Day, a Night, and a Day",
+    "subtitle": "Story no. 7",
+    "slug": "the-prophecy-a-day-a-night-and-a-day-story-no-7",
+    "bookSlug": "hill-cumorah-pageant",
+    "bookSectionTitle": "Hill Cumorah Pageant: America’s Witness for Christ",
+    "songNumber": "9",
+    "arrangers": [],
+    "artists": [],
+    "authors": [
+      {
+        "personName": "Crawford Gates"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Crawford Gates"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": false,
+    "tags": [],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "e558c5a38c0a58acbd4ef8d44764b48c2876d257",
+          "attributes": {},
+          "composer": [],
+          "description": "“The Prophecy: A Day, a Night, and a Day” (Story no. 7) from Hill Cumorah Pageant (English).",
+          "distributionUrl": "https://media2.ldscdn.org/assets/missionary/hill-cumorah-pageant-soundtrack/2004-06-009-the-prophecy-a-day-a-night-and-a-day-32k-eng.mp3",
+          "duration": 275000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Aug 02 13:22:47 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee9-d3a5-ab95-1ffba49f0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee9-d3a5-ab95-1ffba49f0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“The Prophecy: A Day, a Night, and a Day” (Story no. 7) from Hill Cumorah Pageant (English).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:31:43 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“The Prophecy: A Day, a Night, and a Day” (Story no. 7) from Hill Cumorah Pageant (English).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "The Prophecy: A Day, a Night, and a Day",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“The Prophecy: A Day, a Night, and a Day” (Story no. 7) from Hill Cumorah Pageant (English).",
+          "shareableTitle": "The Prophecy: A Day, a Night, and a Day",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "15b894e966b711edb4aaeeeeac1e857e865fd209",
+            "attributes": {},
+            "description": "Hill Cumorah Pageant Logo",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/15b894e966b711edb4aaeeeeac1e857e865fd209/full/1920,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "0 - IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Fri Aug 02 13:22:48 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000187-58c3-d265-a3a7-7dc740790000",
+            "$lang": "qnl",
+            "$model": "image",
+            "$rootId": "00000187-58c3-d265-a3a7-7dc740790000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "A stylized logo showing three men blowing trumpets in the center of a gold circle surrounded by the words, \"Hill Cumorah Pageant.\"",
+            "publicDownload": [],
+            "$publishDate": "Thu Apr 06 18:50:03 EDT 2023",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/15b894e966b711edb4aaeeeeac1e857e865fd209/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/15b894e966b711edb4aaeeeeac1e857e865fd209/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/15b894e966b711edb4aaeeeeac1e857e865fd209/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/15b894e966b711edb4aaeeeeac1e857e865fd209/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/15b894e966b711edb4aaeeeeac1e857e865fd209/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/15b894e966b711edb4aaeeeeac1e857e865fd209/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/15b894e966b711edb4aaeeeeac1e857e865fd209/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/15b894e966b711edb4aaeeeeac1e857e865fd209/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/15b894e966b711edb4aaeeeeac1e857e865fd209/full/!1600%2C1600/0/default",
+                "height": 1600,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/15b894e966b711edb4aaeeeeac1e857e865fd209/full/!1600%2C1600/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/15b894e966b711edb4aaeeeeac1e857e865fd209/full/!1920%2C1920/0/default",
+                "height": 1920,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/15b894e966b711edb4aaeeeeac1e857e865fd209/full/!1920%2C1920/0/default",
+                "width": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/15b894e966b711edb4aaeeeeac1e857e865fd209/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/15b894e966b711edb4aaeeeeac1e857e865fd209/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/15b894e966b711edb4aaeeeeac1e857e865fd209/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/15b894e966b711edb4aaeeeeac1e857e865fd209/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/15b894e966b711edb4aaeeeeac1e857e865fd209/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/15b894e966b711edb4aaeeeeac1e857e865fd209/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/15b894e966b711edb4aaeeeeac1e857e865fd209/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/15b894e966b711edb4aaeeeeac1e857e865fd209/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/15b894e966b711edb4aaeeeeac1e857e865fd209/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/15b894e966b711edb4aaeeeeac1e857e865fd209/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Hill Cumorah Pageant Logo",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Hill Cumorah Pageant Logo",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Hill Cumorah Pageant Logo",
+            "shareableTitle": "Hill Cumorah Pageant Logo",
+            "title": "Hill Cumorah Pageant Logo"
+          },
+          "title": "The Prophecy: A Day, a Night, and a Day",
+          "translator": []
+        },
+        "$id": "00000196-c6db-d455-a9f6-dedf8cc90000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6db-d455-a9f6-dedf8cc90000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "The Resurrected Christ Appears in Ancient America",
+    "subtitle": "Story no. 8",
+    "slug": "the-resurrected-christ-appears-in-ancient-america-story-no-8",
+    "bookSlug": "hill-cumorah-pageant",
+    "bookSectionTitle": "Hill Cumorah Pageant: America’s Witness for Christ",
+    "songNumber": "10",
+    "arrangers": [],
+    "artists": [],
+    "authors": [
+      {
+        "personName": "Crawford Gates"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Crawford Gates"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": false,
+    "tags": [],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "bfec82a75793efd05ce94de3d0d11ac4dab2c82c",
+          "attributes": {},
+          "composer": [],
+          "description": "“The Resurrected Christ Appears in Ancient America” (Story no. 8) from Hill Cumorah Pageant (English).",
+          "distributionUrl": "https://media2.ldscdn.org/assets/missionary/hill-cumorah-pageant-soundtrack/2004-06-010-the-resurrected-christ-appears-in-ancient-america-32k-eng.mp3",
+          "duration": 527000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Aug 02 13:22:43 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee9-d3a5-ab95-1ffb9ee70000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee9-d3a5-ab95-1ffb9ee70000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“The Resurrected Christ Appears in Ancient America” (Story no. 8) from Hill Cumorah Pageant (English).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:31:42 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“The Resurrected Christ Appears in Ancient America” (Story no. 8) from Hill Cumorah Pageant (English).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "The Resurrected Christ Appears in Ancient America",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“The Resurrected Christ Appears in Ancient America” (Story no. 8) from Hill Cumorah Pageant (English).",
+          "shareableTitle": "The Resurrected Christ Appears in Ancient America",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "a8fe0653fcdde0e6dc940532a8326d0cf5b0043c",
+            "attributes": {},
+            "description": "Various exterior shots of the sunlight breaking through trees at the Hill Cumorah in Manchester, New York.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/1920,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "0 - IRI Owned",
+            "isPartOf": [],
+            "keywords": [
+              "Nilsson, Leslie",
+              "Trees",
+              "Historic buildings",
+              "Pathways",
+              "Historic sites -- New York",
+              "Sunlight",
+              "Historic sites",
+              "Hill Cumorah (New York)"
+            ],
+            "$lastUpdatedDate": "Wed Oct 16 18:51:00 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000184-0ee9-d3a5-ab95-1ffbb66a0000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000184-0ee9-d3a5-ab95-1ffbb66a0000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "Various exterior shots of the sunlight breaking through trees at the Hill Cumorah in Manchester, New York.",
+            "publicDownload": [],
+            "$publishDate": "Tue Oct 25 07:31:48 EDT 2022",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!320%2C213/0/default",
+                "height": 213,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!320%2C213/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!640%2C427/0/default",
+                "height": 427,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!640%2C427/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!800%2C533/0/default",
+                "height": 533,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!800%2C533/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1280%2C853/0/default",
+                "height": 853,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1280%2C853/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1600%2C1067/0/default",
+                "height": 1067,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1600%2C1067/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1920%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1920%2C1280/0/default",
+                "width": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!60%2C40/0/default",
+                "height": 40,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!60%2C40/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!250%2C167/0/default",
+                "height": 167,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!250%2C167/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!200%2C133/0/default",
+                "height": 133,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!200%2C133/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!100%2C67/0/default",
+                "height": 67,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!100%2C67/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!500%2C333/0/default",
+                "height": 333,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!500%2C333/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Various exterior shots of the sunlight breaking through trees at the Hill Cumorah in Manchester, New York.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Hill Cumorah Visitors' Center: Manchester, New York",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Various exterior shots of the sunlight breaking through trees at the Hill Cumorah in Manchester, New York.",
+            "shareableTitle": "Hill Cumorah Visitors' Center: Manchester, New York",
+            "title": "Hill Cumorah Visitors’ Center: Manchester, New York"
+          },
+          "title": "The Resurrected Christ Appears in Ancient America",
+          "translator": []
+        },
+        "$id": "00000196-c6db-d455-a9f6-dedf8ce50000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6db-d455-a9f6-dedf8ce50000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "The Written Word: A Golden Message",
+    "subtitle": "Story no. 9",
+    "slug": "the-written-word-a-golden-message-story-no-9",
+    "bookSlug": "hill-cumorah-pageant",
+    "bookSectionTitle": "Hill Cumorah Pageant: America’s Witness for Christ",
+    "songNumber": "11",
+    "arrangers": [],
+    "artists": [],
+    "authors": [],
+    "composers": [
+      {
+        "personName": "Crawford Gates"
+      }
+    ],
+    "instrumentations": [],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": false,
+    "tags": [],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_INSTRUMENTAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "6a45204ebc9d71234eb2e09851d509eb9ccde3e7",
+          "attributes": {},
+          "composer": [],
+          "description": "“The Written Word: A Golden Message” (Story no. 9) from Hill Cumorah Pageant (English).",
+          "distributionUrl": "https://media2.ldscdn.org/assets/missionary/hill-cumorah-pageant-soundtrack/2004-06-011-the-written-word-a-golden-message-32k-eng.mp3",
+          "duration": 430000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Aug 02 13:22:46 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee9-d3a5-ab95-1ffba8270000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee9-d3a5-ab95-1ffba8270000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“The Written Word: A Golden Message” (Story no. 9) from Hill Cumorah Pageant (English).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:31:44 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“The Written Word: A Golden Message” (Story no. 9) from Hill Cumorah Pageant (English).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "The Written Word: A Golden Message",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“The Written Word: A Golden Message” (Story no. 9) from Hill Cumorah Pageant (English).",
+          "shareableTitle": "The Written Word: A Golden Message",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "a8fe0653fcdde0e6dc940532a8326d0cf5b0043c",
+            "attributes": {},
+            "description": "Various exterior shots of the sunlight breaking through trees at the Hill Cumorah in Manchester, New York.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/1920,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "0 - IRI Owned",
+            "isPartOf": [],
+            "keywords": [
+              "Nilsson, Leslie",
+              "Trees",
+              "Historic buildings",
+              "Pathways",
+              "Historic sites -- New York",
+              "Sunlight",
+              "Historic sites",
+              "Hill Cumorah (New York)"
+            ],
+            "$lastUpdatedDate": "Wed Oct 16 18:51:00 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000184-0ee9-d3a5-ab95-1ffbb66a0000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000184-0ee9-d3a5-ab95-1ffbb66a0000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "Various exterior shots of the sunlight breaking through trees at the Hill Cumorah in Manchester, New York.",
+            "publicDownload": [],
+            "$publishDate": "Tue Oct 25 07:31:48 EDT 2022",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!320%2C213/0/default",
+                "height": 213,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!320%2C213/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!640%2C427/0/default",
+                "height": 427,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!640%2C427/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!800%2C533/0/default",
+                "height": 533,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!800%2C533/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1280%2C853/0/default",
+                "height": 853,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1280%2C853/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1600%2C1067/0/default",
+                "height": 1067,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1600%2C1067/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1920%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1920%2C1280/0/default",
+                "width": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!60%2C40/0/default",
+                "height": 40,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!60%2C40/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!250%2C167/0/default",
+                "height": 167,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!250%2C167/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!200%2C133/0/default",
+                "height": 133,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!200%2C133/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!100%2C67/0/default",
+                "height": 67,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!100%2C67/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!500%2C333/0/default",
+                "height": 333,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!500%2C333/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Various exterior shots of the sunlight breaking through trees at the Hill Cumorah in Manchester, New York.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Hill Cumorah Visitors' Center: Manchester, New York",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Various exterior shots of the sunlight breaking through trees at the Hill Cumorah in Manchester, New York.",
+            "shareableTitle": "Hill Cumorah Visitors' Center: Manchester, New York",
+            "title": "Hill Cumorah Visitors’ Center: Manchester, New York"
+          },
+          "title": "The Written Word: A Golden Message",
+          "translator": []
+        },
+        "$id": "00000196-c6db-d455-a9f6-dedf8d070000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6db-d455-a9f6-dedf8d070000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "The Restoration of Christ’s Kingdom",
+    "subtitle": "Story no. 10",
+    "slug": "the-restoration-of-christs-kingdom-story-no-10",
+    "bookSlug": "hill-cumorah-pageant",
+    "bookSectionTitle": "Hill Cumorah Pageant: America’s Witness for Christ",
+    "songNumber": "12",
+    "arrangers": [],
+    "artists": [],
+    "authors": [
+      {
+        "personName": "Crawford Gates"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Crawford Gates"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": false,
+    "tags": [],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "0a9b19676dd7346ca1f21ff57a4cc221bea43e29",
+          "attributes": {},
+          "composer": [],
+          "description": "“The Restoration of Christ’s Kingdom” (Story no. 10) from Hill Cumorah Pageant (English).",
+          "distributionUrl": "https://media2.ldscdn.org/assets/missionary/hill-cumorah-pageant-soundtrack/2004-06-012-the-restoration-of-christs-kingdom-32k-eng.mp3",
+          "duration": 289000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Aug 02 13:22:46 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee9-d3a5-ab95-1ffba2d70000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee9-d3a5-ab95-1ffba2d70000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“The Restoration of Christ’s Kingdom” (Story no. 10) from Hill Cumorah Pageant (English).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:31:43 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“The Restoration of Christ’s Kingdom” (Story no. 10) from Hill Cumorah Pageant (English).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "The Restoration of Christ’s Kingdom",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“The Restoration of Christ’s Kingdom” (Story no. 10) from Hill Cumorah Pageant (English).",
+          "shareableTitle": "The Restoration of Christ’s Kingdom",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "a8fe0653fcdde0e6dc940532a8326d0cf5b0043c",
+            "attributes": {},
+            "description": "Various exterior shots of the sunlight breaking through trees at the Hill Cumorah in Manchester, New York.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/1920,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "0 - IRI Owned",
+            "isPartOf": [],
+            "keywords": [
+              "Nilsson, Leslie",
+              "Trees",
+              "Historic buildings",
+              "Pathways",
+              "Historic sites -- New York",
+              "Sunlight",
+              "Historic sites",
+              "Hill Cumorah (New York)"
+            ],
+            "$lastUpdatedDate": "Wed Oct 16 18:51:00 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000184-0ee9-d3a5-ab95-1ffbb66a0000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000184-0ee9-d3a5-ab95-1ffbb66a0000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "Various exterior shots of the sunlight breaking through trees at the Hill Cumorah in Manchester, New York.",
+            "publicDownload": [],
+            "$publishDate": "Tue Oct 25 07:31:48 EDT 2022",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!320%2C213/0/default",
+                "height": 213,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!320%2C213/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!640%2C427/0/default",
+                "height": 427,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!640%2C427/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!800%2C533/0/default",
+                "height": 533,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!800%2C533/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1280%2C853/0/default",
+                "height": 853,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1280%2C853/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1600%2C1067/0/default",
+                "height": 1067,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1600%2C1067/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1920%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1920%2C1280/0/default",
+                "width": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!60%2C40/0/default",
+                "height": 40,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!60%2C40/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!250%2C167/0/default",
+                "height": 167,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!250%2C167/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!200%2C133/0/default",
+                "height": 133,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!200%2C133/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!100%2C67/0/default",
+                "height": 67,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!100%2C67/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!500%2C333/0/default",
+                "height": 333,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!500%2C333/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Various exterior shots of the sunlight breaking through trees at the Hill Cumorah in Manchester, New York.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Hill Cumorah Visitors' Center: Manchester, New York",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Various exterior shots of the sunlight breaking through trees at the Hill Cumorah in Manchester, New York.",
+            "shareableTitle": "Hill Cumorah Visitors' Center: Manchester, New York",
+            "title": "Hill Cumorah Visitors’ Center: Manchester, New York"
+          },
+          "title": "The Restoration of Christ’s Kingdom",
+          "translator": []
+        },
+        "$id": "00000196-c6db-d455-a9f6-dedf8d220000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6db-d455-a9f6-dedf8d220000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Postlude",
+    "slug": "postlude",
+    "bookSlug": "hill-cumorah-pageant",
+    "bookSectionTitle": "Hill Cumorah Pageant: America’s Witness for Christ",
+    "songNumber": "13",
+    "arrangers": [],
+    "artists": [],
+    "authors": [
+      {
+        "personName": "Crawford Gates"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Crawford Gates"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": false,
+    "tags": [],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "db0a80ac6954260e8fa8393c5d19de0a4421b116",
+          "attributes": {},
+          "composer": [],
+          "description": "“Postlude” from Hill Cumorah Pageant (English).",
+          "distributionUrl": "https://media2.ldscdn.org/assets/missionary/hill-cumorah-pageant-soundtrack/2004-06-013-postlude-32k-eng.mp3",
+          "duration": 321000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Aug 02 13:22:42 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee9-d3a5-ab95-1ffba0f70000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee9-d3a5-ab95-1ffba0f70000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“Postlude” from Hill Cumorah Pageant (English).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:31:42 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“Postlude” from Hill Cumorah Pageant (English).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Postlude",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“Postlude” from Hill Cumorah Pageant (English).",
+          "shareableTitle": "Postlude",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "a8fe0653fcdde0e6dc940532a8326d0cf5b0043c",
+            "attributes": {},
+            "description": "Various exterior shots of the sunlight breaking through trees at the Hill Cumorah in Manchester, New York.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/1920,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "0 - IRI Owned",
+            "isPartOf": [],
+            "keywords": [
+              "Nilsson, Leslie",
+              "Trees",
+              "Historic buildings",
+              "Pathways",
+              "Historic sites -- New York",
+              "Sunlight",
+              "Historic sites",
+              "Hill Cumorah (New York)"
+            ],
+            "$lastUpdatedDate": "Wed Oct 16 18:51:00 EDT 2024",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "00000184-0ee9-d3a5-ab95-1ffbb66a0000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "00000184-0ee9-d3a5-ab95-1ffbb66a0000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "Various exterior shots of the sunlight breaking through trees at the Hill Cumorah in Manchester, New York.",
+            "publicDownload": [],
+            "$publishDate": "Tue Oct 25 07:31:48 EDT 2022",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!320%2C213/0/default",
+                "height": 213,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!320%2C213/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!640%2C427/0/default",
+                "height": 427,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!640%2C427/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!800%2C533/0/default",
+                "height": 533,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!800%2C533/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1280%2C853/0/default",
+                "height": 853,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1280%2C853/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1600%2C1067/0/default",
+                "height": 1067,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1600%2C1067/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1920%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!1920%2C1280/0/default",
+                "width": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!60%2C40/0/default",
+                "height": 40,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!60%2C40/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!250%2C167/0/default",
+                "height": 167,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!250%2C167/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!200%2C133/0/default",
+                "height": 133,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!200%2C133/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!100%2C67/0/default",
+                "height": 67,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!100%2C67/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!500%2C333/0/default",
+                "height": 333,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/a8fe0653fcdde0e6dc940532a8326d0cf5b0043c/full/!500%2C333/0/default",
+                "width": 500
+              }
+            ],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Various exterior shots of the sunlight breaking through trees at the Hill Cumorah in Manchester, New York.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Hill Cumorah Visitors' Center: Manchester, New York",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Various exterior shots of the sunlight breaking through trees at the Hill Cumorah in Manchester, New York.",
+            "shareableTitle": "Hill Cumorah Visitors' Center: Manchester, New York",
+            "title": "Hill Cumorah Visitors’ Center: Manchester, New York"
+          },
+          "title": "Postlude",
+          "translator": []
+        },
+        "$id": "00000196-c6db-d455-a9f6-dedf8d3e0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6db-d455-a9f6-dedf8d3e0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  }
+]

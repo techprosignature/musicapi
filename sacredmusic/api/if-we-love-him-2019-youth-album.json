@@ -1,0 +1,2850 @@
+[
+  {
+    "title": "If We Love Him",
+    "slug": "if-we-love-him",
+    "bookSlug": "if-we-love-him-2019-youth-album",
+    "bookSectionTitle": "If We Love Him: 2019 Youth Album",
+    "songNumber": "1",
+    "songDate": "2019-01-01",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "Lauryn Judd"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": true,
+    "videoAvailable": true,
+    "tags": [
+      "Jesus Christ",
+      "commitment",
+      "discipleship",
+      "grace",
+      "love",
+      "obedience"
+    ],
+    "voicings": [
+      {
+        "name": "Unison"
+      }
+    ],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_ACCOMPANIMENT",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "e7b0e1bd5bc649b0af5babff48fb2f0acd984ede",
+          "attributes": {},
+          "composer": [],
+          "description": "“If We Love Him” (Female Version) from 2019 Youth Album (English, 2019-01-01).",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/if-we-love-him-2019-mutual-album/2018-09-0011-if-we-love-him-instrumental-256k-eng.mp3",
+          "duration": 225000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Jul 26 15:45:22 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee1-d3a5-ab95-1ffb884a0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee1-d3a5-ab95-1ffb884a0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“If We Love Him” (Female Version) from 2019 Youth Album (English, 2019-01-01).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:22:52 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“If We Love Him” (Female Version) from 2019 Youth Album (English, 2019-01-01).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "If We Love Him",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“If We Love Him” (Female Version) from 2019 Youth Album (English, 2019-01-01).",
+          "shareableTitle": "If We Love Him",
+          "title": "If We Love Him",
+          "translator": []
+        },
+        "$id": "00000196-c6da-d455-a9f6-deded4b60000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6da-d455-a9f6-deded4b60000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      },
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "e3038a935f1fa47b806d1a9d1bb450e3ab926484",
+          "attributes": {},
+          "composer": [],
+          "description": "“If We Love Him” (Female Version) from 2019 Youth Album (English, 2019-01-01).",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/e3/03/e3038a935f1fa47b806d1a9d1bb450e3ab926484/if_we_love_him_2019_youth_album_female.mp3",
+          "duration": 224000,
+          "ipCode": "0 - IRI Owned",
+          "isPartOf": [],
+          "keywords": [
+            "music",
+            "Youth Music",
+            "youth"
+          ],
+          "$lastUpdatedDate": "Fri Jul 26 15:45:21 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee4-d3a5-ab95-1ffeb3dc0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee4-d3a5-ab95-1ffeb3dc0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“If We Love Him” (Female Version) from 2019 Youth Album (English, 2019-01-01).",
+          "publicDownload": [],
+          "$publishDate": "Tue Oct 25 07:26:20 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“If We Love Him” (Female Version) from 2019 Youth Album (English, 2019-01-01).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "If We Love Him",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“If We Love Him” (Female Version) from 2019 Youth Album (English, 2019-01-01).",
+          "shareableTitle": "If We Love Him",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "4fa3dba5d67097775990cbb83cc96677b207b3b2",
+            "attributes": {},
+            "description": "Cover art for the 2019 Youth Mutual Theme album.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/1920,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "isPartOf": [],
+            "keywords": [
+              "Covers"
+            ],
+            "$lastUpdatedDate": "Wed Mar 05 12:46:59 EST 2025",
+            "locatorIds": [],
+            "noindex": false,
+            "$owningSite": "gospel-living",
+            "$id": "0000016e-ec64-ddd6-adfe-fc76b0190000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "0000016e-ec64-ddd6-adfe-fc76b0190000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "A red and tan heart shaped logo made up of circular lines centered on a light beige background.",
+            "publicDownload": [],
+            "$publishDate": "Mon Dec 09 15:40:51 EST 2019",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1600%2C1600/0/default",
+                "height": 1600,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1600%2C1600/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1920%2C1920/0/default",
+                "height": 1920,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1920%2C1920/0/default",
+                "width": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Cover art for the 2019 Youth Mutual Theme album.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "No Title",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Cover art for the 2019 Youth Mutual Theme album.",
+            "shareableTitle": "No Title",
+            "title": "No Title"
+          },
+          "title": "If We Love Him",
+          "translator": []
+        },
+        "$id": "00000196-c6da-d455-a9f6-deded4b60001",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6da-d455-a9f6-deded4b60001",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Footsteps",
+    "slug": "footsteps",
+    "bookSlug": "if-we-love-him-2019-youth-album",
+    "bookSectionTitle": "If We Love Him: 2019 Youth Album",
+    "songNumber": "2",
+    "songDate": "2019-01-01",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "Ari Miller"
+      },
+      {
+        "personName": "Seli Miller"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Piano"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": true,
+    "videoAvailable": false,
+    "tags": [
+      "Jesus Christ",
+      "comfort",
+      "guidance",
+      "plan of salvation"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_ACCOMPANIMENT",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "b2c1082d85f3842cd4254c77f95900bc691a8721",
+          "attributes": {},
+          "composer": [],
+          "description": "“Footsteps” from 2019 Youth Album (English, 2019-01-01).",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/if-we-love-him-2019-mutual-album/2018-09-0101-footsteps-instrumental-256k-eng.mp3",
+          "duration": 220000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Jul 26 15:45:23 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee1-d3a5-ab95-1ffb867f0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee1-d3a5-ab95-1ffb867f0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“Footsteps” from 2019 Youth Album (English, 2019-01-01).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:22:51 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“Footsteps” from 2019 Youth Album (English, 2019-01-01).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Footsteps",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“Footsteps” from 2019 Youth Album (English, 2019-01-01).",
+          "shareableTitle": "Footsteps",
+          "title": "Footsteps",
+          "translator": []
+        },
+        "$id": "00000196-c6da-d455-a9f6-deded4fe0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6da-d455-a9f6-deded4fe0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      },
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "0bda713275b894ddf756d408e6d32c245eb65431",
+          "attributes": {},
+          "composer": [],
+          "description": "“Footsteps” from 2019 Youth Album (English, 2019-01-01).",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/0b/da/0bda713275b894ddf756d408e6d32c245eb65431/footsteps_2019_youth_album.mp3",
+          "duration": 220000,
+          "ipCode": "0 - IRI Owned",
+          "isPartOf": [],
+          "keywords": [
+            "music",
+            "Youth Music",
+            "youth"
+          ],
+          "$lastUpdatedDate": "Wed Mar 05 12:47:01 EST 2025",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee4-d3a5-ab95-1ffeb1ff0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee4-d3a5-ab95-1ffeb1ff0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“Footsteps” from 2019 Youth Album (English, 2019-01-01).",
+          "publicDownload": [],
+          "$publishDate": "Tue Oct 25 07:26:19 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“Footsteps” from 2019 Youth Album (English, 2019-01-01).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Footsteps",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“Footsteps” from 2019 Youth Album (English, 2019-01-01).",
+          "shareableTitle": "Footsteps",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "4fa3dba5d67097775990cbb83cc96677b207b3b2",
+            "attributes": {},
+            "description": "Cover art for the 2019 Youth Mutual Theme album.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/1920,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "isPartOf": [],
+            "keywords": [
+              "Covers"
+            ],
+            "$lastUpdatedDate": "Wed Mar 05 12:46:59 EST 2025",
+            "locatorIds": [],
+            "noindex": false,
+            "$owningSite": "gospel-living",
+            "$id": "0000016e-ec64-ddd6-adfe-fc76b0190000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "0000016e-ec64-ddd6-adfe-fc76b0190000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "A red and tan heart shaped logo made up of circular lines centered on a light beige background.",
+            "publicDownload": [],
+            "$publishDate": "Mon Dec 09 15:40:51 EST 2019",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1600%2C1600/0/default",
+                "height": 1600,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1600%2C1600/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1920%2C1920/0/default",
+                "height": 1920,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1920%2C1920/0/default",
+                "width": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Cover art for the 2019 Youth Mutual Theme album.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "No Title",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Cover art for the 2019 Youth Mutual Theme album.",
+            "shareableTitle": "No Title",
+            "title": "No Title"
+          },
+          "title": "Footsteps",
+          "translator": []
+        },
+        "$id": "00000196-c6da-d455-a9f6-deded4fe0001",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6da-d455-a9f6-deded4fe0001",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Hide",
+    "slug": "hide",
+    "bookSlug": "if-we-love-him-2019-youth-album",
+    "bookSectionTitle": "If We Love Him: 2019 Youth Album",
+    "songNumber": "3",
+    "songDate": "2019-01-01",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "Shalia Rokobuludrau"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": true,
+    "videoAvailable": false,
+    "tags": [
+      "courage",
+      "example",
+      "faith",
+      "hope",
+      "missionary work"
+    ],
+    "voicings": [
+      {
+        "name": "Unison"
+      }
+    ],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_ACCOMPANIMENT",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "36ea6d3f3a0afc99fb1c0281055e3908856a52e7",
+          "attributes": {},
+          "composer": [],
+          "description": "“Hide” from 2019 Youth Album (English, 2019-01-01).",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/if-we-love-him-2019-mutual-album/2018-09-0021-hide-instrumental-256k-eng.mp3",
+          "duration": 184000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Jul 26 15:45:24 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee1-d3a5-ab95-1ffb82e40000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee1-d3a5-ab95-1ffb82e40000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“Hide” from 2019 Youth Album (English, 2019-01-01).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:22:50 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“Hide” from 2019 Youth Album (English, 2019-01-01).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Hide",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“Hide” from 2019 Youth Album (English, 2019-01-01).",
+          "shareableTitle": "Hide",
+          "title": "Hide",
+          "translator": []
+        },
+        "$id": "00000196-c6da-d455-a9f6-deded53b0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6da-d455-a9f6-deded53b0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      },
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "a73693338147061ee2a3e4775aef27a9643801fb",
+          "attributes": {},
+          "composer": [],
+          "description": "“Hide” from 2019 Youth Album (English, 2019-01-01).",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/a7/36/a73693338147061ee2a3e4775aef27a9643801fb/hide_2019_youth_album.mp3",
+          "duration": 184000,
+          "ipCode": "0 - IRI Owned",
+          "isPartOf": [],
+          "keywords": [
+            "music",
+            "Youth Music",
+            "youth"
+          ],
+          "$lastUpdatedDate": "Fri Jul 26 15:45:24 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$owningSite": "gospel-living",
+          "$id": "00000170-a1fd-d67b-a5f1-a7ffec720000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000170-a1fd-d67b-a5f1-a7ffec720000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“Hide” from 2019 Youth Album (English, 2019-01-01).",
+          "publicDownload": [],
+          "$publishDate": "Tue Mar 03 15:02:17 EST 2020",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“Hide” from 2019 Youth Album (English, 2019-01-01).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Hide",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“Hide” from 2019 Youth Album (English, 2019-01-01).",
+          "shareableTitle": "Hide",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "4fa3dba5d67097775990cbb83cc96677b207b3b2",
+            "attributes": {},
+            "description": "Cover art for the 2019 Youth Mutual Theme album.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/1920,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "isPartOf": [],
+            "keywords": [
+              "Covers"
+            ],
+            "$lastUpdatedDate": "Wed Mar 05 12:46:59 EST 2025",
+            "locatorIds": [],
+            "noindex": false,
+            "$owningSite": "gospel-living",
+            "$id": "0000016e-ec64-ddd6-adfe-fc76b0190000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "0000016e-ec64-ddd6-adfe-fc76b0190000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "A red and tan heart shaped logo made up of circular lines centered on a light beige background.",
+            "publicDownload": [],
+            "$publishDate": "Mon Dec 09 15:40:51 EST 2019",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1600%2C1600/0/default",
+                "height": 1600,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1600%2C1600/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1920%2C1920/0/default",
+                "height": 1920,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1920%2C1920/0/default",
+                "width": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Cover art for the 2019 Youth Mutual Theme album.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "No Title",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Cover art for the 2019 Youth Mutual Theme album.",
+            "shareableTitle": "No Title",
+            "title": "No Title"
+          },
+          "title": "Hide",
+          "translator": []
+        },
+        "$id": "00000196-c6da-d455-a9f6-deded53b0001",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6da-d455-a9f6-deded53b0001",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Rest",
+    "slug": "rest",
+    "bookSlug": "if-we-love-him-2019-youth-album",
+    "bookSectionTitle": "If We Love Him: 2019 Youth Album",
+    "songNumber": "4",
+    "songDate": "2019-01-01",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "Elica Moore"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Piano"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": true,
+    "videoAvailable": false,
+    "tags": [
+      "Jesus Christ",
+      "courage",
+      "hope",
+      "love",
+      "peace",
+      "prayer",
+      "trials"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_ACCOMPANIMENT",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "a529f6dd2af4b42e0b0260eccfd9f03e1aa78fdc",
+          "attributes": {},
+          "composer": [],
+          "description": "“Rest” from 2019 Youth Album (English, 2019-01-01).",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/if-we-love-him-2019-mutual-album/2018-09-0031-rest-instrumental-256k-eng.mp3",
+          "duration": 191000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Jul 26 15:45:25 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee1-d3a5-ab95-1ffb8a110000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee1-d3a5-ab95-1ffb8a110000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“Rest” from 2019 Youth Album (English, 2019-01-01).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:22:52 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“Rest” from 2019 Youth Album (English, 2019-01-01).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Rest",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“Rest” from 2019 Youth Album (English, 2019-01-01).",
+          "shareableTitle": "Rest",
+          "title": "Rest",
+          "translator": []
+        },
+        "$id": "00000196-c6da-d455-a9f6-deded5850000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6da-d455-a9f6-deded5850000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      },
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "7364d23b75dba3ce64597c37fba6507631523b7d",
+          "attributes": {},
+          "composer": [],
+          "description": "“Rest” from 2019 Youth Album (English, 2019-01-01).",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/73/64/7364d23b75dba3ce64597c37fba6507631523b7d/rest_2019_youth_album.mp3",
+          "duration": 190000,
+          "ipCode": "0 - IRI Owned",
+          "isPartOf": [],
+          "keywords": [
+            "music",
+            "Youth Music",
+            "youth"
+          ],
+          "$lastUpdatedDate": "Fri Jul 26 15:45:25 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee4-d3a5-ab95-1ffeac050000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee4-d3a5-ab95-1ffeac050000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“Rest” from 2019 Youth Album (English, 2019-01-01).",
+          "publicDownload": [],
+          "$publishDate": "Tue Oct 25 07:26:18 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“Rest” from 2019 Youth Album (English, 2019-01-01).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Rest",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“Rest” from 2019 Youth Album (English, 2019-01-01).",
+          "shareableTitle": "Rest",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "4fa3dba5d67097775990cbb83cc96677b207b3b2",
+            "attributes": {},
+            "description": "Cover art for the 2019 Youth Mutual Theme album.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/1920,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "isPartOf": [],
+            "keywords": [
+              "Covers"
+            ],
+            "$lastUpdatedDate": "Wed Mar 05 12:46:59 EST 2025",
+            "locatorIds": [],
+            "noindex": false,
+            "$owningSite": "gospel-living",
+            "$id": "0000016e-ec64-ddd6-adfe-fc76b0190000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "0000016e-ec64-ddd6-adfe-fc76b0190000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "A red and tan heart shaped logo made up of circular lines centered on a light beige background.",
+            "publicDownload": [],
+            "$publishDate": "Mon Dec 09 15:40:51 EST 2019",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1600%2C1600/0/default",
+                "height": 1600,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1600%2C1600/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1920%2C1920/0/default",
+                "height": 1920,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1920%2C1920/0/default",
+                "width": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Cover art for the 2019 Youth Mutual Theme album.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "No Title",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Cover art for the 2019 Youth Mutual Theme album.",
+            "shareableTitle": "No Title",
+            "title": "No Title"
+          },
+          "title": "Rest",
+          "translator": []
+        },
+        "$id": "00000196-c6da-d455-a9f6-deded5850001",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6da-d455-a9f6-deded5850001",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "You’re Not Your Mistakes",
+    "slug": "youre-not-your-mistakes",
+    "bookSlug": "if-we-love-him-2019-youth-album",
+    "bookSectionTitle": "If We Love Him: 2019 Youth Album",
+    "songNumber": "5",
+    "songDate": "2019-01-01",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "Kainoa Sorensen"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": true,
+    "videoAvailable": false,
+    "tags": [
+      "divine worth",
+      "hope",
+      "repentance",
+      "self-esteem",
+      "temptation",
+      "trials"
+    ],
+    "voicings": [
+      {
+        "name": "Unison"
+      }
+    ],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_ACCOMPANIMENT",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "c7a233b0a16b98cb9052ad768ec7c25f98236c52",
+          "attributes": {},
+          "composer": [],
+          "description": "“You’re Not Your Mistakes” from 2019 Youth Album (English, 2019-01-01).",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/if-we-love-him-2019-mutual-album/2018-09-0041-mistakes-instrumental-256k-eng.mp3",
+          "duration": 237000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Jul 26 15:45:26 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee1-d3a5-ab95-1ffb8daa0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee1-d3a5-ab95-1ffb8daa0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“You’re Not Your Mistakes” from 2019 Youth Album (English, 2019-01-01).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:22:53 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“You’re Not Your Mistakes” from 2019 Youth Album (English, 2019-01-01).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "You’re Not Your Mistakes",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“You’re Not Your Mistakes” from 2019 Youth Album (English, 2019-01-01).",
+          "shareableTitle": "You’re Not Your Mistakes",
+          "title": "You’re Not Your Mistakes",
+          "translator": []
+        },
+        "$id": "00000196-c6da-d455-a9f6-deded5d40000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6da-d455-a9f6-deded5d40000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      },
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "0e2939e98b17cce3dbbd983f4584bd509d3fd746",
+          "attributes": {},
+          "composer": [],
+          "description": "“You’re Not Your Mistakes” from 2019 Youth Album (English, 2019-01-01).",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/0e/29/0e2939e98b17cce3dbbd983f4584bd509d3fd746/you_are_not_your_mistakes_2019_youth_album.mp3",
+          "duration": 237000,
+          "ipCode": "0 - IRI Owned",
+          "isPartOf": [],
+          "keywords": [
+            "music",
+            "Youth Music",
+            "youth"
+          ],
+          "$lastUpdatedDate": "Fri Jul 26 15:45:26 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee4-d3a5-ab95-1ffeb5ac0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee4-d3a5-ab95-1ffeb5ac0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“You’re Not Your Mistakes” from 2019 Youth Album (English, 2019-01-01).",
+          "publicDownload": [],
+          "$publishDate": "Tue Oct 25 07:26:20 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“You’re Not Your Mistakes” from 2019 Youth Album (English, 2019-01-01).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "You’re Not Your Mistakes",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“You’re Not Your Mistakes” from 2019 Youth Album (English, 2019-01-01).",
+          "shareableTitle": "You’re Not Your Mistakes",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "4fa3dba5d67097775990cbb83cc96677b207b3b2",
+            "attributes": {},
+            "description": "Cover art for the 2019 Youth Mutual Theme album.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/1920,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "isPartOf": [],
+            "keywords": [
+              "Covers"
+            ],
+            "$lastUpdatedDate": "Wed Mar 05 12:46:59 EST 2025",
+            "locatorIds": [],
+            "noindex": false,
+            "$owningSite": "gospel-living",
+            "$id": "0000016e-ec64-ddd6-adfe-fc76b0190000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "0000016e-ec64-ddd6-adfe-fc76b0190000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "A red and tan heart shaped logo made up of circular lines centered on a light beige background.",
+            "publicDownload": [],
+            "$publishDate": "Mon Dec 09 15:40:51 EST 2019",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1600%2C1600/0/default",
+                "height": 1600,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1600%2C1600/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1920%2C1920/0/default",
+                "height": 1920,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1920%2C1920/0/default",
+                "width": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Cover art for the 2019 Youth Mutual Theme album.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "No Title",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Cover art for the 2019 Youth Mutual Theme album.",
+            "shareableTitle": "No Title",
+            "title": "No Title"
+          },
+          "title": "You’re Not Your Mistakes",
+          "translator": []
+        },
+        "$id": "00000196-c6da-d455-a9f6-deded5d40001",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6da-d455-a9f6-deded5d40001",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Never Ends",
+    "slug": "never-ends",
+    "bookSlug": "if-we-love-him-2019-youth-album",
+    "bookSectionTitle": "If We Love Him: 2019 Youth Album",
+    "songNumber": "6",
+    "songDate": "2019-01-01",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "Lauryn Judd"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": true,
+    "videoAvailable": false,
+    "tags": [
+      "Sabbath",
+      "faith",
+      "happiness",
+      "joy",
+      "prayer",
+      "testimony"
+    ],
+    "voicings": [
+      {
+        "name": "Unison"
+      }
+    ],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_ACCOMPANIMENT",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "e16f31b1f8116c4018046d404cc0b6c9496eb6f8",
+          "attributes": {},
+          "composer": [],
+          "description": "“Never Ends” from 2019 Youth Album (English, 2019-01-01).",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/if-we-love-him-2019-mutual-album/2018-09-0051-never-ends-instrumental-256k-eng.mp3",
+          "duration": 234000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Jul 26 15:45:27 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee1-d3a5-ab95-1ffb8be10000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee1-d3a5-ab95-1ffb8be10000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“Never Ends” from 2019 Youth Album (English, 2019-01-01).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:22:53 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“Never Ends” from 2019 Youth Album (English, 2019-01-01).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Never Ends",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“Never Ends” from 2019 Youth Album (English, 2019-01-01).",
+          "shareableTitle": "Never Ends",
+          "title": "Never Ends",
+          "translator": []
+        },
+        "$id": "00000196-c6da-d455-a9f6-deded6190000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6da-d455-a9f6-deded6190000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      },
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "52bd5833bc1b015bd9d0a1944355647d91abb7b7",
+          "attributes": {},
+          "composer": [],
+          "description": "“Never Ends” from 2019 Youth Album (English, 2019-01-01).",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/52/bd/52bd5833bc1b015bd9d0a1944355647d91abb7b7/never_ends_2019_youth_album.mp3",
+          "duration": 235000,
+          "ipCode": "0 - IRI Owned",
+          "isPartOf": [],
+          "keywords": [
+            "music",
+            "Youth Music",
+            "youth"
+          ],
+          "$lastUpdatedDate": "Fri Jul 26 15:45:27 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee4-d3a5-ab95-1ffeb77d0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee4-d3a5-ab95-1ffeb77d0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“Never Ends” from 2019 Youth Album (English, 2019-01-01).",
+          "publicDownload": [],
+          "$publishDate": "Tue Oct 25 07:26:21 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“Never Ends” from 2019 Youth Album (English, 2019-01-01).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Never Ends",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“Never Ends” from 2019 Youth Album (English, 2019-01-01).",
+          "shareableTitle": "Never Ends",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "4fa3dba5d67097775990cbb83cc96677b207b3b2",
+            "attributes": {},
+            "description": "Cover art for the 2019 Youth Mutual Theme album.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/1920,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "isPartOf": [],
+            "keywords": [
+              "Covers"
+            ],
+            "$lastUpdatedDate": "Wed Mar 05 12:46:59 EST 2025",
+            "locatorIds": [],
+            "noindex": false,
+            "$owningSite": "gospel-living",
+            "$id": "0000016e-ec64-ddd6-adfe-fc76b0190000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "0000016e-ec64-ddd6-adfe-fc76b0190000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "A red and tan heart shaped logo made up of circular lines centered on a light beige background.",
+            "publicDownload": [],
+            "$publishDate": "Mon Dec 09 15:40:51 EST 2019",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1600%2C1600/0/default",
+                "height": 1600,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1600%2C1600/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1920%2C1920/0/default",
+                "height": 1920,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1920%2C1920/0/default",
+                "width": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Cover art for the 2019 Youth Mutual Theme album.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "No Title",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Cover art for the 2019 Youth Mutual Theme album.",
+            "shareableTitle": "No Title",
+            "title": "No Title"
+          },
+          "title": "Never Ends",
+          "translator": []
+        },
+        "$id": "00000196-c6da-d455-a9f6-deded6190001",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6da-d455-a9f6-deded6190001",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Merciful",
+    "slug": "merciful",
+    "bookSlug": "if-we-love-him-2019-youth-album",
+    "bookSectionTitle": "If We Love Him: 2019 Youth Album",
+    "songNumber": "7",
+    "songDate": "2019-01-01",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "Jordan James"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": true,
+    "videoAvailable": false,
+    "tags": [
+      "Jesus Christ",
+      "grace",
+      "love",
+      "mercy"
+    ],
+    "voicings": [
+      {
+        "name": "Unison"
+      }
+    ],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_ACCOMPANIMENT",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "b4d07ddf83cd6c3653b26977ff3518254af5c804",
+          "attributes": {},
+          "composer": [],
+          "description": "“Merciful” from 2019 Youth Album (English, 2019-01-01).",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/if-we-love-him-2019-mutual-album/2018-09-0061-merciful-instrumental-256k-eng.mp3",
+          "duration": 165000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Jul 26 15:45:28 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee1-d3a5-ab95-1ffb84b50000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee1-d3a5-ab95-1ffb84b50000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“Merciful” from 2019 Youth Album (English, 2019-01-01).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:22:51 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“Merciful” from 2019 Youth Album (English, 2019-01-01).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Merciful",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“Merciful” from 2019 Youth Album (English, 2019-01-01).",
+          "shareableTitle": "Merciful",
+          "title": "Merciful",
+          "translator": []
+        },
+        "$id": "00000196-c6da-d455-a9f6-deded65a0001",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6da-d455-a9f6-deded65a0001",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      },
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "3461bf731987176d9260da82c9154d41506e9bc2",
+          "attributes": {},
+          "composer": [],
+          "description": "“Merciful” from 2019 Youth Album (English, 2019-01-01).",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/34/61/3461bf731987176d9260da82c9154d41506e9bc2/merciful_2019_youth_album.mp3",
+          "duration": 166000,
+          "ipCode": "0 - IRI Owned",
+          "isPartOf": [],
+          "keywords": [
+            "music",
+            "Youth Music",
+            "youth"
+          ],
+          "$lastUpdatedDate": "Fri Jul 26 15:45:28 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee4-d3a5-ab95-1ffea84f0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee4-d3a5-ab95-1ffea84f0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“Merciful” from 2019 Youth Album (English, 2019-01-01).",
+          "publicDownload": [],
+          "$publishDate": "Tue Oct 25 07:26:17 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“Merciful” from 2019 Youth Album (English, 2019-01-01).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Merciful",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“Merciful” from 2019 Youth Album (English, 2019-01-01).",
+          "shareableTitle": "Merciful",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "4fa3dba5d67097775990cbb83cc96677b207b3b2",
+            "attributes": {},
+            "description": "Cover art for the 2019 Youth Mutual Theme album.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/1920,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "isPartOf": [],
+            "keywords": [
+              "Covers"
+            ],
+            "$lastUpdatedDate": "Wed Mar 05 12:46:59 EST 2025",
+            "locatorIds": [],
+            "noindex": false,
+            "$owningSite": "gospel-living",
+            "$id": "0000016e-ec64-ddd6-adfe-fc76b0190000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "0000016e-ec64-ddd6-adfe-fc76b0190000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "A red and tan heart shaped logo made up of circular lines centered on a light beige background.",
+            "publicDownload": [],
+            "$publishDate": "Mon Dec 09 15:40:51 EST 2019",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1600%2C1600/0/default",
+                "height": 1600,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1600%2C1600/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1920%2C1920/0/default",
+                "height": 1920,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1920%2C1920/0/default",
+                "width": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Cover art for the 2019 Youth Mutual Theme album.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "No Title",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Cover art for the 2019 Youth Mutual Theme album.",
+            "shareableTitle": "No Title",
+            "title": "No Title"
+          },
+          "title": "Merciful",
+          "translator": []
+        },
+        "$id": "00000196-c6da-d455-a9f6-deded65a0002",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6da-d455-a9f6-deded65a0002",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "His Name",
+    "slug": "his-name",
+    "bookSlug": "if-we-love-him-2019-youth-album",
+    "bookSectionTitle": "If We Love Him: 2019 Youth Album",
+    "songNumber": "8",
+    "songDate": "2019-01-01",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "Claire Westcott"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": true,
+    "videoAvailable": false,
+    "tags": [
+      "Jesus Christ",
+      "comfort",
+      "grace",
+      "love",
+      "mercy",
+      "prayer"
+    ],
+    "voicings": [
+      {
+        "name": "Unison"
+      }
+    ],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_ACCOMPANIMENT",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "69139b1c45c46ad42fb777044d45d4f012cd471a",
+          "attributes": {},
+          "composer": [],
+          "description": "“His Name” from 2019 Youth Album (English, 2019-01-01).",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/if-we-love-him-2019-mutual-album/2018-09-0071-his-name-instrumental-256k-eng.mp3",
+          "duration": 254000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Jul 26 15:45:29 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee1-d3a5-ab95-1ffb94cd0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee1-d3a5-ab95-1ffb94cd0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“His Name” from 2019 Youth Album (English, 2019-01-01).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:22:55 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“His Name” from 2019 Youth Album (English, 2019-01-01).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "His Name",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“His Name” from 2019 Youth Album (English, 2019-01-01).",
+          "shareableTitle": "His Name",
+          "title": "His Name",
+          "translator": []
+        },
+        "$id": "00000196-c6da-d455-a9f6-deded6970000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6da-d455-a9f6-deded6970000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      },
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "c708669aae8534c7f4f0c242ee71c36005557fb4",
+          "attributes": {},
+          "composer": [],
+          "description": "“His Name” from 2019 Youth Album (English, 2019-01-01).",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/c7/08/c708669aae8534c7f4f0c242ee71c36005557fb4/his_name_2019_youth_album.mp3",
+          "duration": 250000,
+          "ipCode": "0 - IRI Owned",
+          "isPartOf": [],
+          "keywords": [
+            "music",
+            "Youth Music",
+            "youth"
+          ],
+          "$lastUpdatedDate": "Fri Jul 26 15:45:29 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$owningSite": "gospel-living",
+          "$id": "00000173-edc3-de93-a377-eff3058f0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000173-edc3-de93-a377-eff3058f0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“His Name” from 2019 Youth Album (English, 2019-01-01).",
+          "publicDownload": [],
+          "$publishDate": "Fri Aug 14 12:17:27 EDT 2020",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“His Name” from 2019 Youth Album (English, 2019-01-01).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "His Name",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“His Name” from 2019 Youth Album (English, 2019-01-01).",
+          "shareableTitle": "His Name",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "4fa3dba5d67097775990cbb83cc96677b207b3b2",
+            "attributes": {},
+            "description": "Cover art for the 2019 Youth Mutual Theme album.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/1920,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "isPartOf": [],
+            "keywords": [
+              "Covers"
+            ],
+            "$lastUpdatedDate": "Wed Mar 05 12:46:59 EST 2025",
+            "locatorIds": [],
+            "noindex": false,
+            "$owningSite": "gospel-living",
+            "$id": "0000016e-ec64-ddd6-adfe-fc76b0190000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "0000016e-ec64-ddd6-adfe-fc76b0190000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "A red and tan heart shaped logo made up of circular lines centered on a light beige background.",
+            "publicDownload": [],
+            "$publishDate": "Mon Dec 09 15:40:51 EST 2019",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1600%2C1600/0/default",
+                "height": 1600,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1600%2C1600/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1920%2C1920/0/default",
+                "height": 1920,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1920%2C1920/0/default",
+                "width": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Cover art for the 2019 Youth Mutual Theme album.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "No Title",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Cover art for the 2019 Youth Mutual Theme album.",
+            "shareableTitle": "No Title",
+            "title": "No Title"
+          },
+          "title": "His Name",
+          "translator": []
+        },
+        "$id": "00000196-c6da-d455-a9f6-deded6970001",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6da-d455-a9f6-deded6970001",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Just a Feeling",
+    "slug": "just-a-feeling",
+    "bookSlug": "if-we-love-him-2019-youth-album",
+    "bookSectionTitle": "If We Love Him: 2019 Youth Album",
+    "songNumber": "9",
+    "songDate": "2019-01-01",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "Layla Mackey"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": true,
+    "videoAvailable": false,
+    "tags": [
+      "Jesus Christ",
+      "guidance",
+      "love",
+      "mercy",
+      "service"
+    ],
+    "voicings": [
+      {
+        "name": "Unison"
+      }
+    ],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_ACCOMPANIMENT",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "7a850ba6151e24141011da46669df841ee3a542c",
+          "attributes": {},
+          "composer": [],
+          "description": "“Just a Feeling” from 2019 Youth Album (English, 2019-01-01).",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/if-we-love-him-2019-mutual-album/2018-09-0081-just-a-feeling-instrumental-256k-eng.mp3",
+          "duration": 200000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Jul 26 15:45:30 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee1-d3a5-ab95-1ffb96a10000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee1-d3a5-ab95-1ffb96a10000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“Just a Feeling” from 2019 Youth Album (English, 2019-01-01).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:22:56 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“Just a Feeling” from 2019 Youth Album (English, 2019-01-01).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Just a Feeling",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“Just a Feeling” from 2019 Youth Album (English, 2019-01-01).",
+          "shareableTitle": "Just a Feeling",
+          "title": "Just a Feeling",
+          "translator": []
+        },
+        "$id": "00000196-c6da-d455-a9f6-deded6d40000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6da-d455-a9f6-deded6d40000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      },
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "51e82e24f6875679ecba3071edcb80bd24172d94",
+          "attributes": {},
+          "composer": [],
+          "description": "“Just a Feeling” from 2019 Youth Album (English, 2019-01-01).",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/51/e8/51e82e24f6875679ecba3071edcb80bd24172d94/just_a_feeling_2019_youth_album.mp3",
+          "duration": 201000,
+          "ipCode": "0 - IRI Owned",
+          "isPartOf": [],
+          "keywords": [
+            "music",
+            "Youth Music",
+            "youth"
+          ],
+          "$lastUpdatedDate": "Fri Jul 26 15:45:30 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$owningSite": "gospel-living",
+          "$id": "00000172-142b-d995-ab76-343b7f580000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000172-142b-d995-ab76-343b7f580000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“Just a Feeling” from 2019 Youth Album (English, 2019-01-01).",
+          "publicDownload": [],
+          "$publishDate": "Thu May 14 13:11:34 EDT 2020",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“Just a Feeling” from 2019 Youth Album (English, 2019-01-01).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Just a Feeling",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“Just a Feeling” from 2019 Youth Album (English, 2019-01-01).",
+          "shareableTitle": "Just a Feeling",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "4fa3dba5d67097775990cbb83cc96677b207b3b2",
+            "attributes": {},
+            "description": "Cover art for the 2019 Youth Mutual Theme album.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/1920,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "isPartOf": [],
+            "keywords": [
+              "Covers"
+            ],
+            "$lastUpdatedDate": "Wed Mar 05 12:46:59 EST 2025",
+            "locatorIds": [],
+            "noindex": false,
+            "$owningSite": "gospel-living",
+            "$id": "0000016e-ec64-ddd6-adfe-fc76b0190000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "0000016e-ec64-ddd6-adfe-fc76b0190000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "A red and tan heart shaped logo made up of circular lines centered on a light beige background.",
+            "publicDownload": [],
+            "$publishDate": "Mon Dec 09 15:40:51 EST 2019",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1600%2C1600/0/default",
+                "height": 1600,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1600%2C1600/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1920%2C1920/0/default",
+                "height": 1920,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1920%2C1920/0/default",
+                "width": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Cover art for the 2019 Youth Mutual Theme album.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "No Title",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Cover art for the 2019 Youth Mutual Theme album.",
+            "shareableTitle": "No Title",
+            "title": "No Title"
+          },
+          "title": "Just a Feeling",
+          "translator": []
+        },
+        "$id": "00000196-c6da-d455-a9f6-deded6d40001",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6da-d455-a9f6-deded6d40001",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Forget",
+    "slug": "forget",
+    "bookSlug": "if-we-love-him-2019-youth-album",
+    "bookSectionTitle": "If We Love Him: 2019 Youth Album",
+    "songNumber": "10",
+    "songDate": "2019-01-01",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "Talin Everett"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": true,
+    "videoAvailable": false,
+    "tags": [
+      "grace",
+      "guidance",
+      "love",
+      "prayer"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_ACCOMPANIMENT",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "4f4a5c6b3cad8236f341a0797e1640dfc4ee9593",
+          "attributes": {},
+          "composer": [],
+          "description": "“Forget” from 2019 Youth Album (English, 2019-01-01).",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/if-we-love-him-2019-mutual-album/2018-09-0091-forget-instrumental-256k-eng.mp3",
+          "duration": 186000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Jul 26 15:45:31 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee1-d3a5-ab95-1ffb98b20000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee1-d3a5-ab95-1ffb98b20000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“Forget” from 2019 Youth Album (English, 2019-01-01).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:22:56 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“Forget” from 2019 Youth Album (English, 2019-01-01).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Forget",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“Forget” from 2019 Youth Album (English, 2019-01-01).",
+          "shareableTitle": "Forget",
+          "title": "Forget",
+          "translator": []
+        },
+        "$id": "00000196-c6da-d455-a9f6-deded7190000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6da-d455-a9f6-deded7190000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      },
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "de7033dddbeb2b5c211d4760152419b856e9bd1a",
+          "attributes": {},
+          "composer": [],
+          "description": "“Forget” from 2019 Youth Album (English, 2019-01-01).",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/de/70/de7033dddbeb2b5c211d4760152419b856e9bd1a/forget_2019_youth_album.mp3",
+          "duration": 186000,
+          "ipCode": "0 - IRI Owned",
+          "isPartOf": [],
+          "keywords": [
+            "music",
+            "Youth Music",
+            "youth"
+          ],
+          "$lastUpdatedDate": "Fri Jul 26 15:45:31 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee4-d3a5-ab95-1ffeae020000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee4-d3a5-ab95-1ffeae020000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“Forget” from 2019 Youth Album (English, 2019-01-01).",
+          "publicDownload": [],
+          "$publishDate": "Tue Oct 25 07:26:18 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“Forget” from 2019 Youth Album (English, 2019-01-01).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Forget",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“Forget” from 2019 Youth Album (English, 2019-01-01).",
+          "shareableTitle": "Forget",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "4fa3dba5d67097775990cbb83cc96677b207b3b2",
+            "attributes": {},
+            "description": "Cover art for the 2019 Youth Mutual Theme album.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/1920,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "isPartOf": [],
+            "keywords": [
+              "Covers"
+            ],
+            "$lastUpdatedDate": "Wed Mar 05 12:46:59 EST 2025",
+            "locatorIds": [],
+            "noindex": false,
+            "$owningSite": "gospel-living",
+            "$id": "0000016e-ec64-ddd6-adfe-fc76b0190000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "0000016e-ec64-ddd6-adfe-fc76b0190000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "A red and tan heart shaped logo made up of circular lines centered on a light beige background.",
+            "publicDownload": [],
+            "$publishDate": "Mon Dec 09 15:40:51 EST 2019",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1600%2C1600/0/default",
+                "height": 1600,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1600%2C1600/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1920%2C1920/0/default",
+                "height": 1920,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1920%2C1920/0/default",
+                "width": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Cover art for the 2019 Youth Mutual Theme album.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "No Title",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Cover art for the 2019 Youth Mutual Theme album.",
+            "shareableTitle": "No Title",
+            "title": "No Title"
+          },
+          "title": "Forget",
+          "translator": []
+        },
+        "$id": "00000196-c6da-d455-a9f6-deded7190001",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6da-d455-a9f6-deded7190001",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "If We Love Him",
+    "subtitle": "Male Version",
+    "slug": "if-we-love-him-male",
+    "bookSlug": "if-we-love-him-2019-youth-album",
+    "bookSectionTitle": "If We Love Him: 2019 Youth Album",
+    "songNumber": "11",
+    "songDate": "2019-01-01",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "Patch Crowe"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": true,
+    "videoAvailable": false,
+    "tags": [
+      "Jesus Christ",
+      "commitment",
+      "discipleship",
+      "grace",
+      "love",
+      "obedience"
+    ],
+    "voicings": [
+      {
+        "name": "Unison"
+      }
+    ],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_ACCOMPANIMENT",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "db3f71b5e0f4cdb602939862984a6a52aa25d86e",
+          "attributes": {},
+          "composer": [],
+          "description": "“If We Love Him” (Male Version) from 2019 Youth Album (English, 2019-01-01).",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/if-we-love-him-2019-mutual-album/2018-09-0111-if-we-love-him-instrumental-256k-eng.mp3",
+          "duration": 225000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Jul 26 15:45:32 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee1-d3a5-ab95-1ffb91410000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee1-d3a5-ab95-1ffb91410000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“If We Love Him” (Male Version) from 2019 Youth Album (English, 2019-01-01).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:22:54 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“If We Love Him” (Male Version) from 2019 Youth Album (English, 2019-01-01).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "If We Love Him",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“If We Love Him” (Male Version) from 2019 Youth Album (English, 2019-01-01).",
+          "shareableTitle": "If We Love Him",
+          "title": "If We Love Him",
+          "translator": []
+        },
+        "$id": "00000196-c6da-d455-a9f6-deded7560000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6da-d455-a9f6-deded7560000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      },
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "2ab2c4950ddf01369322c66aa0dbf5071da8dcbb",
+          "attributes": {},
+          "composer": [],
+          "description": "“If We Love Him” (Male Version) from 2019 Youth Album (English, 2019-01-01).",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/2a/b2/2ab2c4950ddf01369322c66aa0dbf5071da8dcbb/if_we_love_him_2019_youth_album_male.mp3",
+          "duration": 225000,
+          "ipCode": "0 - IRI Owned",
+          "isPartOf": [],
+          "keywords": [
+            "music",
+            "Youth Music",
+            "youth"
+          ],
+          "$lastUpdatedDate": "Fri Jul 26 15:45:32 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "0000017a-200d-d072-abfb-231ded0d0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "0000017a-200d-d072-abfb-231ded0d0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“If We Love Him” (Male Version) from 2019 Youth Album (English, 2019-01-01).",
+          "publicDownload": [],
+          "$publishDate": "Fri Jun 18 12:57:01 EDT 2021",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“If We Love Him” (Male Version) from 2019 Youth Album (English, 2019-01-01).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "If We Love Him",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“If We Love Him” (Male Version) from 2019 Youth Album (English, 2019-01-01).",
+          "shareableTitle": "If We Love Him",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "4fa3dba5d67097775990cbb83cc96677b207b3b2",
+            "attributes": {},
+            "description": "Cover art for the 2019 Youth Mutual Theme album.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/1920,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "isPartOf": [],
+            "keywords": [
+              "Covers"
+            ],
+            "$lastUpdatedDate": "Wed Mar 05 12:46:59 EST 2025",
+            "locatorIds": [],
+            "noindex": false,
+            "$owningSite": "gospel-living",
+            "$id": "0000016e-ec64-ddd6-adfe-fc76b0190000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "0000016e-ec64-ddd6-adfe-fc76b0190000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "A red and tan heart shaped logo made up of circular lines centered on a light beige background.",
+            "publicDownload": [],
+            "$publishDate": "Mon Dec 09 15:40:51 EST 2019",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!640%2C640/0/default",
+                "height": 640,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!640%2C640/0/default",
+                "width": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!800%2C800/0/default",
+                "height": 800,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!800%2C800/0/default",
+                "width": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1280%2C1280/0/default",
+                "height": 1280,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1280%2C1280/0/default",
+                "width": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1600%2C1600/0/default",
+                "height": 1600,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1600%2C1600/0/default",
+                "width": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1920%2C1920/0/default",
+                "height": 1920,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!1920%2C1920/0/default",
+                "width": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!100%2C100/0/default",
+                "width": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!500%2C500/0/default",
+                "height": 500,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fa3dba5d67097775990cbb83cc96677b207b3b2/full/!500%2C500/0/default",
+                "width": 500
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Cover art for the 2019 Youth Mutual Theme album.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "No Title",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Cover art for the 2019 Youth Mutual Theme album.",
+            "shareableTitle": "No Title",
+            "title": "No Title"
+          },
+          "title": "If We Love Him",
+          "translator": []
+        },
+        "$id": "00000196-c6da-d455-a9f6-deded7560001",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6da-d455-a9f6-deded7560001",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  }
+]

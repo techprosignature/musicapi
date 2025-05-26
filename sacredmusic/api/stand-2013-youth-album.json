@@ -1,0 +1,2938 @@
+[
+  {
+    "title": "Stand",
+    "slug": "stand",
+    "bookSlug": "stand-2013-youth-album",
+    "bookSectionTitle": "Stand: 2013 Youth Album",
+    "songNumber": "1",
+    "songDate": "2013-01-01",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "Megan Sackett"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Ross Boothe"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Ross Boothe"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [
+      "commitment",
+      "discipleship",
+      "scriptures"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_ACCOMPANIMENT",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "e213ef8f1ed29e6a20feba98517048021ce25913",
+          "attributes": {},
+          "composer": [],
+          "description": "“Stand” from 2013 Youth Album (English, 2013-01-01).",
+          "distributionUrl": "https://broadcast2.lds.org/youth/the-rising-generation-minus/2013-11-0001-stand-theme-with-dialog-minus-voc-128k-eng.mp3",
+          "duration": 261000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Jul 26 15:20:19 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee0-d3a5-ab95-1ffacb3f0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee0-d3a5-ab95-1ffacb3f0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“Stand” from 2013 Youth Album (English, 2013-01-01).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:22:03 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“Stand” from 2013 Youth Album (English, 2013-01-01).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Stand",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“Stand” from 2013 Youth Album (English, 2013-01-01).",
+          "shareableTitle": "Stand",
+          "title": "Stand",
+          "translator": []
+        },
+        "$id": "00000196-c6d8-d455-a9f6-dedccd0f0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6d8-d455-a9f6-dedccd0f0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      },
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "3c1af117373f45580faad6add594609096a25200",
+          "attributes": {},
+          "composer": [],
+          "description": "“Stand” from 2013 Youth Album (English, 2013-01-01).",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/3c/1a/3c1af117373f45580faad6add594609096a25200/stand.mp3",
+          "duration": 262000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Jul 26 15:28:41 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "0000017a-2008-d40d-ad7a-7d1d56540000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "0000017a-2008-d40d-ad7a-7d1d56540000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“Stand” from 2013 Youth Album (English, 2013-01-01).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Fri Jun 18 12:50:55 EDT 2021",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“Stand” from 2013 Youth Album (English, 2013-01-01).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Stand",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“Stand” from 2013 Youth Album (English, 2013-01-01).",
+          "shareableTitle": "Stand",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "5ac1d5da4b74ec6e731b8117a3615fe53f347539",
+            "attributes": {},
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "0 - IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Mon May 19 18:56:37 EDT 2025",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "0000016e-f22e-d642-a77f-f72e2e080000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "0000016e-f22e-d642-a77f-f72e2e080000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "Three abstract medium blue, light blue, and white rectangles decreasing in size and centered on a dark blue background.",
+            "publicDownload": [],
+            "$publishDate": "Tue Dec 10 18:39:03 EST 2019",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "No Title",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "2020 Mutual Theme Music Album",
+            "shareableTitle": "No Title",
+            "title": "No Title"
+          },
+          "title": "Stand",
+          "translator": []
+        },
+        "$id": "00000196-c6d8-d455-a9f6-dedccd0f0001",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6d8-d455-a9f6-dedccd0f0001",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "It’s a Good Start",
+    "slug": "its-a-good-start",
+    "bookSlug": "stand-2013-youth-album",
+    "bookSectionTitle": "Stand: 2013 Youth Album",
+    "songNumber": "2",
+    "songDate": "2013-01-01",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "James Warren"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": false,
+    "tags": [
+      "faith",
+      "testimony"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_ACCOMPANIMENT",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "7d514395c2656d047680a0859213102bb8859f0d",
+          "attributes": {},
+          "composer": [],
+          "description": "“It’s a Good Start” from 2013 Youth Album (English, 2013-01-01).",
+          "distributionUrl": "https://broadcast2.lds.org/youth/the-rising-generation-minus/2013-11-0002-its-a-good-start-minus-voc-128k-eng.mp3",
+          "duration": 227000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Jul 26 15:20:18 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee0-d3a5-ab95-1ffac7590000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee0-d3a5-ab95-1ffac7590000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“It’s a Good Start” from 2013 Youth Album (English, 2013-01-01).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:22:02 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“It’s a Good Start” from 2013 Youth Album (English, 2013-01-01).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "It’s a Good Start",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“It’s a Good Start” from 2013 Youth Album (English, 2013-01-01).",
+          "shareableTitle": "It’s a Good Start",
+          "title": "It’s a Good Start",
+          "translator": []
+        },
+        "$id": "00000196-c6d8-d455-a9f6-dedccd4d0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6d8-d455-a9f6-dedccd4d0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      },
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "c7cf74ccdae5d9ea6b1229743b7e8fcdfdc0ac19",
+          "attributes": {},
+          "composer": [],
+          "description": "“It’s a Good Start” from 2013 Youth Album (English, 2013-01-01).",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/c7/cf/c7cf74ccdae5d9ea6b1229743b7e8fcdfdc0ac19/its_a_good_start.mp3",
+          "duration": 228000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Jul 26 15:28:41 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee5-d3a5-ab95-1fff9e710000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee5-d3a5-ab95-1fff9e710000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“It’s a Good Start” from 2013 Youth Album (English, 2013-01-01).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:27:20 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“It’s a Good Start” from 2013 Youth Album (English, 2013-01-01).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "It’s a Good Start",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“It’s a Good Start” from 2013 Youth Album (English, 2013-01-01).",
+          "shareableTitle": "It’s a Good Start",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "5ac1d5da4b74ec6e731b8117a3615fe53f347539",
+            "attributes": {},
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "0 - IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Mon May 19 18:56:37 EDT 2025",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "0000016e-f22e-d642-a77f-f72e2e080000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "0000016e-f22e-d642-a77f-f72e2e080000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "Three abstract medium blue, light blue, and white rectangles decreasing in size and centered on a dark blue background.",
+            "publicDownload": [],
+            "$publishDate": "Tue Dec 10 18:39:03 EST 2019",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "No Title",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "2020 Mutual Theme Music Album",
+            "shareableTitle": "No Title",
+            "title": "No Title"
+          },
+          "title": "It’s a Good Start",
+          "translator": []
+        },
+        "$id": "00000196-c6d8-d455-a9f6-dedccd4d0001",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6d8-d455-a9f6-dedccd4d0001",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Joy of Life",
+    "slug": "joy-of-life",
+    "bookSlug": "stand-2013-youth-album",
+    "bookSectionTitle": "Stand: 2013 Youth Album",
+    "songNumber": "3",
+    "songDate": "2013-01-01",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "Hayden Gillies"
+      },
+      {
+        "personName": "Savanna Liechty"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Chase Baker"
+      },
+      {
+        "personName": "Nik Day"
+      },
+      {
+        "personName": "Taylor Olson"
+      },
+      {
+        "personName": "Todd Schwartzman"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Chase Baker"
+      },
+      {
+        "personName": "Nik Day"
+      },
+      {
+        "personName": "Taylor Olson"
+      },
+      {
+        "personName": "Todd Schwartzman"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": false,
+    "tags": [
+      "hope",
+      "joy"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_ACCOMPANIMENT",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "cc6ea263106db53b43416f510be46378156ff7e1",
+          "attributes": {},
+          "composer": [],
+          "description": "“Joy of Life” from 2013 Youth Album (English, 2013-01-01).",
+          "distributionUrl": "https://broadcast2.lds.org/youth/the-rising-generation-minus/2013-11-0003-joy-of-life-minus-voc-128k-eng.mp3",
+          "duration": 286000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Jul 26 15:20:03 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee0-d3a5-ab95-1ffaa5210000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee0-d3a5-ab95-1ffaa5210000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“Joy of Life” from 2013 Youth Album (English, 2013-01-01).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:21:54 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“Joy of Life” from 2013 Youth Album (English, 2013-01-01).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Joy of Life",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“Joy of Life” from 2013 Youth Album (English, 2013-01-01).",
+          "shareableTitle": "Joy of Life",
+          "title": "Joy of Life",
+          "translator": []
+        },
+        "$id": "00000196-c6d8-d455-a9f6-dedccd8e0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6d8-d455-a9f6-dedccd8e0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      },
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "a410bcb9d412a82692db74ba43c314cd900704c6",
+          "attributes": {},
+          "composer": [],
+          "description": "“Joy of Life” from 2013 Youth Album (English, 2013-01-01).",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/a4/10/a410bcb9d412a82692db74ba43c314cd900704c6/joy_of_life.mp3",
+          "duration": 287000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Jul 26 15:28:46 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee5-d3a5-ab95-1fffaaf40000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee5-d3a5-ab95-1fffaaf40000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“Joy of Life” from 2013 Youth Album (English, 2013-01-01).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:27:23 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“Joy of Life” from 2013 Youth Album (English, 2013-01-01).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Joy of Life",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“Joy of Life” from 2013 Youth Album (English, 2013-01-01).",
+          "shareableTitle": "Joy of Life",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "5ac1d5da4b74ec6e731b8117a3615fe53f347539",
+            "attributes": {},
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "0 - IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Mon May 19 18:56:37 EDT 2025",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "0000016e-f22e-d642-a77f-f72e2e080000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "0000016e-f22e-d642-a77f-f72e2e080000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "Three abstract medium blue, light blue, and white rectangles decreasing in size and centered on a dark blue background.",
+            "publicDownload": [],
+            "$publishDate": "Tue Dec 10 18:39:03 EST 2019",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "No Title",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "2020 Mutual Theme Music Album",
+            "shareableTitle": "No Title",
+            "title": "No Title"
+          },
+          "title": "Joy of Life",
+          "translator": []
+        },
+        "$id": "00000196-c6d8-d455-a9f6-dedccd8e0001",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6d8-d455-a9f6-dedccd8e0001",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Look Up",
+    "slug": "look-up",
+    "bookSlug": "stand-2013-youth-album",
+    "bookSectionTitle": "Stand: 2013 Youth Album",
+    "songNumber": "4",
+    "songDate": "2013-01-01",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "Taylor Olson"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Chase Baker"
+      },
+      {
+        "personName": "Nik Day"
+      },
+      {
+        "personName": "Taylor Olson"
+      },
+      {
+        "personName": "Todd Schwartzman"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Chase Baker"
+      },
+      {
+        "personName": "Nik Day"
+      },
+      {
+        "personName": "Taylor Olson"
+      },
+      {
+        "personName": "Todd Schwartzman"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": false,
+    "tags": [
+      "faith",
+      "friendship",
+      "hope"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_ACCOMPANIMENT",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "abb55bf8e43d1b8cdb8b8ffb7c277cd670bfd5c1",
+          "attributes": {},
+          "composer": [],
+          "description": "“Look Up” from 2013 Youth Album (English, 2013-01-01).",
+          "distributionUrl": "https://broadcast2.lds.org/youth/the-rising-generation-minus/2013-11-0004-look-up-minus-voc-128k-eng.mp3",
+          "duration": 209000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Jul 26 15:20:05 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee0-d3a5-ab95-1ffaaa9d0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee0-d3a5-ab95-1ffaaa9d0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“Look Up” from 2013 Youth Album (English, 2013-01-01).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:21:55 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“Look Up” from 2013 Youth Album (English, 2013-01-01).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Look Up",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“Look Up” from 2013 Youth Album (English, 2013-01-01).",
+          "shareableTitle": "Look Up",
+          "title": "Look Up",
+          "translator": []
+        },
+        "$id": "00000196-c6d8-d455-a9f6-dedccdc50000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6d8-d455-a9f6-dedccdc50000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      },
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "ce984b2cddafc820a7068aa3d5ac4836553e4f3e",
+          "attributes": {},
+          "composer": [],
+          "description": "“Look Up” from 2013 Youth Album (English, 2013-01-01).",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/ce/98/ce984b2cddafc820a7068aa3d5ac4836553e4f3e/look_up.mp3",
+          "duration": 210000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Jul 26 15:28:45 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee5-d3a5-ab95-1fffa7600000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee5-d3a5-ab95-1fffa7600000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“Look Up” from 2013 Youth Album (English, 2013-01-01).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:27:22 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“Look Up” from 2013 Youth Album (English, 2013-01-01).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Look Up",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“Look Up” from 2013 Youth Album (English, 2013-01-01).",
+          "shareableTitle": "Look Up",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "5ac1d5da4b74ec6e731b8117a3615fe53f347539",
+            "attributes": {},
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "0 - IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Mon May 19 18:56:37 EDT 2025",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "0000016e-f22e-d642-a77f-f72e2e080000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "0000016e-f22e-d642-a77f-f72e2e080000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "Three abstract medium blue, light blue, and white rectangles decreasing in size and centered on a dark blue background.",
+            "publicDownload": [],
+            "$publishDate": "Tue Dec 10 18:39:03 EST 2019",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "No Title",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "2020 Mutual Theme Music Album",
+            "shareableTitle": "No Title",
+            "title": "No Title"
+          },
+          "title": "Look Up",
+          "translator": []
+        },
+        "$id": "00000196-c6d8-d455-a9f6-dedccdc50001",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6d8-d455-a9f6-dedccdc50001",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Who Will",
+    "slug": "who-will",
+    "bookSlug": "stand-2013-youth-album",
+    "bookSectionTitle": "Stand: 2013 Youth Album",
+    "songNumber": "5",
+    "songDate": "2013-01-01",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "Zach Lambert"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Chase Baker"
+      },
+      {
+        "personName": "Nik Day"
+      },
+      {
+        "personName": "Taylor Olson"
+      },
+      {
+        "personName": "Todd Schwartzman"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Chase Baker"
+      },
+      {
+        "personName": "Nik Day"
+      },
+      {
+        "personName": "Taylor Olson"
+      },
+      {
+        "personName": "Todd Schwartzman"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": false,
+    "tags": [
+      "missionary work",
+      "service"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_ACCOMPANIMENT",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "fbb388b76c178b9929beb66ecb39b3496f5e9cb3",
+          "attributes": {},
+          "composer": [],
+          "description": "“Who Will” from 2013 Youth Album (English, 2013-01-01).",
+          "distributionUrl": "https://broadcast2.lds.org/youth/the-rising-generation-minus/2013-11-0005-who-will-minus-voc-128k-eng.mp3",
+          "duration": 212000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Jul 26 15:20:04 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee0-d3a5-ab95-1ffaa7080000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee0-d3a5-ab95-1ffaa7080000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“Who Will” from 2013 Youth Album (English, 2013-01-01).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:21:54 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“Who Will” from 2013 Youth Album (English, 2013-01-01).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Who Will",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“Who Will” from 2013 Youth Album (English, 2013-01-01).",
+          "shareableTitle": "Who Will",
+          "title": "Who Will",
+          "translator": []
+        },
+        "$id": "00000196-c6d8-d455-a9f6-dedccdfa0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6d8-d455-a9f6-dedccdfa0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      },
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "9b4b56c6ccc6858b5bc9014ec0543c5c69dbb197",
+          "attributes": {},
+          "composer": [],
+          "description": "“Who Will” from 2013 Youth Album (English, 2013-01-01).",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/9b/4b/9b4b56c6ccc6858b5bc9014ec0543c5c69dbb197/who_will.mp3",
+          "duration": 212000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Jul 26 15:28:45 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee5-d3a5-ab95-1fffa92b0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee5-d3a5-ab95-1fffa92b0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“Who Will” from 2013 Youth Album (English, 2013-01-01).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:27:22 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“Who Will” from 2013 Youth Album (English, 2013-01-01).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Who Will",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“Who Will” from 2013 Youth Album (English, 2013-01-01).",
+          "shareableTitle": "Who Will",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "5ac1d5da4b74ec6e731b8117a3615fe53f347539",
+            "attributes": {},
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "0 - IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Mon May 19 18:56:37 EDT 2025",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "0000016e-f22e-d642-a77f-f72e2e080000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "0000016e-f22e-d642-a77f-f72e2e080000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "Three abstract medium blue, light blue, and white rectangles decreasing in size and centered on a dark blue background.",
+            "publicDownload": [],
+            "$publishDate": "Tue Dec 10 18:39:03 EST 2019",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "No Title",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "2020 Mutual Theme Music Album",
+            "shareableTitle": "No Title",
+            "title": "No Title"
+          },
+          "title": "Who Will",
+          "translator": []
+        },
+        "$id": "00000196-c6d8-d455-a9f6-dedccdfb0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6d8-d455-a9f6-dedccdfb0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Little Things",
+    "slug": "little-things-boothe-hobbs",
+    "bookSlug": "stand-2013-youth-album",
+    "bookSectionTitle": "Stand: 2013 Youth Album",
+    "songNumber": "6",
+    "songDate": "2013-01-01",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "Christian Hobbs"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Ross Boothe"
+      },
+      {
+        "personName": "Christian Hobbs"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Ross Boothe"
+      },
+      {
+        "personName": "Christian Hobbs"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": false,
+    "tags": [
+      "gratitude",
+      "happiness",
+      "hope",
+      "joy",
+      "plan of salvation"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_ACCOMPANIMENT",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "098e62b8eaa23527b23f608517c8cada6c26fb9d",
+          "attributes": {},
+          "composer": [],
+          "description": "“Little Things” from 2013 Youth Album (English, 2013-01-01).",
+          "distributionUrl": "https://broadcast2.lds.org/youth/the-rising-generation-minus/2013-11-0006-little-things-minus-voc-128k-eng.mp3",
+          "duration": 207000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Jul 26 15:20:05 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee0-d3a5-ab95-1ffaa8d00000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee0-d3a5-ab95-1ffaa8d00000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“Little Things” from 2013 Youth Album (English, 2013-01-01).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:21:55 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“Little Things” from 2013 Youth Album (English, 2013-01-01).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Little Things",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“Little Things” from 2013 Youth Album (English, 2013-01-01).",
+          "shareableTitle": "Little Things",
+          "title": "Little Things",
+          "translator": []
+        },
+        "$id": "00000196-c6d8-d455-a9f6-dedcce320000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6d8-d455-a9f6-dedcce320000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      },
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "cafe4943ec253dc59ae88cccf2f0297120d5361c",
+          "attributes": {},
+          "composer": [],
+          "description": "“Little Things” from 2013 Youth Album (English, 2013-01-01).",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/ca/fe/cafe4943ec253dc59ae88cccf2f0297120d5361c/little_things.mp3",
+          "duration": 208000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Jul 26 15:28:47 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee5-d3a5-ab95-1fffacfd0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee5-d3a5-ab95-1fffacfd0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“Little Things” from 2013 Youth Album (English, 2013-01-01).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:27:23 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“Little Things” from 2013 Youth Album (English, 2013-01-01).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Little Things",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“Little Things” from 2013 Youth Album (English, 2013-01-01).",
+          "shareableTitle": "Little Things",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "5ac1d5da4b74ec6e731b8117a3615fe53f347539",
+            "attributes": {},
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "0 - IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Mon May 19 18:56:37 EDT 2025",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "0000016e-f22e-d642-a77f-f72e2e080000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "0000016e-f22e-d642-a77f-f72e2e080000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "Three abstract medium blue, light blue, and white rectangles decreasing in size and centered on a dark blue background.",
+            "publicDownload": [],
+            "$publishDate": "Tue Dec 10 18:39:03 EST 2019",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "No Title",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "2020 Mutual Theme Music Album",
+            "shareableTitle": "No Title",
+            "title": "No Title"
+          },
+          "title": "Little Things",
+          "translator": []
+        },
+        "$id": "00000196-c6d8-d455-a9f6-dedcce320001",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6d8-d455-a9f6-dedcce320001",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Mountains to Climb",
+    "slug": "mountains-to-climb",
+    "bookSlug": "stand-2013-youth-album",
+    "bookSectionTitle": "Stand: 2013 Youth Album",
+    "songNumber": "7",
+    "songDate": "2013-01-01",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "Erin Thomas"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Chase Baker"
+      },
+      {
+        "personName": "Nik Day"
+      },
+      {
+        "personName": "Taylor Olson"
+      },
+      {
+        "personName": "Todd Schwartzman"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Chase Baker"
+      },
+      {
+        "personName": "Nik Day"
+      },
+      {
+        "personName": "Taylor Olson"
+      },
+      {
+        "personName": "Todd Schwartzman"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": false,
+    "tags": [
+      "adversity",
+      "joy",
+      "learning",
+      "trials"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_ACCOMPANIMENT",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "26512c7ffd7b94e6ca9ae949f51f9d62f0a3c9c5",
+          "attributes": {},
+          "composer": [],
+          "description": "“Mountains to Climb” from 2013 Youth Album (English, 2013-01-01).",
+          "distributionUrl": "https://broadcast2.lds.org/youth/the-rising-generation-minus/2013-11-0007-mountains-to-climb-minus-voc-128k-eng.mp3",
+          "duration": 189000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Jul 26 15:20:08 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee0-d3a5-ab95-1ffab1ab0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee0-d3a5-ab95-1ffab1ab0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“Mountains to Climb” from 2013 Youth Album (English, 2013-01-01).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:21:57 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“Mountains to Climb” from 2013 Youth Album (English, 2013-01-01).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Mountains to Climb",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“Mountains to Climb” from 2013 Youth Album (English, 2013-01-01).",
+          "shareableTitle": "Mountains to Climb",
+          "title": "Mountains to Climb",
+          "translator": []
+        },
+        "$id": "00000196-c6d8-d455-a9f6-dedcce680000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6d8-d455-a9f6-dedcce680000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      },
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "9ff91fa89d0eda64a32de6cf7fd41c1ac1aa5b74",
+          "attributes": {},
+          "composer": [],
+          "description": "“Mountains to Climb” from 2013 Youth Album (English, 2013-01-01).",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/9f/f9/9ff91fa89d0eda64a32de6cf7fd41c1ac1aa5b74/mountains_to_climb.mp3",
+          "duration": 189000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Jul 26 15:28:44 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee5-d3a5-ab95-1fffa58d0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee5-d3a5-ab95-1fffa58d0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“Mountains to Climb” from 2013 Youth Album (English, 2013-01-01).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:27:21 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“Mountains to Climb” from 2013 Youth Album (English, 2013-01-01).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Mountains to Climb",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“Mountains to Climb” from 2013 Youth Album (English, 2013-01-01).",
+          "shareableTitle": "Mountains to Climb",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "5ac1d5da4b74ec6e731b8117a3615fe53f347539",
+            "attributes": {},
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "0 - IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Mon May 19 18:56:37 EDT 2025",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "0000016e-f22e-d642-a77f-f72e2e080000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "0000016e-f22e-d642-a77f-f72e2e080000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "Three abstract medium blue, light blue, and white rectangles decreasing in size and centered on a dark blue background.",
+            "publicDownload": [],
+            "$publishDate": "Tue Dec 10 18:39:03 EST 2019",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "No Title",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "2020 Mutual Theme Music Album",
+            "shareableTitle": "No Title",
+            "title": "No Title"
+          },
+          "title": "Mountains to Climb",
+          "translator": []
+        },
+        "$id": "00000196-c6d8-d455-a9f6-dedcce680001",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6d8-d455-a9f6-dedcce680001",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Still and Quiet Moments",
+    "slug": "still-and-quiet-moments",
+    "bookSlug": "stand-2013-youth-album",
+    "bookSectionTitle": "Stand: 2013 Youth Album",
+    "songNumber": "8",
+    "songDate": "2013-01-01",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "McKenna Thomas"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Chase Baker"
+      },
+      {
+        "personName": "Nik Day"
+      },
+      {
+        "personName": "Taylor Olson"
+      },
+      {
+        "personName": "Todd Schwartzman"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Chase Baker"
+      },
+      {
+        "personName": "Nik Day"
+      },
+      {
+        "personName": "Taylor Olson"
+      },
+      {
+        "personName": "Todd Schwartzman"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": false,
+    "tags": [
+      "Holy Ghost",
+      "guidance",
+      "prayer"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_ACCOMPANIMENT",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "b92a0e4afab98021098161ce1ada00aa30be9de1",
+          "attributes": {},
+          "composer": [],
+          "description": "“Still and Quiet Moments” from 2013 Youth Album (English, 2013-01-01).",
+          "distributionUrl": "https://broadcast2.lds.org/youth/the-rising-generation-minus/2013-11-0008-still-and-quiet-moments-minus-voc-128k-eng.mp3",
+          "duration": 210000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Jul 26 15:20:09 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee0-d3a5-ab95-1ffab3690000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee0-d3a5-ab95-1ffab3690000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“Still and Quiet Moments” from 2013 Youth Album (English, 2013-01-01).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:21:57 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“Still and Quiet Moments” from 2013 Youth Album (English, 2013-01-01).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Still and Quiet Moments",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“Still and Quiet Moments” from 2013 Youth Album (English, 2013-01-01).",
+          "shareableTitle": "Still and Quiet Moments",
+          "title": "Still and Quiet Moments",
+          "translator": []
+        },
+        "$id": "00000196-c6d8-d455-a9f6-dedcce9f0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6d8-d455-a9f6-dedcce9f0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      },
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "6716c70969e65812c14f1005bc232820bcee85d6",
+          "attributes": {},
+          "composer": [],
+          "description": "“Still and Quiet Moments” from 2013 Youth Album (English, 2013-01-01).",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/67/16/6716c70969e65812c14f1005bc232820bcee85d6/still_and_quiet_moments.mp3",
+          "duration": 211000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Jul 26 15:28:43 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee5-d3a5-ab95-1fffa3ba0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee5-d3a5-ab95-1fffa3ba0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“Still and Quiet Moments” from 2013 Youth Album (English, 2013-01-01).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:27:21 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“Still and Quiet Moments” from 2013 Youth Album (English, 2013-01-01).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Still and Quiet Moments",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“Still and Quiet Moments” from 2013 Youth Album (English, 2013-01-01).",
+          "shareableTitle": "Still and Quiet Moments",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "5ac1d5da4b74ec6e731b8117a3615fe53f347539",
+            "attributes": {},
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "0 - IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Mon May 19 18:56:37 EDT 2025",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "0000016e-f22e-d642-a77f-f72e2e080000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "0000016e-f22e-d642-a77f-f72e2e080000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "Three abstract medium blue, light blue, and white rectangles decreasing in size and centered on a dark blue background.",
+            "publicDownload": [],
+            "$publishDate": "Tue Dec 10 18:39:03 EST 2019",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "No Title",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "2020 Mutual Theme Music Album",
+            "shareableTitle": "No Title",
+            "title": "No Title"
+          },
+          "title": "Still and Quiet Moments",
+          "translator": []
+        },
+        "$id": "00000196-c6d8-d455-a9f6-dedcce9f0001",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6d8-d455-a9f6-dedcce9f0001",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "I’m Changed",
+    "slug": "im-changed",
+    "bookSlug": "stand-2013-youth-album",
+    "bookSectionTitle": "Stand: 2013 Youth Album",
+    "songNumber": "9",
+    "songDate": "2013-01-01",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "Kaitlin Lunt"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Chase Baker"
+      },
+      {
+        "personName": "Nik Day"
+      },
+      {
+        "personName": "Taylor Olson"
+      },
+      {
+        "personName": "Todd Schwartzman"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Chase Baker"
+      },
+      {
+        "personName": "Nik Day"
+      },
+      {
+        "personName": "Taylor Olson"
+      },
+      {
+        "personName": "Todd Schwartzman"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": false,
+    "tags": [
+      "Jesus Christ",
+      "faith",
+      "hope",
+      "joy"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_ACCOMPANIMENT",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "f06da360de43ee333631c2c9be5205888411798a",
+          "attributes": {},
+          "composer": [],
+          "description": "“I’m Changed” from 2013 Youth Album (English, 2013-01-01).",
+          "distributionUrl": "https://broadcast2.lds.org/youth/the-rising-generation-minus/2013-11-0009-im-changed-minus-voc-128k-eng.mp3",
+          "duration": 187000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Jul 26 15:20:28 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee0-d3a5-ab95-1ffadd440000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee0-d3a5-ab95-1ffadd440000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“I’m Changed” from 2013 Youth Album (English, 2013-01-01).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:22:08 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“I’m Changed” from 2013 Youth Album (English, 2013-01-01).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "I’m Changed",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“I’m Changed” from 2013 Youth Album (English, 2013-01-01).",
+          "shareableTitle": "I’m Changed",
+          "title": "I’m Changed",
+          "translator": []
+        },
+        "$id": "00000196-c6d8-d455-a9f6-dedcced50000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6d8-d455-a9f6-dedcced50000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      },
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "9924b3f0c9c54885fcc7621ee4c94f4b2ae35b4f",
+          "attributes": {},
+          "composer": [],
+          "description": "“I’m Changed” from 2013 Youth Album (English, 2013-01-01).",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/99/24/9924b3f0c9c54885fcc7621ee4c94f4b2ae35b4f/im_changed.mp3",
+          "duration": 187000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Jul 26 15:28:42 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee5-d3a5-ab95-1fffa03a0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee5-d3a5-ab95-1fffa03a0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“I’m Changed” from 2013 Youth Album (English, 2013-01-01).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:27:20 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“I’m Changed” from 2013 Youth Album (English, 2013-01-01).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "I’m Changed",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“I’m Changed” from 2013 Youth Album (English, 2013-01-01).",
+          "shareableTitle": "I’m Changed",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "5ac1d5da4b74ec6e731b8117a3615fe53f347539",
+            "attributes": {},
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "0 - IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Mon May 19 18:56:37 EDT 2025",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "0000016e-f22e-d642-a77f-f72e2e080000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "0000016e-f22e-d642-a77f-f72e2e080000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "Three abstract medium blue, light blue, and white rectangles decreasing in size and centered on a dark blue background.",
+            "publicDownload": [],
+            "$publishDate": "Tue Dec 10 18:39:03 EST 2019",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "No Title",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "2020 Mutual Theme Music Album",
+            "shareableTitle": "No Title",
+            "title": "No Title"
+          },
+          "title": "I’m Changed",
+          "translator": []
+        },
+        "$id": "00000196-c6d8-d455-a9f6-dedcced50001",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6d8-d455-a9f6-dedcced50001",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "If We Forget Ourselves",
+    "slug": "if-we-forget-ourselves",
+    "bookSlug": "stand-2013-youth-album",
+    "bookSectionTitle": "Stand: 2013 Youth Album",
+    "songNumber": "10",
+    "songDate": "2013-01-01",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "Joseph Swain"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Chase Baker"
+      },
+      {
+        "personName": "Nik Day"
+      },
+      {
+        "personName": "Taylor Olson"
+      },
+      {
+        "personName": "Todd Schwartzman"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Chase Baker"
+      },
+      {
+        "personName": "Nik Day"
+      },
+      {
+        "personName": "Taylor Olson"
+      },
+      {
+        "personName": "Todd Schwartzman"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": true,
+    "tags": [],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_ACCOMPANIMENT",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "ac7a6cab2498b162d91afd4df6d5f5047f281d58",
+          "attributes": {},
+          "composer": [],
+          "description": "“If We Forget Ourselves” from 2013 Youth Album (English, 2013-01-01).",
+          "distributionUrl": "https://broadcast2.lds.org/youth/the-rising-generation-minus/2013-11-0010-if-we-lose-ourselves-music-stem-minus-voc-128k-eng.mp3",
+          "duration": 220000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Jul 26 15:20:29 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee0-d3a5-ab95-1ffadf5c0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee0-d3a5-ab95-1ffadf5c0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“If We Forget Ourselves” from 2013 Youth Album (English, 2013-01-01).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:22:09 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“If We Forget Ourselves” from 2013 Youth Album (English, 2013-01-01).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "If We Forget Ourselves",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“If We Forget Ourselves” from 2013 Youth Album (English, 2013-01-01).",
+          "shareableTitle": "If We Forget Ourselves",
+          "title": "If We Forget Ourselves",
+          "translator": []
+        },
+        "$id": "00000196-c6d8-d455-a9f6-dedccf1a0000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6d8-d455-a9f6-dedccf1a0000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      },
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "3deda36ec83e89ac60d40332b223beb84f518969",
+          "attributes": {},
+          "composer": [],
+          "description": "“If We Forget Ourselves” from 2013 Youth Album (English, 2013-01-01).",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/3d/ed/3deda36ec83e89ac60d40332b223beb84f518969/if_we_forget_ourselves.mp3",
+          "duration": 220000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Jul 26 15:28:54 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee5-d3a5-ab95-1fffbd7e0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee5-d3a5-ab95-1fffbd7e0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“If We Forget Ourselves” from 2013 Youth Album (English, 2013-01-01).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:27:28 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“If We Forget Ourselves” from 2013 Youth Album (English, 2013-01-01).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "If We Forget Ourselves",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“If We Forget Ourselves” from 2013 Youth Album (English, 2013-01-01).",
+          "shareableTitle": "If We Forget Ourselves",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "5ac1d5da4b74ec6e731b8117a3615fe53f347539",
+            "attributes": {},
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "0 - IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Mon May 19 18:56:37 EDT 2025",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "0000016e-f22e-d642-a77f-f72e2e080000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "0000016e-f22e-d642-a77f-f72e2e080000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "Three abstract medium blue, light blue, and white rectangles decreasing in size and centered on a dark blue background.",
+            "publicDownload": [],
+            "$publishDate": "Tue Dec 10 18:39:03 EST 2019",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "No Title",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "2020 Mutual Theme Music Album",
+            "shareableTitle": "No Title",
+            "title": "No Title"
+          },
+          "title": "If We Forget Ourselves",
+          "translator": []
+        },
+        "$id": "00000196-c6d8-d455-a9f6-dedccf1a0001",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6d8-d455-a9f6-dedccf1a0001",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "We’ll Be There",
+    "slug": "well-be-there",
+    "bookSlug": "stand-2013-youth-album",
+    "bookSectionTitle": "Stand: 2013 Youth Album",
+    "songNumber": "11",
+    "songDate": "2013-01-01",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "Conlon Bonner"
+      },
+      {
+        "personName": "Josie Scere"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Chase Baker"
+      },
+      {
+        "personName": "Nik Day"
+      },
+      {
+        "personName": "Taylor Olson"
+      },
+      {
+        "personName": "Todd Schwartzman"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Chase Baker"
+      },
+      {
+        "personName": "Nik Day"
+      },
+      {
+        "personName": "Taylor Olson"
+      },
+      {
+        "personName": "Todd Schwartzman"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": false,
+    "tags": [
+      "family",
+      "friendship",
+      "home",
+      "joy"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_ACCOMPANIMENT",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "65f5f16077050bf807a2026f772f9688f2d0e8bb",
+          "attributes": {},
+          "composer": [],
+          "description": "“We’ll Be There” from 2013 Youth Album (English, 2013-01-01).",
+          "distributionUrl": "https://broadcast2.lds.org/youth/the-rising-generation-minus/2013-11-0011-well-be-there-minus-voc-128k-eng.mp3",
+          "duration": 223000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Jul 26 15:20:27 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee0-d3a5-ab95-1ffadb820000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee0-d3a5-ab95-1ffadb820000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“We’ll Be There” from 2013 Youth Album (English, 2013-01-01).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:22:08 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“We’ll Be There” from 2013 Youth Album (English, 2013-01-01).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "We’ll Be There",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“We’ll Be There” from 2013 Youth Album (English, 2013-01-01).",
+          "shareableTitle": "We’ll Be There",
+          "title": "We’ll Be There",
+          "translator": []
+        },
+        "$id": "00000196-c6d8-d455-a9f6-dedccf550000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6d8-d455-a9f6-dedccf550000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      },
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "27324a099e18a08ba0dee4e3062561fbc64d9fd9",
+          "attributes": {},
+          "composer": [],
+          "description": "“We’ll Be There” from 2013 Youth Album (English, 2013-01-01).",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/27/32/27324a099e18a08ba0dee4e3062561fbc64d9fd9/well_be_there.mp3",
+          "duration": 223000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Jul 26 15:28:54 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee5-d3a5-ab95-1fffbf580000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee5-d3a5-ab95-1fffbf580000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“We’ll Be There” from 2013 Youth Album (English, 2013-01-01).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:27:28 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“We’ll Be There” from 2013 Youth Album (English, 2013-01-01).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "We’ll Be There",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“We’ll Be There” from 2013 Youth Album (English, 2013-01-01).",
+          "shareableTitle": "We’ll Be There",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "5ac1d5da4b74ec6e731b8117a3615fe53f347539",
+            "attributes": {},
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "0 - IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Mon May 19 18:56:37 EDT 2025",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "0000016e-f22e-d642-a77f-f72e2e080000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "0000016e-f22e-d642-a77f-f72e2e080000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "Three abstract medium blue, light blue, and white rectangles decreasing in size and centered on a dark blue background.",
+            "publicDownload": [],
+            "$publishDate": "Tue Dec 10 18:39:03 EST 2019",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "No Title",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "2020 Mutual Theme Music Album",
+            "shareableTitle": "No Title",
+            "title": "No Title"
+          },
+          "title": "We’ll Be There",
+          "translator": []
+        },
+        "$id": "00000196-c6d8-d455-a9f6-dedccf550001",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6d8-d455-a9f6-dedccf550001",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Good Friends",
+    "slug": "good-friends",
+    "bookSlug": "stand-2013-youth-album",
+    "bookSectionTitle": "Stand: 2013 Youth Album",
+    "songNumber": "12",
+    "songDate": "2013-01-01",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Nik Day"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": false,
+    "tags": [
+      "comfort",
+      "friendship",
+      "hope",
+      "kindness",
+      "love"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_ACCOMPANIMENT",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "6b85436cf9a282d48626202cf3dafe7cfcea9a54",
+          "attributes": {},
+          "composer": [],
+          "description": "“Good Friends” from 2013 Youth Album (English, 2013-01-01).",
+          "distributionUrl": "https://broadcast2.lds.org/youth/the-rising-generation-minus/2013-11-0012-good-friends-minus-voc-128k-eng.mp3",
+          "duration": 169000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Jul 26 15:20:32 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee0-d3a5-ab95-1ffae71b0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee0-d3a5-ab95-1ffae71b0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“Good Friends” from 2013 Youth Album (English, 2013-01-01).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:22:11 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“Good Friends” from 2013 Youth Album (English, 2013-01-01).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Good Friends",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“Good Friends” from 2013 Youth Album (English, 2013-01-01).",
+          "shareableTitle": "Good Friends",
+          "title": "Good Friends",
+          "translator": []
+        },
+        "$id": "00000196-c6d8-d455-a9f6-dedccf900000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6d8-d455-a9f6-dedccf900000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      },
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "d5baf421c351bde7493ae3292daa1e0dace8c354",
+          "attributes": {},
+          "composer": [],
+          "description": "“Good Friends” from 2013 Youth Album (English, 2013-01-01).",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/d5/ba/d5baf421c351bde7493ae3292daa1e0dace8c354/good_friends.mp3",
+          "duration": 169000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Jul 26 15:28:53 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee5-d3a5-ab95-1fffbb9f0000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee5-d3a5-ab95-1fffbb9f0000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“Good Friends” from 2013 Youth Album (English, 2013-01-01).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:27:27 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“Good Friends” from 2013 Youth Album (English, 2013-01-01).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Good Friends",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“Good Friends” from 2013 Youth Album (English, 2013-01-01).",
+          "shareableTitle": "Good Friends",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "5ac1d5da4b74ec6e731b8117a3615fe53f347539",
+            "attributes": {},
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "0 - IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Mon May 19 18:56:37 EDT 2025",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "0000016e-f22e-d642-a77f-f72e2e080000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "0000016e-f22e-d642-a77f-f72e2e080000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "Three abstract medium blue, light blue, and white rectangles decreasing in size and centered on a dark blue background.",
+            "publicDownload": [],
+            "$publishDate": "Tue Dec 10 18:39:03 EST 2019",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "No Title",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "2020 Mutual Theme Music Album",
+            "shareableTitle": "No Title",
+            "title": "No Title"
+          },
+          "title": "Good Friends",
+          "translator": []
+        },
+        "$id": "00000196-c6d8-d455-a9f6-dedccf900001",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6d8-d455-a9f6-dedccf900001",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  },
+  {
+    "title": "Wherever You Go",
+    "slug": "wherever-you-go",
+    "bookSlug": "stand-2013-youth-album",
+    "bookSectionTitle": "Stand: 2013 Youth Album",
+    "songNumber": "13",
+    "songDate": "2013-01-01",
+    "arrangers": [],
+    "artists": [
+      {
+        "personName": "Michael Richardson"
+      }
+    ],
+    "authors": [
+      {
+        "personName": "Chase Baker"
+      },
+      {
+        "personName": "Ross Boothe"
+      },
+      {
+        "personName": "Nik Day"
+      },
+      {
+        "personName": "Taylor Olson"
+      },
+      {
+        "personName": "Todd Schwartzman"
+      }
+    ],
+    "composers": [
+      {
+        "personName": "Chase Baker"
+      },
+      {
+        "personName": "Ross Boothe"
+      },
+      {
+        "personName": "Nik Day"
+      },
+      {
+        "personName": "Taylor Olson"
+      },
+      {
+        "personName": "Todd Schwartzman"
+      }
+    ],
+    "instrumentations": [
+      {
+        "name": "Voice"
+      }
+    ],
+    "musicalFeatures": [],
+    "recordingAvailable": true,
+    "sheetMusicAvailable": false,
+    "videoAvailable": false,
+    "tags": [
+      "agency",
+      "example",
+      "obedience"
+    ],
+    "voicings": [],
+    "assets": [
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_ACCOMPANIMENT",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "50d2e3e30f6f7d57146729b28e3165fd1aede0cf",
+          "attributes": {},
+          "composer": [],
+          "description": "“Wherever You Go” from 2013 Youth Album (English, 2013-01-01).",
+          "distributionUrl": "https://broadcast2.lds.org/youth/the-rising-generation-minus/2013-11-0013-wherever-you-go-minus-voc-128k-eng.mp3",
+          "duration": 241000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Jul 26 15:21:54 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee1-d3a5-ab95-1ffb9c540000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee1-d3a5-ab95-1ffb9c540000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“Wherever You Go” from 2013 Youth Album (English, 2013-01-01).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:22:57 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“Wherever You Go” from 2013 Youth Album (English, 2013-01-01).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Wherever You Go",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“Wherever You Go” from 2013 Youth Album (English, 2013-01-01).",
+          "shareableTitle": "Wherever You Go",
+          "title": "Wherever You Go",
+          "translator": []
+        },
+        "$id": "00000196-c6d8-d455-a9f6-dedccfe10000",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6d8-d455-a9f6-dedccfe10000",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      },
+      {
+        "annotatedFields": {},
+        "assetType": "AUDIO_VOCAL",
+        "attributes": {},
+        "locatorIds": [],
+        "mediaObject": {
+          "annotatedFields": {},
+          "arranger": [],
+          "assetID": "2d95c3e3c86f47b6bf0c5cc7bc0bc43fddcbed25",
+          "attributes": {},
+          "composer": [],
+          "description": "“Wherever You Go” from 2013 Youth Album (English, 2013-01-01).",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/2d/95/2d95c3e3c86f47b6bf0c5cc7bc0bc43fddcbed25/wherever_you_go.mp3",
+          "duration": 242000,
+          "isPartOf": [],
+          "keywords": [],
+          "$lastUpdatedDate": "Fri Jul 26 15:28:58 EDT 2024",
+          "locatorIds": [],
+          "lyricist": [],
+          "noindex": false,
+          "$id": "00000184-0ee5-d3a5-ab95-1fffc8630000",
+          "$lang": "eng",
+          "$model": "audio",
+          "$rootId": "00000184-0ee5-d3a5-ab95-1fffc8630000",
+          "$site": "music",
+          "performer": [],
+          "products": [],
+          "publicAltText": "“Wherever You Go” from 2013 Youth Album (English, 2013-01-01).",
+          "publicDownload": [
+            "PUBLIC"
+          ],
+          "$publishDate": "Tue Oct 25 07:27:30 EDT 2022",
+          "$publishStatus": "PUBLISHED",
+          "related": [],
+          "requiredAssets": [],
+          "sameAs": [],
+          "seoDescription": "“Wherever You Go” from 2013 Youth Album (English, 2013-01-01).",
+          "seoDescriptionAiGenerated": false,
+          "seoTitle": "Wherever You Go",
+          "seoTitleAiGenerated": false,
+          "shareableDescription": "“Wherever You Go” from 2013 Youth Album (English, 2013-01-01).",
+          "shareableTitle": "Wherever You Go",
+          "thumbnail": {
+            "annotatedFields": {},
+            "assetID": "5ac1d5da4b74ec6e731b8117a3615fe53f347539",
+            "attributes": {},
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "focalPoint": {
+              "x": "50.00%",
+              "y": "50.00%"
+            },
+            "ipCode": "0 - IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Mon May 19 18:56:37 EDT 2025",
+            "locatorIds": [],
+            "noindex": false,
+            "$id": "0000016e-f22e-d642-a77f-f72e2e080000",
+            "$lang": "eng",
+            "$model": "image",
+            "$rootId": "0000016e-f22e-d642-a77f-f72e2e080000",
+            "$site": "music",
+            "products": [],
+            "publicAltText": "Three abstract medium blue, light blue, and white rectangles decreasing in size and centered on a dark blue background.",
+            "publicDownload": [],
+            "$publishDate": "Tue Dec 10 18:39:03 EST 2019",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "height": 320,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "height": 60,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "height": 250,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "height": 200,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "height": 100,
+                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100
+              }
+            ],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "No Title",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "2020 Mutual Theme Music Album",
+            "shareableTitle": "No Title",
+            "title": "No Title"
+          },
+          "title": "Wherever You Go",
+          "translator": []
+        },
+        "$id": "00000196-c6d8-d455-a9f6-dedccfe10001",
+        "$model": "assetPurpose",
+        "$rootId": "00000196-c6d8-d455-a9f6-dedccfe10001",
+        "$site": "music",
+        "$publishStatus": "PUBLISHED"
+      }
+    ]
+  }
+]
