@@ -3,6 +3,9 @@ const path = require('path');
 const OUTPUT_FILE = path.join('sacredmusic','lastScript.js');
 
 async function processHTMLlibrary(url) {
+    if( !fs.existsSync(path.join('sacredmusic', 'api')) ){
+        fs.mkdirSync(path.join('sacredmusic', 'api'), { recursive: true });
+    }
     try {
         const response = await globalThis.fetch(url);
         const html = await response.text();
