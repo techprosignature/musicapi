@@ -19,8 +19,8 @@ jobs:
         with:
           node-version: '22' # Adjust as needed
 
-      - name: Install dependencies
-        run: npm install jsdom
+      # - name: Install dependencies
+      #   run: npm install jsdom
 
       - name: Run fetch and process script
         run: node fetchProcess.js
