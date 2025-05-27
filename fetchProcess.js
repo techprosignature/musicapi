@@ -36,7 +36,7 @@ async function processEntry(entryJson){
     }
     else{
         const response = await (await globalThis.fetch(`https://www.churchofjesuschrist.org/media/music/api?type=songsFilteredList&lang=eng&identifier=%7B%22lang%22%3A%22eng%22%2C%22limit%22%3A500%2C%22offset%22%3A0%2C%22orderByKey%22%3A%5B%22bookSongPosition%22%5D%2C%22bookQueryList%22%3A%5B%22${entryJson.slug}%22%5D%7D&batchSize=20`)).json();
-        fs.writeFileSync(path.join('sacredmusic', 'api', `${entryJson.slug}.json`), JSON.stringify(response.data, null, 2), 'utf8');
+        fs.writeFileSync(path.join('sacredmusic', 'api', `${entryJson.slug}.json`), JSON.stringify(response, null, 2), 'utf8');
         for(const song of response.data){
             console.log(song.title, " ", song.bookSectionTitle, " ", song.slug);
         }
