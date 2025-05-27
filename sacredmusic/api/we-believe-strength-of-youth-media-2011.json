@@ -1,966 +1,971 @@
-[
-  {
-    "title": "We Believe",
-    "slug": "we-believe",
-    "bookSlug": "we-believe-strength-of-youth-media-2011",
-    "bookSectionTitle": "We Believe: Strength of Youth Media 2011",
-    "songNumber": "1",
-    "songDate": "2011-01-01",
-    "arrangers": [],
-    "artists": [],
-    "authors": [
-      {
-        "personName": "Anon."
-      }
-    ],
-    "composers": [
-      {
-        "personName": "Anon."
-      }
-    ],
-    "instrumentations": [
-      {
-        "name": "Voice"
-      },
-      {
-        "name": "Piano"
-      }
-    ],
-    "musicalFeatures": [],
-    "recordingAvailable": true,
-    "sheetMusicAvailable": true,
-    "videoAvailable": true,
-    "tags": [
-      "Jesus Christ",
-      "endure to the end",
-      "faith",
-      "hope",
-      "love",
-      "plan of salvation",
-      "testimony"
-    ],
-    "voicings": [],
-    "assets": [
-      {
-        "annotatedFields": {},
-        "assetType": "AUDIO_VOCAL",
-        "attributes": {},
-        "locatorIds": [],
-        "mediaObject": {
+{
+  "data": [
+    {
+      "title": "We Believe",
+      "slug": "we-believe",
+      "bookSlug": "we-believe-strength-of-youth-media-2011",
+      "bookSectionTitle": "We Believe: Strength of Youth Media 2011",
+      "songNumber": "1",
+      "songDate": "2011-01-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Anon."
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Anon."
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": true,
+      "tags": [
+        "Jesus Christ",
+        "endure to the end",
+        "faith",
+        "hope",
+        "love",
+        "plan of salvation",
+        "testimony"
+      ],
+      "voicings": [],
+      "assets": [
+        {
           "annotatedFields": {},
-          "arranger": [],
-          "assetID": "2b0a0546fbb540e5a9934d7dacc9b46ca3c41b2b",
+          "assetType": "AUDIO_VOCAL",
           "attributes": {},
-          "composer": [],
-          "description": "“We Believe” from Strength of Youth Media 2011 (English, 2011-01-01).",
-          "distributionUrl": "https://broadcast.lds.org/strength-of-youth/2011-01-01-we-believe-256k-eng.mp3",
-          "duration": 218000,
-          "isPartOf": [],
-          "keywords": [],
-          "$lastUpdatedDate": "Tue Nov 26 21:16:17 EST 2024",
           "locatorIds": [],
-          "lyricist": [],
-          "noindex": false,
-          "$id": "00000183-2a82-d9d2-a5a3-fe9a60f00000",
-          "$lang": "eng",
-          "$model": "audio",
-          "$rootId": "00000183-2a82-d9d2-a5a3-fe9a60f00000",
-          "$site": "music",
-          "performer": [],
-          "products": [],
-          "publicAltText": "“We Believe” from Strength of Youth Media 2011 (English, 2011-01-01).",
-          "publicDownload": [
-            "PUBLIC"
-          ],
-          "$publishDate": "Sat Sep 10 23:05:31 EDT 2022",
-          "$publishStatus": "PUBLISHED",
-          "related": [],
-          "requiredAssets": [],
-          "sameAs": [],
-          "seoDescription": "“We Believe” from Strength of Youth Media 2011 (English, 2011-01-01).",
-          "seoDescriptionAiGenerated": false,
-          "seoTitle": "We Believe",
-          "seoTitleAiGenerated": false,
-          "shareableDescription": "“We Believe” from Strength of Youth Media 2011 (English, 2011-01-01).",
-          "shareableTitle": "We Believe",
-          "thumbnail": {
+          "mediaObject": {
             "annotatedFields": {},
-            "assetID": "86d1956143a560531b93f64341a01364e40c90bf",
+            "arranger": [],
+            "assetID": "2b0a0546fbb540e5a9934d7dacc9b46ca3c41b2b",
             "attributes": {},
-            "description": "Come, Follow Me, We Believe (yc)",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/500,/0/default",
-            "focalPoint": {
-              "x": "50.00%",
-              "y": "50.00%"
-            },
-            "ipCode": "9 - IRI licensed",
+            "composer": [],
+            "description": "“We Believe” from Strength of Youth Media 2011 (English, 2011-01-01).",
+            "distributionUrl": "https://broadcast.lds.org/strength-of-youth/2011-01-01-we-believe-256k-eng.mp3",
+            "duration": 218000,
             "isPartOf": [],
             "keywords": [],
-            "$lastUpdatedDate": "Tue Nov 26 21:16:31 EST 2024",
+            "$lastUpdatedDate": "Tue Nov 26 21:16:17 EST 2024",
             "locatorIds": [],
+            "lyricist": [],
             "noindex": false,
-            "$id": "0000017a-3aa6-d0e3-a7fb-7fe7ab070000",
+            "$id": "00000183-2a82-d9d2-a5a3-fe9a60f00000",
             "$lang": "eng",
-            "$model": "image",
-            "$rootId": "0000017a-3aa6-d0e3-a7fb-7fe7ab070000",
+            "$model": "audio",
+            "$rootId": "00000183-2a82-d9d2-a5a3-fe9a60f00000",
             "$site": "music",
+            "performer": [],
             "products": [],
-            "publicAltText": "A cover with a conglomerate of photos of men and women of varying ages and ethnicities. The words \"We Believe\" are across the middle of the cover with many different sized squares of color behind.",
-            "publicDownload": [],
-            "$publishDate": "Wed Jun 23 16:53:59 EDT 2021",
+            "publicAltText": "“We Believe” from Strength of Youth Media 2011 (English, 2011-01-01).",
+            "publicDownload": [
+              "PUBLIC"
+            ],
+            "$publishDate": "Sat Sep 10 23:05:31 EDT 2022",
             "$publishStatus": "PUBLISHED",
             "related": [],
-            "renditions": [
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!320%2C320/0/default",
-                "height": 320,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!320%2C320/0/default",
-                "width": 320
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!60%2C60/0/default",
-                "height": 60,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!60%2C60/0/default",
-                "width": 60
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!250%2C250/0/default",
-                "height": 250,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!250%2C250/0/default",
-                "width": 250
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!200%2C200/0/default",
-                "height": 200,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!200%2C200/0/default",
-                "width": 200
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!100%2C100/0/default",
-                "height": 100,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!100%2C100/0/default",
-                "width": 100
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!500%2C500/0/default",
-                "height": 500,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!500%2C500/0/default",
-                "width": 500
-              }
-            ],
             "requiredAssets": [],
             "sameAs": [],
-            "seoDescription": "Come, Follow Me, We Believe (yc)",
+            "seoDescription": "“We Believe” from Strength of Youth Media 2011 (English, 2011-01-01).",
             "seoDescriptionAiGenerated": false,
-            "seoTitle": "Come, Follow Me, We Believe (yc)",
+            "seoTitle": "We Believe",
             "seoTitleAiGenerated": false,
-            "shareableDescription": "Come, Follow Me, We Believe (yc)",
-            "shareableTitle": "Come, Follow Me, We Believe (yc)",
-            "title": "Come, Follow Me, We Believe (yc)"
-          },
-          "title": "We Believe",
-          "translator": []
-        },
-        "$id": "00000196-c6d8-d455-a9f6-dedcd0b50000",
-        "$model": "assetPurpose",
-        "$rootId": "00000196-c6d8-d455-a9f6-dedcd0b50000",
-        "$site": "music",
-        "$publishStatus": "PUBLISHED"
-      }
-    ]
-  },
-  {
-    "title": "Priesthood Men",
-    "subtitle": "Young Men Song",
-    "slug": "priesthood-men",
-    "bookSlug": "we-believe-strength-of-youth-media-2011",
-    "bookSectionTitle": "We Believe: Strength of Youth Media 2011",
-    "songNumber": "2",
-    "songDate": "2011-01-01",
-    "arrangers": [],
-    "artists": [],
-    "authors": [
-      {
-        "personName": "Anon."
-      }
-    ],
-    "composers": [
-      {
-        "personName": "Anon."
-      }
-    ],
-    "instrumentations": [
-      {
-        "name": "Voice"
-      },
-      {
-        "name": "Piano"
-      }
-    ],
-    "musicalFeatures": [],
-    "recordingAvailable": true,
-    "sheetMusicAvailable": true,
-    "videoAvailable": true,
-    "tags": [
-      "commitment",
-      "learning",
-      "missionary work",
-      "priesthood"
-    ],
-    "voicings": [
-      {
-        "name": "Unison"
-      }
-    ],
-    "assets": [
-      {
-        "annotatedFields": {},
-        "assetType": "AUDIO_VOCAL",
-        "attributes": {},
-        "locatorIds": [],
-        "mediaObject": {
-          "annotatedFields": {},
-          "arranger": [],
-          "assetID": "dbe482cbe980f3e8212c52adf8c2def7f5600ade",
-          "attributes": {},
-          "composer": [],
-          "description": "“Priesthood Men” (Young Men Song) from Strength of Youth Media 2011 (English, 2011-01-01).",
-          "distributionUrl": "https://broadcast.lds.org/strength-of-youth/2011-01-03-priesthood-men-256k-eng.mp3",
-          "duration": 193000,
-          "isPartOf": [],
-          "keywords": [],
-          "$lastUpdatedDate": "Tue Nov 26 21:16:17 EST 2024",
-          "locatorIds": [],
-          "lyricist": [],
-          "noindex": false,
-          "$id": "00000183-2a82-d9d2-a5a3-fe9a61cc0000",
-          "$lang": "eng",
-          "$model": "audio",
-          "$rootId": "00000183-2a82-d9d2-a5a3-fe9a61cc0000",
-          "$site": "music",
-          "performer": [],
-          "products": [],
-          "publicAltText": "“Priesthood Men” (Young Men Song) from Strength of Youth Media 2011 (English, 2011-01-01).",
-          "publicDownload": [
-            "PUBLIC"
-          ],
-          "$publishDate": "Sat Sep 10 23:05:31 EDT 2022",
-          "$publishStatus": "PUBLISHED",
-          "related": [],
-          "requiredAssets": [],
-          "sameAs": [],
-          "seoDescription": "“Priesthood Men” (Young Men Song) from Strength of Youth Media 2011 (English, 2011-01-01).",
-          "seoDescriptionAiGenerated": false,
-          "seoTitle": "Priesthood Men",
-          "seoTitleAiGenerated": false,
-          "shareableDescription": "“Priesthood Men” (Young Men Song) from Strength of Youth Media 2011 (English, 2011-01-01).",
-          "shareableTitle": "Priesthood Men",
-          "thumbnail": {
-            "annotatedFields": {},
-            "assetID": "86d1956143a560531b93f64341a01364e40c90bf",
-            "attributes": {},
-            "description": "Come, Follow Me, We Believe (yc)",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/500,/0/default",
-            "focalPoint": {
-              "x": "50.00%",
-              "y": "50.00%"
+            "shareableDescription": "“We Believe” from Strength of Youth Media 2011 (English, 2011-01-01).",
+            "shareableTitle": "We Believe",
+            "thumbnail": {
+              "annotatedFields": {},
+              "assetID": "86d1956143a560531b93f64341a01364e40c90bf",
+              "attributes": {},
+              "description": "Come, Follow Me, We Believe (yc)",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/500,/0/default",
+              "focalPoint": {
+                "x": "50.00%",
+                "y": "50.00%"
+              },
+              "ipCode": "9 - IRI licensed",
+              "isPartOf": [],
+              "keywords": [],
+              "$lastUpdatedDate": "Tue Nov 26 21:16:31 EST 2024",
+              "locatorIds": [],
+              "noindex": false,
+              "$id": "0000017a-3aa6-d0e3-a7fb-7fe7ab070000",
+              "$lang": "eng",
+              "$model": "image",
+              "$rootId": "0000017a-3aa6-d0e3-a7fb-7fe7ab070000",
+              "$site": "music",
+              "products": [],
+              "publicAltText": "A cover with a conglomerate of photos of men and women of varying ages and ethnicities. The words \"We Believe\" are across the middle of the cover with many different sized squares of color behind.",
+              "publicDownload": [],
+              "$publishDate": "Wed Jun 23 16:53:59 EDT 2021",
+              "$publishStatus": "PUBLISHED",
+              "related": [],
+              "renditions": [
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!320%2C320/0/default",
+                  "height": 320,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!320%2C320/0/default",
+                  "width": 320
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!60%2C60/0/default",
+                  "height": 60,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!60%2C60/0/default",
+                  "width": 60
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!250%2C250/0/default",
+                  "height": 250,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!250%2C250/0/default",
+                  "width": 250
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!200%2C200/0/default",
+                  "height": 200,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!200%2C200/0/default",
+                  "width": 200
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!100%2C100/0/default",
+                  "height": 100,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!100%2C100/0/default",
+                  "width": 100
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!500%2C500/0/default",
+                  "height": 500,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!500%2C500/0/default",
+                  "width": 500
+                }
+              ],
+              "requiredAssets": [],
+              "sameAs": [],
+              "seoDescription": "Come, Follow Me, We Believe (yc)",
+              "seoDescriptionAiGenerated": false,
+              "seoTitle": "Come, Follow Me, We Believe (yc)",
+              "seoTitleAiGenerated": false,
+              "shareableDescription": "Come, Follow Me, We Believe (yc)",
+              "shareableTitle": "Come, Follow Me, We Believe (yc)",
+              "title": "Come, Follow Me, We Believe (yc)"
             },
-            "ipCode": "9 - IRI licensed",
+            "title": "We Believe",
+            "translator": []
+          },
+          "$id": "00000196-c6d8-d455-a9f6-dedcd0b50000",
+          "$model": "assetPurpose",
+          "$rootId": "00000196-c6d8-d455-a9f6-dedcd0b50000",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    },
+    {
+      "title": "Priesthood Men",
+      "subtitle": "Young Men Song",
+      "slug": "priesthood-men",
+      "bookSlug": "we-believe-strength-of-youth-media-2011",
+      "bookSectionTitle": "We Believe: Strength of Youth Media 2011",
+      "songNumber": "2",
+      "songDate": "2011-01-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Anon."
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Anon."
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": true,
+      "tags": [
+        "commitment",
+        "learning",
+        "missionary work",
+        "priesthood"
+      ],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": [
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_VOCAL",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "dbe482cbe980f3e8212c52adf8c2def7f5600ade",
+            "attributes": {},
+            "composer": [],
+            "description": "“Priesthood Men” (Young Men Song) from Strength of Youth Media 2011 (English, 2011-01-01).",
+            "distributionUrl": "https://broadcast.lds.org/strength-of-youth/2011-01-03-priesthood-men-256k-eng.mp3",
+            "duration": 193000,
             "isPartOf": [],
             "keywords": [],
-            "$lastUpdatedDate": "Tue Nov 26 21:16:31 EST 2024",
+            "$lastUpdatedDate": "Tue Nov 26 21:16:17 EST 2024",
             "locatorIds": [],
+            "lyricist": [],
             "noindex": false,
-            "$id": "0000017a-3aa6-d0e3-a7fb-7fe7ab070000",
+            "$id": "00000183-2a82-d9d2-a5a3-fe9a61cc0000",
             "$lang": "eng",
-            "$model": "image",
-            "$rootId": "0000017a-3aa6-d0e3-a7fb-7fe7ab070000",
+            "$model": "audio",
+            "$rootId": "00000183-2a82-d9d2-a5a3-fe9a61cc0000",
             "$site": "music",
+            "performer": [],
             "products": [],
-            "publicAltText": "A cover with a conglomerate of photos of men and women of varying ages and ethnicities. The words \"We Believe\" are across the middle of the cover with many different sized squares of color behind.",
-            "publicDownload": [],
-            "$publishDate": "Wed Jun 23 16:53:59 EDT 2021",
+            "publicAltText": "“Priesthood Men” (Young Men Song) from Strength of Youth Media 2011 (English, 2011-01-01).",
+            "publicDownload": [
+              "PUBLIC"
+            ],
+            "$publishDate": "Sat Sep 10 23:05:31 EDT 2022",
             "$publishStatus": "PUBLISHED",
             "related": [],
-            "renditions": [
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!320%2C320/0/default",
-                "height": 320,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!320%2C320/0/default",
-                "width": 320
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!60%2C60/0/default",
-                "height": 60,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!60%2C60/0/default",
-                "width": 60
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!250%2C250/0/default",
-                "height": 250,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!250%2C250/0/default",
-                "width": 250
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!200%2C200/0/default",
-                "height": 200,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!200%2C200/0/default",
-                "width": 200
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!100%2C100/0/default",
-                "height": 100,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!100%2C100/0/default",
-                "width": 100
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!500%2C500/0/default",
-                "height": 500,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!500%2C500/0/default",
-                "width": 500
-              }
-            ],
             "requiredAssets": [],
             "sameAs": [],
-            "seoDescription": "Come, Follow Me, We Believe (yc)",
+            "seoDescription": "“Priesthood Men” (Young Men Song) from Strength of Youth Media 2011 (English, 2011-01-01).",
             "seoDescriptionAiGenerated": false,
-            "seoTitle": "Come, Follow Me, We Believe (yc)",
+            "seoTitle": "Priesthood Men",
             "seoTitleAiGenerated": false,
-            "shareableDescription": "Come, Follow Me, We Believe (yc)",
-            "shareableTitle": "Come, Follow Me, We Believe (yc)",
-            "title": "Come, Follow Me, We Believe (yc)"
-          },
-          "title": "Priesthood Men",
-          "translator": []
-        },
-        "$id": "00000196-c6d8-d455-a9f6-dedcd0e60000",
-        "$model": "assetPurpose",
-        "$rootId": "00000196-c6d8-d455-a9f6-dedcd0e60000",
-        "$site": "music",
-        "$publishStatus": "PUBLISHED"
-      }
-    ]
-  },
-  {
-    "title": "Guardians of Virtue",
-    "subtitle": "Young Women Song",
-    "slug": "guardians-of-virtue",
-    "bookSlug": "we-believe-strength-of-youth-media-2011",
-    "bookSectionTitle": "We Believe: Strength of Youth Media 2011",
-    "songNumber": "3",
-    "songDate": "2011-01-01",
-    "arrangers": [],
-    "artists": [],
-    "authors": [
-      {
-        "personName": "Anon."
-      }
-    ],
-    "composers": [
-      {
-        "personName": "Anon."
-      }
-    ],
-    "instrumentations": [
-      {
-        "name": "Voice"
-      },
-      {
-        "name": "Piano"
-      }
-    ],
-    "musicalFeatures": [],
-    "recordingAvailable": true,
-    "sheetMusicAvailable": true,
-    "videoAvailable": true,
-    "tags": [
-      "commitment",
-      "courage",
-      "discipleship",
-      "example",
-      "joy",
-      "love",
-      "obedience",
-      "service",
-      "virtue",
-      "youth"
-    ],
-    "voicings": [
-      {
-        "name": "Unison"
-      }
-    ],
-    "assets": [
-      {
-        "annotatedFields": {},
-        "assetType": "AUDIO_VOCAL",
-        "attributes": {},
-        "locatorIds": [],
-        "mediaObject": {
-          "annotatedFields": {},
-          "arranger": [],
-          "assetID": "b85d20ebd23987e7136b0bf5df0a7d7b58b5ebea",
-          "attributes": {},
-          "composer": [],
-          "description": "“Guardians of Virtue” (Young Women Song) from Strength of Youth Media 2011 (English, 2011-01-01).",
-          "distributionUrl": "https://broadcast.lds.org/strength-of-youth/2011-01-05-guardians-of-virtue-256k-eng.mp3",
-          "duration": 227000,
-          "isPartOf": [],
-          "keywords": [],
-          "$lastUpdatedDate": "Tue Nov 26 21:16:18 EST 2024",
-          "locatorIds": [],
-          "lyricist": [],
-          "noindex": false,
-          "$id": "00000183-2a82-d9d2-a5a3-fe9a60170000",
-          "$lang": "eng",
-          "$model": "audio",
-          "$rootId": "00000183-2a82-d9d2-a5a3-fe9a60170000",
-          "$site": "music",
-          "performer": [],
-          "products": [],
-          "publicAltText": "“Guardians of Virtue” (Young Women Song) from Strength of Youth Media 2011 (English, 2011-01-01).",
-          "publicDownload": [
-            "PUBLIC"
-          ],
-          "$publishDate": "Sat Sep 10 23:05:30 EDT 2022",
-          "$publishStatus": "PUBLISHED",
-          "related": [],
-          "requiredAssets": [],
-          "sameAs": [],
-          "seoDescription": "“Guardians of Virtue” (Young Women Song) from Strength of Youth Media 2011 (English, 2011-01-01).",
-          "seoDescriptionAiGenerated": false,
-          "seoTitle": "Guardians of Virtue",
-          "seoTitleAiGenerated": false,
-          "shareableDescription": "“Guardians of Virtue” (Young Women Song) from Strength of Youth Media 2011 (English, 2011-01-01).",
-          "shareableTitle": "Guardians of Virtue",
-          "thumbnail": {
-            "annotatedFields": {},
-            "assetID": "86d1956143a560531b93f64341a01364e40c90bf",
-            "attributes": {},
-            "description": "Come, Follow Me, We Believe (yc)",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/500,/0/default",
-            "focalPoint": {
-              "x": "50.00%",
-              "y": "50.00%"
+            "shareableDescription": "“Priesthood Men” (Young Men Song) from Strength of Youth Media 2011 (English, 2011-01-01).",
+            "shareableTitle": "Priesthood Men",
+            "thumbnail": {
+              "annotatedFields": {},
+              "assetID": "86d1956143a560531b93f64341a01364e40c90bf",
+              "attributes": {},
+              "description": "Come, Follow Me, We Believe (yc)",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/500,/0/default",
+              "focalPoint": {
+                "x": "50.00%",
+                "y": "50.00%"
+              },
+              "ipCode": "9 - IRI licensed",
+              "isPartOf": [],
+              "keywords": [],
+              "$lastUpdatedDate": "Tue Nov 26 21:16:31 EST 2024",
+              "locatorIds": [],
+              "noindex": false,
+              "$id": "0000017a-3aa6-d0e3-a7fb-7fe7ab070000",
+              "$lang": "eng",
+              "$model": "image",
+              "$rootId": "0000017a-3aa6-d0e3-a7fb-7fe7ab070000",
+              "$site": "music",
+              "products": [],
+              "publicAltText": "A cover with a conglomerate of photos of men and women of varying ages and ethnicities. The words \"We Believe\" are across the middle of the cover with many different sized squares of color behind.",
+              "publicDownload": [],
+              "$publishDate": "Wed Jun 23 16:53:59 EDT 2021",
+              "$publishStatus": "PUBLISHED",
+              "related": [],
+              "renditions": [
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!320%2C320/0/default",
+                  "height": 320,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!320%2C320/0/default",
+                  "width": 320
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!60%2C60/0/default",
+                  "height": 60,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!60%2C60/0/default",
+                  "width": 60
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!250%2C250/0/default",
+                  "height": 250,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!250%2C250/0/default",
+                  "width": 250
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!200%2C200/0/default",
+                  "height": 200,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!200%2C200/0/default",
+                  "width": 200
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!100%2C100/0/default",
+                  "height": 100,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!100%2C100/0/default",
+                  "width": 100
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!500%2C500/0/default",
+                  "height": 500,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!500%2C500/0/default",
+                  "width": 500
+                }
+              ],
+              "requiredAssets": [],
+              "sameAs": [],
+              "seoDescription": "Come, Follow Me, We Believe (yc)",
+              "seoDescriptionAiGenerated": false,
+              "seoTitle": "Come, Follow Me, We Believe (yc)",
+              "seoTitleAiGenerated": false,
+              "shareableDescription": "Come, Follow Me, We Believe (yc)",
+              "shareableTitle": "Come, Follow Me, We Believe (yc)",
+              "title": "Come, Follow Me, We Believe (yc)"
             },
-            "ipCode": "9 - IRI licensed",
+            "title": "Priesthood Men",
+            "translator": []
+          },
+          "$id": "00000196-c6d8-d455-a9f6-dedcd0e60000",
+          "$model": "assetPurpose",
+          "$rootId": "00000196-c6d8-d455-a9f6-dedcd0e60000",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    },
+    {
+      "title": "Guardians of Virtue",
+      "subtitle": "Young Women Song",
+      "slug": "guardians-of-virtue",
+      "bookSlug": "we-believe-strength-of-youth-media-2011",
+      "bookSectionTitle": "We Believe: Strength of Youth Media 2011",
+      "songNumber": "3",
+      "songDate": "2011-01-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Anon."
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Anon."
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": true,
+      "tags": [
+        "commitment",
+        "courage",
+        "discipleship",
+        "example",
+        "joy",
+        "love",
+        "obedience",
+        "service",
+        "virtue",
+        "youth"
+      ],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": [
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_VOCAL",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "b85d20ebd23987e7136b0bf5df0a7d7b58b5ebea",
+            "attributes": {},
+            "composer": [],
+            "description": "“Guardians of Virtue” (Young Women Song) from Strength of Youth Media 2011 (English, 2011-01-01).",
+            "distributionUrl": "https://broadcast.lds.org/strength-of-youth/2011-01-05-guardians-of-virtue-256k-eng.mp3",
+            "duration": 227000,
             "isPartOf": [],
             "keywords": [],
-            "$lastUpdatedDate": "Tue Nov 26 21:16:31 EST 2024",
+            "$lastUpdatedDate": "Tue Nov 26 21:16:18 EST 2024",
             "locatorIds": [],
+            "lyricist": [],
             "noindex": false,
-            "$id": "0000017a-3aa6-d0e3-a7fb-7fe7ab070000",
+            "$id": "00000183-2a82-d9d2-a5a3-fe9a60170000",
             "$lang": "eng",
-            "$model": "image",
-            "$rootId": "0000017a-3aa6-d0e3-a7fb-7fe7ab070000",
+            "$model": "audio",
+            "$rootId": "00000183-2a82-d9d2-a5a3-fe9a60170000",
             "$site": "music",
+            "performer": [],
             "products": [],
-            "publicAltText": "A cover with a conglomerate of photos of men and women of varying ages and ethnicities. The words \"We Believe\" are across the middle of the cover with many different sized squares of color behind.",
-            "publicDownload": [],
-            "$publishDate": "Wed Jun 23 16:53:59 EDT 2021",
+            "publicAltText": "“Guardians of Virtue” (Young Women Song) from Strength of Youth Media 2011 (English, 2011-01-01).",
+            "publicDownload": [
+              "PUBLIC"
+            ],
+            "$publishDate": "Sat Sep 10 23:05:30 EDT 2022",
             "$publishStatus": "PUBLISHED",
             "related": [],
-            "renditions": [
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!320%2C320/0/default",
-                "height": 320,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!320%2C320/0/default",
-                "width": 320
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!60%2C60/0/default",
-                "height": 60,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!60%2C60/0/default",
-                "width": 60
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!250%2C250/0/default",
-                "height": 250,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!250%2C250/0/default",
-                "width": 250
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!200%2C200/0/default",
-                "height": 200,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!200%2C200/0/default",
-                "width": 200
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!100%2C100/0/default",
-                "height": 100,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!100%2C100/0/default",
-                "width": 100
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!500%2C500/0/default",
-                "height": 500,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!500%2C500/0/default",
-                "width": 500
-              }
-            ],
             "requiredAssets": [],
             "sameAs": [],
-            "seoDescription": "Come, Follow Me, We Believe (yc)",
+            "seoDescription": "“Guardians of Virtue” (Young Women Song) from Strength of Youth Media 2011 (English, 2011-01-01).",
             "seoDescriptionAiGenerated": false,
-            "seoTitle": "Come, Follow Me, We Believe (yc)",
+            "seoTitle": "Guardians of Virtue",
             "seoTitleAiGenerated": false,
-            "shareableDescription": "Come, Follow Me, We Believe (yc)",
-            "shareableTitle": "Come, Follow Me, We Believe (yc)",
-            "title": "Come, Follow Me, We Believe (yc)"
-          },
-          "title": "Guardians of Virtue",
-          "translator": []
-        },
-        "$id": "00000196-c6d8-d455-a9f6-dedcd1160000",
-        "$model": "assetPurpose",
-        "$rootId": "00000196-c6d8-d455-a9f6-dedcd1160000",
-        "$site": "music",
-        "$publishStatus": "PUBLISHED"
-      }
-    ]
-  },
-  {
-    "title": "Seeking What’s Good",
-    "slug": "seeking-whats-good",
-    "bookSlug": "we-believe-strength-of-youth-media-2011",
-    "bookSectionTitle": "We Believe: Strength of Youth Media 2011",
-    "songNumber": "4",
-    "songDate": "2011-01-01",
-    "arrangers": [],
-    "artists": [],
-    "authors": [
-      {
-        "personName": "Anon."
-      },
-      {
-        "personName": "EJ Mulitalo"
-      }
-    ],
-    "composers": [
-      {
-        "personName": "Anon."
-      },
-      {
-        "personName": "EJ Mulitalo"
-      }
-    ],
-    "instrumentations": [
-      {
-        "name": "Voice"
-      }
-    ],
-    "musicalFeatures": [],
-    "recordingAvailable": true,
-    "sheetMusicAvailable": false,
-    "videoAvailable": true,
-    "tags": [
-      "Heavenly Father",
-      "hope",
-      "joy",
-      "love",
-      "trials"
-    ],
-    "voicings": [],
-    "assets": [
-      {
-        "annotatedFields": {},
-        "assetType": "AUDIO_VOCAL",
-        "attributes": {},
-        "locatorIds": [],
-        "mediaObject": {
-          "annotatedFields": {},
-          "arranger": [],
-          "assetID": "ee725054668f9981507553984a3af6ecf8f04438",
-          "attributes": {},
-          "composer": [],
-          "description": "“Seeking What’s Good” from Strength of Youth Media 2011 (English, 2011-01-01).",
-          "distributionUrl": "https://broadcast.lds.org/strength-of-youth/2011-01-07-seeking-whats-good-256k-eng.mp3",
-          "duration": 259000,
-          "isPartOf": [],
-          "keywords": [],
-          "$lastUpdatedDate": "Tue Nov 26 21:16:19 EST 2024",
-          "locatorIds": [],
-          "lyricist": [],
-          "noindex": false,
-          "$id": "00000183-2a82-d9d2-a5a3-fe9a62cb0000",
-          "$lang": "eng",
-          "$model": "audio",
-          "$rootId": "00000183-2a82-d9d2-a5a3-fe9a62cb0000",
-          "$site": "music",
-          "performer": [],
-          "products": [],
-          "publicAltText": "“Seeking What’s Good” from Strength of Youth Media 2011 (English, 2011-01-01).",
-          "publicDownload": [
-            "PUBLIC"
-          ],
-          "$publishDate": "Sat Sep 10 23:05:31 EDT 2022",
-          "$publishStatus": "PUBLISHED",
-          "related": [],
-          "requiredAssets": [],
-          "sameAs": [],
-          "seoDescription": "“Seeking What’s Good” from Strength of Youth Media 2011 (English, 2011-01-01).",
-          "seoDescriptionAiGenerated": false,
-          "seoTitle": "Seeking What’s Good",
-          "seoTitleAiGenerated": false,
-          "shareableDescription": "“Seeking What’s Good” from Strength of Youth Media 2011 (English, 2011-01-01).",
-          "shareableTitle": "Seeking What’s Good",
-          "thumbnail": {
-            "annotatedFields": {},
-            "assetID": "86d1956143a560531b93f64341a01364e40c90bf",
-            "attributes": {},
-            "description": "Come, Follow Me, We Believe (yc)",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/500,/0/default",
-            "focalPoint": {
-              "x": "50.00%",
-              "y": "50.00%"
+            "shareableDescription": "“Guardians of Virtue” (Young Women Song) from Strength of Youth Media 2011 (English, 2011-01-01).",
+            "shareableTitle": "Guardians of Virtue",
+            "thumbnail": {
+              "annotatedFields": {},
+              "assetID": "86d1956143a560531b93f64341a01364e40c90bf",
+              "attributes": {},
+              "description": "Come, Follow Me, We Believe (yc)",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/500,/0/default",
+              "focalPoint": {
+                "x": "50.00%",
+                "y": "50.00%"
+              },
+              "ipCode": "9 - IRI licensed",
+              "isPartOf": [],
+              "keywords": [],
+              "$lastUpdatedDate": "Tue Nov 26 21:16:31 EST 2024",
+              "locatorIds": [],
+              "noindex": false,
+              "$id": "0000017a-3aa6-d0e3-a7fb-7fe7ab070000",
+              "$lang": "eng",
+              "$model": "image",
+              "$rootId": "0000017a-3aa6-d0e3-a7fb-7fe7ab070000",
+              "$site": "music",
+              "products": [],
+              "publicAltText": "A cover with a conglomerate of photos of men and women of varying ages and ethnicities. The words \"We Believe\" are across the middle of the cover with many different sized squares of color behind.",
+              "publicDownload": [],
+              "$publishDate": "Wed Jun 23 16:53:59 EDT 2021",
+              "$publishStatus": "PUBLISHED",
+              "related": [],
+              "renditions": [
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!320%2C320/0/default",
+                  "height": 320,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!320%2C320/0/default",
+                  "width": 320
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!60%2C60/0/default",
+                  "height": 60,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!60%2C60/0/default",
+                  "width": 60
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!250%2C250/0/default",
+                  "height": 250,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!250%2C250/0/default",
+                  "width": 250
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!200%2C200/0/default",
+                  "height": 200,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!200%2C200/0/default",
+                  "width": 200
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!100%2C100/0/default",
+                  "height": 100,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!100%2C100/0/default",
+                  "width": 100
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!500%2C500/0/default",
+                  "height": 500,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!500%2C500/0/default",
+                  "width": 500
+                }
+              ],
+              "requiredAssets": [],
+              "sameAs": [],
+              "seoDescription": "Come, Follow Me, We Believe (yc)",
+              "seoDescriptionAiGenerated": false,
+              "seoTitle": "Come, Follow Me, We Believe (yc)",
+              "seoTitleAiGenerated": false,
+              "shareableDescription": "Come, Follow Me, We Believe (yc)",
+              "shareableTitle": "Come, Follow Me, We Believe (yc)",
+              "title": "Come, Follow Me, We Believe (yc)"
             },
-            "ipCode": "9 - IRI licensed",
+            "title": "Guardians of Virtue",
+            "translator": []
+          },
+          "$id": "00000196-c6d8-d455-a9f6-dedcd1160000",
+          "$model": "assetPurpose",
+          "$rootId": "00000196-c6d8-d455-a9f6-dedcd1160000",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    },
+    {
+      "title": "Seeking What’s Good",
+      "slug": "seeking-whats-good",
+      "bookSlug": "we-believe-strength-of-youth-media-2011",
+      "bookSectionTitle": "We Believe: Strength of Youth Media 2011",
+      "songNumber": "4",
+      "songDate": "2011-01-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Anon."
+        },
+        {
+          "personName": "EJ Mulitalo"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Anon."
+        },
+        {
+          "personName": "EJ Mulitalo"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [
+        "Heavenly Father",
+        "hope",
+        "joy",
+        "love",
+        "trials"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_VOCAL",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "ee725054668f9981507553984a3af6ecf8f04438",
+            "attributes": {},
+            "composer": [],
+            "description": "“Seeking What’s Good” from Strength of Youth Media 2011 (English, 2011-01-01).",
+            "distributionUrl": "https://broadcast.lds.org/strength-of-youth/2011-01-07-seeking-whats-good-256k-eng.mp3",
+            "duration": 259000,
             "isPartOf": [],
             "keywords": [],
-            "$lastUpdatedDate": "Tue Nov 26 21:16:31 EST 2024",
+            "$lastUpdatedDate": "Tue Nov 26 21:16:19 EST 2024",
             "locatorIds": [],
+            "lyricist": [],
             "noindex": false,
-            "$id": "0000017a-3aa6-d0e3-a7fb-7fe7ab070000",
+            "$id": "00000183-2a82-d9d2-a5a3-fe9a62cb0000",
             "$lang": "eng",
-            "$model": "image",
-            "$rootId": "0000017a-3aa6-d0e3-a7fb-7fe7ab070000",
+            "$model": "audio",
+            "$rootId": "00000183-2a82-d9d2-a5a3-fe9a62cb0000",
             "$site": "music",
+            "performer": [],
             "products": [],
-            "publicAltText": "A cover with a conglomerate of photos of men and women of varying ages and ethnicities. The words \"We Believe\" are across the middle of the cover with many different sized squares of color behind.",
-            "publicDownload": [],
-            "$publishDate": "Wed Jun 23 16:53:59 EDT 2021",
+            "publicAltText": "“Seeking What’s Good” from Strength of Youth Media 2011 (English, 2011-01-01).",
+            "publicDownload": [
+              "PUBLIC"
+            ],
+            "$publishDate": "Sat Sep 10 23:05:31 EDT 2022",
             "$publishStatus": "PUBLISHED",
             "related": [],
-            "renditions": [
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!320%2C320/0/default",
-                "height": 320,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!320%2C320/0/default",
-                "width": 320
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!60%2C60/0/default",
-                "height": 60,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!60%2C60/0/default",
-                "width": 60
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!250%2C250/0/default",
-                "height": 250,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!250%2C250/0/default",
-                "width": 250
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!200%2C200/0/default",
-                "height": 200,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!200%2C200/0/default",
-                "width": 200
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!100%2C100/0/default",
-                "height": 100,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!100%2C100/0/default",
-                "width": 100
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!500%2C500/0/default",
-                "height": 500,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!500%2C500/0/default",
-                "width": 500
-              }
-            ],
             "requiredAssets": [],
             "sameAs": [],
-            "seoDescription": "Come, Follow Me, We Believe (yc)",
+            "seoDescription": "“Seeking What’s Good” from Strength of Youth Media 2011 (English, 2011-01-01).",
             "seoDescriptionAiGenerated": false,
-            "seoTitle": "Come, Follow Me, We Believe (yc)",
+            "seoTitle": "Seeking What’s Good",
             "seoTitleAiGenerated": false,
-            "shareableDescription": "Come, Follow Me, We Believe (yc)",
-            "shareableTitle": "Come, Follow Me, We Believe (yc)",
-            "title": "Come, Follow Me, We Believe (yc)"
-          },
-          "title": "Seeking What’s Good",
-          "translator": []
-        },
-        "$id": "00000196-c6d8-d455-a9f6-dedcd1380000",
-        "$model": "assetPurpose",
-        "$rootId": "00000196-c6d8-d455-a9f6-dedcd1380000",
-        "$site": "music",
-        "$publishStatus": "PUBLISHED"
-      }
-    ]
-  },
-  {
-    "title": "I Believe in Christ",
-    "slug": "2011-01-08-i-believe-in-christ",
-    "bookSlug": "we-believe-strength-of-youth-media-2011",
-    "bookSectionTitle": "We Believe: Strength of Youth Media 2011",
-    "songNumber": "5",
-    "songDate": "2011-01-01",
-    "arrangers": [
-      {
-        "personName": "Anon."
-      }
-    ],
-    "artists": [],
-    "authors": [
-      {
-        "personName": "Bruce R. McConkie"
-      }
-    ],
-    "composers": [
-      {
-        "personName": "John Longhurst"
-      }
-    ],
-    "instrumentations": [
-      {
-        "name": "Voice"
-      }
-    ],
-    "musicalFeatures": [],
-    "recordingAvailable": true,
-    "sheetMusicAvailable": false,
-    "videoAvailable": true,
-    "tags": [
-      "Jesus Christ",
-      "Jesus Christ's ministry",
-      "endure to the end",
-      "eternal life",
-      "exaltation",
-      "faith",
-      "grace",
-      "joy",
-      "praise",
-      "testimony"
-    ],
-    "voicings": [
-      {
-        "name": "Unison"
-      }
-    ],
-    "assets": [
-      {
-        "annotatedFields": {},
-        "assetType": "AUDIO_VOCAL",
-        "attributes": {},
-        "locatorIds": [],
-        "mediaObject": {
-          "annotatedFields": {},
-          "arranger": [],
-          "assetID": "2aeefbfef1e00eb2dea9137162bb59ff82f01968",
-          "attributes": {},
-          "composer": [],
-          "description": "“We Believe in Christ” from Strength of Youth Media 2011 (English, 2011-01-01).",
-          "distributionUrl": "https://broadcast.lds.org/strength-of-youth/2011-01-08-i-believe-in-christ-256k-eng.mp3",
-          "duration": 169000,
-          "isPartOf": [],
-          "keywords": [],
-          "$lastUpdatedDate": "Tue Nov 26 21:16:20 EST 2024",
-          "locatorIds": [],
-          "lyricist": [],
-          "noindex": false,
-          "$id": "00000183-2a82-d9d2-a5a3-fe9a64b20000",
-          "$lang": "eng",
-          "$model": "audio",
-          "$rootId": "00000183-2a82-d9d2-a5a3-fe9a64b20000",
-          "$site": "music",
-          "performer": [],
-          "products": [],
-          "publicAltText": "&ldquo;We Believe in Christ&rdquo; from Strength of Youth Media 2011 (English, 2011-01-01).",
-          "publicDownload": [
-            "PUBLIC"
-          ],
-          "$publishDate": "Sat Sep 10 23:05:32 EDT 2022",
-          "$publishStatus": "PUBLISHED",
-          "related": [],
-          "requiredAssets": [],
-          "sameAs": [],
-          "seoDescription": "“We Believe in Christ” from Strength of Youth Media 2011 (English, 2011-01-01).",
-          "seoDescriptionAiGenerated": false,
-          "seoTitle": "I Believe in Christ",
-          "seoTitleAiGenerated": false,
-          "shareableDescription": "“We Believe in Christ” from Strength of Youth Media 2011 (English, 2011-01-01).",
-          "shareableTitle": "I Believe in Christ",
-          "thumbnail": {
-            "annotatedFields": {},
-            "assetID": "86d1956143a560531b93f64341a01364e40c90bf",
-            "attributes": {},
-            "description": "Come, Follow Me, We Believe (yc)",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/500,/0/default",
-            "focalPoint": {
-              "x": "50.00%",
-              "y": "50.00%"
+            "shareableDescription": "“Seeking What’s Good” from Strength of Youth Media 2011 (English, 2011-01-01).",
+            "shareableTitle": "Seeking What’s Good",
+            "thumbnail": {
+              "annotatedFields": {},
+              "assetID": "86d1956143a560531b93f64341a01364e40c90bf",
+              "attributes": {},
+              "description": "Come, Follow Me, We Believe (yc)",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/500,/0/default",
+              "focalPoint": {
+                "x": "50.00%",
+                "y": "50.00%"
+              },
+              "ipCode": "9 - IRI licensed",
+              "isPartOf": [],
+              "keywords": [],
+              "$lastUpdatedDate": "Tue Nov 26 21:16:31 EST 2024",
+              "locatorIds": [],
+              "noindex": false,
+              "$id": "0000017a-3aa6-d0e3-a7fb-7fe7ab070000",
+              "$lang": "eng",
+              "$model": "image",
+              "$rootId": "0000017a-3aa6-d0e3-a7fb-7fe7ab070000",
+              "$site": "music",
+              "products": [],
+              "publicAltText": "A cover with a conglomerate of photos of men and women of varying ages and ethnicities. The words \"We Believe\" are across the middle of the cover with many different sized squares of color behind.",
+              "publicDownload": [],
+              "$publishDate": "Wed Jun 23 16:53:59 EDT 2021",
+              "$publishStatus": "PUBLISHED",
+              "related": [],
+              "renditions": [
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!320%2C320/0/default",
+                  "height": 320,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!320%2C320/0/default",
+                  "width": 320
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!60%2C60/0/default",
+                  "height": 60,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!60%2C60/0/default",
+                  "width": 60
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!250%2C250/0/default",
+                  "height": 250,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!250%2C250/0/default",
+                  "width": 250
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!200%2C200/0/default",
+                  "height": 200,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!200%2C200/0/default",
+                  "width": 200
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!100%2C100/0/default",
+                  "height": 100,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!100%2C100/0/default",
+                  "width": 100
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!500%2C500/0/default",
+                  "height": 500,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!500%2C500/0/default",
+                  "width": 500
+                }
+              ],
+              "requiredAssets": [],
+              "sameAs": [],
+              "seoDescription": "Come, Follow Me, We Believe (yc)",
+              "seoDescriptionAiGenerated": false,
+              "seoTitle": "Come, Follow Me, We Believe (yc)",
+              "seoTitleAiGenerated": false,
+              "shareableDescription": "Come, Follow Me, We Believe (yc)",
+              "shareableTitle": "Come, Follow Me, We Believe (yc)",
+              "title": "Come, Follow Me, We Believe (yc)"
             },
-            "ipCode": "9 - IRI licensed",
+            "title": "Seeking What’s Good",
+            "translator": []
+          },
+          "$id": "00000196-c6d8-d455-a9f6-dedcd1380000",
+          "$model": "assetPurpose",
+          "$rootId": "00000196-c6d8-d455-a9f6-dedcd1380000",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    },
+    {
+      "title": "I Believe in Christ",
+      "slug": "2011-01-08-i-believe-in-christ",
+      "bookSlug": "we-believe-strength-of-youth-media-2011",
+      "bookSectionTitle": "We Believe: Strength of Youth Media 2011",
+      "songNumber": "5",
+      "songDate": "2011-01-01",
+      "arrangers": [
+        {
+          "personName": "Anon."
+        }
+      ],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Bruce R. McConkie"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "John Longhurst"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [
+        "Jesus Christ",
+        "Jesus Christ's ministry",
+        "endure to the end",
+        "eternal life",
+        "exaltation",
+        "faith",
+        "grace",
+        "joy",
+        "praise",
+        "testimony"
+      ],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": [
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_VOCAL",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "2aeefbfef1e00eb2dea9137162bb59ff82f01968",
+            "attributes": {},
+            "composer": [],
+            "description": "“We Believe in Christ” from Strength of Youth Media 2011 (English, 2011-01-01).",
+            "distributionUrl": "https://broadcast.lds.org/strength-of-youth/2011-01-08-i-believe-in-christ-256k-eng.mp3",
+            "duration": 169000,
             "isPartOf": [],
             "keywords": [],
-            "$lastUpdatedDate": "Tue Nov 26 21:16:31 EST 2024",
+            "$lastUpdatedDate": "Tue Nov 26 21:16:20 EST 2024",
             "locatorIds": [],
+            "lyricist": [],
             "noindex": false,
-            "$id": "0000017a-3aa6-d0e3-a7fb-7fe7ab070000",
+            "$id": "00000183-2a82-d9d2-a5a3-fe9a64b20000",
             "$lang": "eng",
-            "$model": "image",
-            "$rootId": "0000017a-3aa6-d0e3-a7fb-7fe7ab070000",
+            "$model": "audio",
+            "$rootId": "00000183-2a82-d9d2-a5a3-fe9a64b20000",
             "$site": "music",
+            "performer": [],
             "products": [],
-            "publicAltText": "A cover with a conglomerate of photos of men and women of varying ages and ethnicities. The words \"We Believe\" are across the middle of the cover with many different sized squares of color behind.",
-            "publicDownload": [],
-            "$publishDate": "Wed Jun 23 16:53:59 EDT 2021",
+            "publicAltText": "&ldquo;We Believe in Christ&rdquo; from Strength of Youth Media 2011 (English, 2011-01-01).",
+            "publicDownload": [
+              "PUBLIC"
+            ],
+            "$publishDate": "Sat Sep 10 23:05:32 EDT 2022",
             "$publishStatus": "PUBLISHED",
             "related": [],
-            "renditions": [
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!320%2C320/0/default",
-                "height": 320,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!320%2C320/0/default",
-                "width": 320
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!60%2C60/0/default",
-                "height": 60,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!60%2C60/0/default",
-                "width": 60
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!250%2C250/0/default",
-                "height": 250,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!250%2C250/0/default",
-                "width": 250
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!200%2C200/0/default",
-                "height": 200,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!200%2C200/0/default",
-                "width": 200
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!100%2C100/0/default",
-                "height": 100,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!100%2C100/0/default",
-                "width": 100
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!500%2C500/0/default",
-                "height": 500,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!500%2C500/0/default",
-                "width": 500
-              }
-            ],
             "requiredAssets": [],
             "sameAs": [],
-            "seoDescription": "Come, Follow Me, We Believe (yc)",
+            "seoDescription": "“We Believe in Christ” from Strength of Youth Media 2011 (English, 2011-01-01).",
             "seoDescriptionAiGenerated": false,
-            "seoTitle": "Come, Follow Me, We Believe (yc)",
+            "seoTitle": "I Believe in Christ",
             "seoTitleAiGenerated": false,
-            "shareableDescription": "Come, Follow Me, We Believe (yc)",
-            "shareableTitle": "Come, Follow Me, We Believe (yc)",
-            "title": "Come, Follow Me, We Believe (yc)"
+            "shareableDescription": "“We Believe in Christ” from Strength of Youth Media 2011 (English, 2011-01-01).",
+            "shareableTitle": "I Believe in Christ",
+            "thumbnail": {
+              "annotatedFields": {},
+              "assetID": "86d1956143a560531b93f64341a01364e40c90bf",
+              "attributes": {},
+              "description": "Come, Follow Me, We Believe (yc)",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/500,/0/default",
+              "focalPoint": {
+                "x": "50.00%",
+                "y": "50.00%"
+              },
+              "ipCode": "9 - IRI licensed",
+              "isPartOf": [],
+              "keywords": [],
+              "$lastUpdatedDate": "Tue Nov 26 21:16:31 EST 2024",
+              "locatorIds": [],
+              "noindex": false,
+              "$id": "0000017a-3aa6-d0e3-a7fb-7fe7ab070000",
+              "$lang": "eng",
+              "$model": "image",
+              "$rootId": "0000017a-3aa6-d0e3-a7fb-7fe7ab070000",
+              "$site": "music",
+              "products": [],
+              "publicAltText": "A cover with a conglomerate of photos of men and women of varying ages and ethnicities. The words \"We Believe\" are across the middle of the cover with many different sized squares of color behind.",
+              "publicDownload": [],
+              "$publishDate": "Wed Jun 23 16:53:59 EDT 2021",
+              "$publishStatus": "PUBLISHED",
+              "related": [],
+              "renditions": [
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!320%2C320/0/default",
+                  "height": 320,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!320%2C320/0/default",
+                  "width": 320
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!60%2C60/0/default",
+                  "height": 60,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!60%2C60/0/default",
+                  "width": 60
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!250%2C250/0/default",
+                  "height": 250,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!250%2C250/0/default",
+                  "width": 250
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!200%2C200/0/default",
+                  "height": 200,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!200%2C200/0/default",
+                  "width": 200
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!100%2C100/0/default",
+                  "height": 100,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!100%2C100/0/default",
+                  "width": 100
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!500%2C500/0/default",
+                  "height": 500,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/86d1956143a560531b93f64341a01364e40c90bf/full/!500%2C500/0/default",
+                  "width": 500
+                }
+              ],
+              "requiredAssets": [],
+              "sameAs": [],
+              "seoDescription": "Come, Follow Me, We Believe (yc)",
+              "seoDescriptionAiGenerated": false,
+              "seoTitle": "Come, Follow Me, We Believe (yc)",
+              "seoTitleAiGenerated": false,
+              "shareableDescription": "Come, Follow Me, We Believe (yc)",
+              "shareableTitle": "Come, Follow Me, We Believe (yc)",
+              "title": "Come, Follow Me, We Believe (yc)"
+            },
+            "title": "I Believe in Christ",
+            "translator": []
           },
-          "title": "I Believe in Christ",
-          "translator": []
-        },
-        "$id": "00000196-c6d8-d455-a9f6-dedcd1610000",
-        "$model": "assetPurpose",
-        "$rootId": "00000196-c6d8-d455-a9f6-dedcd1610000",
-        "$site": "music",
-        "$publishStatus": "PUBLISHED"
-      }
-    ]
-  },
-  {
-    "title": "Hope of Israel",
-    "slug": "hope-of-israel-2011",
-    "bookSlug": "we-believe-strength-of-youth-media-2011",
-    "bookSectionTitle": "We Believe: Strength of Youth Media 2011",
-    "songNumber": "6",
-    "songDate": "2011-01-01",
-    "arrangers": [
-      {
-        "personName": "Anon."
-      }
-    ],
-    "artists": [],
-    "authors": [
-      {
-        "personName": "Joseph L. Townsend"
-      }
-    ],
-    "composers": [
-      {
-        "personName": "William Clayson"
-      }
-    ],
-    "instrumentations": [
-      {
-        "name": "Voice"
-      }
-    ],
-    "musicalFeatures": [],
-    "recordingAvailable": true,
-    "sheetMusicAvailable": false,
-    "videoAvailable": false,
-    "tags": [
-      "Israel",
-      "Zion",
-      "commitment",
-      "hope",
-      "truth",
-      "youth"
-    ],
-    "voicings": [],
-    "assets": [
-      {
-        "annotatedFields": {},
-        "assetType": "AUDIO_ACCOMPANIMENT",
-        "attributes": {},
-        "locatorIds": [],
-        "mediaObject": {
-          "annotatedFields": {},
-          "arranger": [],
-          "assetID": "e2a51c08fdb62a6d214921ee6ccbc087a9bdace0",
-          "attributes": {},
-          "composer": [],
-          "description": "“Hope of Israel” from Strength of Youth Media 2011 (English, 2011-01-01).",
-          "distributionUrl": "https://broadcast.lds.org/youth/music/2011-03-002-hope-of-israel-160k-eng.mp3",
-          "duration": 313000,
-          "isPartOf": [],
-          "keywords": [],
-          "$lastUpdatedDate": "Tue Nov 26 21:16:15 EST 2024",
-          "locatorIds": [],
-          "lyricist": [],
-          "noindex": false,
-          "$id": "00000183-2a82-d9d2-a5a3-fe9a5d590000",
-          "$lang": "eng",
-          "$model": "audio",
-          "$rootId": "00000183-2a82-d9d2-a5a3-fe9a5d590000",
+          "$id": "00000196-c6d8-d455-a9f6-dedcd1610000",
+          "$model": "assetPurpose",
+          "$rootId": "00000196-c6d8-d455-a9f6-dedcd1610000",
           "$site": "music",
-          "performer": [],
-          "products": [],
-          "publicAltText": "“Hope of Israel” from Strength of Youth Media 2011 (English, 2011-01-01).",
-          "publicDownload": [
-            "PUBLIC"
-          ],
-          "$publishDate": "Sat Sep 10 23:05:30 EDT 2022",
-          "$publishStatus": "PUBLISHED",
-          "related": [],
-          "requiredAssets": [],
-          "sameAs": [],
-          "seoDescription": "“Hope of Israel” from Strength of Youth Media 2011 (English, 2011-01-01).",
-          "seoDescriptionAiGenerated": false,
-          "seoTitle": "Hope of Israel",
-          "seoTitleAiGenerated": false,
-          "shareableDescription": "“Hope of Israel” from Strength of Youth Media 2011 (English, 2011-01-01).",
-          "shareableTitle": "Hope of Israel",
-          "title": "Hope of Israel",
-          "translator": []
-        },
-        "$id": "00000196-c6d9-d455-a9f6-dedd23f30000",
-        "$model": "assetPurpose",
-        "$rootId": "00000196-c6d9-d455-a9f6-dedd23f30000",
-        "$site": "music",
-        "$publishStatus": "PUBLISHED"
-      }
-    ]
-  }
-]
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    },
+    {
+      "title": "Hope of Israel",
+      "slug": "hope-of-israel-2011",
+      "bookSlug": "we-believe-strength-of-youth-media-2011",
+      "bookSectionTitle": "We Believe: Strength of Youth Media 2011",
+      "songNumber": "6",
+      "songDate": "2011-01-01",
+      "arrangers": [
+        {
+          "personName": "Anon."
+        }
+      ],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Joseph L. Townsend"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "William Clayson"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Israel",
+        "Zion",
+        "commitment",
+        "hope",
+        "truth",
+        "youth"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "e2a51c08fdb62a6d214921ee6ccbc087a9bdace0",
+            "attributes": {},
+            "composer": [],
+            "description": "“Hope of Israel” from Strength of Youth Media 2011 (English, 2011-01-01).",
+            "distributionUrl": "https://broadcast.lds.org/youth/music/2011-03-002-hope-of-israel-160k-eng.mp3",
+            "duration": 313000,
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Tue Nov 26 21:16:15 EST 2024",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "00000183-2a82-d9d2-a5a3-fe9a5d590000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "00000183-2a82-d9d2-a5a3-fe9a5d590000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "“Hope of Israel” from Strength of Youth Media 2011 (English, 2011-01-01).",
+            "publicDownload": [
+              "PUBLIC"
+            ],
+            "$publishDate": "Sat Sep 10 23:05:30 EDT 2022",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "“Hope of Israel” from Strength of Youth Media 2011 (English, 2011-01-01).",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Hope of Israel",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "“Hope of Israel” from Strength of Youth Media 2011 (English, 2011-01-01).",
+            "shareableTitle": "Hope of Israel",
+            "title": "Hope of Israel",
+            "translator": []
+          },
+          "$id": "00000196-c6d9-d455-a9f6-dedd23f30000",
+          "$model": "assetPurpose",
+          "$rootId": "00000196-c6d9-d455-a9f6-dedd23f30000",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    }
+  ],
+  "limit": 500,
+  "offset": 0,
+  "total": 6
+}

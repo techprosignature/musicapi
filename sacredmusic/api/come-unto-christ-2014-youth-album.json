@@ -1,1189 +1,1194 @@
-[
-  {
-    "title": "Come unto Christ",
-    "slug": "come-unto-christ",
-    "bookSlug": "come-unto-christ-2014-youth-album",
-    "bookSectionTitle": "Come Unto Christ: 2014 Youth Album",
-    "songNumber": "1",
-    "songDate": "2014-01-01",
-    "arrangers": [],
-    "artists": [
-      {
-        "personName": "Jason Bromley"
-      },
-      {
-        "personName": "Noelle Bybee"
-      },
-      {
-        "personName": "Tanner James"
-      },
-      {
-        "personName": "Bri Ray"
-      }
-    ],
-    "authors": [
-      {
-        "personName": "Nik Day"
-      }
-    ],
-    "composers": [
-      {
-        "personName": "Nik Day"
-      }
-    ],
-    "instrumentations": [
-      {
-        "name": "Voice"
-      },
-      {
-        "name": "Piano"
-      }
-    ],
-    "musicalFeatures": [],
-    "recordingAvailable": true,
-    "sheetMusicAvailable": true,
-    "videoAvailable": true,
-    "tags": [
-      "Jesus Christ",
-      "Jesus Christ's ministry",
-      "faith",
-      "grace"
-    ],
-    "voicings": [],
-    "assets": [
-      {
-        "annotatedFields": {},
-        "assetType": "AUDIO_ACCOMPANIMENT",
-        "attributes": {},
-        "locatorIds": [],
-        "mediaObject": {
-          "annotatedFields": {},
-          "arranger": [],
-          "assetID": "e7ebac2704e70406378b5492c8db3cd5e530fa4f",
-          "attributes": {},
-          "composer": [],
-          "description": "“Come unto Christ” from 2014 Youth Album (English, 2014-01-01).",
-          "distributionUrl": "https://media2.ldscdn.org/assets/youth/2014-youth-activity-resources/2014-01-005-come-unto-christ-2014-theme-song-minus-track-64k-eng.mp3",
-          "duration": 285000,
-          "isPartOf": [],
-          "keywords": [],
-          "$lastUpdatedDate": "Fri Jul 26 15:20:18 EDT 2024",
-          "locatorIds": [],
-          "lyricist": [],
-          "noindex": false,
-          "$id": "00000184-0ee0-d3a5-ab95-1ffac5760000",
-          "$lang": "eng",
-          "$model": "audio",
-          "$rootId": "00000184-0ee0-d3a5-ab95-1ffac5760000",
-          "$site": "music",
-          "performer": [],
-          "products": [],
-          "publicAltText": "“Come unto Christ” from 2014 Youth Album (English, 2014-01-01).",
-          "publicDownload": [
-            "PUBLIC"
-          ],
-          "$publishDate": "Tue Oct 25 07:22:02 EDT 2022",
-          "$publishStatus": "PUBLISHED",
-          "related": [],
-          "requiredAssets": [],
-          "sameAs": [],
-          "seoDescription": "“Come unto Christ” from 2014 Youth Album (English, 2014-01-01).",
-          "seoDescriptionAiGenerated": false,
-          "seoTitle": "Come unto Christ",
-          "seoTitleAiGenerated": false,
-          "shareableDescription": "“Come unto Christ” from 2014 Youth Album (English, 2014-01-01).",
-          "shareableTitle": "Come unto Christ",
-          "title": "Come unto Christ",
-          "translator": []
+{
+  "data": [
+    {
+      "title": "Come unto Christ",
+      "slug": "come-unto-christ",
+      "bookSlug": "come-unto-christ-2014-youth-album",
+      "bookSectionTitle": "Come Unto Christ: 2014 Youth Album",
+      "songNumber": "1",
+      "songDate": "2014-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Jason Bromley"
         },
-        "$id": "00000196-c6d8-d455-a9f6-dedccba20000",
-        "$model": "assetPurpose",
-        "$rootId": "00000196-c6d8-d455-a9f6-dedccba20000",
-        "$site": "music",
-        "$publishStatus": "PUBLISHED"
-      },
-      {
-        "annotatedFields": {},
-        "assetType": "AUDIO_VOCAL",
-        "attributes": {},
-        "locatorIds": [],
-        "mediaObject": {
+        {
+          "personName": "Noelle Bybee"
+        },
+        {
+          "personName": "Tanner James"
+        },
+        {
+          "personName": "Bri Ray"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": true,
+      "tags": [
+        "Jesus Christ",
+        "Jesus Christ's ministry",
+        "faith",
+        "grace"
+      ],
+      "voicings": [],
+      "assets": [
+        {
           "annotatedFields": {},
-          "arranger": [],
-          "assetID": "540d7d65722d96250c29b38ba9254cb928b0ecdc",
+          "assetType": "AUDIO_ACCOMPANIMENT",
           "attributes": {},
-          "composer": [],
-          "description": "“Come unto Christ” from 2014 Youth Album (English, 2014-01-01).",
-          "distributionUrl": "https://media2.ldscdn.org/assets/youth/2014-youth-activity-resources/2014-01-002-come-unto-christ-2014-theme-song-64k-eng.mp3",
-          "duration": 285000,
-          "isPartOf": [],
-          "keywords": [],
-          "$lastUpdatedDate": "Fri Jul 26 15:28:25 EDT 2024",
           "locatorIds": [],
-          "lyricist": [],
-          "noindex": false,
-          "$id": "0000017a-2009-d61c-a1fe-71ed4ffa0000",
-          "$lang": "eng",
-          "$model": "audio",
-          "$rootId": "0000017a-2009-d61c-a1fe-71ed4ffa0000",
-          "$site": "music",
-          "performer": [],
-          "products": [],
-          "publicAltText": "“Come unto Christ” from 2014 Youth Album (English, 2014-01-01).",
-          "publicDownload": [
-            "PUBLIC"
-          ],
-          "$publishDate": "Fri Jun 18 12:51:59 EDT 2021",
-          "$publishStatus": "PUBLISHED",
-          "related": [],
-          "requiredAssets": [],
-          "sameAs": [],
-          "seoDescription": "“Come unto Christ” from 2014 Youth Album (English, 2014-01-01).",
-          "seoDescriptionAiGenerated": false,
-          "seoTitle": "Come unto Christ",
-          "seoTitleAiGenerated": false,
-          "shareableDescription": "“Come unto Christ” from 2014 Youth Album (English, 2014-01-01).",
-          "shareableTitle": "Come unto Christ",
-          "thumbnail": {
+          "mediaObject": {
             "annotatedFields": {},
-            "assetID": "5ac1d5da4b74ec6e731b8117a3615fe53f347539",
+            "arranger": [],
+            "assetID": "e7ebac2704e70406378b5492c8db3cd5e530fa4f",
             "attributes": {},
-            "description": "2020 Mutual Theme Music Album",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
-            "focalPoint": {
-              "x": "50.00%",
-              "y": "50.00%"
-            },
-            "ipCode": "0 - IRI Owned",
+            "composer": [],
+            "description": "“Come unto Christ” from 2014 Youth Album (English, 2014-01-01).",
+            "distributionUrl": "https://media2.ldscdn.org/assets/youth/2014-youth-activity-resources/2014-01-005-come-unto-christ-2014-theme-song-minus-track-64k-eng.mp3",
+            "duration": 285000,
             "isPartOf": [],
             "keywords": [],
-            "$lastUpdatedDate": "Mon May 19 18:56:37 EDT 2025",
+            "$lastUpdatedDate": "Fri Jul 26 15:20:18 EDT 2024",
             "locatorIds": [],
+            "lyricist": [],
             "noindex": false,
-            "$id": "0000016e-f22e-d642-a77f-f72e2e080000",
+            "$id": "00000184-0ee0-d3a5-ab95-1ffac5760000",
             "$lang": "eng",
-            "$model": "image",
-            "$rootId": "0000016e-f22e-d642-a77f-f72e2e080000",
+            "$model": "audio",
+            "$rootId": "00000184-0ee0-d3a5-ab95-1ffac5760000",
             "$site": "music",
+            "performer": [],
             "products": [],
-            "publicAltText": "Three abstract medium blue, light blue, and white rectangles decreasing in size and centered on a dark blue background.",
-            "publicDownload": [],
-            "$publishDate": "Tue Dec 10 18:39:03 EST 2019",
+            "publicAltText": "“Come unto Christ” from 2014 Youth Album (English, 2014-01-01).",
+            "publicDownload": [
+              "PUBLIC"
+            ],
+            "$publishDate": "Tue Oct 25 07:22:02 EDT 2022",
             "$publishStatus": "PUBLISHED",
             "related": [],
-            "renditions": [
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                "height": 320,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                "width": 320
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                "height": 60,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                "width": 60
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                "height": 250,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                "width": 250
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                "height": 200,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                "width": 200
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                "height": 100,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                "width": 100
-              }
-            ],
             "requiredAssets": [],
             "sameAs": [],
-            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoDescription": "“Come unto Christ” from 2014 Youth Album (English, 2014-01-01).",
             "seoDescriptionAiGenerated": false,
-            "seoTitle": "No Title",
+            "seoTitle": "Come unto Christ",
             "seoTitleAiGenerated": false,
-            "shareableDescription": "2020 Mutual Theme Music Album",
-            "shareableTitle": "No Title",
-            "title": "No Title"
+            "shareableDescription": "“Come unto Christ” from 2014 Youth Album (English, 2014-01-01).",
+            "shareableTitle": "Come unto Christ",
+            "title": "Come unto Christ",
+            "translator": []
           },
-          "title": "Come unto Christ",
-          "translator": []
-        },
-        "$id": "00000196-c6d8-d455-a9f6-dedccba20001",
-        "$model": "assetPurpose",
-        "$rootId": "00000196-c6d8-d455-a9f6-dedccba20001",
-        "$site": "music",
-        "$publishStatus": "PUBLISHED"
-      }
-    ]
-  },
-  {
-    "title": "Give Away",
-    "slug": "give-away",
-    "bookSlug": "come-unto-christ-2014-youth-album",
-    "bookSectionTitle": "Come Unto Christ: 2014 Youth Album",
-    "songNumber": "2",
-    "songDate": "2014-01-01",
-    "arrangers": [],
-    "artists": [
-      {
-        "personName": "Asher Bay"
-      }
-    ],
-    "authors": [
-      {
-        "personName": "Nik Day"
-      }
-    ],
-    "composers": [
-      {
-        "personName": "Nik Day"
-      }
-    ],
-    "instrumentations": [
-      {
-        "name": "Voice"
-      }
-    ],
-    "musicalFeatures": [],
-    "recordingAvailable": true,
-    "sheetMusicAvailable": false,
-    "videoAvailable": false,
-    "tags": [],
-    "voicings": [],
-    "assets": [
-      {
-        "annotatedFields": {},
-        "assetType": "AUDIO_VOCAL",
-        "attributes": {},
-        "locatorIds": [],
-        "mediaObject": {
-          "annotatedFields": {},
-          "arranger": [],
-          "assetID": "f7d29dad3e0729491938f476bfdd3bf86f38b926",
-          "attributes": {},
-          "composer": [],
-          "description": "“Give Away” from 2014 Youth Album (English, 2014-01-01).",
-          "distributionUrl": "https://media2.ldscdn.org/assets/music/2014-youth-music-album/2014-12-001-give-away-256k-eng.mp3",
-          "duration": 216000,
-          "isPartOf": [],
-          "keywords": [],
-          "$lastUpdatedDate": "Fri Jul 26 15:28:27 EDT 2024",
-          "locatorIds": [],
-          "lyricist": [],
-          "noindex": false,
-          "$id": "00000184-0ee5-d3a5-ab95-1fff79580000",
-          "$lang": "eng",
-          "$model": "audio",
-          "$rootId": "00000184-0ee5-d3a5-ab95-1fff79580000",
+          "$id": "00000196-c6d8-d455-a9f6-dedccba20000",
+          "$model": "assetPurpose",
+          "$rootId": "00000196-c6d8-d455-a9f6-dedccba20000",
           "$site": "music",
-          "performer": [],
-          "products": [],
-          "publicAltText": "“Give Away” from 2014 Youth Album (English, 2014-01-01).",
-          "publicDownload": [
-            "PUBLIC"
-          ],
-          "$publishDate": "Tue Oct 25 07:27:10 EDT 2022",
-          "$publishStatus": "PUBLISHED",
-          "related": [],
-          "requiredAssets": [],
-          "sameAs": [],
-          "seoDescription": "“Give Away” from 2014 Youth Album (English, 2014-01-01).",
-          "seoDescriptionAiGenerated": false,
-          "seoTitle": "Give Away",
-          "seoTitleAiGenerated": false,
-          "shareableDescription": "“Give Away” from 2014 Youth Album (English, 2014-01-01).",
-          "shareableTitle": "Give Away",
-          "thumbnail": {
+          "$publishStatus": "PUBLISHED"
+        },
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_VOCAL",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
             "annotatedFields": {},
-            "assetID": "5ac1d5da4b74ec6e731b8117a3615fe53f347539",
+            "arranger": [],
+            "assetID": "540d7d65722d96250c29b38ba9254cb928b0ecdc",
             "attributes": {},
-            "description": "2020 Mutual Theme Music Album",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
-            "focalPoint": {
-              "x": "50.00%",
-              "y": "50.00%"
-            },
-            "ipCode": "0 - IRI Owned",
+            "composer": [],
+            "description": "“Come unto Christ” from 2014 Youth Album (English, 2014-01-01).",
+            "distributionUrl": "https://media2.ldscdn.org/assets/youth/2014-youth-activity-resources/2014-01-002-come-unto-christ-2014-theme-song-64k-eng.mp3",
+            "duration": 285000,
             "isPartOf": [],
             "keywords": [],
-            "$lastUpdatedDate": "Mon May 19 18:56:37 EDT 2025",
+            "$lastUpdatedDate": "Fri Jul 26 15:28:25 EDT 2024",
             "locatorIds": [],
+            "lyricist": [],
             "noindex": false,
-            "$id": "0000016e-f22e-d642-a77f-f72e2e080000",
+            "$id": "0000017a-2009-d61c-a1fe-71ed4ffa0000",
             "$lang": "eng",
-            "$model": "image",
-            "$rootId": "0000016e-f22e-d642-a77f-f72e2e080000",
+            "$model": "audio",
+            "$rootId": "0000017a-2009-d61c-a1fe-71ed4ffa0000",
             "$site": "music",
+            "performer": [],
             "products": [],
-            "publicAltText": "Three abstract medium blue, light blue, and white rectangles decreasing in size and centered on a dark blue background.",
-            "publicDownload": [],
-            "$publishDate": "Tue Dec 10 18:39:03 EST 2019",
+            "publicAltText": "“Come unto Christ” from 2014 Youth Album (English, 2014-01-01).",
+            "publicDownload": [
+              "PUBLIC"
+            ],
+            "$publishDate": "Fri Jun 18 12:51:59 EDT 2021",
             "$publishStatus": "PUBLISHED",
             "related": [],
-            "renditions": [
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                "height": 320,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                "width": 320
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                "height": 60,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                "width": 60
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                "height": 250,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                "width": 250
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                "height": 200,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                "width": 200
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                "height": 100,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                "width": 100
-              }
-            ],
             "requiredAssets": [],
             "sameAs": [],
-            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoDescription": "“Come unto Christ” from 2014 Youth Album (English, 2014-01-01).",
             "seoDescriptionAiGenerated": false,
-            "seoTitle": "No Title",
+            "seoTitle": "Come unto Christ",
             "seoTitleAiGenerated": false,
-            "shareableDescription": "2020 Mutual Theme Music Album",
-            "shareableTitle": "No Title",
-            "title": "No Title"
-          },
-          "title": "Give Away",
-          "translator": []
-        },
-        "$id": "00000196-c6d8-d455-a9f6-dedccbd50000",
-        "$model": "assetPurpose",
-        "$rootId": "00000196-c6d8-d455-a9f6-dedccbd50000",
-        "$site": "music",
-        "$publishStatus": "PUBLISHED"
-      }
-    ]
-  },
-  {
-    "title": "Say Yes",
-    "slug": "say-yes",
-    "bookSlug": "come-unto-christ-2014-youth-album",
-    "bookSectionTitle": "Come Unto Christ: 2014 Youth Album",
-    "songNumber": "3",
-    "songDate": "2014-01-01",
-    "arrangers": [],
-    "artists": [
-      {
-        "personName": "Caleb Cox"
-      }
-    ],
-    "authors": [
-      {
-        "personName": "Ross Boothe"
-      }
-    ],
-    "composers": [
-      {
-        "personName": "Ross Boothe"
-      }
-    ],
-    "instrumentations": [
-      {
-        "name": "Voice"
-      }
-    ],
-    "musicalFeatures": [],
-    "recordingAvailable": true,
-    "sheetMusicAvailable": true,
-    "videoAvailable": false,
-    "tags": [
-      "agency",
-      "happiness",
-      "hope",
-      "obedience"
-    ],
-    "voicings": [],
-    "assets": [
-      {
-        "annotatedFields": {},
-        "assetType": "AUDIO_VOCAL",
-        "attributes": {},
-        "locatorIds": [],
-        "mediaObject": {
-          "annotatedFields": {},
-          "arranger": [],
-          "assetID": "8a46e1d15bc2b81750433500ee48152dfe0cedd2",
-          "attributes": {},
-          "composer": [],
-          "description": "“Say Yes” from 2014 Youth Album (English, 2014-01-01).",
-          "distributionUrl": "https://media2.ldscdn.org/assets/music/2014-youth-music-album/2014-12-002-say-yes-256k-eng.mp3",
-          "duration": 151000,
-          "isPartOf": [],
-          "keywords": [],
-          "$lastUpdatedDate": "Fri Jul 26 15:28:27 EDT 2024",
-          "locatorIds": [],
-          "lyricist": [],
-          "noindex": false,
-          "$id": "00000184-0ee5-d3a5-ab95-1fff77910000",
-          "$lang": "eng",
-          "$model": "audio",
-          "$rootId": "00000184-0ee5-d3a5-ab95-1fff77910000",
-          "$site": "music",
-          "performer": [],
-          "products": [],
-          "publicAltText": "“Say Yes” from 2014 Youth Album (English, 2014-01-01).",
-          "publicDownload": [
-            "PUBLIC"
-          ],
-          "$publishDate": "Tue Oct 25 07:27:10 EDT 2022",
-          "$publishStatus": "PUBLISHED",
-          "related": [],
-          "requiredAssets": [],
-          "sameAs": [],
-          "seoDescription": "“Say Yes” from 2014 Youth Album (English, 2014-01-01).",
-          "seoDescriptionAiGenerated": false,
-          "seoTitle": "Say Yes",
-          "seoTitleAiGenerated": false,
-          "shareableDescription": "“Say Yes” from 2014 Youth Album (English, 2014-01-01).",
-          "shareableTitle": "Say Yes",
-          "thumbnail": {
-            "annotatedFields": {},
-            "assetID": "5ac1d5da4b74ec6e731b8117a3615fe53f347539",
-            "attributes": {},
-            "description": "2020 Mutual Theme Music Album",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
-            "focalPoint": {
-              "x": "50.00%",
-              "y": "50.00%"
+            "shareableDescription": "“Come unto Christ” from 2014 Youth Album (English, 2014-01-01).",
+            "shareableTitle": "Come unto Christ",
+            "thumbnail": {
+              "annotatedFields": {},
+              "assetID": "5ac1d5da4b74ec6e731b8117a3615fe53f347539",
+              "attributes": {},
+              "description": "2020 Mutual Theme Music Album",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+              "focalPoint": {
+                "x": "50.00%",
+                "y": "50.00%"
+              },
+              "ipCode": "0 - IRI Owned",
+              "isPartOf": [],
+              "keywords": [],
+              "$lastUpdatedDate": "Mon May 19 18:56:37 EDT 2025",
+              "locatorIds": [],
+              "noindex": false,
+              "$id": "0000016e-f22e-d642-a77f-f72e2e080000",
+              "$lang": "eng",
+              "$model": "image",
+              "$rootId": "0000016e-f22e-d642-a77f-f72e2e080000",
+              "$site": "music",
+              "products": [],
+              "publicAltText": "Three abstract medium blue, light blue, and white rectangles decreasing in size and centered on a dark blue background.",
+              "publicDownload": [],
+              "$publishDate": "Tue Dec 10 18:39:03 EST 2019",
+              "$publishStatus": "PUBLISHED",
+              "related": [],
+              "renditions": [
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                  "height": 320,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                  "width": 320
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                  "height": 60,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                  "width": 60
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                  "height": 250,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                  "width": 250
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                  "height": 200,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                  "width": 200
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                  "height": 100,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                  "width": 100
+                }
+              ],
+              "requiredAssets": [],
+              "sameAs": [],
+              "seoDescription": "2020 Mutual Theme Music Album",
+              "seoDescriptionAiGenerated": false,
+              "seoTitle": "No Title",
+              "seoTitleAiGenerated": false,
+              "shareableDescription": "2020 Mutual Theme Music Album",
+              "shareableTitle": "No Title",
+              "title": "No Title"
             },
-            "ipCode": "0 - IRI Owned",
+            "title": "Come unto Christ",
+            "translator": []
+          },
+          "$id": "00000196-c6d8-d455-a9f6-dedccba20001",
+          "$model": "assetPurpose",
+          "$rootId": "00000196-c6d8-d455-a9f6-dedccba20001",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    },
+    {
+      "title": "Give Away",
+      "slug": "give-away",
+      "bookSlug": "come-unto-christ-2014-youth-album",
+      "bookSectionTitle": "Come Unto Christ: 2014 Youth Album",
+      "songNumber": "2",
+      "songDate": "2014-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Asher Bay"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [],
+      "assets": [
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_VOCAL",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "f7d29dad3e0729491938f476bfdd3bf86f38b926",
+            "attributes": {},
+            "composer": [],
+            "description": "“Give Away” from 2014 Youth Album (English, 2014-01-01).",
+            "distributionUrl": "https://media2.ldscdn.org/assets/music/2014-youth-music-album/2014-12-001-give-away-256k-eng.mp3",
+            "duration": 216000,
             "isPartOf": [],
             "keywords": [],
-            "$lastUpdatedDate": "Mon May 19 18:56:37 EDT 2025",
+            "$lastUpdatedDate": "Fri Jul 26 15:28:27 EDT 2024",
             "locatorIds": [],
+            "lyricist": [],
             "noindex": false,
-            "$id": "0000016e-f22e-d642-a77f-f72e2e080000",
+            "$id": "00000184-0ee5-d3a5-ab95-1fff79580000",
             "$lang": "eng",
-            "$model": "image",
-            "$rootId": "0000016e-f22e-d642-a77f-f72e2e080000",
+            "$model": "audio",
+            "$rootId": "00000184-0ee5-d3a5-ab95-1fff79580000",
             "$site": "music",
+            "performer": [],
             "products": [],
-            "publicAltText": "Three abstract medium blue, light blue, and white rectangles decreasing in size and centered on a dark blue background.",
-            "publicDownload": [],
-            "$publishDate": "Tue Dec 10 18:39:03 EST 2019",
+            "publicAltText": "“Give Away” from 2014 Youth Album (English, 2014-01-01).",
+            "publicDownload": [
+              "PUBLIC"
+            ],
+            "$publishDate": "Tue Oct 25 07:27:10 EDT 2022",
             "$publishStatus": "PUBLISHED",
             "related": [],
-            "renditions": [
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                "height": 320,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                "width": 320
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                "height": 60,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                "width": 60
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                "height": 250,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                "width": 250
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                "height": 200,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                "width": 200
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                "height": 100,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                "width": 100
-              }
-            ],
             "requiredAssets": [],
             "sameAs": [],
-            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoDescription": "“Give Away” from 2014 Youth Album (English, 2014-01-01).",
             "seoDescriptionAiGenerated": false,
-            "seoTitle": "No Title",
+            "seoTitle": "Give Away",
             "seoTitleAiGenerated": false,
-            "shareableDescription": "2020 Mutual Theme Music Album",
-            "shareableTitle": "No Title",
-            "title": "No Title"
-          },
-          "title": "Say Yes",
-          "translator": []
-        },
-        "$id": "00000196-c6d8-d455-a9f6-dedccc0f0000",
-        "$model": "assetPurpose",
-        "$rootId": "00000196-c6d8-d455-a9f6-dedccc0f0000",
-        "$site": "music",
-        "$publishStatus": "PUBLISHED"
-      }
-    ]
-  },
-  {
-    "title": "Trust Him",
-    "slug": "trust-him",
-    "bookSlug": "come-unto-christ-2014-youth-album",
-    "bookSectionTitle": "Come Unto Christ: 2014 Youth Album",
-    "songNumber": "4",
-    "songDate": "2014-01-01",
-    "arrangers": [],
-    "artists": [
-      {
-        "personName": "Nick Neel"
-      }
-    ],
-    "authors": [
-      {
-        "personName": "Nik Day"
-      }
-    ],
-    "composers": [
-      {
-        "personName": "Nik Day"
-      }
-    ],
-    "instrumentations": [
-      {
-        "name": "Voice"
-      }
-    ],
-    "musicalFeatures": [],
-    "recordingAvailable": true,
-    "sheetMusicAvailable": false,
-    "videoAvailable": false,
-    "tags": [
-      "Jesus Christ",
-      "faith",
-      "plan of salvation"
-    ],
-    "voicings": [],
-    "assets": [
-      {
-        "annotatedFields": {},
-        "assetType": "AUDIO_VOCAL",
-        "attributes": {},
-        "locatorIds": [],
-        "mediaObject": {
-          "annotatedFields": {},
-          "arranger": [],
-          "assetID": "78e510a4073d59be6d119a7ccef19b16c39983bc",
-          "attributes": {},
-          "composer": [],
-          "description": "“Trust Him” from 2014 Youth Album (English, 2014-01-01).",
-          "distributionUrl": "https://media2.ldscdn.org/assets/music/2014-youth-music-album/2014-12-003-trust-him-256k-eng.mp3",
-          "duration": 259000,
-          "isPartOf": [],
-          "keywords": [],
-          "$lastUpdatedDate": "Fri Jul 26 15:28:29 EDT 2024",
-          "locatorIds": [],
-          "lyricist": [],
-          "noindex": false,
-          "$id": "00000184-0ee5-d3a5-ab95-1fff7d380000",
-          "$lang": "eng",
-          "$model": "audio",
-          "$rootId": "00000184-0ee5-d3a5-ab95-1fff7d380000",
-          "$site": "music",
-          "performer": [],
-          "products": [],
-          "publicAltText": "“Trust Him” from 2014 Youth Album (English, 2014-01-01).",
-          "publicDownload": [
-            "PUBLIC"
-          ],
-          "$publishDate": "Tue Oct 25 07:27:11 EDT 2022",
-          "$publishStatus": "PUBLISHED",
-          "related": [],
-          "requiredAssets": [],
-          "sameAs": [],
-          "seoDescription": "“Trust Him” from 2014 Youth Album (English, 2014-01-01).",
-          "seoDescriptionAiGenerated": false,
-          "seoTitle": "Trust Him",
-          "seoTitleAiGenerated": false,
-          "shareableDescription": "“Trust Him” from 2014 Youth Album (English, 2014-01-01).",
-          "shareableTitle": "Trust Him",
-          "thumbnail": {
-            "annotatedFields": {},
-            "assetID": "5ac1d5da4b74ec6e731b8117a3615fe53f347539",
-            "attributes": {},
-            "description": "2020 Mutual Theme Music Album",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
-            "focalPoint": {
-              "x": "50.00%",
-              "y": "50.00%"
+            "shareableDescription": "“Give Away” from 2014 Youth Album (English, 2014-01-01).",
+            "shareableTitle": "Give Away",
+            "thumbnail": {
+              "annotatedFields": {},
+              "assetID": "5ac1d5da4b74ec6e731b8117a3615fe53f347539",
+              "attributes": {},
+              "description": "2020 Mutual Theme Music Album",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+              "focalPoint": {
+                "x": "50.00%",
+                "y": "50.00%"
+              },
+              "ipCode": "0 - IRI Owned",
+              "isPartOf": [],
+              "keywords": [],
+              "$lastUpdatedDate": "Mon May 19 18:56:37 EDT 2025",
+              "locatorIds": [],
+              "noindex": false,
+              "$id": "0000016e-f22e-d642-a77f-f72e2e080000",
+              "$lang": "eng",
+              "$model": "image",
+              "$rootId": "0000016e-f22e-d642-a77f-f72e2e080000",
+              "$site": "music",
+              "products": [],
+              "publicAltText": "Three abstract medium blue, light blue, and white rectangles decreasing in size and centered on a dark blue background.",
+              "publicDownload": [],
+              "$publishDate": "Tue Dec 10 18:39:03 EST 2019",
+              "$publishStatus": "PUBLISHED",
+              "related": [],
+              "renditions": [
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                  "height": 320,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                  "width": 320
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                  "height": 60,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                  "width": 60
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                  "height": 250,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                  "width": 250
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                  "height": 200,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                  "width": 200
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                  "height": 100,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                  "width": 100
+                }
+              ],
+              "requiredAssets": [],
+              "sameAs": [],
+              "seoDescription": "2020 Mutual Theme Music Album",
+              "seoDescriptionAiGenerated": false,
+              "seoTitle": "No Title",
+              "seoTitleAiGenerated": false,
+              "shareableDescription": "2020 Mutual Theme Music Album",
+              "shareableTitle": "No Title",
+              "title": "No Title"
             },
-            "ipCode": "0 - IRI Owned",
+            "title": "Give Away",
+            "translator": []
+          },
+          "$id": "00000196-c6d8-d455-a9f6-dedccbd50000",
+          "$model": "assetPurpose",
+          "$rootId": "00000196-c6d8-d455-a9f6-dedccbd50000",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    },
+    {
+      "title": "Say Yes",
+      "slug": "say-yes",
+      "bookSlug": "come-unto-christ-2014-youth-album",
+      "bookSectionTitle": "Come Unto Christ: 2014 Youth Album",
+      "songNumber": "3",
+      "songDate": "2014-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Caleb Cox"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Ross Boothe"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Ross Boothe"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "agency",
+        "happiness",
+        "hope",
+        "obedience"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_VOCAL",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "8a46e1d15bc2b81750433500ee48152dfe0cedd2",
+            "attributes": {},
+            "composer": [],
+            "description": "“Say Yes” from 2014 Youth Album (English, 2014-01-01).",
+            "distributionUrl": "https://media2.ldscdn.org/assets/music/2014-youth-music-album/2014-12-002-say-yes-256k-eng.mp3",
+            "duration": 151000,
             "isPartOf": [],
             "keywords": [],
-            "$lastUpdatedDate": "Mon May 19 18:56:37 EDT 2025",
+            "$lastUpdatedDate": "Fri Jul 26 15:28:27 EDT 2024",
             "locatorIds": [],
+            "lyricist": [],
             "noindex": false,
-            "$id": "0000016e-f22e-d642-a77f-f72e2e080000",
+            "$id": "00000184-0ee5-d3a5-ab95-1fff77910000",
             "$lang": "eng",
-            "$model": "image",
-            "$rootId": "0000016e-f22e-d642-a77f-f72e2e080000",
+            "$model": "audio",
+            "$rootId": "00000184-0ee5-d3a5-ab95-1fff77910000",
             "$site": "music",
+            "performer": [],
             "products": [],
-            "publicAltText": "Three abstract medium blue, light blue, and white rectangles decreasing in size and centered on a dark blue background.",
-            "publicDownload": [],
-            "$publishDate": "Tue Dec 10 18:39:03 EST 2019",
+            "publicAltText": "“Say Yes” from 2014 Youth Album (English, 2014-01-01).",
+            "publicDownload": [
+              "PUBLIC"
+            ],
+            "$publishDate": "Tue Oct 25 07:27:10 EDT 2022",
             "$publishStatus": "PUBLISHED",
             "related": [],
-            "renditions": [
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                "height": 320,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                "width": 320
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                "height": 60,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                "width": 60
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                "height": 250,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                "width": 250
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                "height": 200,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                "width": 200
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                "height": 100,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                "width": 100
-              }
-            ],
             "requiredAssets": [],
             "sameAs": [],
-            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoDescription": "“Say Yes” from 2014 Youth Album (English, 2014-01-01).",
             "seoDescriptionAiGenerated": false,
-            "seoTitle": "No Title",
+            "seoTitle": "Say Yes",
             "seoTitleAiGenerated": false,
-            "shareableDescription": "2020 Mutual Theme Music Album",
-            "shareableTitle": "No Title",
-            "title": "No Title"
-          },
-          "title": "Trust Him",
-          "translator": []
-        },
-        "$id": "00000196-c6d8-d455-a9f6-dedccc400000",
-        "$model": "assetPurpose",
-        "$rootId": "00000196-c6d8-d455-a9f6-dedccc400000",
-        "$site": "music",
-        "$publishStatus": "PUBLISHED"
-      }
-    ]
-  },
-  {
-    "title": "We Are One",
-    "slug": "we-are-one",
-    "bookSlug": "come-unto-christ-2014-youth-album",
-    "bookSectionTitle": "Come Unto Christ: 2014 Youth Album",
-    "songNumber": "5",
-    "songDate": "2014-01-01",
-    "arrangers": [],
-    "artists": [
-      {
-        "personName": "Nik Day"
-      }
-    ],
-    "authors": [
-      {
-        "personName": "Nik Day"
-      }
-    ],
-    "composers": [
-      {
-        "personName": "Nik Day"
-      }
-    ],
-    "instrumentations": [
-      {
-        "name": "Voice"
-      }
-    ],
-    "musicalFeatures": [],
-    "recordingAvailable": true,
-    "sheetMusicAvailable": false,
-    "videoAvailable": false,
-    "tags": [
-      "family",
-      "friendship",
-      "unity",
-      "worldwide Church"
-    ],
-    "voicings": [],
-    "assets": [
-      {
-        "annotatedFields": {},
-        "assetType": "AUDIO_VOCAL",
-        "attributes": {},
-        "locatorIds": [],
-        "mediaObject": {
-          "annotatedFields": {},
-          "arranger": [],
-          "assetID": "37ddd94a48da037bb6c93ec61b2bab1f322a6920",
-          "attributes": {},
-          "composer": [],
-          "description": "“We Are One” from 2014 Youth Album (English, 2014-01-01).",
-          "distributionUrl": "https://media2.ldscdn.org/assets/music/2014-youth-music-album/2014-12-004-we-are-one-256k-eng.mp3",
-          "duration": 207000,
-          "isPartOf": [],
-          "keywords": [],
-          "$lastUpdatedDate": "Fri Jul 26 15:28:29 EDT 2024",
-          "locatorIds": [],
-          "lyricist": [],
-          "noindex": false,
-          "$id": "00000184-0ee5-d3a5-ab95-1fff7f070000",
-          "$lang": "eng",
-          "$model": "audio",
-          "$rootId": "00000184-0ee5-d3a5-ab95-1fff7f070000",
-          "$site": "music",
-          "performer": [],
-          "products": [],
-          "publicAltText": "“We Are One” from 2014 Youth Album (English, 2014-01-01).",
-          "publicDownload": [
-            "PUBLIC"
-          ],
-          "$publishDate": "Tue Oct 25 07:27:12 EDT 2022",
-          "$publishStatus": "PUBLISHED",
-          "related": [],
-          "requiredAssets": [],
-          "sameAs": [],
-          "seoDescription": "“We Are One” from 2014 Youth Album (English, 2014-01-01).",
-          "seoDescriptionAiGenerated": false,
-          "seoTitle": "We Are One",
-          "seoTitleAiGenerated": false,
-          "shareableDescription": "“We Are One” from 2014 Youth Album (English, 2014-01-01).",
-          "shareableTitle": "We Are One",
-          "thumbnail": {
-            "annotatedFields": {},
-            "assetID": "5ac1d5da4b74ec6e731b8117a3615fe53f347539",
-            "attributes": {},
-            "description": "2020 Mutual Theme Music Album",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
-            "focalPoint": {
-              "x": "50.00%",
-              "y": "50.00%"
+            "shareableDescription": "“Say Yes” from 2014 Youth Album (English, 2014-01-01).",
+            "shareableTitle": "Say Yes",
+            "thumbnail": {
+              "annotatedFields": {},
+              "assetID": "5ac1d5da4b74ec6e731b8117a3615fe53f347539",
+              "attributes": {},
+              "description": "2020 Mutual Theme Music Album",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+              "focalPoint": {
+                "x": "50.00%",
+                "y": "50.00%"
+              },
+              "ipCode": "0 - IRI Owned",
+              "isPartOf": [],
+              "keywords": [],
+              "$lastUpdatedDate": "Mon May 19 18:56:37 EDT 2025",
+              "locatorIds": [],
+              "noindex": false,
+              "$id": "0000016e-f22e-d642-a77f-f72e2e080000",
+              "$lang": "eng",
+              "$model": "image",
+              "$rootId": "0000016e-f22e-d642-a77f-f72e2e080000",
+              "$site": "music",
+              "products": [],
+              "publicAltText": "Three abstract medium blue, light blue, and white rectangles decreasing in size and centered on a dark blue background.",
+              "publicDownload": [],
+              "$publishDate": "Tue Dec 10 18:39:03 EST 2019",
+              "$publishStatus": "PUBLISHED",
+              "related": [],
+              "renditions": [
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                  "height": 320,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                  "width": 320
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                  "height": 60,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                  "width": 60
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                  "height": 250,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                  "width": 250
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                  "height": 200,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                  "width": 200
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                  "height": 100,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                  "width": 100
+                }
+              ],
+              "requiredAssets": [],
+              "sameAs": [],
+              "seoDescription": "2020 Mutual Theme Music Album",
+              "seoDescriptionAiGenerated": false,
+              "seoTitle": "No Title",
+              "seoTitleAiGenerated": false,
+              "shareableDescription": "2020 Mutual Theme Music Album",
+              "shareableTitle": "No Title",
+              "title": "No Title"
             },
-            "ipCode": "0 - IRI Owned",
+            "title": "Say Yes",
+            "translator": []
+          },
+          "$id": "00000196-c6d8-d455-a9f6-dedccc0f0000",
+          "$model": "assetPurpose",
+          "$rootId": "00000196-c6d8-d455-a9f6-dedccc0f0000",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    },
+    {
+      "title": "Trust Him",
+      "slug": "trust-him",
+      "bookSlug": "come-unto-christ-2014-youth-album",
+      "bookSectionTitle": "Come Unto Christ: 2014 Youth Album",
+      "songNumber": "4",
+      "songDate": "2014-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Nick Neel"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Jesus Christ",
+        "faith",
+        "plan of salvation"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_VOCAL",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "78e510a4073d59be6d119a7ccef19b16c39983bc",
+            "attributes": {},
+            "composer": [],
+            "description": "“Trust Him” from 2014 Youth Album (English, 2014-01-01).",
+            "distributionUrl": "https://media2.ldscdn.org/assets/music/2014-youth-music-album/2014-12-003-trust-him-256k-eng.mp3",
+            "duration": 259000,
             "isPartOf": [],
             "keywords": [],
-            "$lastUpdatedDate": "Mon May 19 18:56:37 EDT 2025",
+            "$lastUpdatedDate": "Fri Jul 26 15:28:29 EDT 2024",
             "locatorIds": [],
+            "lyricist": [],
             "noindex": false,
-            "$id": "0000016e-f22e-d642-a77f-f72e2e080000",
+            "$id": "00000184-0ee5-d3a5-ab95-1fff7d380000",
             "$lang": "eng",
-            "$model": "image",
-            "$rootId": "0000016e-f22e-d642-a77f-f72e2e080000",
+            "$model": "audio",
+            "$rootId": "00000184-0ee5-d3a5-ab95-1fff7d380000",
             "$site": "music",
+            "performer": [],
             "products": [],
-            "publicAltText": "Three abstract medium blue, light blue, and white rectangles decreasing in size and centered on a dark blue background.",
-            "publicDownload": [],
-            "$publishDate": "Tue Dec 10 18:39:03 EST 2019",
+            "publicAltText": "“Trust Him” from 2014 Youth Album (English, 2014-01-01).",
+            "publicDownload": [
+              "PUBLIC"
+            ],
+            "$publishDate": "Tue Oct 25 07:27:11 EDT 2022",
             "$publishStatus": "PUBLISHED",
             "related": [],
-            "renditions": [
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                "height": 320,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                "width": 320
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                "height": 60,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                "width": 60
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                "height": 250,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                "width": 250
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                "height": 200,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                "width": 200
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                "height": 100,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                "width": 100
-              }
-            ],
             "requiredAssets": [],
             "sameAs": [],
-            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoDescription": "“Trust Him” from 2014 Youth Album (English, 2014-01-01).",
             "seoDescriptionAiGenerated": false,
-            "seoTitle": "No Title",
+            "seoTitle": "Trust Him",
             "seoTitleAiGenerated": false,
-            "shareableDescription": "2020 Mutual Theme Music Album",
-            "shareableTitle": "No Title",
-            "title": "No Title"
-          },
-          "title": "We Are One",
-          "translator": []
-        },
-        "$id": "00000196-c6d8-d455-a9f6-dedccc730000",
-        "$model": "assetPurpose",
-        "$rootId": "00000196-c6d8-d455-a9f6-dedccc730000",
-        "$site": "music",
-        "$publishStatus": "PUBLISHED"
-      }
-    ]
-  },
-  {
-    "title": "Wonderful People",
-    "slug": "wonderful-people",
-    "bookSlug": "come-unto-christ-2014-youth-album",
-    "bookSectionTitle": "Come Unto Christ: 2014 Youth Album",
-    "songNumber": "6",
-    "songDate": "2014-01-01",
-    "arrangers": [],
-    "artists": [
-      {
-        "personName": "Catelin Lundell"
-      }
-    ],
-    "authors": [
-      {
-        "personName": "Nik Day"
-      }
-    ],
-    "composers": [
-      {
-        "personName": "Nik Day"
-      }
-    ],
-    "instrumentations": [
-      {
-        "name": "Voice"
-      }
-    ],
-    "musicalFeatures": [],
-    "recordingAvailable": true,
-    "sheetMusicAvailable": false,
-    "videoAvailable": false,
-    "tags": [
-      "adversity",
-      "divine worth",
-      "joy"
-    ],
-    "voicings": [],
-    "assets": [
-      {
-        "annotatedFields": {},
-        "assetType": "AUDIO_VOCAL",
-        "attributes": {},
-        "locatorIds": [],
-        "mediaObject": {
-          "annotatedFields": {},
-          "arranger": [],
-          "assetID": "8148bee31f69e792c4a6c8877e14c3366f4fb1f6",
-          "attributes": {},
-          "composer": [],
-          "description": "“Wonderful People” from 2014 Youth Album (English, 2014-01-01).",
-          "distributionUrl": "https://media2.ldscdn.org/assets/music/2014-youth-music-album/2014-12-005-wonderful-people-256k-eng.mp3",
-          "duration": 198000,
-          "isPartOf": [],
-          "keywords": [],
-          "$lastUpdatedDate": "Fri Jul 26 15:28:28 EDT 2024",
-          "locatorIds": [],
-          "lyricist": [],
-          "noindex": false,
-          "$id": "00000184-0ee5-d3a5-ab95-1fff7b5d0000",
-          "$lang": "eng",
-          "$model": "audio",
-          "$rootId": "00000184-0ee5-d3a5-ab95-1fff7b5d0000",
-          "$site": "music",
-          "performer": [],
-          "products": [],
-          "publicAltText": "“Wonderful People” from 2014 Youth Album (English, 2014-01-01).",
-          "publicDownload": [
-            "PUBLIC"
-          ],
-          "$publishDate": "Tue Oct 25 07:27:11 EDT 2022",
-          "$publishStatus": "PUBLISHED",
-          "related": [],
-          "requiredAssets": [],
-          "sameAs": [],
-          "seoDescription": "“Wonderful People” from 2014 Youth Album (English, 2014-01-01).",
-          "seoDescriptionAiGenerated": false,
-          "seoTitle": "Wonderful People",
-          "seoTitleAiGenerated": false,
-          "shareableDescription": "“Wonderful People” from 2014 Youth Album (English, 2014-01-01).",
-          "shareableTitle": "Wonderful People",
-          "thumbnail": {
-            "annotatedFields": {},
-            "assetID": "5ac1d5da4b74ec6e731b8117a3615fe53f347539",
-            "attributes": {},
-            "description": "2020 Mutual Theme Music Album",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
-            "focalPoint": {
-              "x": "50.00%",
-              "y": "50.00%"
+            "shareableDescription": "“Trust Him” from 2014 Youth Album (English, 2014-01-01).",
+            "shareableTitle": "Trust Him",
+            "thumbnail": {
+              "annotatedFields": {},
+              "assetID": "5ac1d5da4b74ec6e731b8117a3615fe53f347539",
+              "attributes": {},
+              "description": "2020 Mutual Theme Music Album",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+              "focalPoint": {
+                "x": "50.00%",
+                "y": "50.00%"
+              },
+              "ipCode": "0 - IRI Owned",
+              "isPartOf": [],
+              "keywords": [],
+              "$lastUpdatedDate": "Mon May 19 18:56:37 EDT 2025",
+              "locatorIds": [],
+              "noindex": false,
+              "$id": "0000016e-f22e-d642-a77f-f72e2e080000",
+              "$lang": "eng",
+              "$model": "image",
+              "$rootId": "0000016e-f22e-d642-a77f-f72e2e080000",
+              "$site": "music",
+              "products": [],
+              "publicAltText": "Three abstract medium blue, light blue, and white rectangles decreasing in size and centered on a dark blue background.",
+              "publicDownload": [],
+              "$publishDate": "Tue Dec 10 18:39:03 EST 2019",
+              "$publishStatus": "PUBLISHED",
+              "related": [],
+              "renditions": [
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                  "height": 320,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                  "width": 320
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                  "height": 60,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                  "width": 60
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                  "height": 250,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                  "width": 250
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                  "height": 200,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                  "width": 200
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                  "height": 100,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                  "width": 100
+                }
+              ],
+              "requiredAssets": [],
+              "sameAs": [],
+              "seoDescription": "2020 Mutual Theme Music Album",
+              "seoDescriptionAiGenerated": false,
+              "seoTitle": "No Title",
+              "seoTitleAiGenerated": false,
+              "shareableDescription": "2020 Mutual Theme Music Album",
+              "shareableTitle": "No Title",
+              "title": "No Title"
             },
-            "ipCode": "0 - IRI Owned",
+            "title": "Trust Him",
+            "translator": []
+          },
+          "$id": "00000196-c6d8-d455-a9f6-dedccc400000",
+          "$model": "assetPurpose",
+          "$rootId": "00000196-c6d8-d455-a9f6-dedccc400000",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    },
+    {
+      "title": "We Are One",
+      "slug": "we-are-one",
+      "bookSlug": "come-unto-christ-2014-youth-album",
+      "bookSectionTitle": "Come Unto Christ: 2014 Youth Album",
+      "songNumber": "5",
+      "songDate": "2014-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "family",
+        "friendship",
+        "unity",
+        "worldwide Church"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_VOCAL",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "37ddd94a48da037bb6c93ec61b2bab1f322a6920",
+            "attributes": {},
+            "composer": [],
+            "description": "“We Are One” from 2014 Youth Album (English, 2014-01-01).",
+            "distributionUrl": "https://media2.ldscdn.org/assets/music/2014-youth-music-album/2014-12-004-we-are-one-256k-eng.mp3",
+            "duration": 207000,
             "isPartOf": [],
             "keywords": [],
-            "$lastUpdatedDate": "Mon May 19 18:56:37 EDT 2025",
+            "$lastUpdatedDate": "Fri Jul 26 15:28:29 EDT 2024",
             "locatorIds": [],
+            "lyricist": [],
             "noindex": false,
-            "$id": "0000016e-f22e-d642-a77f-f72e2e080000",
+            "$id": "00000184-0ee5-d3a5-ab95-1fff7f070000",
             "$lang": "eng",
-            "$model": "image",
-            "$rootId": "0000016e-f22e-d642-a77f-f72e2e080000",
+            "$model": "audio",
+            "$rootId": "00000184-0ee5-d3a5-ab95-1fff7f070000",
             "$site": "music",
+            "performer": [],
             "products": [],
-            "publicAltText": "Three abstract medium blue, light blue, and white rectangles decreasing in size and centered on a dark blue background.",
-            "publicDownload": [],
-            "$publishDate": "Tue Dec 10 18:39:03 EST 2019",
+            "publicAltText": "“We Are One” from 2014 Youth Album (English, 2014-01-01).",
+            "publicDownload": [
+              "PUBLIC"
+            ],
+            "$publishDate": "Tue Oct 25 07:27:12 EDT 2022",
             "$publishStatus": "PUBLISHED",
             "related": [],
-            "renditions": [
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                "height": 320,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                "width": 320
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                "height": 60,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                "width": 60
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                "height": 250,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                "width": 250
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                "height": 200,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                "width": 200
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                "height": 100,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                "width": 100
-              }
-            ],
             "requiredAssets": [],
             "sameAs": [],
-            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoDescription": "“We Are One” from 2014 Youth Album (English, 2014-01-01).",
             "seoDescriptionAiGenerated": false,
-            "seoTitle": "No Title",
+            "seoTitle": "We Are One",
             "seoTitleAiGenerated": false,
-            "shareableDescription": "2020 Mutual Theme Music Album",
-            "shareableTitle": "No Title",
-            "title": "No Title"
-          },
-          "title": "Wonderful People",
-          "translator": []
-        },
-        "$id": "00000196-c6d8-d455-a9f6-dedccca50000",
-        "$model": "assetPurpose",
-        "$rootId": "00000196-c6d8-d455-a9f6-dedccca50000",
-        "$site": "music",
-        "$publishStatus": "PUBLISHED"
-      }
-    ]
-  },
-  {
-    "title": "You’ll Never Run Out of Love",
-    "slug": "youll-never-run-out-of-love",
-    "bookSlug": "come-unto-christ-2014-youth-album",
-    "bookSectionTitle": "Come Unto Christ: 2014 Youth Album",
-    "songNumber": "7",
-    "songDate": "2014-01-01",
-    "arrangers": [],
-    "artists": [
-      {
-        "personName": "Anna Richey"
-      }
-    ],
-    "authors": [
-      {
-        "personName": "Nik Day"
-      }
-    ],
-    "composers": [
-      {
-        "personName": "Nik Day"
-      }
-    ],
-    "instrumentations": [
-      {
-        "name": "Voice"
-      }
-    ],
-    "musicalFeatures": [],
-    "recordingAvailable": true,
-    "sheetMusicAvailable": false,
-    "videoAvailable": false,
-    "tags": [
-      "love"
-    ],
-    "voicings": [],
-    "assets": [
-      {
-        "annotatedFields": {},
-        "assetType": "AUDIO_VOCAL",
-        "attributes": {},
-        "locatorIds": [],
-        "mediaObject": {
-          "annotatedFields": {},
-          "arranger": [],
-          "assetID": "eb26e81c276f216466619decf2e1004cb5ecbb92",
-          "attributes": {},
-          "composer": [],
-          "description": "“You’ll Never Run Out of Love” from 2014 Youth Album (English, 2014-01-01).",
-          "distributionUrl": "https://media2.ldscdn.org/assets/music/2014-youth-music-album/2014-12-006-youll-never-run-out-of-love-256k-eng.mp3",
-          "duration": 223000,
-          "isPartOf": [],
-          "keywords": [],
-          "$lastUpdatedDate": "Fri Jul 26 15:28:34 EDT 2024",
-          "locatorIds": [],
-          "lyricist": [],
-          "noindex": false,
-          "$id": "00000184-0ee5-d3a5-ab95-1fff8d860000",
-          "$lang": "eng",
-          "$model": "audio",
-          "$rootId": "00000184-0ee5-d3a5-ab95-1fff8d860000",
-          "$site": "music",
-          "performer": [],
-          "products": [],
-          "publicAltText": "“You’ll Never Run Out of Love” from 2014 Youth Album (English, 2014-01-01).",
-          "publicDownload": [
-            "PUBLIC"
-          ],
-          "$publishDate": "Tue Oct 25 07:27:15 EDT 2022",
-          "$publishStatus": "PUBLISHED",
-          "related": [],
-          "requiredAssets": [],
-          "sameAs": [],
-          "seoDescription": "“You’ll Never Run Out of Love” from 2014 Youth Album (English, 2014-01-01).",
-          "seoDescriptionAiGenerated": false,
-          "seoTitle": "You’ll Never Run Out of Love",
-          "seoTitleAiGenerated": false,
-          "shareableDescription": "“You’ll Never Run Out of Love” from 2014 Youth Album (English, 2014-01-01).",
-          "shareableTitle": "You’ll Never Run Out of Love",
-          "thumbnail": {
-            "annotatedFields": {},
-            "assetID": "5ac1d5da4b74ec6e731b8117a3615fe53f347539",
-            "attributes": {},
-            "description": "2020 Mutual Theme Music Album",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
-            "focalPoint": {
-              "x": "50.00%",
-              "y": "50.00%"
+            "shareableDescription": "“We Are One” from 2014 Youth Album (English, 2014-01-01).",
+            "shareableTitle": "We Are One",
+            "thumbnail": {
+              "annotatedFields": {},
+              "assetID": "5ac1d5da4b74ec6e731b8117a3615fe53f347539",
+              "attributes": {},
+              "description": "2020 Mutual Theme Music Album",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+              "focalPoint": {
+                "x": "50.00%",
+                "y": "50.00%"
+              },
+              "ipCode": "0 - IRI Owned",
+              "isPartOf": [],
+              "keywords": [],
+              "$lastUpdatedDate": "Mon May 19 18:56:37 EDT 2025",
+              "locatorIds": [],
+              "noindex": false,
+              "$id": "0000016e-f22e-d642-a77f-f72e2e080000",
+              "$lang": "eng",
+              "$model": "image",
+              "$rootId": "0000016e-f22e-d642-a77f-f72e2e080000",
+              "$site": "music",
+              "products": [],
+              "publicAltText": "Three abstract medium blue, light blue, and white rectangles decreasing in size and centered on a dark blue background.",
+              "publicDownload": [],
+              "$publishDate": "Tue Dec 10 18:39:03 EST 2019",
+              "$publishStatus": "PUBLISHED",
+              "related": [],
+              "renditions": [
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                  "height": 320,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                  "width": 320
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                  "height": 60,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                  "width": 60
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                  "height": 250,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                  "width": 250
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                  "height": 200,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                  "width": 200
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                  "height": 100,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                  "width": 100
+                }
+              ],
+              "requiredAssets": [],
+              "sameAs": [],
+              "seoDescription": "2020 Mutual Theme Music Album",
+              "seoDescriptionAiGenerated": false,
+              "seoTitle": "No Title",
+              "seoTitleAiGenerated": false,
+              "shareableDescription": "2020 Mutual Theme Music Album",
+              "shareableTitle": "No Title",
+              "title": "No Title"
             },
-            "ipCode": "0 - IRI Owned",
+            "title": "We Are One",
+            "translator": []
+          },
+          "$id": "00000196-c6d8-d455-a9f6-dedccc730000",
+          "$model": "assetPurpose",
+          "$rootId": "00000196-c6d8-d455-a9f6-dedccc730000",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    },
+    {
+      "title": "Wonderful People",
+      "slug": "wonderful-people",
+      "bookSlug": "come-unto-christ-2014-youth-album",
+      "bookSectionTitle": "Come Unto Christ: 2014 Youth Album",
+      "songNumber": "6",
+      "songDate": "2014-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Catelin Lundell"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "adversity",
+        "divine worth",
+        "joy"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_VOCAL",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "8148bee31f69e792c4a6c8877e14c3366f4fb1f6",
+            "attributes": {},
+            "composer": [],
+            "description": "“Wonderful People” from 2014 Youth Album (English, 2014-01-01).",
+            "distributionUrl": "https://media2.ldscdn.org/assets/music/2014-youth-music-album/2014-12-005-wonderful-people-256k-eng.mp3",
+            "duration": 198000,
             "isPartOf": [],
             "keywords": [],
-            "$lastUpdatedDate": "Mon May 19 18:56:37 EDT 2025",
+            "$lastUpdatedDate": "Fri Jul 26 15:28:28 EDT 2024",
             "locatorIds": [],
+            "lyricist": [],
             "noindex": false,
-            "$id": "0000016e-f22e-d642-a77f-f72e2e080000",
+            "$id": "00000184-0ee5-d3a5-ab95-1fff7b5d0000",
             "$lang": "eng",
-            "$model": "image",
-            "$rootId": "0000016e-f22e-d642-a77f-f72e2e080000",
+            "$model": "audio",
+            "$rootId": "00000184-0ee5-d3a5-ab95-1fff7b5d0000",
             "$site": "music",
+            "performer": [],
             "products": [],
-            "publicAltText": "Three abstract medium blue, light blue, and white rectangles decreasing in size and centered on a dark blue background.",
-            "publicDownload": [],
-            "$publishDate": "Tue Dec 10 18:39:03 EST 2019",
+            "publicAltText": "“Wonderful People” from 2014 Youth Album (English, 2014-01-01).",
+            "publicDownload": [
+              "PUBLIC"
+            ],
+            "$publishDate": "Tue Oct 25 07:27:11 EDT 2022",
             "$publishStatus": "PUBLISHED",
             "related": [],
-            "renditions": [
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                "height": 320,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                "width": 320
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                "height": 60,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                "width": 60
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                "height": 250,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                "width": 250
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                "height": 200,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                "width": 200
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                "height": 100,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                "width": 100
-              }
-            ],
             "requiredAssets": [],
             "sameAs": [],
-            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoDescription": "“Wonderful People” from 2014 Youth Album (English, 2014-01-01).",
             "seoDescriptionAiGenerated": false,
-            "seoTitle": "No Title",
+            "seoTitle": "Wonderful People",
             "seoTitleAiGenerated": false,
-            "shareableDescription": "2020 Mutual Theme Music Album",
-            "shareableTitle": "No Title",
-            "title": "No Title"
+            "shareableDescription": "“Wonderful People” from 2014 Youth Album (English, 2014-01-01).",
+            "shareableTitle": "Wonderful People",
+            "thumbnail": {
+              "annotatedFields": {},
+              "assetID": "5ac1d5da4b74ec6e731b8117a3615fe53f347539",
+              "attributes": {},
+              "description": "2020 Mutual Theme Music Album",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+              "focalPoint": {
+                "x": "50.00%",
+                "y": "50.00%"
+              },
+              "ipCode": "0 - IRI Owned",
+              "isPartOf": [],
+              "keywords": [],
+              "$lastUpdatedDate": "Mon May 19 18:56:37 EDT 2025",
+              "locatorIds": [],
+              "noindex": false,
+              "$id": "0000016e-f22e-d642-a77f-f72e2e080000",
+              "$lang": "eng",
+              "$model": "image",
+              "$rootId": "0000016e-f22e-d642-a77f-f72e2e080000",
+              "$site": "music",
+              "products": [],
+              "publicAltText": "Three abstract medium blue, light blue, and white rectangles decreasing in size and centered on a dark blue background.",
+              "publicDownload": [],
+              "$publishDate": "Tue Dec 10 18:39:03 EST 2019",
+              "$publishStatus": "PUBLISHED",
+              "related": [],
+              "renditions": [
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                  "height": 320,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                  "width": 320
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                  "height": 60,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                  "width": 60
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                  "height": 250,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                  "width": 250
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                  "height": 200,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                  "width": 200
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                  "height": 100,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                  "width": 100
+                }
+              ],
+              "requiredAssets": [],
+              "sameAs": [],
+              "seoDescription": "2020 Mutual Theme Music Album",
+              "seoDescriptionAiGenerated": false,
+              "seoTitle": "No Title",
+              "seoTitleAiGenerated": false,
+              "shareableDescription": "2020 Mutual Theme Music Album",
+              "shareableTitle": "No Title",
+              "title": "No Title"
+            },
+            "title": "Wonderful People",
+            "translator": []
           },
-          "title": "You’ll Never Run Out of Love",
-          "translator": []
-        },
-        "$id": "00000196-c6d8-d455-a9f6-dedcccd60000",
-        "$model": "assetPurpose",
-        "$rootId": "00000196-c6d8-d455-a9f6-dedcccd60000",
-        "$site": "music",
-        "$publishStatus": "PUBLISHED"
-      }
-    ]
-  }
-]
+          "$id": "00000196-c6d8-d455-a9f6-dedccca50000",
+          "$model": "assetPurpose",
+          "$rootId": "00000196-c6d8-d455-a9f6-dedccca50000",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    },
+    {
+      "title": "You’ll Never Run Out of Love",
+      "slug": "youll-never-run-out-of-love",
+      "bookSlug": "come-unto-christ-2014-youth-album",
+      "bookSectionTitle": "Come Unto Christ: 2014 Youth Album",
+      "songNumber": "7",
+      "songDate": "2014-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Anna Richey"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "love"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_VOCAL",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "eb26e81c276f216466619decf2e1004cb5ecbb92",
+            "attributes": {},
+            "composer": [],
+            "description": "“You’ll Never Run Out of Love” from 2014 Youth Album (English, 2014-01-01).",
+            "distributionUrl": "https://media2.ldscdn.org/assets/music/2014-youth-music-album/2014-12-006-youll-never-run-out-of-love-256k-eng.mp3",
+            "duration": 223000,
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Fri Jul 26 15:28:34 EDT 2024",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "00000184-0ee5-d3a5-ab95-1fff8d860000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "00000184-0ee5-d3a5-ab95-1fff8d860000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "“You’ll Never Run Out of Love” from 2014 Youth Album (English, 2014-01-01).",
+            "publicDownload": [
+              "PUBLIC"
+            ],
+            "$publishDate": "Tue Oct 25 07:27:15 EDT 2022",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "“You’ll Never Run Out of Love” from 2014 Youth Album (English, 2014-01-01).",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "You’ll Never Run Out of Love",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "“You’ll Never Run Out of Love” from 2014 Youth Album (English, 2014-01-01).",
+            "shareableTitle": "You’ll Never Run Out of Love",
+            "thumbnail": {
+              "annotatedFields": {},
+              "assetID": "5ac1d5da4b74ec6e731b8117a3615fe53f347539",
+              "attributes": {},
+              "description": "2020 Mutual Theme Music Album",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+              "focalPoint": {
+                "x": "50.00%",
+                "y": "50.00%"
+              },
+              "ipCode": "0 - IRI Owned",
+              "isPartOf": [],
+              "keywords": [],
+              "$lastUpdatedDate": "Mon May 19 18:56:37 EDT 2025",
+              "locatorIds": [],
+              "noindex": false,
+              "$id": "0000016e-f22e-d642-a77f-f72e2e080000",
+              "$lang": "eng",
+              "$model": "image",
+              "$rootId": "0000016e-f22e-d642-a77f-f72e2e080000",
+              "$site": "music",
+              "products": [],
+              "publicAltText": "Three abstract medium blue, light blue, and white rectangles decreasing in size and centered on a dark blue background.",
+              "publicDownload": [],
+              "$publishDate": "Tue Dec 10 18:39:03 EST 2019",
+              "$publishStatus": "PUBLISHED",
+              "related": [],
+              "renditions": [
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                  "height": 320,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                  "width": 320
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                  "height": 60,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                  "width": 60
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                  "height": 250,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                  "width": 250
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                  "height": 200,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                  "width": 200
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                  "height": 100,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                  "width": 100
+                }
+              ],
+              "requiredAssets": [],
+              "sameAs": [],
+              "seoDescription": "2020 Mutual Theme Music Album",
+              "seoDescriptionAiGenerated": false,
+              "seoTitle": "No Title",
+              "seoTitleAiGenerated": false,
+              "shareableDescription": "2020 Mutual Theme Music Album",
+              "shareableTitle": "No Title",
+              "title": "No Title"
+            },
+            "title": "You’ll Never Run Out of Love",
+            "translator": []
+          },
+          "$id": "00000196-c6d8-d455-a9f6-dedcccd60000",
+          "$model": "assetPurpose",
+          "$rootId": "00000196-c6d8-d455-a9f6-dedcccd60000",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    }
+  ],
+  "limit": 500,
+  "offset": 0,
+  "total": 7
+}

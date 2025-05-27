@@ -1,1127 +1,1132 @@
-[
-  {
-    "title": "I’ve Got to Find Out Who I Am",
-    "slug": "ive-got-to-find-out-who-i-am",
-    "bookSlug": "old-testament-seminary-video-songs",
-    "bookSectionTitle": "Old Testament Video Songs",
-    "songNumber": "1",
-    "songDate": "1991-01-01",
-    "arrangers": [
-      {
-        "personName": "Bill Evans"
-      }
-    ],
-    "artists": [
-      {
-        "personName": "Liz Draper"
-      }
-    ],
-    "authors": [
-      {
-        "personName": "Michael McLean"
-      }
-    ],
-    "composers": [
-      {
-        "personName": "William J. Evans"
-      }
-    ],
-    "instrumentations": [
-      {
-        "name": "Voice"
-      },
-      {
-        "name": "Guitar"
-      }
-    ],
-    "musicalFeatures": [],
-    "recordingAvailable": true,
-    "sheetMusicAvailable": true,
-    "videoAvailable": false,
-    "tags": [
-      "divine worth",
-      "learning"
-    ],
-    "voicings": [],
-    "assets": [
-      {
-        "annotatedFields": {},
-        "assetType": "AUDIO_VOCAL",
-        "attributes": {},
-        "locatorIds": [],
-        "mediaObject": {
-          "annotatedFields": {},
-          "arranger": [],
-          "assetID": "7d569853529cd3e5fc0c64523926bce1a00e4297",
-          "attributes": {},
-          "composer": [],
-          "description": "“I’ve Got to Find Out Who I Am” from Old Testament Seminary Video Songs (English, 1991-01-01).",
-          "distributionUrl": "https://broadcast2.lds.org/seminary-music/old-testament/2010-06-01-ive-got-to-find-out-who-128k-eng.mp3",
-          "duration": 181000,
-          "ipCode": "1 - Not IRI Owned",
-          "isPartOf": [],
-          "keywords": [],
-          "$lastUpdatedDate": "Fri Aug 02 12:26:12 EDT 2024",
-          "locatorIds": [],
-          "lyricist": [],
-          "noindex": false,
-          "$id": "00000184-0ed7-d3a5-ab95-1ffff5540000",
-          "$lang": "eng",
-          "$model": "audio",
-          "$rootId": "00000184-0ed7-d3a5-ab95-1ffff5540000",
-          "$site": "music",
-          "performer": [],
-          "products": [],
-          "publicAltText": "“I’ve Got to Find Out Who I Am” from Old Testament Seminary Video Songs (English, 1991-01-01).",
-          "publicDownload": [
-            "PUBLIC"
-          ],
-          "$publishDate": "Tue Oct 25 07:12:24 EDT 2022",
-          "$publishStatus": "PUBLISHED",
-          "related": [],
-          "reqCreditLine": "false",
-          "requiredAssets": [],
-          "sameAs": [],
-          "seoDescription": "“I’ve Got to Find Out Who I Am” from Old Testament Seminary Video Songs (English, 1991-01-01).",
-          "seoDescriptionAiGenerated": false,
-          "seoTitle": "I’ve Got to Find Out Who I Am",
-          "seoTitleAiGenerated": false,
-          "shareableDescription": "“I’ve Got to Find Out Who I Am” from Old Testament Seminary Video Songs (English, 1991-01-01).",
-          "shareableTitle": "I’ve Got to Find Out Who I Am",
-          "title": "I’ve Got to Find Out Who I Am",
-          "translator": []
+{
+  "data": [
+    {
+      "title": "I’ve Got to Find Out Who I Am",
+      "slug": "ive-got-to-find-out-who-i-am",
+      "bookSlug": "old-testament-seminary-video-songs",
+      "bookSectionTitle": "Old Testament Video Songs",
+      "songNumber": "1",
+      "songDate": "1991-01-01",
+      "arrangers": [
+        {
+          "personName": "Bill Evans"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Liz Draper"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Michael McLean"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "William J. Evans"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
         },
-        "$id": "00000196-c6d9-d455-a9f6-dedd66bd0000",
-        "$model": "assetPurpose",
-        "$rootId": "00000196-c6d9-d455-a9f6-dedd66bd0000",
-        "$site": "music",
-        "$publishStatus": "PUBLISHED"
-      }
-    ]
-  },
-  {
-    "title": "Marriage for Eternity",
-    "slug": "marriage-for-eternity-cardon",
-    "bookSlug": "old-testament-seminary-video-songs",
-    "bookSectionTitle": "Old Testament Video Songs",
-    "songNumber": "2",
-    "songDate": "1991-01-01",
-    "arrangers": [
-      {
-        "personName": "Sam Cardon"
-      }
-    ],
-    "artists": [
-      {
-        "personName": "Joel McCausland"
-      },
-      {
-        "personName": "Felicia Sorensen Wolfe"
-      }
-    ],
-    "authors": [
-      {
-        "personName": "Jill Johnson"
-      }
-    ],
-    "composers": [
-      {
-        "personName": "K. Newell Dayley"
-      }
-    ],
-    "instrumentations": [
-      {
-        "name": "Voice"
-      },
-      {
-        "name": "Piano"
-      }
-    ],
-    "musicalFeatures": [],
-    "recordingAvailable": true,
-    "sheetMusicAvailable": true,
-    "videoAvailable": false,
-    "tags": [
-      "covenants",
-      "eternal life",
-      "family",
-      "marriage",
-      "plan of salvation",
-      "teaching",
-      "temples"
-    ],
-    "voicings": [],
-    "assets": [
-      {
-        "annotatedFields": {},
-        "assetType": "AUDIO_ACCOMPANIMENT",
-        "attributes": {},
-        "locatorIds": [],
-        "mediaObject": {
+        {
+          "name": "Guitar"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "divine worth",
+        "learning"
+      ],
+      "voicings": [],
+      "assets": [
+        {
           "annotatedFields": {},
-          "arranger": [],
-          "assetID": "4c1a7218d52d41570d19be816cec20c5dbbc6464",
+          "assetType": "AUDIO_VOCAL",
           "attributes": {},
-          "composer": [],
-          "description": "“Marriage for Eternity” from Old Testament Seminary Video Songs (English, 1991-01-01).",
-          "distributionUrl": "https://broadcast2.lds.org/seminary-music/old-testament/2010-06-09-marriage-for-eternity-music-only-128k-eng.mp3",
-          "duration": 238000,
-          "ipCode": "4 - IRI licensed",
-          "isPartOf": [],
-          "keywords": [],
-          "$lastUpdatedDate": "Fri Aug 02 12:26:06 EDT 2024",
           "locatorIds": [],
-          "lyricist": [],
-          "noindex": false,
-          "$id": "00000184-0ed8-d3a5-ab95-1ffa1e3f0000",
-          "$lang": "eng",
-          "$model": "audio",
-          "$rootId": "00000184-0ed8-d3a5-ab95-1ffa1e3f0000",
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "7d569853529cd3e5fc0c64523926bce1a00e4297",
+            "attributes": {},
+            "composer": [],
+            "description": "“I’ve Got to Find Out Who I Am” from Old Testament Seminary Video Songs (English, 1991-01-01).",
+            "distributionUrl": "https://broadcast2.lds.org/seminary-music/old-testament/2010-06-01-ive-got-to-find-out-who-128k-eng.mp3",
+            "duration": 181000,
+            "ipCode": "1 - Not IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Fri Aug 02 12:26:12 EDT 2024",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "00000184-0ed7-d3a5-ab95-1ffff5540000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "00000184-0ed7-d3a5-ab95-1ffff5540000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "“I’ve Got to Find Out Who I Am” from Old Testament Seminary Video Songs (English, 1991-01-01).",
+            "publicDownload": [
+              "PUBLIC"
+            ],
+            "$publishDate": "Tue Oct 25 07:12:24 EDT 2022",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "“I’ve Got to Find Out Who I Am” from Old Testament Seminary Video Songs (English, 1991-01-01).",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "I’ve Got to Find Out Who I Am",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "“I’ve Got to Find Out Who I Am” from Old Testament Seminary Video Songs (English, 1991-01-01).",
+            "shareableTitle": "I’ve Got to Find Out Who I Am",
+            "title": "I’ve Got to Find Out Who I Am",
+            "translator": []
+          },
+          "$id": "00000196-c6d9-d455-a9f6-dedd66bd0000",
+          "$model": "assetPurpose",
+          "$rootId": "00000196-c6d9-d455-a9f6-dedd66bd0000",
           "$site": "music",
-          "performer": [],
-          "products": [],
-          "publicAltText": "“Marriage for Eternity” from Old Testament Seminary Video Songs (English, 1991-01-01).",
-          "publicDownload": [
-            "PUBLIC"
-          ],
-          "$publishDate": "Tue Oct 25 07:12:35 EDT 2022",
-          "$publishStatus": "PUBLISHED",
-          "related": [],
-          "reqCreditLine": "false",
-          "requiredAssets": [],
-          "sameAs": [],
-          "seoDescription": "“Marriage for Eternity” from Old Testament Seminary Video Songs (English, 1991-01-01).",
-          "seoDescriptionAiGenerated": false,
-          "seoTitle": "Marriage for Eternity",
-          "seoTitleAiGenerated": false,
-          "shareableDescription": "“Marriage for Eternity” from Old Testament Seminary Video Songs (English, 1991-01-01).",
-          "shareableTitle": "Marriage for Eternity",
-          "title": "Marriage for Eternity",
-          "translator": []
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    },
+    {
+      "title": "Marriage for Eternity",
+      "slug": "marriage-for-eternity-cardon",
+      "bookSlug": "old-testament-seminary-video-songs",
+      "bookSectionTitle": "Old Testament Video Songs",
+      "songNumber": "2",
+      "songDate": "1991-01-01",
+      "arrangers": [
+        {
+          "personName": "Sam Cardon"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Joel McCausland"
         },
-        "$id": "00000196-c6d9-d455-a9f6-dedd66e40000",
-        "$model": "assetPurpose",
-        "$rootId": "00000196-c6d9-d455-a9f6-dedd66e40000",
-        "$site": "music",
-        "$publishStatus": "PUBLISHED"
-      },
-      {
-        "annotatedFields": {},
-        "assetType": "AUDIO_VOCAL",
-        "attributes": {},
-        "locatorIds": [],
-        "mediaObject": {
+        {
+          "personName": "Felicia Sorensen Wolfe"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Jill Johnson"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "K. Newell Dayley"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "covenants",
+        "eternal life",
+        "family",
+        "marriage",
+        "plan of salvation",
+        "teaching",
+        "temples"
+      ],
+      "voicings": [],
+      "assets": [
+        {
           "annotatedFields": {},
-          "arranger": [],
-          "assetID": "d29da5baf956cf126d613fd9d6eb11bf2e7f05ad",
+          "assetType": "AUDIO_ACCOMPANIMENT",
           "attributes": {},
-          "composer": [],
-          "description": "“Marriage for Eternity” from Old Testament Seminary Video Songs (English, 1991-01-01).",
-          "distributionUrl": "https://broadcast2.lds.org/seminary-music/old-testament/2010-06-02-marriage-for-eternity-128k-eng.mp3",
-          "duration": 238000,
-          "ipCode": "4 - IRI licensed",
-          "isPartOf": [],
-          "keywords": [],
-          "$lastUpdatedDate": "Fri Aug 02 12:26:09 EDT 2024",
           "locatorIds": [],
-          "lyricist": [],
-          "noindex": false,
-          "$id": "00000184-0ed7-d3a5-ab95-1ffffaa40000",
-          "$lang": "eng",
-          "$model": "audio",
-          "$rootId": "00000184-0ed7-d3a5-ab95-1ffffaa40000",
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "4c1a7218d52d41570d19be816cec20c5dbbc6464",
+            "attributes": {},
+            "composer": [],
+            "description": "“Marriage for Eternity” from Old Testament Seminary Video Songs (English, 1991-01-01).",
+            "distributionUrl": "https://broadcast2.lds.org/seminary-music/old-testament/2010-06-09-marriage-for-eternity-music-only-128k-eng.mp3",
+            "duration": 238000,
+            "ipCode": "4 - IRI licensed",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Fri Aug 02 12:26:06 EDT 2024",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "00000184-0ed8-d3a5-ab95-1ffa1e3f0000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "00000184-0ed8-d3a5-ab95-1ffa1e3f0000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "“Marriage for Eternity” from Old Testament Seminary Video Songs (English, 1991-01-01).",
+            "publicDownload": [
+              "PUBLIC"
+            ],
+            "$publishDate": "Tue Oct 25 07:12:35 EDT 2022",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "“Marriage for Eternity” from Old Testament Seminary Video Songs (English, 1991-01-01).",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Marriage for Eternity",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "“Marriage for Eternity” from Old Testament Seminary Video Songs (English, 1991-01-01).",
+            "shareableTitle": "Marriage for Eternity",
+            "title": "Marriage for Eternity",
+            "translator": []
+          },
+          "$id": "00000196-c6d9-d455-a9f6-dedd66e40000",
+          "$model": "assetPurpose",
+          "$rootId": "00000196-c6d9-d455-a9f6-dedd66e40000",
           "$site": "music",
-          "performer": [],
-          "products": [],
-          "publicAltText": "“Marriage for Eternity” from Old Testament Seminary Video Songs (English, 1991-01-01).",
-          "publicDownload": [
-            "PUBLIC"
-          ],
-          "$publishDate": "Tue Oct 25 07:12:26 EDT 2022",
-          "$publishStatus": "PUBLISHED",
-          "related": [],
-          "reqCreditLine": "false",
-          "requiredAssets": [],
-          "sameAs": [],
-          "seoDescription": "“Marriage for Eternity” from Old Testament Seminary Video Songs (English, 1991-01-01).",
-          "seoDescriptionAiGenerated": false,
-          "seoTitle": "Marriage for Eternity",
-          "seoTitleAiGenerated": false,
-          "shareableDescription": "“Marriage for Eternity” from Old Testament Seminary Video Songs (English, 1991-01-01).",
-          "shareableTitle": "Marriage for Eternity",
-          "title": "Marriage for Eternity",
-          "translator": []
+          "$publishStatus": "PUBLISHED"
         },
-        "$id": "00000196-c6d9-d455-a9f6-dedd66e40001",
-        "$model": "assetPurpose",
-        "$rootId": "00000196-c6d9-d455-a9f6-dedd66e40001",
-        "$site": "music",
-        "$publishStatus": "PUBLISHED"
-      }
-    ]
-  },
-  {
-    "title": "Our Father’s Plan",
-    "slug": "our-fathers-plan",
-    "bookSlug": "old-testament-seminary-video-songs",
-    "bookSectionTitle": "Old Testament Video Songs",
-    "songNumber": "3",
-    "songDate": "1991-01-01",
-    "arrangers": [
-      {
-        "personName": "Sam Cardon"
-      }
-    ],
-    "artists": [
-      {
-        "personName": "John Canaan"
-      }
-    ],
-    "authors": [
-      {
-        "personName": "Steven K. Jones"
-      }
-    ],
-    "composers": [
-      {
-        "personName": "Sam Cardon"
-      }
-    ],
-    "instrumentations": [
-      {
-        "name": "Voice"
-      },
-      {
-        "name": "Piano"
-      }
-    ],
-    "musicalFeatures": [],
-    "recordingAvailable": true,
-    "sheetMusicAvailable": true,
-    "videoAvailable": false,
-    "tags": [
-      "eternal life",
-      "faith",
-      "plan of salvation"
-    ],
-    "voicings": [],
-    "assets": [
-      {
-        "annotatedFields": {},
-        "assetType": "AUDIO_ACCOMPANIMENT",
-        "attributes": {},
-        "locatorIds": [],
-        "mediaObject": {
+        {
           "annotatedFields": {},
-          "arranger": [],
-          "assetID": "9b60e3d5c45446b7e0933998b065a3a43539a70f",
+          "assetType": "AUDIO_VOCAL",
           "attributes": {},
-          "composer": [],
-          "description": "“Our Father’s Plan” from Old Testament Seminary Video Songs (English, 1991-01-01).",
-          "distributionUrl": "https://broadcast2.lds.org/seminary-music/old-testament/2010-06-10-our-fathers-plan-music-only-128k-eng.mp3",
-          "duration": 219000,
-          "ipCode": "0 - IRI Owned",
-          "isPartOf": [],
-          "keywords": [],
-          "$lastUpdatedDate": "Fri Aug 02 12:26:07 EDT 2024",
           "locatorIds": [],
-          "lyricist": [],
-          "noindex": false,
-          "$id": "00000184-0ed8-d3a5-ab95-1ffa20070000",
-          "$lang": "eng",
-          "$model": "audio",
-          "$rootId": "00000184-0ed8-d3a5-ab95-1ffa20070000",
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "d29da5baf956cf126d613fd9d6eb11bf2e7f05ad",
+            "attributes": {},
+            "composer": [],
+            "description": "“Marriage for Eternity” from Old Testament Seminary Video Songs (English, 1991-01-01).",
+            "distributionUrl": "https://broadcast2.lds.org/seminary-music/old-testament/2010-06-02-marriage-for-eternity-128k-eng.mp3",
+            "duration": 238000,
+            "ipCode": "4 - IRI licensed",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Fri Aug 02 12:26:09 EDT 2024",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "00000184-0ed7-d3a5-ab95-1ffffaa40000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "00000184-0ed7-d3a5-ab95-1ffffaa40000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "“Marriage for Eternity” from Old Testament Seminary Video Songs (English, 1991-01-01).",
+            "publicDownload": [
+              "PUBLIC"
+            ],
+            "$publishDate": "Tue Oct 25 07:12:26 EDT 2022",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "“Marriage for Eternity” from Old Testament Seminary Video Songs (English, 1991-01-01).",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Marriage for Eternity",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "“Marriage for Eternity” from Old Testament Seminary Video Songs (English, 1991-01-01).",
+            "shareableTitle": "Marriage for Eternity",
+            "title": "Marriage for Eternity",
+            "translator": []
+          },
+          "$id": "00000196-c6d9-d455-a9f6-dedd66e40001",
+          "$model": "assetPurpose",
+          "$rootId": "00000196-c6d9-d455-a9f6-dedd66e40001",
           "$site": "music",
-          "performer": [],
-          "products": [],
-          "publicAltText": "“Our Father’s Plan” from Old Testament Seminary Video Songs (English, 1991-01-01).",
-          "publicDownload": [
-            "PUBLIC"
-          ],
-          "$publishDate": "Tue Oct 25 07:12:35 EDT 2022",
-          "$publishStatus": "PUBLISHED",
-          "related": [],
-          "reqCreditLine": "false",
-          "requiredAssets": [],
-          "sameAs": [],
-          "seoDescription": "“Our Father’s Plan” from Old Testament Seminary Video Songs (English, 1991-01-01).",
-          "seoDescriptionAiGenerated": false,
-          "seoTitle": "Our Father’s Plan",
-          "seoTitleAiGenerated": false,
-          "shareableDescription": "“Our Father’s Plan” from Old Testament Seminary Video Songs (English, 1991-01-01).",
-          "shareableTitle": "Our Father’s Plan",
-          "title": "Our Father’s Plan",
-          "translator": []
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    },
+    {
+      "title": "Our Father’s Plan",
+      "slug": "our-fathers-plan",
+      "bookSlug": "old-testament-seminary-video-songs",
+      "bookSectionTitle": "Old Testament Video Songs",
+      "songNumber": "3",
+      "songDate": "1991-01-01",
+      "arrangers": [
+        {
+          "personName": "Sam Cardon"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "John Canaan"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Steven K. Jones"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Sam Cardon"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
         },
-        "$id": "00000196-c6d9-d455-a9f6-dedd67050000",
-        "$model": "assetPurpose",
-        "$rootId": "00000196-c6d9-d455-a9f6-dedd67050000",
-        "$site": "music",
-        "$publishStatus": "PUBLISHED"
-      },
-      {
-        "annotatedFields": {},
-        "assetType": "AUDIO_VOCAL",
-        "attributes": {},
-        "locatorIds": [],
-        "mediaObject": {
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "eternal life",
+        "faith",
+        "plan of salvation"
+      ],
+      "voicings": [],
+      "assets": [
+        {
           "annotatedFields": {},
-          "arranger": [],
-          "assetID": "571207ff81e07efd06f6ffe6f43b7d2d4fca1bef",
+          "assetType": "AUDIO_ACCOMPANIMENT",
           "attributes": {},
-          "composer": [],
-          "description": "“Our Father’s Plan” from Old Testament Seminary Video Songs (English, 1991-01-01).",
-          "distributionUrl": "https://broadcast2.lds.org/seminary-music/old-testament/2010-06-03-our-fathers-plan-128k-eng.mp3",
-          "duration": 221000,
-          "ipCode": "0 - IRI Owned",
-          "isPartOf": [],
-          "keywords": [],
-          "$lastUpdatedDate": "Fri Aug 02 12:26:08 EDT 2024",
           "locatorIds": [],
-          "lyricist": [],
-          "noindex": false,
-          "$id": "0000018a-0994-d1d6-afbf-6d970ea50000",
-          "$lang": "eng",
-          "$model": "audio",
-          "$rootId": "0000018a-0994-d1d6-afbf-6d970ea50000",
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "9b60e3d5c45446b7e0933998b065a3a43539a70f",
+            "attributes": {},
+            "composer": [],
+            "description": "“Our Father’s Plan” from Old Testament Seminary Video Songs (English, 1991-01-01).",
+            "distributionUrl": "https://broadcast2.lds.org/seminary-music/old-testament/2010-06-10-our-fathers-plan-music-only-128k-eng.mp3",
+            "duration": 219000,
+            "ipCode": "0 - IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Fri Aug 02 12:26:07 EDT 2024",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "00000184-0ed8-d3a5-ab95-1ffa20070000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "00000184-0ed8-d3a5-ab95-1ffa20070000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "“Our Father’s Plan” from Old Testament Seminary Video Songs (English, 1991-01-01).",
+            "publicDownload": [
+              "PUBLIC"
+            ],
+            "$publishDate": "Tue Oct 25 07:12:35 EDT 2022",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "“Our Father’s Plan” from Old Testament Seminary Video Songs (English, 1991-01-01).",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Our Father’s Plan",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "“Our Father’s Plan” from Old Testament Seminary Video Songs (English, 1991-01-01).",
+            "shareableTitle": "Our Father’s Plan",
+            "title": "Our Father’s Plan",
+            "translator": []
+          },
+          "$id": "00000196-c6d9-d455-a9f6-dedd67050000",
+          "$model": "assetPurpose",
+          "$rootId": "00000196-c6d9-d455-a9f6-dedd67050000",
           "$site": "music",
-          "performer": [],
-          "products": [],
-          "publicAltText": "“Our Father’s Plan” from Old Testament Seminary Video Songs (English, 1991-01-01).",
-          "publicDownload": [
-            "PUBLIC"
-          ],
-          "$publishDate": "Fri Aug 18 12:56:52 EDT 2023",
-          "$publishStatus": "PUBLISHED",
-          "related": [],
-          "reqCreditLine": "false",
-          "requiredAssets": [],
-          "sameAs": [],
-          "seoDescription": "“Our Father’s Plan” from Old Testament Seminary Video Songs (English, 1991-01-01).",
-          "seoDescriptionAiGenerated": false,
-          "seoTitle": "Our Father’s Plan",
-          "seoTitleAiGenerated": false,
-          "shareableDescription": "“Our Father’s Plan” from Old Testament Seminary Video Songs (English, 1991-01-01).",
-          "shareableTitle": "Our Father’s Plan",
-          "title": "Our Father’s Plan",
-          "translator": []
+          "$publishStatus": "PUBLISHED"
         },
-        "$id": "00000196-c6d9-d455-a9f6-dedd67050001",
-        "$model": "assetPurpose",
-        "$rootId": "00000196-c6d9-d455-a9f6-dedd67050001",
-        "$site": "music",
-        "$publishStatus": "PUBLISHED"
-      }
-    ]
-  },
-  {
-    "title": "I’ll Trust in the Lord",
-    "slug": "ill-trust-in-the-lord",
-    "bookSlug": "old-testament-seminary-video-songs",
-    "bookSectionTitle": "Old Testament Video Songs",
-    "songNumber": "4",
-    "songDate": "1991-01-01",
-    "arrangers": [
-      {
-        "personName": "Sam Cardon"
-      }
-    ],
-    "artists": [
-      {
-        "personName": "Felicia Sorensen Wolfe"
-      }
-    ],
-    "authors": [
-      {
-        "personName": "Gerald N. Lund"
-      }
-    ],
-    "composers": [
-      {
-        "personName": "Lynn S. Lund"
-      }
-    ],
-    "instrumentations": [
-      {
-        "name": "Voice"
-      },
-      {
-        "name": "Piano"
-      }
-    ],
-    "musicalFeatures": [],
-    "recordingAvailable": true,
-    "sheetMusicAvailable": true,
-    "videoAvailable": false,
-    "tags": [
-      "Holy Ghost",
-      "agency",
-      "faith",
-      "guidance",
-      "hope",
-      "prophets",
-      "scriptures"
-    ],
-    "voicings": [],
-    "assets": [
-      {
-        "annotatedFields": {},
-        "assetType": "AUDIO_ACCOMPANIMENT",
-        "attributes": {},
-        "locatorIds": [],
-        "mediaObject": {
+        {
           "annotatedFields": {},
-          "arranger": [],
-          "assetID": "e8378447d51b5ff7aa5302dad92a128ff37bed84",
+          "assetType": "AUDIO_VOCAL",
           "attributes": {},
-          "composer": [],
-          "description": "“I’ll Trust in the Lord” from Old Testament Seminary Video Songs (English, 1991-01-01).",
-          "distributionUrl": "https://broadcast2.lds.org/seminary-music/old-testament/2010-06-11-ill-trust-in-the-Lord-music-only-128k-eng.mp3",
-          "duration": 214000,
-          "ipCode": "4 - IRI licensed",
-          "isPartOf": [],
-          "keywords": [],
-          "$lastUpdatedDate": "Fri Aug 02 12:26:11 EDT 2024",
           "locatorIds": [],
-          "lyricist": [],
-          "noindex": false,
-          "$id": "00000184-0ed8-d3a5-ab95-1ffa2ac90000",
-          "$lang": "eng",
-          "$model": "audio",
-          "$rootId": "00000184-0ed8-d3a5-ab95-1ffa2ac90000",
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "571207ff81e07efd06f6ffe6f43b7d2d4fca1bef",
+            "attributes": {},
+            "composer": [],
+            "description": "“Our Father’s Plan” from Old Testament Seminary Video Songs (English, 1991-01-01).",
+            "distributionUrl": "https://broadcast2.lds.org/seminary-music/old-testament/2010-06-03-our-fathers-plan-128k-eng.mp3",
+            "duration": 221000,
+            "ipCode": "0 - IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Fri Aug 02 12:26:08 EDT 2024",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "0000018a-0994-d1d6-afbf-6d970ea50000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "0000018a-0994-d1d6-afbf-6d970ea50000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "“Our Father’s Plan” from Old Testament Seminary Video Songs (English, 1991-01-01).",
+            "publicDownload": [
+              "PUBLIC"
+            ],
+            "$publishDate": "Fri Aug 18 12:56:52 EDT 2023",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "“Our Father’s Plan” from Old Testament Seminary Video Songs (English, 1991-01-01).",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Our Father’s Plan",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "“Our Father’s Plan” from Old Testament Seminary Video Songs (English, 1991-01-01).",
+            "shareableTitle": "Our Father’s Plan",
+            "title": "Our Father’s Plan",
+            "translator": []
+          },
+          "$id": "00000196-c6d9-d455-a9f6-dedd67050001",
+          "$model": "assetPurpose",
+          "$rootId": "00000196-c6d9-d455-a9f6-dedd67050001",
           "$site": "music",
-          "performer": [],
-          "products": [],
-          "publicAltText": "“I’ll Trust in the Lord” from Old Testament Seminary Video Songs (English, 1991-01-01).",
-          "publicDownload": [
-            "PUBLIC"
-          ],
-          "$publishDate": "Tue Oct 25 07:12:38 EDT 2022",
-          "$publishStatus": "PUBLISHED",
-          "related": [],
-          "reqCreditLine": "false",
-          "requiredAssets": [],
-          "sameAs": [],
-          "seoDescription": "“I’ll Trust in the Lord” from Old Testament Seminary Video Songs (English, 1991-01-01).",
-          "seoDescriptionAiGenerated": false,
-          "seoTitle": "I’ll Trust in the Lord",
-          "seoTitleAiGenerated": false,
-          "shareableDescription": "“I’ll Trust in the Lord” from Old Testament Seminary Video Songs (English, 1991-01-01).",
-          "shareableTitle": "I’ll Trust in the Lord",
-          "title": "I’ll Trust in the Lord",
-          "translator": []
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    },
+    {
+      "title": "I’ll Trust in the Lord",
+      "slug": "ill-trust-in-the-lord",
+      "bookSlug": "old-testament-seminary-video-songs",
+      "bookSectionTitle": "Old Testament Video Songs",
+      "songNumber": "4",
+      "songDate": "1991-01-01",
+      "arrangers": [
+        {
+          "personName": "Sam Cardon"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Felicia Sorensen Wolfe"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Gerald N. Lund"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Lynn S. Lund"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
         },
-        "$id": "00000196-c6d9-d455-a9f6-dedd67250000",
-        "$model": "assetPurpose",
-        "$rootId": "00000196-c6d9-d455-a9f6-dedd67250000",
-        "$site": "music",
-        "$publishStatus": "PUBLISHED"
-      },
-      {
-        "annotatedFields": {},
-        "assetType": "AUDIO_VOCAL",
-        "attributes": {},
-        "locatorIds": [],
-        "mediaObject": {
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Holy Ghost",
+        "agency",
+        "faith",
+        "guidance",
+        "hope",
+        "prophets",
+        "scriptures"
+      ],
+      "voicings": [],
+      "assets": [
+        {
           "annotatedFields": {},
-          "arranger": [],
-          "assetID": "cb6d098e9dfd386fafc65a9cb17b158078da3866",
+          "assetType": "AUDIO_ACCOMPANIMENT",
           "attributes": {},
-          "composer": [],
-          "description": "“I’ll Trust in the Lord” from Old Testament Seminary Video Songs (English, 1991-01-01).",
-          "distributionUrl": "https://broadcast2.lds.org/seminary-music/old-testament/2010-06-04-ill-trust-in-the-lord-128k-eng.mp3",
-          "duration": 213000,
-          "ipCode": "4 - IRI licensed",
-          "isPartOf": [],
-          "keywords": [],
-          "$lastUpdatedDate": "Fri Aug 02 12:26:10 EDT 2024",
           "locatorIds": [],
-          "lyricist": [],
-          "noindex": false,
-          "$id": "00000184-0ed7-d3a5-ab95-1ffff7180000",
-          "$lang": "eng",
-          "$model": "audio",
-          "$rootId": "00000184-0ed7-d3a5-ab95-1ffff7180000",
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "e8378447d51b5ff7aa5302dad92a128ff37bed84",
+            "attributes": {},
+            "composer": [],
+            "description": "“I’ll Trust in the Lord” from Old Testament Seminary Video Songs (English, 1991-01-01).",
+            "distributionUrl": "https://broadcast2.lds.org/seminary-music/old-testament/2010-06-11-ill-trust-in-the-Lord-music-only-128k-eng.mp3",
+            "duration": 214000,
+            "ipCode": "4 - IRI licensed",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Fri Aug 02 12:26:11 EDT 2024",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "00000184-0ed8-d3a5-ab95-1ffa2ac90000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "00000184-0ed8-d3a5-ab95-1ffa2ac90000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "“I’ll Trust in the Lord” from Old Testament Seminary Video Songs (English, 1991-01-01).",
+            "publicDownload": [
+              "PUBLIC"
+            ],
+            "$publishDate": "Tue Oct 25 07:12:38 EDT 2022",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "“I’ll Trust in the Lord” from Old Testament Seminary Video Songs (English, 1991-01-01).",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "I’ll Trust in the Lord",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "“I’ll Trust in the Lord” from Old Testament Seminary Video Songs (English, 1991-01-01).",
+            "shareableTitle": "I’ll Trust in the Lord",
+            "title": "I’ll Trust in the Lord",
+            "translator": []
+          },
+          "$id": "00000196-c6d9-d455-a9f6-dedd67250000",
+          "$model": "assetPurpose",
+          "$rootId": "00000196-c6d9-d455-a9f6-dedd67250000",
           "$site": "music",
-          "performer": [],
-          "products": [],
-          "publicAltText": "“I’ll Trust in the Lord” from Old Testament Seminary Video Songs (English, 1991-01-01).",
-          "publicDownload": [
-            "PUBLIC"
-          ],
-          "$publishDate": "Tue Oct 25 07:12:25 EDT 2022",
-          "$publishStatus": "PUBLISHED",
-          "related": [],
-          "reqCreditLine": "false",
-          "requiredAssets": [],
-          "sameAs": [],
-          "seoDescription": "“I’ll Trust in the Lord” from Old Testament Seminary Video Songs (English, 1991-01-01).",
-          "seoDescriptionAiGenerated": false,
-          "seoTitle": "I’ll Trust in the Lord",
-          "seoTitleAiGenerated": false,
-          "shareableDescription": "“I’ll Trust in the Lord” from Old Testament Seminary Video Songs (English, 1991-01-01).",
-          "shareableTitle": "I’ll Trust in the Lord",
-          "title": "I’ll Trust in the Lord",
-          "translator": []
+          "$publishStatus": "PUBLISHED"
         },
-        "$id": "00000196-c6d9-d455-a9f6-dedd67250001",
-        "$model": "assetPurpose",
-        "$rootId": "00000196-c6d9-d455-a9f6-dedd67250001",
-        "$site": "music",
-        "$publishStatus": "PUBLISHED"
-      }
-    ]
-  },
-  {
-    "title": "Today",
-    "slug": "today",
-    "bookSlug": "old-testament-seminary-video-songs",
-    "bookSectionTitle": "Old Testament Video Songs",
-    "songNumber": "5",
-    "songDate": "1991-01-01",
-    "arrangers": [
-      {
-        "personName": "Sam Cardon"
-      }
-    ],
-    "artists": [
-      {
-        "personName": "Liz Draper"
-      }
-    ],
-    "authors": [
-      {
-        "personName": "Steven K. Jones"
-      }
-    ],
-    "composers": [
-      {
-        "personName": "Sam Cardon"
-      }
-    ],
-    "instrumentations": [
-      {
-        "name": "Voice"
-      },
-      {
-        "name": "Piano"
-      }
-    ],
-    "musicalFeatures": [],
-    "recordingAvailable": true,
-    "sheetMusicAvailable": true,
-    "videoAvailable": false,
-    "tags": [
-      "Second Coming",
-      "commitment",
-      "love",
-      "obedience",
-      "preparation",
-      "sharing"
-    ],
-    "voicings": [],
-    "assets": [
-      {
-        "annotatedFields": {},
-        "assetType": "AUDIO_ACCOMPANIMENT",
-        "attributes": {},
-        "locatorIds": [],
-        "mediaObject": {
+        {
           "annotatedFields": {},
-          "arranger": [],
-          "assetID": "5e7fbff0c384db9b79ac78a1a9b734aa16f7df8e",
+          "assetType": "AUDIO_VOCAL",
           "attributes": {},
-          "composer": [],
-          "description": "“Today” from Old Testament Seminary Video Songs (English, 1991-01-01).",
-          "distributionUrl": "https://broadcast2.lds.org/seminary-music/old-testament/2010-06-12-Today-music-only-128k-eng.mp3",
-          "duration": 165000,
-          "ipCode": "0 - IRI Owned",
-          "isPartOf": [],
-          "keywords": [],
-          "$lastUpdatedDate": "Fri Aug 02 12:26:06 EDT 2024",
           "locatorIds": [],
-          "lyricist": [],
-          "noindex": false,
-          "$id": "00000184-0ed8-d3a5-ab95-1ffa239b0000",
-          "$lang": "eng",
-          "$model": "audio",
-          "$rootId": "00000184-0ed8-d3a5-ab95-1ffa239b0000",
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "cb6d098e9dfd386fafc65a9cb17b158078da3866",
+            "attributes": {},
+            "composer": [],
+            "description": "“I’ll Trust in the Lord” from Old Testament Seminary Video Songs (English, 1991-01-01).",
+            "distributionUrl": "https://broadcast2.lds.org/seminary-music/old-testament/2010-06-04-ill-trust-in-the-lord-128k-eng.mp3",
+            "duration": 213000,
+            "ipCode": "4 - IRI licensed",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Fri Aug 02 12:26:10 EDT 2024",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "00000184-0ed7-d3a5-ab95-1ffff7180000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "00000184-0ed7-d3a5-ab95-1ffff7180000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "“I’ll Trust in the Lord” from Old Testament Seminary Video Songs (English, 1991-01-01).",
+            "publicDownload": [
+              "PUBLIC"
+            ],
+            "$publishDate": "Tue Oct 25 07:12:25 EDT 2022",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "“I’ll Trust in the Lord” from Old Testament Seminary Video Songs (English, 1991-01-01).",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "I’ll Trust in the Lord",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "“I’ll Trust in the Lord” from Old Testament Seminary Video Songs (English, 1991-01-01).",
+            "shareableTitle": "I’ll Trust in the Lord",
+            "title": "I’ll Trust in the Lord",
+            "translator": []
+          },
+          "$id": "00000196-c6d9-d455-a9f6-dedd67250001",
+          "$model": "assetPurpose",
+          "$rootId": "00000196-c6d9-d455-a9f6-dedd67250001",
           "$site": "music",
-          "performer": [],
-          "products": [],
-          "publicAltText": "“Today” from Old Testament Seminary Video Songs (English, 1991-01-01).",
-          "publicDownload": [
-            "PUBLIC"
-          ],
-          "$publishDate": "Tue Oct 25 07:12:36 EDT 2022",
-          "$publishStatus": "PUBLISHED",
-          "related": [],
-          "reqCreditLine": "false",
-          "requiredAssets": [],
-          "sameAs": [],
-          "seoDescription": "“Today” from Old Testament Seminary Video Songs (English, 1991-01-01).",
-          "seoDescriptionAiGenerated": false,
-          "seoTitle": "Today",
-          "seoTitleAiGenerated": false,
-          "shareableDescription": "“Today” from Old Testament Seminary Video Songs (English, 1991-01-01).",
-          "shareableTitle": "Today",
-          "title": "Today",
-          "translator": []
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    },
+    {
+      "title": "Today",
+      "slug": "today",
+      "bookSlug": "old-testament-seminary-video-songs",
+      "bookSectionTitle": "Old Testament Video Songs",
+      "songNumber": "5",
+      "songDate": "1991-01-01",
+      "arrangers": [
+        {
+          "personName": "Sam Cardon"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Liz Draper"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Steven K. Jones"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Sam Cardon"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
         },
-        "$id": "00000196-c6d9-d455-a9f6-dedd67460000",
-        "$model": "assetPurpose",
-        "$rootId": "00000196-c6d9-d455-a9f6-dedd67460000",
-        "$site": "music",
-        "$publishStatus": "PUBLISHED"
-      },
-      {
-        "annotatedFields": {},
-        "assetType": "AUDIO_VOCAL",
-        "attributes": {},
-        "locatorIds": [],
-        "mediaObject": {
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Second Coming",
+        "commitment",
+        "love",
+        "obedience",
+        "preparation",
+        "sharing"
+      ],
+      "voicings": [],
+      "assets": [
+        {
           "annotatedFields": {},
-          "arranger": [],
-          "assetID": "ad0e34997b5087a43d3cc3fdacb877bc822d018f",
+          "assetType": "AUDIO_ACCOMPANIMENT",
           "attributes": {},
-          "composer": [],
-          "description": "“Today” from Old Testament Seminary Video Songs (English, 1991-01-01).",
-          "distributionUrl": "https://broadcast2.lds.org/seminary-music/old-testament/2010-06-05-today-128k-eng.mp3",
-          "duration": 165000,
-          "ipCode": "0 - IRI Owned",
-          "isPartOf": [],
-          "keywords": [],
-          "$lastUpdatedDate": "Fri Aug 02 12:26:06 EDT 2024",
           "locatorIds": [],
-          "lyricist": [],
-          "noindex": false,
-          "$id": "00000184-0ed7-d3a5-ab95-1ffff3950000",
-          "$lang": "eng",
-          "$model": "audio",
-          "$rootId": "00000184-0ed7-d3a5-ab95-1ffff3950000",
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "5e7fbff0c384db9b79ac78a1a9b734aa16f7df8e",
+            "attributes": {},
+            "composer": [],
+            "description": "“Today” from Old Testament Seminary Video Songs (English, 1991-01-01).",
+            "distributionUrl": "https://broadcast2.lds.org/seminary-music/old-testament/2010-06-12-Today-music-only-128k-eng.mp3",
+            "duration": 165000,
+            "ipCode": "0 - IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Fri Aug 02 12:26:06 EDT 2024",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "00000184-0ed8-d3a5-ab95-1ffa239b0000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "00000184-0ed8-d3a5-ab95-1ffa239b0000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "“Today” from Old Testament Seminary Video Songs (English, 1991-01-01).",
+            "publicDownload": [
+              "PUBLIC"
+            ],
+            "$publishDate": "Tue Oct 25 07:12:36 EDT 2022",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "“Today” from Old Testament Seminary Video Songs (English, 1991-01-01).",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Today",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "“Today” from Old Testament Seminary Video Songs (English, 1991-01-01).",
+            "shareableTitle": "Today",
+            "title": "Today",
+            "translator": []
+          },
+          "$id": "00000196-c6d9-d455-a9f6-dedd67460000",
+          "$model": "assetPurpose",
+          "$rootId": "00000196-c6d9-d455-a9f6-dedd67460000",
           "$site": "music",
-          "performer": [],
-          "products": [],
-          "publicAltText": "“Today” from Old Testament Seminary Video Songs (English, 1991-01-01).",
-          "publicDownload": [
-            "PUBLIC"
-          ],
-          "$publishDate": "Tue Oct 25 07:12:24 EDT 2022",
-          "$publishStatus": "PUBLISHED",
-          "related": [],
-          "reqCreditLine": "false",
-          "requiredAssets": [],
-          "sameAs": [],
-          "seoDescription": "“Today” from Old Testament Seminary Video Songs (English, 1991-01-01).",
-          "seoDescriptionAiGenerated": false,
-          "seoTitle": "Today",
-          "seoTitleAiGenerated": false,
-          "shareableDescription": "“Today” from Old Testament Seminary Video Songs (English, 1991-01-01).",
-          "shareableTitle": "Today",
-          "title": "Today",
-          "translator": []
+          "$publishStatus": "PUBLISHED"
         },
-        "$id": "00000196-c6d9-d455-a9f6-dedd67460001",
-        "$model": "assetPurpose",
-        "$rootId": "00000196-c6d9-d455-a9f6-dedd67460001",
-        "$site": "music",
-        "$publishStatus": "PUBLISHED"
-      }
-    ]
-  },
-  {
-    "title": "To Bring Them to Thee",
-    "slug": "to-bring-them-to-thee",
-    "bookSlug": "old-testament-seminary-video-songs",
-    "bookSectionTitle": "Old Testament Video Songs",
-    "songNumber": "6",
-    "songDate": "1991-01-01",
-    "arrangers": [
-      {
-        "personName": "Daniel Lyman Carter"
-      }
-    ],
-    "artists": [
-      {
-        "personName": "Amy Trent"
-      }
-    ],
-    "authors": [
-      {
-        "personName": "Daniel Lyman Carter"
-      }
-    ],
-    "composers": [
-      {
-        "personName": "Daniel Lyman Carter"
-      }
-    ],
-    "instrumentations": [
-      {
-        "name": "Voice"
-      },
-      {
-        "name": "Piano"
-      }
-    ],
-    "musicalFeatures": [],
-    "recordingAvailable": true,
-    "sheetMusicAvailable": true,
-    "videoAvailable": false,
-    "tags": [
-      "agency",
-      "family",
-      "love",
-      "plan of salvation",
-      "preparation",
-      "teaching"
-    ],
-    "voicings": [],
-    "assets": [
-      {
-        "annotatedFields": {},
-        "assetType": "AUDIO_ACCOMPANIMENT",
-        "attributes": {},
-        "locatorIds": [],
-        "mediaObject": {
+        {
           "annotatedFields": {},
-          "arranger": [],
-          "assetID": "0a2f82b2cbaaadd9c1dba088488c4f518d313233",
+          "assetType": "AUDIO_VOCAL",
           "attributes": {},
-          "composer": [],
-          "description": "“To Bring Them to Thee” from Old Testament Seminary Video Songs (English, 1991-01-01).",
-          "distributionUrl": "https://broadcast2.lds.org/seminary-music/old-testament/2010-06-13-to-bring-them-to-thee-music-only-128k-eng.mp3",
-          "duration": 265000,
-          "ipCode": "1 - Not IRI Owned",
-          "isPartOf": [],
-          "keywords": [],
-          "$lastUpdatedDate": "Fri Aug 02 12:26:11 EDT 2024",
           "locatorIds": [],
-          "lyricist": [],
-          "noindex": false,
-          "$id": "00000184-0ed8-d3a5-ab95-1ffa290a0000",
-          "$lang": "eng",
-          "$model": "audio",
-          "$rootId": "00000184-0ed8-d3a5-ab95-1ffa290a0000",
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "ad0e34997b5087a43d3cc3fdacb877bc822d018f",
+            "attributes": {},
+            "composer": [],
+            "description": "“Today” from Old Testament Seminary Video Songs (English, 1991-01-01).",
+            "distributionUrl": "https://broadcast2.lds.org/seminary-music/old-testament/2010-06-05-today-128k-eng.mp3",
+            "duration": 165000,
+            "ipCode": "0 - IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Fri Aug 02 12:26:06 EDT 2024",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "00000184-0ed7-d3a5-ab95-1ffff3950000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "00000184-0ed7-d3a5-ab95-1ffff3950000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "“Today” from Old Testament Seminary Video Songs (English, 1991-01-01).",
+            "publicDownload": [
+              "PUBLIC"
+            ],
+            "$publishDate": "Tue Oct 25 07:12:24 EDT 2022",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "“Today” from Old Testament Seminary Video Songs (English, 1991-01-01).",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Today",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "“Today” from Old Testament Seminary Video Songs (English, 1991-01-01).",
+            "shareableTitle": "Today",
+            "title": "Today",
+            "translator": []
+          },
+          "$id": "00000196-c6d9-d455-a9f6-dedd67460001",
+          "$model": "assetPurpose",
+          "$rootId": "00000196-c6d9-d455-a9f6-dedd67460001",
           "$site": "music",
-          "performer": [],
-          "products": [],
-          "publicAltText": "“To Bring Them to Thee” from Old Testament Seminary Video Songs (English, 1991-01-01).",
-          "publicDownload": [
-            "PUBLIC"
-          ],
-          "$publishDate": "Tue Oct 25 07:12:38 EDT 2022",
-          "$publishStatus": "PUBLISHED",
-          "related": [],
-          "reqCreditLine": "false",
-          "requiredAssets": [],
-          "sameAs": [],
-          "seoDescription": "“To Bring Them to Thee” from Old Testament Seminary Video Songs (English, 1991-01-01).",
-          "seoDescriptionAiGenerated": false,
-          "seoTitle": "To Bring Them to Thee",
-          "seoTitleAiGenerated": false,
-          "shareableDescription": "“To Bring Them to Thee” from Old Testament Seminary Video Songs (English, 1991-01-01).",
-          "shareableTitle": "To Bring Them to Thee",
-          "title": "To Bring Them to Thee",
-          "translator": []
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    },
+    {
+      "title": "To Bring Them to Thee",
+      "slug": "to-bring-them-to-thee",
+      "bookSlug": "old-testament-seminary-video-songs",
+      "bookSectionTitle": "Old Testament Video Songs",
+      "songNumber": "6",
+      "songDate": "1991-01-01",
+      "arrangers": [
+        {
+          "personName": "Daniel Lyman Carter"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Amy Trent"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Daniel Lyman Carter"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Daniel Lyman Carter"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
         },
-        "$id": "00000196-c6d9-d455-a9f6-dedd67680000",
-        "$model": "assetPurpose",
-        "$rootId": "00000196-c6d9-d455-a9f6-dedd67680000",
-        "$site": "music",
-        "$publishStatus": "PUBLISHED"
-      },
-      {
-        "annotatedFields": {},
-        "assetType": "AUDIO_VOCAL",
-        "attributes": {},
-        "locatorIds": [],
-        "mediaObject": {
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "agency",
+        "family",
+        "love",
+        "plan of salvation",
+        "preparation",
+        "teaching"
+      ],
+      "voicings": [],
+      "assets": [
+        {
           "annotatedFields": {},
-          "arranger": [],
-          "assetID": "e087abc998ffbbde839ce3dcbc4d035aa44a178d",
+          "assetType": "AUDIO_ACCOMPANIMENT",
           "attributes": {},
-          "composer": [],
-          "description": "“To Bring Them to Thee” from Old Testament Seminary Video Songs (English, 1991-01-01).",
-          "distributionUrl": "https://broadcast2.lds.org/seminary-music/old-testament/2010-06-06-to-bring-them-to-thee-128k-eng.mp3",
-          "duration": 265000,
-          "ipCode": "1 - Not IRI Owned",
-          "isPartOf": [],
-          "keywords": [],
-          "$lastUpdatedDate": "Fri Aug 02 12:26:10 EDT 2024",
           "locatorIds": [],
-          "lyricist": [],
-          "noindex": false,
-          "$id": "00000184-0ed7-d3a5-ab95-1fffeff00000",
-          "$lang": "eng",
-          "$model": "audio",
-          "$rootId": "00000184-0ed7-d3a5-ab95-1fffeff00000",
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "0a2f82b2cbaaadd9c1dba088488c4f518d313233",
+            "attributes": {},
+            "composer": [],
+            "description": "“To Bring Them to Thee” from Old Testament Seminary Video Songs (English, 1991-01-01).",
+            "distributionUrl": "https://broadcast2.lds.org/seminary-music/old-testament/2010-06-13-to-bring-them-to-thee-music-only-128k-eng.mp3",
+            "duration": 265000,
+            "ipCode": "1 - Not IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Fri Aug 02 12:26:11 EDT 2024",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "00000184-0ed8-d3a5-ab95-1ffa290a0000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "00000184-0ed8-d3a5-ab95-1ffa290a0000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "“To Bring Them to Thee” from Old Testament Seminary Video Songs (English, 1991-01-01).",
+            "publicDownload": [
+              "PUBLIC"
+            ],
+            "$publishDate": "Tue Oct 25 07:12:38 EDT 2022",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "“To Bring Them to Thee” from Old Testament Seminary Video Songs (English, 1991-01-01).",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "To Bring Them to Thee",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "“To Bring Them to Thee” from Old Testament Seminary Video Songs (English, 1991-01-01).",
+            "shareableTitle": "To Bring Them to Thee",
+            "title": "To Bring Them to Thee",
+            "translator": []
+          },
+          "$id": "00000196-c6d9-d455-a9f6-dedd67680000",
+          "$model": "assetPurpose",
+          "$rootId": "00000196-c6d9-d455-a9f6-dedd67680000",
           "$site": "music",
-          "performer": [],
-          "products": [],
-          "publicAltText": "“To Bring Them to Thee” from Old Testament Seminary Video Songs (English, 1991-01-01).",
-          "publicDownload": [
-            "PUBLIC"
-          ],
-          "$publishDate": "Tue Oct 25 07:12:23 EDT 2022",
-          "$publishStatus": "PUBLISHED",
-          "related": [],
-          "reqCreditLine": "false",
-          "requiredAssets": [],
-          "sameAs": [],
-          "seoDescription": "“To Bring Them to Thee” from Old Testament Seminary Video Songs (English, 1991-01-01).",
-          "seoDescriptionAiGenerated": false,
-          "seoTitle": "To Bring Them to Thee",
-          "seoTitleAiGenerated": false,
-          "shareableDescription": "“To Bring Them to Thee” from Old Testament Seminary Video Songs (English, 1991-01-01).",
-          "shareableTitle": "To Bring Them to Thee",
-          "title": "To Bring Them to Thee",
-          "translator": []
+          "$publishStatus": "PUBLISHED"
         },
-        "$id": "00000196-c6d9-d455-a9f6-dedd67680001",
-        "$model": "assetPurpose",
-        "$rootId": "00000196-c6d9-d455-a9f6-dedd67680001",
-        "$site": "music",
-        "$publishStatus": "PUBLISHED"
-      }
-    ]
-  },
-  {
-    "title": "Walk His Way",
-    "slug": "walk-his-way",
-    "bookSlug": "old-testament-seminary-video-songs",
-    "bookSectionTitle": "Old Testament Video Songs",
-    "songNumber": "7",
-    "songDate": "1991-01-01",
-    "arrangers": [
-      {
-        "personName": "Sam Cardon"
-      }
-    ],
-    "artists": [
-      {
-        "personName": "Joel McCausland"
-      }
-    ],
-    "authors": [
-      {
-        "personName": "Steven K. Jones"
-      }
-    ],
-    "composers": [
-      {
-        "personName": "Sam Cardon"
-      }
-    ],
-    "instrumentations": [
-      {
-        "name": "Voice"
-      },
-      {
-        "name": "Piano"
-      }
-    ],
-    "musicalFeatures": [],
-    "recordingAvailable": true,
-    "sheetMusicAvailable": true,
-    "videoAvailable": false,
-    "tags": [
-      "Jesus Christ",
-      "agency",
-      "commitment",
-      "discipleship",
-      "faith"
-    ],
-    "voicings": [],
-    "assets": [
-      {
-        "annotatedFields": {},
-        "assetType": "AUDIO_ACCOMPANIMENT",
-        "attributes": {},
-        "locatorIds": [],
-        "mediaObject": {
+        {
           "annotatedFields": {},
-          "arranger": [],
-          "assetID": "23ed6e004eabfc02b25cab97eb943728f90cf613",
+          "assetType": "AUDIO_VOCAL",
           "attributes": {},
-          "composer": [],
-          "description": "“Walk His Way” from Old Testament Seminary Video Songs (English, 1991-01-01).",
-          "distributionUrl": "https://broadcast2.lds.org/seminary-music/old-testament/2010-06-14-walk-his-way-music-only-128k-eng.mp3",
-          "duration": 179000,
-          "ipCode": "0 - IRI Owned",
-          "isPartOf": [],
-          "keywords": [],
-          "$lastUpdatedDate": "Fri Aug 02 12:26:07 EDT 2024",
           "locatorIds": [],
-          "lyricist": [],
-          "noindex": false,
-          "$id": "00000184-0ed8-d3a5-ab95-1ffa21cc0000",
-          "$lang": "eng",
-          "$model": "audio",
-          "$rootId": "00000184-0ed8-d3a5-ab95-1ffa21cc0000",
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "e087abc998ffbbde839ce3dcbc4d035aa44a178d",
+            "attributes": {},
+            "composer": [],
+            "description": "“To Bring Them to Thee” from Old Testament Seminary Video Songs (English, 1991-01-01).",
+            "distributionUrl": "https://broadcast2.lds.org/seminary-music/old-testament/2010-06-06-to-bring-them-to-thee-128k-eng.mp3",
+            "duration": 265000,
+            "ipCode": "1 - Not IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Fri Aug 02 12:26:10 EDT 2024",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "00000184-0ed7-d3a5-ab95-1fffeff00000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "00000184-0ed7-d3a5-ab95-1fffeff00000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "“To Bring Them to Thee” from Old Testament Seminary Video Songs (English, 1991-01-01).",
+            "publicDownload": [
+              "PUBLIC"
+            ],
+            "$publishDate": "Tue Oct 25 07:12:23 EDT 2022",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "“To Bring Them to Thee” from Old Testament Seminary Video Songs (English, 1991-01-01).",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "To Bring Them to Thee",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "“To Bring Them to Thee” from Old Testament Seminary Video Songs (English, 1991-01-01).",
+            "shareableTitle": "To Bring Them to Thee",
+            "title": "To Bring Them to Thee",
+            "translator": []
+          },
+          "$id": "00000196-c6d9-d455-a9f6-dedd67680001",
+          "$model": "assetPurpose",
+          "$rootId": "00000196-c6d9-d455-a9f6-dedd67680001",
           "$site": "music",
-          "performer": [],
-          "products": [],
-          "publicAltText": "“Walk His Way” from Old Testament Seminary Video Songs (English, 1991-01-01).",
-          "publicDownload": [
-            "PUBLIC"
-          ],
-          "$publishDate": "Tue Oct 25 07:12:36 EDT 2022",
-          "$publishStatus": "PUBLISHED",
-          "related": [],
-          "reqCreditLine": "false",
-          "requiredAssets": [],
-          "sameAs": [],
-          "seoDescription": "“Walk His Way” from Old Testament Seminary Video Songs (English, 1991-01-01).",
-          "seoDescriptionAiGenerated": false,
-          "seoTitle": "Walk His Way",
-          "seoTitleAiGenerated": false,
-          "shareableDescription": "“Walk His Way” from Old Testament Seminary Video Songs (English, 1991-01-01).",
-          "shareableTitle": "Walk His Way",
-          "title": "Walk His Way",
-          "translator": []
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    },
+    {
+      "title": "Walk His Way",
+      "slug": "walk-his-way",
+      "bookSlug": "old-testament-seminary-video-songs",
+      "bookSectionTitle": "Old Testament Video Songs",
+      "songNumber": "7",
+      "songDate": "1991-01-01",
+      "arrangers": [
+        {
+          "personName": "Sam Cardon"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Joel McCausland"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Steven K. Jones"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Sam Cardon"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
         },
-        "$id": "00000196-c6d9-d455-a9f6-dedd678a0000",
-        "$model": "assetPurpose",
-        "$rootId": "00000196-c6d9-d455-a9f6-dedd678a0000",
-        "$site": "music",
-        "$publishStatus": "PUBLISHED"
-      },
-      {
-        "annotatedFields": {},
-        "assetType": "AUDIO_VOCAL",
-        "attributes": {},
-        "locatorIds": [],
-        "mediaObject": {
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Jesus Christ",
+        "agency",
+        "commitment",
+        "discipleship",
+        "faith"
+      ],
+      "voicings": [],
+      "assets": [
+        {
           "annotatedFields": {},
-          "arranger": [],
-          "assetID": "31c302570c044779e5d316070aca37735204c343",
+          "assetType": "AUDIO_ACCOMPANIMENT",
           "attributes": {},
-          "composer": [],
-          "description": "“Walk His Way” from Old Testament Seminary Video Songs (English, 1991-01-01).",
-          "distributionUrl": "https://broadcast2.lds.org/seminary-music/old-testament/2010-06-07-walk-his-way-128k-eng.mp3",
-          "duration": 199000,
-          "ipCode": "0 - IRI Owned",
-          "isPartOf": [],
-          "keywords": [],
-          "$lastUpdatedDate": "Fri Aug 02 12:26:08 EDT 2024",
           "locatorIds": [],
-          "lyricist": [],
-          "noindex": false,
-          "$id": "0000018a-0994-d1d6-afbf-6d9712eb0000",
-          "$lang": "eng",
-          "$model": "audio",
-          "$rootId": "0000018a-0994-d1d6-afbf-6d9712eb0000",
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "23ed6e004eabfc02b25cab97eb943728f90cf613",
+            "attributes": {},
+            "composer": [],
+            "description": "“Walk His Way” from Old Testament Seminary Video Songs (English, 1991-01-01).",
+            "distributionUrl": "https://broadcast2.lds.org/seminary-music/old-testament/2010-06-14-walk-his-way-music-only-128k-eng.mp3",
+            "duration": 179000,
+            "ipCode": "0 - IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Fri Aug 02 12:26:07 EDT 2024",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "00000184-0ed8-d3a5-ab95-1ffa21cc0000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "00000184-0ed8-d3a5-ab95-1ffa21cc0000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "“Walk His Way” from Old Testament Seminary Video Songs (English, 1991-01-01).",
+            "publicDownload": [
+              "PUBLIC"
+            ],
+            "$publishDate": "Tue Oct 25 07:12:36 EDT 2022",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "“Walk His Way” from Old Testament Seminary Video Songs (English, 1991-01-01).",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Walk His Way",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "“Walk His Way” from Old Testament Seminary Video Songs (English, 1991-01-01).",
+            "shareableTitle": "Walk His Way",
+            "title": "Walk His Way",
+            "translator": []
+          },
+          "$id": "00000196-c6d9-d455-a9f6-dedd678a0000",
+          "$model": "assetPurpose",
+          "$rootId": "00000196-c6d9-d455-a9f6-dedd678a0000",
           "$site": "music",
-          "performer": [],
-          "products": [],
-          "publicAltText": "“Walk His Way” from Old Testament Seminary Video Songs (English, 1991-01-01).",
-          "publicDownload": [
-            "PUBLIC"
-          ],
-          "$publishDate": "Fri Aug 18 12:56:53 EDT 2023",
-          "$publishStatus": "PUBLISHED",
-          "related": [],
-          "reqCreditLine": "false",
-          "requiredAssets": [],
-          "sameAs": [],
-          "seoDescription": "“Walk His Way” from Old Testament Seminary Video Songs (English, 1991-01-01).",
-          "seoDescriptionAiGenerated": false,
-          "seoTitle": "Walk His Way",
-          "seoTitleAiGenerated": false,
-          "shareableDescription": "“Walk His Way” from Old Testament Seminary Video Songs (English, 1991-01-01).",
-          "shareableTitle": "Walk His Way",
-          "title": "Walk His Way",
-          "translator": []
+          "$publishStatus": "PUBLISHED"
         },
-        "$id": "00000196-c6d9-d455-a9f6-dedd678a0001",
-        "$model": "assetPurpose",
-        "$rootId": "00000196-c6d9-d455-a9f6-dedd678a0001",
-        "$site": "music",
-        "$publishStatus": "PUBLISHED"
-      }
-    ]
-  },
-  {
-    "title": "The Way to Eternal Life",
-    "slug": "the-way-to-eternal-life",
-    "bookSlug": "old-testament-seminary-video-songs",
-    "bookSectionTitle": "Old Testament Video Songs",
-    "songNumber": "8",
-    "songDate": "1991-01-01",
-    "arrangers": [
-      {
-        "personName": "Sam Cardon"
-      }
-    ],
-    "artists": [],
-    "authors": [],
-    "composers": [
-      {
-        "personName": "Sam Cardon"
-      }
-    ],
-    "instrumentations": [],
-    "musicalFeatures": [],
-    "recordingAvailable": true,
-    "sheetMusicAvailable": false,
-    "videoAvailable": false,
-    "tags": [],
-    "voicings": [],
-    "assets": [
-      {
-        "annotatedFields": {},
-        "assetType": "AUDIO_INSTRUMENTAL",
-        "attributes": {},
-        "locatorIds": [],
-        "mediaObject": {
+        {
           "annotatedFields": {},
-          "arranger": [],
-          "assetID": "0ac0a2ad4204fd95e37ad1093c4027041d8ecf10",
+          "assetType": "AUDIO_VOCAL",
           "attributes": {},
-          "composer": [],
-          "description": "“The Way to Eternal Life” from Old Testament Seminary Video Songs (English, 1991-01-01).",
-          "distributionUrl": "https://broadcast.lds.org/churchmusic/Seminary/CES_OT_08_TheWaytoEternalLife_MusicOnly.mp3",
-          "duration": 100000,
-          "ipCode": "4 - IRI licensed",
-          "isPartOf": [],
-          "keywords": [],
-          "$lastUpdatedDate": "Fri Aug 02 12:26:09 EDT 2024",
           "locatorIds": [],
-          "lyricist": [],
-          "noindex": false,
-          "$id": "00000184-0ed8-d3a5-ab95-1ffa25610000",
-          "$lang": "eng",
-          "$model": "audio",
-          "$rootId": "00000184-0ed8-d3a5-ab95-1ffa25610000",
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "31c302570c044779e5d316070aca37735204c343",
+            "attributes": {},
+            "composer": [],
+            "description": "“Walk His Way” from Old Testament Seminary Video Songs (English, 1991-01-01).",
+            "distributionUrl": "https://broadcast2.lds.org/seminary-music/old-testament/2010-06-07-walk-his-way-128k-eng.mp3",
+            "duration": 199000,
+            "ipCode": "0 - IRI Owned",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Fri Aug 02 12:26:08 EDT 2024",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "0000018a-0994-d1d6-afbf-6d9712eb0000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "0000018a-0994-d1d6-afbf-6d9712eb0000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "“Walk His Way” from Old Testament Seminary Video Songs (English, 1991-01-01).",
+            "publicDownload": [
+              "PUBLIC"
+            ],
+            "$publishDate": "Fri Aug 18 12:56:53 EDT 2023",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "“Walk His Way” from Old Testament Seminary Video Songs (English, 1991-01-01).",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Walk His Way",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "“Walk His Way” from Old Testament Seminary Video Songs (English, 1991-01-01).",
+            "shareableTitle": "Walk His Way",
+            "title": "Walk His Way",
+            "translator": []
+          },
+          "$id": "00000196-c6d9-d455-a9f6-dedd678a0001",
+          "$model": "assetPurpose",
+          "$rootId": "00000196-c6d9-d455-a9f6-dedd678a0001",
           "$site": "music",
-          "performer": [],
-          "products": [],
-          "publicAltText": "“The Way to Eternal Life” from Old Testament Seminary Video Songs (English, 1991-01-01).",
-          "publicDownload": [
-            "PUBLIC"
-          ],
-          "$publishDate": "Tue Oct 25 07:12:37 EDT 2022",
-          "$publishStatus": "PUBLISHED",
-          "related": [],
-          "reqCreditLine": "false",
-          "requiredAssets": [],
-          "sameAs": [],
-          "seoDescription": "“The Way to Eternal Life” from Old Testament Seminary Video Songs (English, 1991-01-01).",
-          "seoDescriptionAiGenerated": false,
-          "seoTitle": "The Way to Eternal Life",
-          "seoTitleAiGenerated": false,
-          "shareableDescription": "“The Way to Eternal Life” from Old Testament Seminary Video Songs (English, 1991-01-01).",
-          "shareableTitle": "The Way to Eternal Life",
-          "title": "The Way to Eternal Life",
-          "translator": []
-        },
-        "$id": "00000196-c6d9-d455-a9f6-dedd679b0000",
-        "$model": "assetPurpose",
-        "$rootId": "00000196-c6d9-d455-a9f6-dedd679b0000",
-        "$site": "music",
-        "$publishStatus": "PUBLISHED"
-      }
-    ]
-  }
-]
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    },
+    {
+      "title": "The Way to Eternal Life",
+      "slug": "the-way-to-eternal-life",
+      "bookSlug": "old-testament-seminary-video-songs",
+      "bookSectionTitle": "Old Testament Video Songs",
+      "songNumber": "8",
+      "songDate": "1991-01-01",
+      "arrangers": [
+        {
+          "personName": "Sam Cardon"
+        }
+      ],
+      "artists": [],
+      "authors": [],
+      "composers": [
+        {
+          "personName": "Sam Cardon"
+        }
+      ],
+      "instrumentations": [],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [],
+      "assets": [
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_INSTRUMENTAL",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "0ac0a2ad4204fd95e37ad1093c4027041d8ecf10",
+            "attributes": {},
+            "composer": [],
+            "description": "“The Way to Eternal Life” from Old Testament Seminary Video Songs (English, 1991-01-01).",
+            "distributionUrl": "https://broadcast.lds.org/churchmusic/Seminary/CES_OT_08_TheWaytoEternalLife_MusicOnly.mp3",
+            "duration": 100000,
+            "ipCode": "4 - IRI licensed",
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Fri Aug 02 12:26:09 EDT 2024",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "00000184-0ed8-d3a5-ab95-1ffa25610000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "00000184-0ed8-d3a5-ab95-1ffa25610000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "“The Way to Eternal Life” from Old Testament Seminary Video Songs (English, 1991-01-01).",
+            "publicDownload": [
+              "PUBLIC"
+            ],
+            "$publishDate": "Tue Oct 25 07:12:37 EDT 2022",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "reqCreditLine": "false",
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "“The Way to Eternal Life” from Old Testament Seminary Video Songs (English, 1991-01-01).",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "The Way to Eternal Life",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "“The Way to Eternal Life” from Old Testament Seminary Video Songs (English, 1991-01-01).",
+            "shareableTitle": "The Way to Eternal Life",
+            "title": "The Way to Eternal Life",
+            "translator": []
+          },
+          "$id": "00000196-c6d9-d455-a9f6-dedd679b0000",
+          "$model": "assetPurpose",
+          "$rootId": "00000196-c6d9-d455-a9f6-dedd679b0000",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    }
+  ],
+  "limit": 500,
+  "offset": 0,
+  "total": 8
+}
