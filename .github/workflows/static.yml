@@ -6,6 +6,9 @@ on:
   push:
     branches: ["main"]
 
+  schedule:
+    - cron: '10 0 * * *' # Runs 10 minutes after Node workflow
+
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
