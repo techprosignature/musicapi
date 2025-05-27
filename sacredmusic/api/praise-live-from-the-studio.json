@@ -1,2143 +1,2148 @@
-[
-  {
-    "title": "Hymn Medley",
-    "slug": "2017-10-hymns-medley",
-    "bookSlug": "praise-live-from-the-studio",
-    "bookSectionTitle": "Praise! Live from the Studio",
-    "songNumber": "1",
-    "songDate": "2021-01-01",
-    "arrangers": [
-      {
-        "personName": "Jenn Blosil"
-      }
-    ],
-    "artists": [
-      {
-        "personName": "Jenn Blosil"
-      }
-    ],
-    "authors": [
-      {
-        "personName": "Theodore E. Curtis"
-      },
-      {
-        "personName": "Matilda Watts Cahoon"
-      }
-    ],
-    "composers": [
-      {
-        "personName": "Hugh W. Dougall"
-      },
-      {
-        "personName": "Mildred T. Pettit"
-      }
-    ],
-    "instrumentations": [
-      {
-        "name": "Voice"
-      }
-    ],
-    "musicalFeatures": [],
-    "recordingAvailable": true,
-    "sheetMusicAvailable": false,
-    "videoAvailable": true,
-    "tags": [
-      "Holy Ghost",
-      "Jesus Christ",
-      "comfort",
-      "faith",
-      "grace",
-      "hope",
-      "missionary work",
-      "nature",
-      "obedience",
-      "prayer"
-    ],
-    "voicings": [],
-    "assets": [
-      {
-        "annotatedFields": {},
-        "assetType": "AUDIO_VOCAL",
-        "attributes": {},
-        "locatorIds": [],
-        "mediaObject": {
+{
+  "data": [
+    {
+      "title": "Hymn Medley",
+      "slug": "2017-10-hymns-medley",
+      "bookSlug": "praise-live-from-the-studio",
+      "bookSectionTitle": "Praise! Live from the Studio",
+      "songNumber": "1",
+      "songDate": "2021-01-01",
+      "arrangers": [
+        {
+          "personName": "Jenn Blosil"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Jenn Blosil"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Theodore E. Curtis"
+        },
+        {
+          "personName": "Matilda Watts Cahoon"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Hugh W. Dougall"
+        },
+        {
+          "personName": "Mildred T. Pettit"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [
+        "Holy Ghost",
+        "Jesus Christ",
+        "comfort",
+        "faith",
+        "grace",
+        "hope",
+        "missionary work",
+        "nature",
+        "obedience",
+        "prayer"
+      ],
+      "voicings": [],
+      "assets": [
+        {
           "annotatedFields": {},
-          "arranger": [],
-          "assetID": "3e09f6667a2d11ec855feeeeac1e17860ffa1897",
+          "assetType": "AUDIO_VOCAL",
           "attributes": {},
-          "composer": [],
-          "description": "Jenn Blosil sings, \"Hymn Medley\" on Praise! Live from the Studio",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/3e/09/3e09f6667a2d11ec855feeeeac1e17860ffa1897/hymn_medley_live_blosil_eng.mp3",
-          "duration": 271000,
-          "ipCode": "1 - Not IRI Owned",
-          "isPartOf": [],
-          "keywords": [
-            "music",
-            "Live from the Studio",
-            "2021",
-            "Praise"
-          ],
-          "$lastUpdatedDate": "Fri Sep 06 12:40:03 EDT 2024",
           "locatorIds": [],
-          "lyricist": [],
-          "noindex": false,
-          "$id": "00000184-0ed5-d3a5-ab95-1fff15280000",
-          "$lang": "eng",
-          "$model": "audio",
-          "$rootId": "00000184-0ed5-d3a5-ab95-1fff15280000",
-          "$site": "music",
-          "performer": [],
-          "products": [],
-          "publicDownload": [],
-          "$publishDate": "Tue Oct 25 07:09:16 EDT 2022",
-          "$publishStatus": "PUBLISHED",
-          "related": [],
-          "requiredAssets": [],
-          "sameAs": [],
-          "seoDescription": "Jenn Blosil sings, \"Hymn Medley\" on Praise! Live from the Studio",
-          "seoDescriptionAiGenerated": false,
-          "seoTitle": "Hymn Medley (Live)",
-          "seoTitleAiGenerated": false,
-          "shareableDescription": "Jenn Blosil sings, \"Hymn Medley\" on Praise! Live from the Studio",
-          "shareableTitle": "Hymn Medley (Live)",
-          "thumbnail": {
+          "mediaObject": {
             "annotatedFields": {},
-            "assetID": "3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4",
+            "arranger": [],
+            "assetID": "3e09f6667a2d11ec855feeeeac1e17860ffa1897",
             "attributes": {},
-            "description": "Praise Digital Album Cover",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/1920,/0/default",
-            "focalPoint": {
-              "x": "50.00%",
-              "y": "50.00%"
-            },
-            "ipCode": "0 - IRI Owned",
+            "composer": [],
+            "description": "Jenn Blosil sings, \"Hymn Medley\" on Praise! Live from the Studio",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/3e/09/3e09f6667a2d11ec855feeeeac1e17860ffa1897/hymn_medley_live_blosil_eng.mp3",
+            "duration": 271000,
+            "ipCode": "1 - Not IRI Owned",
             "isPartOf": [],
             "keywords": [
-              "Guitars",
-              "Record Albums"
+              "music",
+              "Live from the Studio",
+              "2021",
+              "Praise"
             ],
-            "$lastUpdatedDate": "Fri Sep 06 12:40:09 EDT 2024",
+            "$lastUpdatedDate": "Fri Sep 06 12:40:03 EDT 2024",
             "locatorIds": [],
+            "lyricist": [],
             "noindex": false,
-            "$id": "00000180-6261-d40b-a1e4-ff61a4580000",
+            "$id": "00000184-0ed5-d3a5-ab95-1fff15280000",
             "$lang": "eng",
-            "$model": "image",
-            "$rootId": "00000180-6261-d40b-a1e4-ff61a4580000",
+            "$model": "audio",
+            "$rootId": "00000184-0ed5-d3a5-ab95-1fff15280000",
             "$site": "music",
+            "performer": [],
             "products": [],
-            "publicAltText": "A drawing of the silhoutte of a boy with brown hair, a red shirt, and yellow pants playing a guitar. The yellow words, \"Praise!\" are written at the top center of the light blue background.",
+            "publicDownload": [],
+            "$publishDate": "Tue Oct 25 07:09:16 EDT 2022",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Jenn Blosil sings, \"Hymn Medley\" on Praise! Live from the Studio",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Hymn Medley (Live)",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Jenn Blosil sings, \"Hymn Medley\" on Praise! Live from the Studio",
+            "shareableTitle": "Hymn Medley (Live)",
+            "thumbnail": {
+              "annotatedFields": {},
+              "assetID": "3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4",
+              "attributes": {},
+              "description": "Praise Digital Album Cover",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/1920,/0/default",
+              "focalPoint": {
+                "x": "50.00%",
+                "y": "50.00%"
+              },
+              "ipCode": "0 - IRI Owned",
+              "isPartOf": [],
+              "keywords": [
+                "Guitars",
+                "Record Albums"
+              ],
+              "$lastUpdatedDate": "Fri Sep 06 12:40:09 EDT 2024",
+              "locatorIds": [],
+              "noindex": false,
+              "$id": "00000180-6261-d40b-a1e4-ff61a4580000",
+              "$lang": "eng",
+              "$model": "image",
+              "$rootId": "00000180-6261-d40b-a1e4-ff61a4580000",
+              "$site": "music",
+              "products": [],
+              "publicAltText": "A drawing of the silhoutte of a boy with brown hair, a red shirt, and yellow pants playing a guitar. The yellow words, \"Praise!\" are written at the top center of the light blue background.",
+              "publicDownload": [],
+              "$publishDate": "Mon Apr 25 16:20:07 EDT 2022",
+              "$publishStatus": "PUBLISHED",
+              "related": [],
+              "renditions": [
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!320%2C320/0/default",
+                  "height": 320,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!320%2C320/0/default",
+                  "width": 320
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!640%2C640/0/default",
+                  "height": 640,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!640%2C640/0/default",
+                  "width": 640
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!800%2C800/0/default",
+                  "height": 800,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!800%2C800/0/default",
+                  "width": 800
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1280%2C1280/0/default",
+                  "height": 1280,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1280%2C1280/0/default",
+                  "width": 1280
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1600%2C1600/0/default",
+                  "height": 1600,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1600%2C1600/0/default",
+                  "width": 1600
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1920%2C1920/0/default",
+                  "height": 1920,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1920%2C1920/0/default",
+                  "width": 1920
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!60%2C60/0/default",
+                  "height": 60,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!60%2C60/0/default",
+                  "width": 60
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!250%2C250/0/default",
+                  "height": 250,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!250%2C250/0/default",
+                  "width": 250
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!200%2C200/0/default",
+                  "height": 200,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!200%2C200/0/default",
+                  "width": 200
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!100%2C100/0/default",
+                  "height": 100,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!100%2C100/0/default",
+                  "width": 100
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!500%2C500/0/default",
+                  "height": 500,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!500%2C500/0/default",
+                  "width": 500
+                }
+              ],
+              "requiredAssets": [],
+              "sameAs": [],
+              "seoDescription": "Praise Digital Album Cover",
+              "seoDescriptionAiGenerated": false,
+              "seoTitle": "Praise Album Cover",
+              "seoTitleAiGenerated": false,
+              "shareableDescription": "Praise Digital Album Cover",
+              "shareableTitle": "Praise Album Cover",
+              "title": "Praise Album Cover"
+            },
+            "title": "Hymn Medley (Live)",
+            "translator": []
+          },
+          "$id": "00000196-c6da-d455-a9f6-dedeb2390000",
+          "$model": "assetPurpose",
+          "$rootId": "00000196-c6da-d455-a9f6-dedeb2390000",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    },
+    {
+      "title": "For the Beauty of the Earth",
+      "slug": "2017-08-for-the-beauty-of-the-earth",
+      "bookSlug": "praise-live-from-the-studio",
+      "bookSectionTitle": "Praise! Live from the Studio",
+      "songNumber": "2",
+      "songDate": "2021-01-01",
+      "arrangers": [
+        {
+          "personName": "Kylie Hintze"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Kylie Hintze"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Folliott S. Pierpoint"
+        },
+        {
+          "personName": "Eliza E. Hewitt"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Conrad Kocher"
+        },
+        {
+          "personName": "John R. Sweney"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [
+        "Creation",
+        "Jesus Christ",
+        "family",
+        "friendship",
+        "grace",
+        "gratitude",
+        "happiness",
+        "hope",
+        "joy",
+        "love",
+        "music",
+        "nature",
+        "praise"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_VOCAL",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "3d9fe9dc7a2d11ec9315eeeeac1e5d4db9f0dccf",
+            "attributes": {},
+            "composer": [],
+            "description": "Kylie Hintze sings, \"For the Beauty of the Earth\" on Praise! Live from the Studio",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/3d/9f/3d9fe9dc7a2d11ec9315eeeeac1e5d4db9f0dccf/for_the_beauty_of_the_earth_live_hintze_eng.mp3",
+            "duration": 161000,
+            "ipCode": "1 - Not IRI Owned",
+            "isPartOf": [],
+            "keywords": [
+              "music",
+              "Live from the Studio",
+              "2021",
+              "Praise"
+            ],
+            "$lastUpdatedDate": "Fri Sep 06 12:40:04 EDT 2024",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "00000180-6261-d40b-a1e4-ff61a4910000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "00000180-6261-d40b-a1e4-ff61a4910000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
             "publicDownload": [],
             "$publishDate": "Mon Apr 25 16:20:07 EDT 2022",
             "$publishStatus": "PUBLISHED",
             "related": [],
-            "renditions": [
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!320%2C320/0/default",
-                "height": 320,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!320%2C320/0/default",
-                "width": 320
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!640%2C640/0/default",
-                "height": 640,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!640%2C640/0/default",
-                "width": 640
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!800%2C800/0/default",
-                "height": 800,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!800%2C800/0/default",
-                "width": 800
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1280%2C1280/0/default",
-                "height": 1280,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1280%2C1280/0/default",
-                "width": 1280
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1600%2C1600/0/default",
-                "height": 1600,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1600%2C1600/0/default",
-                "width": 1600
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1920%2C1920/0/default",
-                "height": 1920,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1920%2C1920/0/default",
-                "width": 1920
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!60%2C60/0/default",
-                "height": 60,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!60%2C60/0/default",
-                "width": 60
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!250%2C250/0/default",
-                "height": 250,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!250%2C250/0/default",
-                "width": 250
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!200%2C200/0/default",
-                "height": 200,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!200%2C200/0/default",
-                "width": 200
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!100%2C100/0/default",
-                "height": 100,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!100%2C100/0/default",
-                "width": 100
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!500%2C500/0/default",
-                "height": 500,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!500%2C500/0/default",
-                "width": 500
-              }
-            ],
             "requiredAssets": [],
             "sameAs": [],
-            "seoDescription": "Praise Digital Album Cover",
+            "seoDescription": "Kylie Hintze sings, \"For the Beauty of the Earth\" on Praise! Live from the Studio",
             "seoDescriptionAiGenerated": false,
-            "seoTitle": "Praise Album Cover",
+            "seoTitle": "For the Beauty of the Earth (Live)",
             "seoTitleAiGenerated": false,
-            "shareableDescription": "Praise Digital Album Cover",
-            "shareableTitle": "Praise Album Cover",
-            "title": "Praise Album Cover"
-          },
-          "title": "Hymn Medley (Live)",
-          "translator": []
-        },
-        "$id": "00000196-c6da-d455-a9f6-dedeb2390000",
-        "$model": "assetPurpose",
-        "$rootId": "00000196-c6da-d455-a9f6-dedeb2390000",
-        "$site": "music",
-        "$publishStatus": "PUBLISHED"
-      }
-    ]
-  },
-  {
-    "title": "For the Beauty of the Earth",
-    "slug": "2017-08-for-the-beauty-of-the-earth",
-    "bookSlug": "praise-live-from-the-studio",
-    "bookSectionTitle": "Praise! Live from the Studio",
-    "songNumber": "2",
-    "songDate": "2021-01-01",
-    "arrangers": [
-      {
-        "personName": "Kylie Hintze"
-      }
-    ],
-    "artists": [
-      {
-        "personName": "Kylie Hintze"
-      }
-    ],
-    "authors": [
-      {
-        "personName": "Folliott S. Pierpoint"
-      },
-      {
-        "personName": "Eliza E. Hewitt"
-      }
-    ],
-    "composers": [
-      {
-        "personName": "Conrad Kocher"
-      },
-      {
-        "personName": "John R. Sweney"
-      }
-    ],
-    "instrumentations": [
-      {
-        "name": "Voice"
-      }
-    ],
-    "musicalFeatures": [],
-    "recordingAvailable": true,
-    "sheetMusicAvailable": false,
-    "videoAvailable": true,
-    "tags": [
-      "Creation",
-      "Jesus Christ",
-      "family",
-      "friendship",
-      "grace",
-      "gratitude",
-      "happiness",
-      "hope",
-      "joy",
-      "love",
-      "music",
-      "nature",
-      "praise"
-    ],
-    "voicings": [],
-    "assets": [
-      {
-        "annotatedFields": {},
-        "assetType": "AUDIO_VOCAL",
-        "attributes": {},
-        "locatorIds": [],
-        "mediaObject": {
-          "annotatedFields": {},
-          "arranger": [],
-          "assetID": "3d9fe9dc7a2d11ec9315eeeeac1e5d4db9f0dccf",
-          "attributes": {},
-          "composer": [],
-          "description": "Kylie Hintze sings, \"For the Beauty of the Earth\" on Praise! Live from the Studio",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/3d/9f/3d9fe9dc7a2d11ec9315eeeeac1e5d4db9f0dccf/for_the_beauty_of_the_earth_live_hintze_eng.mp3",
-          "duration": 161000,
-          "ipCode": "1 - Not IRI Owned",
-          "isPartOf": [],
-          "keywords": [
-            "music",
-            "Live from the Studio",
-            "2021",
-            "Praise"
-          ],
-          "$lastUpdatedDate": "Fri Sep 06 12:40:04 EDT 2024",
-          "locatorIds": [],
-          "lyricist": [],
-          "noindex": false,
-          "$id": "00000180-6261-d40b-a1e4-ff61a4910000",
-          "$lang": "eng",
-          "$model": "audio",
-          "$rootId": "00000180-6261-d40b-a1e4-ff61a4910000",
-          "$site": "music",
-          "performer": [],
-          "products": [],
-          "publicDownload": [],
-          "$publishDate": "Mon Apr 25 16:20:07 EDT 2022",
-          "$publishStatus": "PUBLISHED",
-          "related": [],
-          "requiredAssets": [],
-          "sameAs": [],
-          "seoDescription": "Kylie Hintze sings, \"For the Beauty of the Earth\" on Praise! Live from the Studio",
-          "seoDescriptionAiGenerated": false,
-          "seoTitle": "For the Beauty of the Earth (Live)",
-          "seoTitleAiGenerated": false,
-          "shareableDescription": "Kylie Hintze sings, \"For the Beauty of the Earth\" on Praise! Live from the Studio",
-          "shareableTitle": "For the Beauty of the Earth (Live)",
-          "thumbnail": {
-            "annotatedFields": {},
-            "assetID": "3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4",
-            "attributes": {},
-            "description": "Praise Digital Album Cover",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/1920,/0/default",
-            "focalPoint": {
-              "x": "50.00%",
-              "y": "50.00%"
+            "shareableDescription": "Kylie Hintze sings, \"For the Beauty of the Earth\" on Praise! Live from the Studio",
+            "shareableTitle": "For the Beauty of the Earth (Live)",
+            "thumbnail": {
+              "annotatedFields": {},
+              "assetID": "3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4",
+              "attributes": {},
+              "description": "Praise Digital Album Cover",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/1920,/0/default",
+              "focalPoint": {
+                "x": "50.00%",
+                "y": "50.00%"
+              },
+              "ipCode": "0 - IRI Owned",
+              "isPartOf": [],
+              "keywords": [
+                "Guitars",
+                "Record Albums"
+              ],
+              "$lastUpdatedDate": "Fri Sep 06 12:40:09 EDT 2024",
+              "locatorIds": [],
+              "noindex": false,
+              "$id": "00000180-6261-d40b-a1e4-ff61a4580000",
+              "$lang": "eng",
+              "$model": "image",
+              "$rootId": "00000180-6261-d40b-a1e4-ff61a4580000",
+              "$site": "music",
+              "products": [],
+              "publicAltText": "A drawing of the silhoutte of a boy with brown hair, a red shirt, and yellow pants playing a guitar. The yellow words, \"Praise!\" are written at the top center of the light blue background.",
+              "publicDownload": [],
+              "$publishDate": "Mon Apr 25 16:20:07 EDT 2022",
+              "$publishStatus": "PUBLISHED",
+              "related": [],
+              "renditions": [
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!320%2C320/0/default",
+                  "height": 320,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!320%2C320/0/default",
+                  "width": 320
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!640%2C640/0/default",
+                  "height": 640,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!640%2C640/0/default",
+                  "width": 640
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!800%2C800/0/default",
+                  "height": 800,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!800%2C800/0/default",
+                  "width": 800
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1280%2C1280/0/default",
+                  "height": 1280,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1280%2C1280/0/default",
+                  "width": 1280
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1600%2C1600/0/default",
+                  "height": 1600,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1600%2C1600/0/default",
+                  "width": 1600
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1920%2C1920/0/default",
+                  "height": 1920,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1920%2C1920/0/default",
+                  "width": 1920
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!60%2C60/0/default",
+                  "height": 60,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!60%2C60/0/default",
+                  "width": 60
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!250%2C250/0/default",
+                  "height": 250,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!250%2C250/0/default",
+                  "width": 250
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!200%2C200/0/default",
+                  "height": 200,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!200%2C200/0/default",
+                  "width": 200
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!100%2C100/0/default",
+                  "height": 100,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!100%2C100/0/default",
+                  "width": 100
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!500%2C500/0/default",
+                  "height": 500,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!500%2C500/0/default",
+                  "width": 500
+                }
+              ],
+              "requiredAssets": [],
+              "sameAs": [],
+              "seoDescription": "Praise Digital Album Cover",
+              "seoDescriptionAiGenerated": false,
+              "seoTitle": "Praise Album Cover",
+              "seoTitleAiGenerated": false,
+              "shareableDescription": "Praise Digital Album Cover",
+              "shareableTitle": "Praise Album Cover",
+              "title": "Praise Album Cover"
             },
-            "ipCode": "0 - IRI Owned",
+            "title": "For the Beauty of the Earth (Live)",
+            "translator": []
+          },
+          "$id": "00000196-c6d9-d455-a9f6-deddb6e80000",
+          "$model": "assetPurpose",
+          "$rootId": "00000196-c6d9-d455-a9f6-deddb6e80000",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    },
+    {
+      "title": "I Stand All Amazed",
+      "slug": "2017-08-i-stand-all-amazed",
+      "bookSlug": "praise-live-from-the-studio",
+      "bookSectionTitle": "Praise! Live from the Studio",
+      "songNumber": "3",
+      "songDate": "2021-01-01",
+      "arrangers": [
+        {
+          "personName": "Rashida Call"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Just PPL"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Charles H. Gabriel"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Charles H. Gabriel"
+        },
+        {
+          "personName": "Darwin K. Wolford"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [
+        "Atonement of Jesus Christ",
+        "Easter",
+        "Jesus Christ",
+        "forgiveness",
+        "grace",
+        "gratitude",
+        "humility",
+        "joy",
+        "love",
+        "mercy",
+        "plan of salvation",
+        "praise",
+        "the sacrament",
+        "worship"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_VOCAL",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "3e9b60e97a2d11eca746eeeeac1e4d788a7dd3ba",
+            "attributes": {},
+            "composer": [],
+            "description": "JustPPL performs, \"I Stand All Amazed\" on Praise! Live from the Studio",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/3e/9b/3e9b60e97a2d11eca746eeeeac1e4d788a7dd3ba/i_stand_all_amazed_live_justppl_eng.mp3",
+            "duration": 286000,
+            "ipCode": "1 - Not IRI Owned",
             "isPartOf": [],
             "keywords": [
-              "Guitars",
-              "Record Albums"
+              "music",
+              "Live from the Studio",
+              "2021",
+              "Praise"
             ],
-            "$lastUpdatedDate": "Fri Sep 06 12:40:09 EDT 2024",
+            "$lastUpdatedDate": "Fri Sep 06 12:40:04 EDT 2024",
             "locatorIds": [],
+            "lyricist": [],
             "noindex": false,
-            "$id": "00000180-6261-d40b-a1e4-ff61a4580000",
+            "$id": "00000184-0ed5-d3a5-ab95-1fff18e80000",
             "$lang": "eng",
-            "$model": "image",
-            "$rootId": "00000180-6261-d40b-a1e4-ff61a4580000",
+            "$model": "audio",
+            "$rootId": "00000184-0ed5-d3a5-ab95-1fff18e80000",
             "$site": "music",
+            "performer": [],
             "products": [],
-            "publicAltText": "A drawing of the silhoutte of a boy with brown hair, a red shirt, and yellow pants playing a guitar. The yellow words, \"Praise!\" are written at the top center of the light blue background.",
             "publicDownload": [],
-            "$publishDate": "Mon Apr 25 16:20:07 EDT 2022",
+            "$publishDate": "Tue Oct 25 07:09:17 EDT 2022",
             "$publishStatus": "PUBLISHED",
             "related": [],
-            "renditions": [
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!320%2C320/0/default",
-                "height": 320,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!320%2C320/0/default",
-                "width": 320
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!640%2C640/0/default",
-                "height": 640,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!640%2C640/0/default",
-                "width": 640
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!800%2C800/0/default",
-                "height": 800,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!800%2C800/0/default",
-                "width": 800
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1280%2C1280/0/default",
-                "height": 1280,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1280%2C1280/0/default",
-                "width": 1280
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1600%2C1600/0/default",
-                "height": 1600,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1600%2C1600/0/default",
-                "width": 1600
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1920%2C1920/0/default",
-                "height": 1920,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1920%2C1920/0/default",
-                "width": 1920
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!60%2C60/0/default",
-                "height": 60,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!60%2C60/0/default",
-                "width": 60
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!250%2C250/0/default",
-                "height": 250,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!250%2C250/0/default",
-                "width": 250
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!200%2C200/0/default",
-                "height": 200,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!200%2C200/0/default",
-                "width": 200
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!100%2C100/0/default",
-                "height": 100,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!100%2C100/0/default",
-                "width": 100
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!500%2C500/0/default",
-                "height": 500,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!500%2C500/0/default",
-                "width": 500
-              }
-            ],
             "requiredAssets": [],
             "sameAs": [],
-            "seoDescription": "Praise Digital Album Cover",
+            "seoDescription": "JustPPL performs, \"I Stand All Amazed\" on Praise! Live from the Studio",
             "seoDescriptionAiGenerated": false,
-            "seoTitle": "Praise Album Cover",
+            "seoTitle": "I Stand All Amazed (Live)",
             "seoTitleAiGenerated": false,
-            "shareableDescription": "Praise Digital Album Cover",
-            "shareableTitle": "Praise Album Cover",
-            "title": "Praise Album Cover"
-          },
-          "title": "For the Beauty of the Earth (Live)",
-          "translator": []
-        },
-        "$id": "00000196-c6d9-d455-a9f6-deddb6e80000",
-        "$model": "assetPurpose",
-        "$rootId": "00000196-c6d9-d455-a9f6-deddb6e80000",
-        "$site": "music",
-        "$publishStatus": "PUBLISHED"
-      }
-    ]
-  },
-  {
-    "title": "I Stand All Amazed",
-    "slug": "2017-08-i-stand-all-amazed",
-    "bookSlug": "praise-live-from-the-studio",
-    "bookSectionTitle": "Praise! Live from the Studio",
-    "songNumber": "3",
-    "songDate": "2021-01-01",
-    "arrangers": [
-      {
-        "personName": "Rashida Call"
-      }
-    ],
-    "artists": [
-      {
-        "personName": "Just PPL"
-      }
-    ],
-    "authors": [
-      {
-        "personName": "Charles H. Gabriel"
-      }
-    ],
-    "composers": [
-      {
-        "personName": "Charles H. Gabriel"
-      },
-      {
-        "personName": "Darwin K. Wolford"
-      }
-    ],
-    "instrumentations": [
-      {
-        "name": "Voice"
-      }
-    ],
-    "musicalFeatures": [],
-    "recordingAvailable": true,
-    "sheetMusicAvailable": false,
-    "videoAvailable": true,
-    "tags": [
-      "Atonement of Jesus Christ",
-      "Easter",
-      "Jesus Christ",
-      "forgiveness",
-      "grace",
-      "gratitude",
-      "humility",
-      "joy",
-      "love",
-      "mercy",
-      "plan of salvation",
-      "praise",
-      "the sacrament",
-      "worship"
-    ],
-    "voicings": [],
-    "assets": [
-      {
-        "annotatedFields": {},
-        "assetType": "AUDIO_VOCAL",
-        "attributes": {},
-        "locatorIds": [],
-        "mediaObject": {
-          "annotatedFields": {},
-          "arranger": [],
-          "assetID": "3e9b60e97a2d11eca746eeeeac1e4d788a7dd3ba",
-          "attributes": {},
-          "composer": [],
-          "description": "JustPPL performs, \"I Stand All Amazed\" on Praise! Live from the Studio",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/3e/9b/3e9b60e97a2d11eca746eeeeac1e4d788a7dd3ba/i_stand_all_amazed_live_justppl_eng.mp3",
-          "duration": 286000,
-          "ipCode": "1 - Not IRI Owned",
-          "isPartOf": [],
-          "keywords": [
-            "music",
-            "Live from the Studio",
-            "2021",
-            "Praise"
-          ],
-          "$lastUpdatedDate": "Fri Sep 06 12:40:04 EDT 2024",
-          "locatorIds": [],
-          "lyricist": [],
-          "noindex": false,
-          "$id": "00000184-0ed5-d3a5-ab95-1fff18e80000",
-          "$lang": "eng",
-          "$model": "audio",
-          "$rootId": "00000184-0ed5-d3a5-ab95-1fff18e80000",
-          "$site": "music",
-          "performer": [],
-          "products": [],
-          "publicDownload": [],
-          "$publishDate": "Tue Oct 25 07:09:17 EDT 2022",
-          "$publishStatus": "PUBLISHED",
-          "related": [],
-          "requiredAssets": [],
-          "sameAs": [],
-          "seoDescription": "JustPPL performs, \"I Stand All Amazed\" on Praise! Live from the Studio",
-          "seoDescriptionAiGenerated": false,
-          "seoTitle": "I Stand All Amazed (Live)",
-          "seoTitleAiGenerated": false,
-          "shareableDescription": "JustPPL performs, \"I Stand All Amazed\" on Praise! Live from the Studio",
-          "shareableTitle": "I Stand All Amazed (Live)",
-          "thumbnail": {
-            "annotatedFields": {},
-            "assetID": "3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4",
-            "attributes": {},
-            "description": "Praise Digital Album Cover",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/1920,/0/default",
-            "focalPoint": {
-              "x": "50.00%",
-              "y": "50.00%"
+            "shareableDescription": "JustPPL performs, \"I Stand All Amazed\" on Praise! Live from the Studio",
+            "shareableTitle": "I Stand All Amazed (Live)",
+            "thumbnail": {
+              "annotatedFields": {},
+              "assetID": "3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4",
+              "attributes": {},
+              "description": "Praise Digital Album Cover",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/1920,/0/default",
+              "focalPoint": {
+                "x": "50.00%",
+                "y": "50.00%"
+              },
+              "ipCode": "0 - IRI Owned",
+              "isPartOf": [],
+              "keywords": [
+                "Guitars",
+                "Record Albums"
+              ],
+              "$lastUpdatedDate": "Fri Sep 06 12:40:09 EDT 2024",
+              "locatorIds": [],
+              "noindex": false,
+              "$id": "00000180-6261-d40b-a1e4-ff61a4580000",
+              "$lang": "eng",
+              "$model": "image",
+              "$rootId": "00000180-6261-d40b-a1e4-ff61a4580000",
+              "$site": "music",
+              "products": [],
+              "publicAltText": "A drawing of the silhoutte of a boy with brown hair, a red shirt, and yellow pants playing a guitar. The yellow words, \"Praise!\" are written at the top center of the light blue background.",
+              "publicDownload": [],
+              "$publishDate": "Mon Apr 25 16:20:07 EDT 2022",
+              "$publishStatus": "PUBLISHED",
+              "related": [],
+              "renditions": [
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!320%2C320/0/default",
+                  "height": 320,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!320%2C320/0/default",
+                  "width": 320
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!640%2C640/0/default",
+                  "height": 640,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!640%2C640/0/default",
+                  "width": 640
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!800%2C800/0/default",
+                  "height": 800,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!800%2C800/0/default",
+                  "width": 800
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1280%2C1280/0/default",
+                  "height": 1280,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1280%2C1280/0/default",
+                  "width": 1280
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1600%2C1600/0/default",
+                  "height": 1600,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1600%2C1600/0/default",
+                  "width": 1600
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1920%2C1920/0/default",
+                  "height": 1920,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1920%2C1920/0/default",
+                  "width": 1920
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!60%2C60/0/default",
+                  "height": 60,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!60%2C60/0/default",
+                  "width": 60
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!250%2C250/0/default",
+                  "height": 250,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!250%2C250/0/default",
+                  "width": 250
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!200%2C200/0/default",
+                  "height": 200,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!200%2C200/0/default",
+                  "width": 200
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!100%2C100/0/default",
+                  "height": 100,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!100%2C100/0/default",
+                  "width": 100
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!500%2C500/0/default",
+                  "height": 500,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!500%2C500/0/default",
+                  "width": 500
+                }
+              ],
+              "requiredAssets": [],
+              "sameAs": [],
+              "seoDescription": "Praise Digital Album Cover",
+              "seoDescriptionAiGenerated": false,
+              "seoTitle": "Praise Album Cover",
+              "seoTitleAiGenerated": false,
+              "shareableDescription": "Praise Digital Album Cover",
+              "shareableTitle": "Praise Album Cover",
+              "title": "Praise Album Cover"
             },
-            "ipCode": "0 - IRI Owned",
+            "title": "I Stand All Amazed (Live)",
+            "translator": []
+          },
+          "$id": "00000196-c6d9-d455-a9f6-deddb7750000",
+          "$model": "assetPurpose",
+          "$rootId": "00000196-c6d9-d455-a9f6-deddb7750000",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    },
+    {
+      "title": "There Is a Green Hill Far Away",
+      "slug": "2017-11-there-is-a-green-hill-far-away",
+      "bookSlug": "praise-live-from-the-studio",
+      "bookSectionTitle": "Praise! Live from the Studio",
+      "songNumber": "4",
+      "songDate": "2021-01-01",
+      "arrangers": [
+        {
+          "personName": "Renshaw"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Renshaw"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Cecil Frances Alexander"
+        },
+        {
+          "personName": "John H. Gower"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "John H. Gower"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [
+        "Atonement of Jesus Christ",
+        "Jesus Christ",
+        "discipleship",
+        "faith",
+        "grace",
+        "love",
+        "plan of salvation",
+        "sacrifice",
+        "the sacrament"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_VOCAL",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "3f1dd7587a2d11eca3feeeeeac1e84d0b41119a0",
+            "attributes": {},
+            "composer": [],
+            "description": "Renshaw performs, \"There Is a Green Hill Far Away\" on Praise! Live from the Studio",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/3f/1d/3f1dd7587a2d11eca3feeeeeac1e84d0b41119a0/there_is_a_green_hill_far_away_live_renshaw_eng.mp3",
+            "duration": 266000,
+            "ipCode": "1 - Not IRI Owned",
             "isPartOf": [],
             "keywords": [
-              "Guitars",
-              "Record Albums"
+              "music",
+              "Live from the Studio",
+              "2021",
+              "Praise"
             ],
-            "$lastUpdatedDate": "Fri Sep 06 12:40:09 EDT 2024",
+            "$lastUpdatedDate": "Fri Sep 06 12:40:05 EDT 2024",
             "locatorIds": [],
+            "lyricist": [],
             "noindex": false,
-            "$id": "00000180-6261-d40b-a1e4-ff61a4580000",
+            "$id": "00000184-0ed5-d3a5-ab95-1fff1aaf0000",
             "$lang": "eng",
-            "$model": "image",
-            "$rootId": "00000180-6261-d40b-a1e4-ff61a4580000",
+            "$model": "audio",
+            "$rootId": "00000184-0ed5-d3a5-ab95-1fff1aaf0000",
             "$site": "music",
+            "performer": [],
             "products": [],
-            "publicAltText": "A drawing of the silhoutte of a boy with brown hair, a red shirt, and yellow pants playing a guitar. The yellow words, \"Praise!\" are written at the top center of the light blue background.",
             "publicDownload": [],
-            "$publishDate": "Mon Apr 25 16:20:07 EDT 2022",
+            "$publishDate": "Tue Oct 25 07:09:17 EDT 2022",
             "$publishStatus": "PUBLISHED",
             "related": [],
-            "renditions": [
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!320%2C320/0/default",
-                "height": 320,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!320%2C320/0/default",
-                "width": 320
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!640%2C640/0/default",
-                "height": 640,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!640%2C640/0/default",
-                "width": 640
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!800%2C800/0/default",
-                "height": 800,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!800%2C800/0/default",
-                "width": 800
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1280%2C1280/0/default",
-                "height": 1280,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1280%2C1280/0/default",
-                "width": 1280
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1600%2C1600/0/default",
-                "height": 1600,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1600%2C1600/0/default",
-                "width": 1600
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1920%2C1920/0/default",
-                "height": 1920,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1920%2C1920/0/default",
-                "width": 1920
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!60%2C60/0/default",
-                "height": 60,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!60%2C60/0/default",
-                "width": 60
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!250%2C250/0/default",
-                "height": 250,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!250%2C250/0/default",
-                "width": 250
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!200%2C200/0/default",
-                "height": 200,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!200%2C200/0/default",
-                "width": 200
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!100%2C100/0/default",
-                "height": 100,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!100%2C100/0/default",
-                "width": 100
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!500%2C500/0/default",
-                "height": 500,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!500%2C500/0/default",
-                "width": 500
-              }
-            ],
             "requiredAssets": [],
             "sameAs": [],
-            "seoDescription": "Praise Digital Album Cover",
+            "seoDescription": "Renshaw performs, \"There Is a Green Hill Far Away\" on Praise! Live from the Studio",
             "seoDescriptionAiGenerated": false,
-            "seoTitle": "Praise Album Cover",
+            "seoTitle": "There Is a Green Hill Far Away (Live)",
             "seoTitleAiGenerated": false,
-            "shareableDescription": "Praise Digital Album Cover",
-            "shareableTitle": "Praise Album Cover",
-            "title": "Praise Album Cover"
-          },
-          "title": "I Stand All Amazed (Live)",
-          "translator": []
-        },
-        "$id": "00000196-c6d9-d455-a9f6-deddb7750000",
-        "$model": "assetPurpose",
-        "$rootId": "00000196-c6d9-d455-a9f6-deddb7750000",
-        "$site": "music",
-        "$publishStatus": "PUBLISHED"
-      }
-    ]
-  },
-  {
-    "title": "There Is a Green Hill Far Away",
-    "slug": "2017-11-there-is-a-green-hill-far-away",
-    "bookSlug": "praise-live-from-the-studio",
-    "bookSectionTitle": "Praise! Live from the Studio",
-    "songNumber": "4",
-    "songDate": "2021-01-01",
-    "arrangers": [
-      {
-        "personName": "Renshaw"
-      }
-    ],
-    "artists": [
-      {
-        "personName": "Renshaw"
-      }
-    ],
-    "authors": [
-      {
-        "personName": "Cecil Frances Alexander"
-      },
-      {
-        "personName": "John H. Gower"
-      }
-    ],
-    "composers": [
-      {
-        "personName": "John H. Gower"
-      }
-    ],
-    "instrumentations": [
-      {
-        "name": "Voice"
-      }
-    ],
-    "musicalFeatures": [],
-    "recordingAvailable": true,
-    "sheetMusicAvailable": false,
-    "videoAvailable": true,
-    "tags": [
-      "Atonement of Jesus Christ",
-      "Jesus Christ",
-      "discipleship",
-      "faith",
-      "grace",
-      "love",
-      "plan of salvation",
-      "sacrifice",
-      "the sacrament"
-    ],
-    "voicings": [],
-    "assets": [
-      {
-        "annotatedFields": {},
-        "assetType": "AUDIO_VOCAL",
-        "attributes": {},
-        "locatorIds": [],
-        "mediaObject": {
-          "annotatedFields": {},
-          "arranger": [],
-          "assetID": "3f1dd7587a2d11eca3feeeeeac1e84d0b41119a0",
-          "attributes": {},
-          "composer": [],
-          "description": "Renshaw performs, \"There Is a Green Hill Far Away\" on Praise! Live from the Studio",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/3f/1d/3f1dd7587a2d11eca3feeeeeac1e84d0b41119a0/there_is_a_green_hill_far_away_live_renshaw_eng.mp3",
-          "duration": 266000,
-          "ipCode": "1 - Not IRI Owned",
-          "isPartOf": [],
-          "keywords": [
-            "music",
-            "Live from the Studio",
-            "2021",
-            "Praise"
-          ],
-          "$lastUpdatedDate": "Fri Sep 06 12:40:05 EDT 2024",
-          "locatorIds": [],
-          "lyricist": [],
-          "noindex": false,
-          "$id": "00000184-0ed5-d3a5-ab95-1fff1aaf0000",
-          "$lang": "eng",
-          "$model": "audio",
-          "$rootId": "00000184-0ed5-d3a5-ab95-1fff1aaf0000",
-          "$site": "music",
-          "performer": [],
-          "products": [],
-          "publicDownload": [],
-          "$publishDate": "Tue Oct 25 07:09:17 EDT 2022",
-          "$publishStatus": "PUBLISHED",
-          "related": [],
-          "requiredAssets": [],
-          "sameAs": [],
-          "seoDescription": "Renshaw performs, \"There Is a Green Hill Far Away\" on Praise! Live from the Studio",
-          "seoDescriptionAiGenerated": false,
-          "seoTitle": "There Is a Green Hill Far Away (Live)",
-          "seoTitleAiGenerated": false,
-          "shareableDescription": "Renshaw performs, \"There Is a Green Hill Far Away\" on Praise! Live from the Studio",
-          "shareableTitle": "There Is a Green Hill Far Away (Live)",
-          "thumbnail": {
-            "annotatedFields": {},
-            "assetID": "3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4",
-            "attributes": {},
-            "description": "Praise Digital Album Cover",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/1920,/0/default",
-            "focalPoint": {
-              "x": "50.00%",
-              "y": "50.00%"
+            "shareableDescription": "Renshaw performs, \"There Is a Green Hill Far Away\" on Praise! Live from the Studio",
+            "shareableTitle": "There Is a Green Hill Far Away (Live)",
+            "thumbnail": {
+              "annotatedFields": {},
+              "assetID": "3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4",
+              "attributes": {},
+              "description": "Praise Digital Album Cover",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/1920,/0/default",
+              "focalPoint": {
+                "x": "50.00%",
+                "y": "50.00%"
+              },
+              "ipCode": "0 - IRI Owned",
+              "isPartOf": [],
+              "keywords": [
+                "Guitars",
+                "Record Albums"
+              ],
+              "$lastUpdatedDate": "Fri Sep 06 12:40:09 EDT 2024",
+              "locatorIds": [],
+              "noindex": false,
+              "$id": "00000180-6261-d40b-a1e4-ff61a4580000",
+              "$lang": "eng",
+              "$model": "image",
+              "$rootId": "00000180-6261-d40b-a1e4-ff61a4580000",
+              "$site": "music",
+              "products": [],
+              "publicAltText": "A drawing of the silhoutte of a boy with brown hair, a red shirt, and yellow pants playing a guitar. The yellow words, \"Praise!\" are written at the top center of the light blue background.",
+              "publicDownload": [],
+              "$publishDate": "Mon Apr 25 16:20:07 EDT 2022",
+              "$publishStatus": "PUBLISHED",
+              "related": [],
+              "renditions": [
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!320%2C320/0/default",
+                  "height": 320,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!320%2C320/0/default",
+                  "width": 320
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!640%2C640/0/default",
+                  "height": 640,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!640%2C640/0/default",
+                  "width": 640
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!800%2C800/0/default",
+                  "height": 800,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!800%2C800/0/default",
+                  "width": 800
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1280%2C1280/0/default",
+                  "height": 1280,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1280%2C1280/0/default",
+                  "width": 1280
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1600%2C1600/0/default",
+                  "height": 1600,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1600%2C1600/0/default",
+                  "width": 1600
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1920%2C1920/0/default",
+                  "height": 1920,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1920%2C1920/0/default",
+                  "width": 1920
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!60%2C60/0/default",
+                  "height": 60,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!60%2C60/0/default",
+                  "width": 60
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!250%2C250/0/default",
+                  "height": 250,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!250%2C250/0/default",
+                  "width": 250
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!200%2C200/0/default",
+                  "height": 200,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!200%2C200/0/default",
+                  "width": 200
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!100%2C100/0/default",
+                  "height": 100,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!100%2C100/0/default",
+                  "width": 100
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!500%2C500/0/default",
+                  "height": 500,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!500%2C500/0/default",
+                  "width": 500
+                }
+              ],
+              "requiredAssets": [],
+              "sameAs": [],
+              "seoDescription": "Praise Digital Album Cover",
+              "seoDescriptionAiGenerated": false,
+              "seoTitle": "Praise Album Cover",
+              "seoTitleAiGenerated": false,
+              "shareableDescription": "Praise Digital Album Cover",
+              "shareableTitle": "Praise Album Cover",
+              "title": "Praise Album Cover"
             },
-            "ipCode": "0 - IRI Owned",
+            "title": "There Is a Green Hill Far Away (Live)",
+            "translator": []
+          },
+          "$id": "00000196-c6da-d455-a9f6-dedeb3590000",
+          "$model": "assetPurpose",
+          "$rootId": "00000196-c6da-d455-a9f6-dedeb3590000",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    },
+    {
+      "title": "What I See",
+      "slug": "2017-11-what-i-see",
+      "bookSlug": "praise-live-from-the-studio",
+      "bookSectionTitle": "Praise! Live from the Studio",
+      "songNumber": "5",
+      "songDate": "2021-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Kendra Lowe"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Kendra Lowe"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [],
+      "voicings": [],
+      "assets": [
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_VOCAL",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "3fb9540b7a2d11ec82d6eeeeac1e33e88b6ae882",
+            "attributes": {},
+            "composer": [],
+            "description": "Nik Day sings, \"What I see\" on Praise! Live from the Studio",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/3f/b9/3fb9540b7a2d11ec82d6eeeeac1e33e88b6ae882/what_i_see_live_day_eng.mp3",
+            "duration": 209000,
+            "ipCode": "1 - Not IRI Owned",
             "isPartOf": [],
             "keywords": [
-              "Guitars",
-              "Record Albums"
+              "music",
+              "Live from the Studio",
+              "2021",
+              "Praise"
             ],
-            "$lastUpdatedDate": "Fri Sep 06 12:40:09 EDT 2024",
+            "$lastUpdatedDate": "Fri Sep 06 12:40:05 EDT 2024",
             "locatorIds": [],
+            "lyricist": [],
             "noindex": false,
-            "$id": "00000180-6261-d40b-a1e4-ff61a4580000",
+            "$id": "00000184-0ed5-d3a5-ab95-1fff1c810000",
             "$lang": "eng",
-            "$model": "image",
-            "$rootId": "00000180-6261-d40b-a1e4-ff61a4580000",
+            "$model": "audio",
+            "$rootId": "00000184-0ed5-d3a5-ab95-1fff1c810000",
             "$site": "music",
+            "performer": [],
             "products": [],
-            "publicAltText": "A drawing of the silhoutte of a boy with brown hair, a red shirt, and yellow pants playing a guitar. The yellow words, \"Praise!\" are written at the top center of the light blue background.",
             "publicDownload": [],
-            "$publishDate": "Mon Apr 25 16:20:07 EDT 2022",
+            "$publishDate": "Tue Oct 25 07:09:18 EDT 2022",
             "$publishStatus": "PUBLISHED",
             "related": [],
-            "renditions": [
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!320%2C320/0/default",
-                "height": 320,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!320%2C320/0/default",
-                "width": 320
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!640%2C640/0/default",
-                "height": 640,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!640%2C640/0/default",
-                "width": 640
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!800%2C800/0/default",
-                "height": 800,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!800%2C800/0/default",
-                "width": 800
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1280%2C1280/0/default",
-                "height": 1280,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1280%2C1280/0/default",
-                "width": 1280
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1600%2C1600/0/default",
-                "height": 1600,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1600%2C1600/0/default",
-                "width": 1600
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1920%2C1920/0/default",
-                "height": 1920,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1920%2C1920/0/default",
-                "width": 1920
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!60%2C60/0/default",
-                "height": 60,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!60%2C60/0/default",
-                "width": 60
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!250%2C250/0/default",
-                "height": 250,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!250%2C250/0/default",
-                "width": 250
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!200%2C200/0/default",
-                "height": 200,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!200%2C200/0/default",
-                "width": 200
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!100%2C100/0/default",
-                "height": 100,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!100%2C100/0/default",
-                "width": 100
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!500%2C500/0/default",
-                "height": 500,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!500%2C500/0/default",
-                "width": 500
-              }
-            ],
             "requiredAssets": [],
             "sameAs": [],
-            "seoDescription": "Praise Digital Album Cover",
+            "seoDescription": "Nik Day sings, \"What I see\" on Praise! Live from the Studio",
             "seoDescriptionAiGenerated": false,
-            "seoTitle": "Praise Album Cover",
+            "seoTitle": "What I See (Live)",
             "seoTitleAiGenerated": false,
-            "shareableDescription": "Praise Digital Album Cover",
-            "shareableTitle": "Praise Album Cover",
-            "title": "Praise Album Cover"
-          },
-          "title": "There Is a Green Hill Far Away (Live)",
-          "translator": []
-        },
-        "$id": "00000196-c6da-d455-a9f6-dedeb3590000",
-        "$model": "assetPurpose",
-        "$rootId": "00000196-c6da-d455-a9f6-dedeb3590000",
-        "$site": "music",
-        "$publishStatus": "PUBLISHED"
-      }
-    ]
-  },
-  {
-    "title": "What I See",
-    "slug": "2017-11-what-i-see",
-    "bookSlug": "praise-live-from-the-studio",
-    "bookSectionTitle": "Praise! Live from the Studio",
-    "songNumber": "5",
-    "songDate": "2021-01-01",
-    "arrangers": [],
-    "artists": [
-      {
-        "personName": "Nik Day"
-      }
-    ],
-    "authors": [
-      {
-        "personName": "Nik Day"
-      },
-      {
-        "personName": "Kendra Lowe"
-      }
-    ],
-    "composers": [
-      {
-        "personName": "Nik Day"
-      },
-      {
-        "personName": "Kendra Lowe"
-      }
-    ],
-    "instrumentations": [
-      {
-        "name": "Voice"
-      }
-    ],
-    "musicalFeatures": [],
-    "recordingAvailable": true,
-    "sheetMusicAvailable": false,
-    "videoAvailable": true,
-    "tags": [],
-    "voicings": [],
-    "assets": [
-      {
-        "annotatedFields": {},
-        "assetType": "AUDIO_VOCAL",
-        "attributes": {},
-        "locatorIds": [],
-        "mediaObject": {
-          "annotatedFields": {},
-          "arranger": [],
-          "assetID": "3fb9540b7a2d11ec82d6eeeeac1e33e88b6ae882",
-          "attributes": {},
-          "composer": [],
-          "description": "Nik Day sings, \"What I see\" on Praise! Live from the Studio",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/3f/b9/3fb9540b7a2d11ec82d6eeeeac1e33e88b6ae882/what_i_see_live_day_eng.mp3",
-          "duration": 209000,
-          "ipCode": "1 - Not IRI Owned",
-          "isPartOf": [],
-          "keywords": [
-            "music",
-            "Live from the Studio",
-            "2021",
-            "Praise"
-          ],
-          "$lastUpdatedDate": "Fri Sep 06 12:40:05 EDT 2024",
-          "locatorIds": [],
-          "lyricist": [],
-          "noindex": false,
-          "$id": "00000184-0ed5-d3a5-ab95-1fff1c810000",
-          "$lang": "eng",
-          "$model": "audio",
-          "$rootId": "00000184-0ed5-d3a5-ab95-1fff1c810000",
-          "$site": "music",
-          "performer": [],
-          "products": [],
-          "publicDownload": [],
-          "$publishDate": "Tue Oct 25 07:09:18 EDT 2022",
-          "$publishStatus": "PUBLISHED",
-          "related": [],
-          "requiredAssets": [],
-          "sameAs": [],
-          "seoDescription": "Nik Day sings, \"What I see\" on Praise! Live from the Studio",
-          "seoDescriptionAiGenerated": false,
-          "seoTitle": "What I See (Live)",
-          "seoTitleAiGenerated": false,
-          "shareableDescription": "Nik Day sings, \"What I see\" on Praise! Live from the Studio",
-          "shareableTitle": "What I See (Live)",
-          "thumbnail": {
-            "annotatedFields": {},
-            "assetID": "3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4",
-            "attributes": {},
-            "description": "Praise Digital Album Cover",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/1920,/0/default",
-            "focalPoint": {
-              "x": "50.00%",
-              "y": "50.00%"
+            "shareableDescription": "Nik Day sings, \"What I see\" on Praise! Live from the Studio",
+            "shareableTitle": "What I See (Live)",
+            "thumbnail": {
+              "annotatedFields": {},
+              "assetID": "3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4",
+              "attributes": {},
+              "description": "Praise Digital Album Cover",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/1920,/0/default",
+              "focalPoint": {
+                "x": "50.00%",
+                "y": "50.00%"
+              },
+              "ipCode": "0 - IRI Owned",
+              "isPartOf": [],
+              "keywords": [
+                "Guitars",
+                "Record Albums"
+              ],
+              "$lastUpdatedDate": "Fri Sep 06 12:40:09 EDT 2024",
+              "locatorIds": [],
+              "noindex": false,
+              "$id": "00000180-6261-d40b-a1e4-ff61a4580000",
+              "$lang": "eng",
+              "$model": "image",
+              "$rootId": "00000180-6261-d40b-a1e4-ff61a4580000",
+              "$site": "music",
+              "products": [],
+              "publicAltText": "A drawing of the silhoutte of a boy with brown hair, a red shirt, and yellow pants playing a guitar. The yellow words, \"Praise!\" are written at the top center of the light blue background.",
+              "publicDownload": [],
+              "$publishDate": "Mon Apr 25 16:20:07 EDT 2022",
+              "$publishStatus": "PUBLISHED",
+              "related": [],
+              "renditions": [
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!320%2C320/0/default",
+                  "height": 320,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!320%2C320/0/default",
+                  "width": 320
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!640%2C640/0/default",
+                  "height": 640,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!640%2C640/0/default",
+                  "width": 640
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!800%2C800/0/default",
+                  "height": 800,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!800%2C800/0/default",
+                  "width": 800
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1280%2C1280/0/default",
+                  "height": 1280,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1280%2C1280/0/default",
+                  "width": 1280
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1600%2C1600/0/default",
+                  "height": 1600,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1600%2C1600/0/default",
+                  "width": 1600
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1920%2C1920/0/default",
+                  "height": 1920,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1920%2C1920/0/default",
+                  "width": 1920
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!60%2C60/0/default",
+                  "height": 60,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!60%2C60/0/default",
+                  "width": 60
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!250%2C250/0/default",
+                  "height": 250,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!250%2C250/0/default",
+                  "width": 250
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!200%2C200/0/default",
+                  "height": 200,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!200%2C200/0/default",
+                  "width": 200
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!100%2C100/0/default",
+                  "height": 100,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!100%2C100/0/default",
+                  "width": 100
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!500%2C500/0/default",
+                  "height": 500,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!500%2C500/0/default",
+                  "width": 500
+                }
+              ],
+              "requiredAssets": [],
+              "sameAs": [],
+              "seoDescription": "Praise Digital Album Cover",
+              "seoDescriptionAiGenerated": false,
+              "seoTitle": "Praise Album Cover",
+              "seoTitleAiGenerated": false,
+              "shareableDescription": "Praise Digital Album Cover",
+              "shareableTitle": "Praise Album Cover",
+              "title": "Praise Album Cover"
             },
-            "ipCode": "0 - IRI Owned",
+            "title": "What I See (Live)",
+            "translator": []
+          },
+          "$id": "00000196-c6da-d455-a9f6-dedeb4f20000",
+          "$model": "assetPurpose",
+          "$rootId": "00000196-c6da-d455-a9f6-dedeb4f20000",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    },
+    {
+      "title": "Nearer, My God, to Thee",
+      "slug": "2017-05-nearer-my-god-to-thee",
+      "bookSlug": "praise-live-from-the-studio",
+      "bookSectionTitle": "Praise! Live from the Studio",
+      "songNumber": "6",
+      "songDate": "2021-01-01",
+      "arrangers": [
+        {
+          "personName": "Madilyn Paige"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Madilyn Paige"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Sarah F. Adams"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Lowell Mason"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [
+        "Heavenly Father",
+        "Jesus Christ",
+        "comfort",
+        "guidance",
+        "mercy",
+        "peace",
+        "praise",
+        "prayer"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_VOCAL",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "3cf356357a2d11ec9f75eeeeac1ef3f0cf818bea",
+            "attributes": {},
+            "composer": [],
+            "description": "Madilyn Paige sings, \"Nearer, My God, to Thee\" on  Praise! Live from the Studio",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/3c/f3/3cf356357a2d11ec9f75eeeeac1ef3f0cf818bea/nearer_my_god_to_thee_live_paige_eng.mp3",
+            "duration": 107000,
+            "ipCode": "1 - Not IRI Owned",
             "isPartOf": [],
             "keywords": [
-              "Guitars",
-              "Record Albums"
+              "music",
+              "Live from the Studio",
+              "2021",
+              "Praise"
             ],
-            "$lastUpdatedDate": "Fri Sep 06 12:40:09 EDT 2024",
+            "$lastUpdatedDate": "Fri Sep 06 12:40:06 EDT 2024",
             "locatorIds": [],
+            "lyricist": [],
             "noindex": false,
-            "$id": "00000180-6261-d40b-a1e4-ff61a4580000",
+            "$id": "00000184-0ed5-d3a5-ab95-1fff1e480000",
             "$lang": "eng",
-            "$model": "image",
-            "$rootId": "00000180-6261-d40b-a1e4-ff61a4580000",
+            "$model": "audio",
+            "$rootId": "00000184-0ed5-d3a5-ab95-1fff1e480000",
             "$site": "music",
+            "performer": [],
             "products": [],
-            "publicAltText": "A drawing of the silhoutte of a boy with brown hair, a red shirt, and yellow pants playing a guitar. The yellow words, \"Praise!\" are written at the top center of the light blue background.",
             "publicDownload": [],
-            "$publishDate": "Mon Apr 25 16:20:07 EDT 2022",
+            "$publishDate": "Tue Oct 25 07:09:18 EDT 2022",
             "$publishStatus": "PUBLISHED",
             "related": [],
-            "renditions": [
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!320%2C320/0/default",
-                "height": 320,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!320%2C320/0/default",
-                "width": 320
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!640%2C640/0/default",
-                "height": 640,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!640%2C640/0/default",
-                "width": 640
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!800%2C800/0/default",
-                "height": 800,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!800%2C800/0/default",
-                "width": 800
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1280%2C1280/0/default",
-                "height": 1280,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1280%2C1280/0/default",
-                "width": 1280
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1600%2C1600/0/default",
-                "height": 1600,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1600%2C1600/0/default",
-                "width": 1600
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1920%2C1920/0/default",
-                "height": 1920,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1920%2C1920/0/default",
-                "width": 1920
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!60%2C60/0/default",
-                "height": 60,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!60%2C60/0/default",
-                "width": 60
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!250%2C250/0/default",
-                "height": 250,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!250%2C250/0/default",
-                "width": 250
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!200%2C200/0/default",
-                "height": 200,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!200%2C200/0/default",
-                "width": 200
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!100%2C100/0/default",
-                "height": 100,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!100%2C100/0/default",
-                "width": 100
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!500%2C500/0/default",
-                "height": 500,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!500%2C500/0/default",
-                "width": 500
-              }
-            ],
             "requiredAssets": [],
             "sameAs": [],
-            "seoDescription": "Praise Digital Album Cover",
+            "seoDescription": "Madilyn Paige sings, \"Nearer, My God, to Thee\" on  Praise! Live from the Studio",
             "seoDescriptionAiGenerated": false,
-            "seoTitle": "Praise Album Cover",
+            "seoTitle": "Nearer, My God, to Thee (Live)",
             "seoTitleAiGenerated": false,
-            "shareableDescription": "Praise Digital Album Cover",
-            "shareableTitle": "Praise Album Cover",
-            "title": "Praise Album Cover"
-          },
-          "title": "What I See (Live)",
-          "translator": []
-        },
-        "$id": "00000196-c6da-d455-a9f6-dedeb4f20000",
-        "$model": "assetPurpose",
-        "$rootId": "00000196-c6da-d455-a9f6-dedeb4f20000",
-        "$site": "music",
-        "$publishStatus": "PUBLISHED"
-      }
-    ]
-  },
-  {
-    "title": "Nearer, My God, to Thee",
-    "slug": "2017-05-nearer-my-god-to-thee",
-    "bookSlug": "praise-live-from-the-studio",
-    "bookSectionTitle": "Praise! Live from the Studio",
-    "songNumber": "6",
-    "songDate": "2021-01-01",
-    "arrangers": [
-      {
-        "personName": "Madilyn Paige"
-      }
-    ],
-    "artists": [
-      {
-        "personName": "Madilyn Paige"
-      }
-    ],
-    "authors": [
-      {
-        "personName": "Sarah F. Adams"
-      }
-    ],
-    "composers": [
-      {
-        "personName": "Lowell Mason"
-      }
-    ],
-    "instrumentations": [
-      {
-        "name": "Voice"
-      }
-    ],
-    "musicalFeatures": [],
-    "recordingAvailable": true,
-    "sheetMusicAvailable": false,
-    "videoAvailable": true,
-    "tags": [
-      "Heavenly Father",
-      "Jesus Christ",
-      "comfort",
-      "guidance",
-      "mercy",
-      "peace",
-      "praise",
-      "prayer"
-    ],
-    "voicings": [],
-    "assets": [
-      {
-        "annotatedFields": {},
-        "assetType": "AUDIO_VOCAL",
-        "attributes": {},
-        "locatorIds": [],
-        "mediaObject": {
-          "annotatedFields": {},
-          "arranger": [],
-          "assetID": "3cf356357a2d11ec9f75eeeeac1ef3f0cf818bea",
-          "attributes": {},
-          "composer": [],
-          "description": "Madilyn Paige sings, \"Nearer, My God, to Thee\" on  Praise! Live from the Studio",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/3c/f3/3cf356357a2d11ec9f75eeeeac1ef3f0cf818bea/nearer_my_god_to_thee_live_paige_eng.mp3",
-          "duration": 107000,
-          "ipCode": "1 - Not IRI Owned",
-          "isPartOf": [],
-          "keywords": [
-            "music",
-            "Live from the Studio",
-            "2021",
-            "Praise"
-          ],
-          "$lastUpdatedDate": "Fri Sep 06 12:40:06 EDT 2024",
-          "locatorIds": [],
-          "lyricist": [],
-          "noindex": false,
-          "$id": "00000184-0ed5-d3a5-ab95-1fff1e480000",
-          "$lang": "eng",
-          "$model": "audio",
-          "$rootId": "00000184-0ed5-d3a5-ab95-1fff1e480000",
-          "$site": "music",
-          "performer": [],
-          "products": [],
-          "publicDownload": [],
-          "$publishDate": "Tue Oct 25 07:09:18 EDT 2022",
-          "$publishStatus": "PUBLISHED",
-          "related": [],
-          "requiredAssets": [],
-          "sameAs": [],
-          "seoDescription": "Madilyn Paige sings, \"Nearer, My God, to Thee\" on  Praise! Live from the Studio",
-          "seoDescriptionAiGenerated": false,
-          "seoTitle": "Nearer, My God, to Thee (Live)",
-          "seoTitleAiGenerated": false,
-          "shareableDescription": "Madilyn Paige sings, \"Nearer, My God, to Thee\" on Praise! Live from the Studio",
-          "shareableTitle": "Nearer, My God, to Thee (Live)",
-          "thumbnail": {
-            "annotatedFields": {},
-            "assetID": "3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4",
-            "attributes": {},
-            "description": "Praise Digital Album Cover",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/1920,/0/default",
-            "focalPoint": {
-              "x": "50.00%",
-              "y": "50.00%"
+            "shareableDescription": "Madilyn Paige sings, \"Nearer, My God, to Thee\" on Praise! Live from the Studio",
+            "shareableTitle": "Nearer, My God, to Thee (Live)",
+            "thumbnail": {
+              "annotatedFields": {},
+              "assetID": "3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4",
+              "attributes": {},
+              "description": "Praise Digital Album Cover",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/1920,/0/default",
+              "focalPoint": {
+                "x": "50.00%",
+                "y": "50.00%"
+              },
+              "ipCode": "0 - IRI Owned",
+              "isPartOf": [],
+              "keywords": [
+                "Guitars",
+                "Record Albums"
+              ],
+              "$lastUpdatedDate": "Fri Sep 06 12:40:09 EDT 2024",
+              "locatorIds": [],
+              "noindex": false,
+              "$id": "00000180-6261-d40b-a1e4-ff61a4580000",
+              "$lang": "eng",
+              "$model": "image",
+              "$rootId": "00000180-6261-d40b-a1e4-ff61a4580000",
+              "$site": "music",
+              "products": [],
+              "publicAltText": "A drawing of the silhoutte of a boy with brown hair, a red shirt, and yellow pants playing a guitar. The yellow words, \"Praise!\" are written at the top center of the light blue background.",
+              "publicDownload": [],
+              "$publishDate": "Mon Apr 25 16:20:07 EDT 2022",
+              "$publishStatus": "PUBLISHED",
+              "related": [],
+              "renditions": [
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!320%2C320/0/default",
+                  "height": 320,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!320%2C320/0/default",
+                  "width": 320
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!640%2C640/0/default",
+                  "height": 640,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!640%2C640/0/default",
+                  "width": 640
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!800%2C800/0/default",
+                  "height": 800,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!800%2C800/0/default",
+                  "width": 800
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1280%2C1280/0/default",
+                  "height": 1280,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1280%2C1280/0/default",
+                  "width": 1280
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1600%2C1600/0/default",
+                  "height": 1600,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1600%2C1600/0/default",
+                  "width": 1600
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1920%2C1920/0/default",
+                  "height": 1920,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1920%2C1920/0/default",
+                  "width": 1920
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!60%2C60/0/default",
+                  "height": 60,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!60%2C60/0/default",
+                  "width": 60
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!250%2C250/0/default",
+                  "height": 250,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!250%2C250/0/default",
+                  "width": 250
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!200%2C200/0/default",
+                  "height": 200,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!200%2C200/0/default",
+                  "width": 200
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!100%2C100/0/default",
+                  "height": 100,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!100%2C100/0/default",
+                  "width": 100
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!500%2C500/0/default",
+                  "height": 500,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!500%2C500/0/default",
+                  "width": 500
+                }
+              ],
+              "requiredAssets": [],
+              "sameAs": [],
+              "seoDescription": "Praise Digital Album Cover",
+              "seoDescriptionAiGenerated": false,
+              "seoTitle": "Praise Album Cover",
+              "seoTitleAiGenerated": false,
+              "shareableDescription": "Praise Digital Album Cover",
+              "shareableTitle": "Praise Album Cover",
+              "title": "Praise Album Cover"
             },
-            "ipCode": "0 - IRI Owned",
+            "title": "Nearer, My God, to Thee (Live)",
+            "translator": []
+          },
+          "$id": "00000196-c6d9-d455-a9f6-deddb5430000",
+          "$model": "assetPurpose",
+          "$rootId": "00000196-c6d9-d455-a9f6-deddb5430000",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    },
+    {
+      "title": "I Need Thee Every Hour",
+      "slug": "2017-06-i-need-thee-every-hour",
+      "bookSlug": "praise-live-from-the-studio",
+      "bookSectionTitle": "Praise! Live from the Studio",
+      "songNumber": "7",
+      "songDate": "2021-01-01",
+      "arrangers": [
+        {
+          "personName": "Happy Medium"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Happy Medium"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Annie S. Hawks"
+        },
+        {
+          "personName": "Robert Lowry"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Robert Lowry"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [
+        "Jesus Christ",
+        "comfort",
+        "grace",
+        "gratitude",
+        "praise",
+        "prayer",
+        "temptation"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_VOCAL",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "3b81ebe67a2d11ec8d6eeeeeac1e8870489a8754",
+            "attributes": {},
+            "composer": [],
+            "description": "Happy Medium performs, \"I Need Thee Every Hour\" on Praise! Live from the Studio",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/3b/81/3b81ebe67a2d11ec8d6eeeeeac1e8870489a8754/i_need_thee_every_hour_live_happy_medium_eng.mp3",
+            "duration": 199000,
+            "ipCode": "1 - Not IRI Owned",
             "isPartOf": [],
             "keywords": [
-              "Guitars",
-              "Record Albums"
+              "music",
+              "Live from the Studio",
+              "2021",
+              "Praise"
             ],
-            "$lastUpdatedDate": "Fri Sep 06 12:40:09 EDT 2024",
+            "$lastUpdatedDate": "Fri Sep 06 12:40:06 EDT 2024",
             "locatorIds": [],
+            "lyricist": [],
             "noindex": false,
-            "$id": "00000180-6261-d40b-a1e4-ff61a4580000",
+            "$id": "00000184-0ed5-d3a5-ab95-1fff20170000",
             "$lang": "eng",
-            "$model": "image",
-            "$rootId": "00000180-6261-d40b-a1e4-ff61a4580000",
+            "$model": "audio",
+            "$rootId": "00000184-0ed5-d3a5-ab95-1fff20170000",
             "$site": "music",
+            "performer": [],
             "products": [],
-            "publicAltText": "A drawing of the silhoutte of a boy with brown hair, a red shirt, and yellow pants playing a guitar. The yellow words, \"Praise!\" are written at the top center of the light blue background.",
             "publicDownload": [],
-            "$publishDate": "Mon Apr 25 16:20:07 EDT 2022",
+            "$publishDate": "Tue Oct 25 07:09:19 EDT 2022",
             "$publishStatus": "PUBLISHED",
             "related": [],
-            "renditions": [
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!320%2C320/0/default",
-                "height": 320,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!320%2C320/0/default",
-                "width": 320
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!640%2C640/0/default",
-                "height": 640,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!640%2C640/0/default",
-                "width": 640
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!800%2C800/0/default",
-                "height": 800,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!800%2C800/0/default",
-                "width": 800
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1280%2C1280/0/default",
-                "height": 1280,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1280%2C1280/0/default",
-                "width": 1280
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1600%2C1600/0/default",
-                "height": 1600,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1600%2C1600/0/default",
-                "width": 1600
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1920%2C1920/0/default",
-                "height": 1920,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1920%2C1920/0/default",
-                "width": 1920
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!60%2C60/0/default",
-                "height": 60,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!60%2C60/0/default",
-                "width": 60
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!250%2C250/0/default",
-                "height": 250,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!250%2C250/0/default",
-                "width": 250
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!200%2C200/0/default",
-                "height": 200,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!200%2C200/0/default",
-                "width": 200
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!100%2C100/0/default",
-                "height": 100,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!100%2C100/0/default",
-                "width": 100
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!500%2C500/0/default",
-                "height": 500,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!500%2C500/0/default",
-                "width": 500
-              }
-            ],
             "requiredAssets": [],
             "sameAs": [],
-            "seoDescription": "Praise Digital Album Cover",
+            "seoDescription": "Happy Medium performs, \"I Need Thee Every Hour\" on Praise! Live from the Studio",
             "seoDescriptionAiGenerated": false,
-            "seoTitle": "Praise Album Cover",
+            "seoTitle": "I Need Thee Every Hour (Live)",
             "seoTitleAiGenerated": false,
-            "shareableDescription": "Praise Digital Album Cover",
-            "shareableTitle": "Praise Album Cover",
-            "title": "Praise Album Cover"
-          },
-          "title": "Nearer, My God, to Thee (Live)",
-          "translator": []
-        },
-        "$id": "00000196-c6d9-d455-a9f6-deddb5430000",
-        "$model": "assetPurpose",
-        "$rootId": "00000196-c6d9-d455-a9f6-deddb5430000",
-        "$site": "music",
-        "$publishStatus": "PUBLISHED"
-      }
-    ]
-  },
-  {
-    "title": "I Need Thee Every Hour",
-    "slug": "2017-06-i-need-thee-every-hour",
-    "bookSlug": "praise-live-from-the-studio",
-    "bookSectionTitle": "Praise! Live from the Studio",
-    "songNumber": "7",
-    "songDate": "2021-01-01",
-    "arrangers": [
-      {
-        "personName": "Happy Medium"
-      }
-    ],
-    "artists": [
-      {
-        "personName": "Happy Medium"
-      }
-    ],
-    "authors": [
-      {
-        "personName": "Annie S. Hawks"
-      },
-      {
-        "personName": "Robert Lowry"
-      }
-    ],
-    "composers": [
-      {
-        "personName": "Robert Lowry"
-      }
-    ],
-    "instrumentations": [
-      {
-        "name": "Voice"
-      }
-    ],
-    "musicalFeatures": [],
-    "recordingAvailable": true,
-    "sheetMusicAvailable": false,
-    "videoAvailable": true,
-    "tags": [
-      "Jesus Christ",
-      "comfort",
-      "grace",
-      "gratitude",
-      "praise",
-      "prayer",
-      "temptation"
-    ],
-    "voicings": [],
-    "assets": [
-      {
-        "annotatedFields": {},
-        "assetType": "AUDIO_VOCAL",
-        "attributes": {},
-        "locatorIds": [],
-        "mediaObject": {
-          "annotatedFields": {},
-          "arranger": [],
-          "assetID": "3b81ebe67a2d11ec8d6eeeeeac1e8870489a8754",
-          "attributes": {},
-          "composer": [],
-          "description": "Happy Medium performs, \"I Need Thee Every Hour\" on Praise! Live from the Studio",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/3b/81/3b81ebe67a2d11ec8d6eeeeeac1e8870489a8754/i_need_thee_every_hour_live_happy_medium_eng.mp3",
-          "duration": 199000,
-          "ipCode": "1 - Not IRI Owned",
-          "isPartOf": [],
-          "keywords": [
-            "music",
-            "Live from the Studio",
-            "2021",
-            "Praise"
-          ],
-          "$lastUpdatedDate": "Fri Sep 06 12:40:06 EDT 2024",
-          "locatorIds": [],
-          "lyricist": [],
-          "noindex": false,
-          "$id": "00000184-0ed5-d3a5-ab95-1fff20170000",
-          "$lang": "eng",
-          "$model": "audio",
-          "$rootId": "00000184-0ed5-d3a5-ab95-1fff20170000",
-          "$site": "music",
-          "performer": [],
-          "products": [],
-          "publicDownload": [],
-          "$publishDate": "Tue Oct 25 07:09:19 EDT 2022",
-          "$publishStatus": "PUBLISHED",
-          "related": [],
-          "requiredAssets": [],
-          "sameAs": [],
-          "seoDescription": "Happy Medium performs, \"I Need Thee Every Hour\" on Praise! Live from the Studio",
-          "seoDescriptionAiGenerated": false,
-          "seoTitle": "I Need Thee Every Hour (Live)",
-          "seoTitleAiGenerated": false,
-          "shareableDescription": "Happy Medium performs, \"I Need Thee Every Hour\" on Praise! Live from the Studio",
-          "shareableTitle": "I Need Thee Every Hour (Live)",
-          "thumbnail": {
-            "annotatedFields": {},
-            "assetID": "3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4",
-            "attributes": {},
-            "description": "Praise Digital Album Cover",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/1920,/0/default",
-            "focalPoint": {
-              "x": "50.00%",
-              "y": "50.00%"
+            "shareableDescription": "Happy Medium performs, \"I Need Thee Every Hour\" on Praise! Live from the Studio",
+            "shareableTitle": "I Need Thee Every Hour (Live)",
+            "thumbnail": {
+              "annotatedFields": {},
+              "assetID": "3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4",
+              "attributes": {},
+              "description": "Praise Digital Album Cover",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/1920,/0/default",
+              "focalPoint": {
+                "x": "50.00%",
+                "y": "50.00%"
+              },
+              "ipCode": "0 - IRI Owned",
+              "isPartOf": [],
+              "keywords": [
+                "Guitars",
+                "Record Albums"
+              ],
+              "$lastUpdatedDate": "Fri Sep 06 12:40:09 EDT 2024",
+              "locatorIds": [],
+              "noindex": false,
+              "$id": "00000180-6261-d40b-a1e4-ff61a4580000",
+              "$lang": "eng",
+              "$model": "image",
+              "$rootId": "00000180-6261-d40b-a1e4-ff61a4580000",
+              "$site": "music",
+              "products": [],
+              "publicAltText": "A drawing of the silhoutte of a boy with brown hair, a red shirt, and yellow pants playing a guitar. The yellow words, \"Praise!\" are written at the top center of the light blue background.",
+              "publicDownload": [],
+              "$publishDate": "Mon Apr 25 16:20:07 EDT 2022",
+              "$publishStatus": "PUBLISHED",
+              "related": [],
+              "renditions": [
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!320%2C320/0/default",
+                  "height": 320,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!320%2C320/0/default",
+                  "width": 320
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!640%2C640/0/default",
+                  "height": 640,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!640%2C640/0/default",
+                  "width": 640
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!800%2C800/0/default",
+                  "height": 800,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!800%2C800/0/default",
+                  "width": 800
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1280%2C1280/0/default",
+                  "height": 1280,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1280%2C1280/0/default",
+                  "width": 1280
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1600%2C1600/0/default",
+                  "height": 1600,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1600%2C1600/0/default",
+                  "width": 1600
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1920%2C1920/0/default",
+                  "height": 1920,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1920%2C1920/0/default",
+                  "width": 1920
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!60%2C60/0/default",
+                  "height": 60,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!60%2C60/0/default",
+                  "width": 60
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!250%2C250/0/default",
+                  "height": 250,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!250%2C250/0/default",
+                  "width": 250
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!200%2C200/0/default",
+                  "height": 200,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!200%2C200/0/default",
+                  "width": 200
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!100%2C100/0/default",
+                  "height": 100,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!100%2C100/0/default",
+                  "width": 100
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!500%2C500/0/default",
+                  "height": 500,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!500%2C500/0/default",
+                  "width": 500
+                }
+              ],
+              "requiredAssets": [],
+              "sameAs": [],
+              "seoDescription": "Praise Digital Album Cover",
+              "seoDescriptionAiGenerated": false,
+              "seoTitle": "Praise Album Cover",
+              "seoTitleAiGenerated": false,
+              "shareableDescription": "Praise Digital Album Cover",
+              "shareableTitle": "Praise Album Cover",
+              "title": "Praise Album Cover"
             },
-            "ipCode": "0 - IRI Owned",
+            "title": "I Need Thee Every Hour (Live)",
+            "translator": []
+          },
+          "$id": "00000196-c6d9-d455-a9f6-deddb5e70000",
+          "$model": "assetPurpose",
+          "$rootId": "00000196-c6d9-d455-a9f6-deddb5e70000",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    },
+    {
+      "title": "Have I Done Any Good?",
+      "slug": "2017-10-have-i-done-any-good-toone",
+      "bookSlug": "praise-live-from-the-studio",
+      "bookSectionTitle": "Praise! Live from the Studio",
+      "songNumber": "8",
+      "songDate": "2021-01-01",
+      "arrangers": [
+        {
+          "personName": "Aubrey Toone"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Aubrey Toone"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Will L. Thompson"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Will L. Thompson"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [
+        "agency",
+        "joy",
+        "love",
+        "ministering",
+        "service",
+        "sharing",
+        "work"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_VOCAL",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "3a53a5157a2d11eca4f1eeeeac1e06c715e318ce",
+            "attributes": {},
+            "composer": [],
+            "description": "Aubrey Toone sings, \"Have I Done Any Good\" on Praise! Live from the Studio",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/3a/53/3a53a5157a2d11eca4f1eeeeac1e06c715e318ce/have_i_done_any_good_live_toone_eng.mp3",
+            "duration": 131000,
+            "ipCode": "1 - Not IRI Owned",
             "isPartOf": [],
             "keywords": [
-              "Guitars",
-              "Record Albums"
+              "music",
+              "Live from the Studio",
+              "2021",
+              "Praise"
             ],
-            "$lastUpdatedDate": "Fri Sep 06 12:40:09 EDT 2024",
+            "$lastUpdatedDate": "Fri Sep 06 12:40:07 EDT 2024",
             "locatorIds": [],
+            "lyricist": [],
             "noindex": false,
-            "$id": "00000180-6261-d40b-a1e4-ff61a4580000",
+            "$id": "00000184-0ed5-d3a5-ab95-1fff21d90000",
             "$lang": "eng",
-            "$model": "image",
-            "$rootId": "00000180-6261-d40b-a1e4-ff61a4580000",
+            "$model": "audio",
+            "$rootId": "00000184-0ed5-d3a5-ab95-1fff21d90000",
             "$site": "music",
+            "performer": [],
             "products": [],
-            "publicAltText": "A drawing of the silhoutte of a boy with brown hair, a red shirt, and yellow pants playing a guitar. The yellow words, \"Praise!\" are written at the top center of the light blue background.",
             "publicDownload": [],
-            "$publishDate": "Mon Apr 25 16:20:07 EDT 2022",
+            "$publishDate": "Tue Oct 25 07:09:19 EDT 2022",
             "$publishStatus": "PUBLISHED",
             "related": [],
-            "renditions": [
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!320%2C320/0/default",
-                "height": 320,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!320%2C320/0/default",
-                "width": 320
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!640%2C640/0/default",
-                "height": 640,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!640%2C640/0/default",
-                "width": 640
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!800%2C800/0/default",
-                "height": 800,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!800%2C800/0/default",
-                "width": 800
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1280%2C1280/0/default",
-                "height": 1280,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1280%2C1280/0/default",
-                "width": 1280
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1600%2C1600/0/default",
-                "height": 1600,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1600%2C1600/0/default",
-                "width": 1600
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1920%2C1920/0/default",
-                "height": 1920,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1920%2C1920/0/default",
-                "width": 1920
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!60%2C60/0/default",
-                "height": 60,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!60%2C60/0/default",
-                "width": 60
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!250%2C250/0/default",
-                "height": 250,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!250%2C250/0/default",
-                "width": 250
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!200%2C200/0/default",
-                "height": 200,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!200%2C200/0/default",
-                "width": 200
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!100%2C100/0/default",
-                "height": 100,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!100%2C100/0/default",
-                "width": 100
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!500%2C500/0/default",
-                "height": 500,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!500%2C500/0/default",
-                "width": 500
-              }
-            ],
             "requiredAssets": [],
             "sameAs": [],
-            "seoDescription": "Praise Digital Album Cover",
+            "seoDescription": "Aubrey Toone sings, \"Have I Done Any Good\" on Praise! Live from the Studio",
             "seoDescriptionAiGenerated": false,
-            "seoTitle": "Praise Album Cover",
+            "seoTitle": "Have I Done Any Good? (Live)",
             "seoTitleAiGenerated": false,
-            "shareableDescription": "Praise Digital Album Cover",
-            "shareableTitle": "Praise Album Cover",
-            "title": "Praise Album Cover"
-          },
-          "title": "I Need Thee Every Hour (Live)",
-          "translator": []
-        },
-        "$id": "00000196-c6d9-d455-a9f6-deddb5e70000",
-        "$model": "assetPurpose",
-        "$rootId": "00000196-c6d9-d455-a9f6-deddb5e70000",
-        "$site": "music",
-        "$publishStatus": "PUBLISHED"
-      }
-    ]
-  },
-  {
-    "title": "Have I Done Any Good?",
-    "slug": "2017-10-have-i-done-any-good-toone",
-    "bookSlug": "praise-live-from-the-studio",
-    "bookSectionTitle": "Praise! Live from the Studio",
-    "songNumber": "8",
-    "songDate": "2021-01-01",
-    "arrangers": [
-      {
-        "personName": "Aubrey Toone"
-      }
-    ],
-    "artists": [
-      {
-        "personName": "Aubrey Toone"
-      }
-    ],
-    "authors": [
-      {
-        "personName": "Will L. Thompson"
-      }
-    ],
-    "composers": [
-      {
-        "personName": "Will L. Thompson"
-      }
-    ],
-    "instrumentations": [
-      {
-        "name": "Voice"
-      }
-    ],
-    "musicalFeatures": [],
-    "recordingAvailable": true,
-    "sheetMusicAvailable": false,
-    "videoAvailable": true,
-    "tags": [
-      "agency",
-      "joy",
-      "love",
-      "ministering",
-      "service",
-      "sharing",
-      "work"
-    ],
-    "voicings": [],
-    "assets": [
-      {
-        "annotatedFields": {},
-        "assetType": "AUDIO_VOCAL",
-        "attributes": {},
-        "locatorIds": [],
-        "mediaObject": {
-          "annotatedFields": {},
-          "arranger": [],
-          "assetID": "3a53a5157a2d11eca4f1eeeeac1e06c715e318ce",
-          "attributes": {},
-          "composer": [],
-          "description": "Aubrey Toone sings, \"Have I Done Any Good\" on Praise! Live from the Studio",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/3a/53/3a53a5157a2d11eca4f1eeeeac1e06c715e318ce/have_i_done_any_good_live_toone_eng.mp3",
-          "duration": 131000,
-          "ipCode": "1 - Not IRI Owned",
-          "isPartOf": [],
-          "keywords": [
-            "music",
-            "Live from the Studio",
-            "2021",
-            "Praise"
-          ],
-          "$lastUpdatedDate": "Fri Sep 06 12:40:07 EDT 2024",
-          "locatorIds": [],
-          "lyricist": [],
-          "noindex": false,
-          "$id": "00000184-0ed5-d3a5-ab95-1fff21d90000",
-          "$lang": "eng",
-          "$model": "audio",
-          "$rootId": "00000184-0ed5-d3a5-ab95-1fff21d90000",
-          "$site": "music",
-          "performer": [],
-          "products": [],
-          "publicDownload": [],
-          "$publishDate": "Tue Oct 25 07:09:19 EDT 2022",
-          "$publishStatus": "PUBLISHED",
-          "related": [],
-          "requiredAssets": [],
-          "sameAs": [],
-          "seoDescription": "Aubrey Toone sings, \"Have I Done Any Good\" on Praise! Live from the Studio",
-          "seoDescriptionAiGenerated": false,
-          "seoTitle": "Have I Done Any Good? (Live)",
-          "seoTitleAiGenerated": false,
-          "shareableDescription": "Aubrey Toone sings, \"Have I Done Any Good\" on Praise! Live from the Studio",
-          "shareableTitle": "Have I Done Any Good? (Live)",
-          "thumbnail": {
-            "annotatedFields": {},
-            "assetID": "3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4",
-            "attributes": {},
-            "description": "Praise Digital Album Cover",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/1920,/0/default",
-            "focalPoint": {
-              "x": "50.00%",
-              "y": "50.00%"
+            "shareableDescription": "Aubrey Toone sings, \"Have I Done Any Good\" on Praise! Live from the Studio",
+            "shareableTitle": "Have I Done Any Good? (Live)",
+            "thumbnail": {
+              "annotatedFields": {},
+              "assetID": "3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4",
+              "attributes": {},
+              "description": "Praise Digital Album Cover",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/1920,/0/default",
+              "focalPoint": {
+                "x": "50.00%",
+                "y": "50.00%"
+              },
+              "ipCode": "0 - IRI Owned",
+              "isPartOf": [],
+              "keywords": [
+                "Guitars",
+                "Record Albums"
+              ],
+              "$lastUpdatedDate": "Fri Sep 06 12:40:09 EDT 2024",
+              "locatorIds": [],
+              "noindex": false,
+              "$id": "00000180-6261-d40b-a1e4-ff61a4580000",
+              "$lang": "eng",
+              "$model": "image",
+              "$rootId": "00000180-6261-d40b-a1e4-ff61a4580000",
+              "$site": "music",
+              "products": [],
+              "publicAltText": "A drawing of the silhoutte of a boy with brown hair, a red shirt, and yellow pants playing a guitar. The yellow words, \"Praise!\" are written at the top center of the light blue background.",
+              "publicDownload": [],
+              "$publishDate": "Mon Apr 25 16:20:07 EDT 2022",
+              "$publishStatus": "PUBLISHED",
+              "related": [],
+              "renditions": [
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!320%2C320/0/default",
+                  "height": 320,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!320%2C320/0/default",
+                  "width": 320
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!640%2C640/0/default",
+                  "height": 640,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!640%2C640/0/default",
+                  "width": 640
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!800%2C800/0/default",
+                  "height": 800,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!800%2C800/0/default",
+                  "width": 800
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1280%2C1280/0/default",
+                  "height": 1280,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1280%2C1280/0/default",
+                  "width": 1280
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1600%2C1600/0/default",
+                  "height": 1600,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1600%2C1600/0/default",
+                  "width": 1600
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1920%2C1920/0/default",
+                  "height": 1920,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1920%2C1920/0/default",
+                  "width": 1920
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!60%2C60/0/default",
+                  "height": 60,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!60%2C60/0/default",
+                  "width": 60
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!250%2C250/0/default",
+                  "height": 250,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!250%2C250/0/default",
+                  "width": 250
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!200%2C200/0/default",
+                  "height": 200,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!200%2C200/0/default",
+                  "width": 200
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!100%2C100/0/default",
+                  "height": 100,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!100%2C100/0/default",
+                  "width": 100
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!500%2C500/0/default",
+                  "height": 500,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!500%2C500/0/default",
+                  "width": 500
+                }
+              ],
+              "requiredAssets": [],
+              "sameAs": [],
+              "seoDescription": "Praise Digital Album Cover",
+              "seoDescriptionAiGenerated": false,
+              "seoTitle": "Praise Album Cover",
+              "seoTitleAiGenerated": false,
+              "shareableDescription": "Praise Digital Album Cover",
+              "shareableTitle": "Praise Album Cover",
+              "title": "Praise Album Cover"
             },
-            "ipCode": "0 - IRI Owned",
+            "title": "Have I Done Any Good? (Live)",
+            "translator": []
+          },
+          "$id": "00000196-c6da-d455-a9f6-dedeb2a40000",
+          "$model": "assetPurpose",
+          "$rootId": "00000196-c6da-d455-a9f6-dedeb2a40000",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    },
+    {
+      "title": "Jesus, Once of Humble Birth",
+      "slug": "2017-11-jesus-once-of-humble-birth",
+      "bookSlug": "praise-live-from-the-studio",
+      "bookSectionTitle": "Praise! Live from the Studio",
+      "songNumber": "9",
+      "songDate": "2021-01-01",
+      "arrangers": [
+        {
+          "personName": "Kimberly Knighton"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Kimberly Knighton"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Parley P. Pratt"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Giacomo Meyerbeer"
+        },
+        {
+          "personName": "English Chorister"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [
+        "Atonement of Jesus Christ",
+        "Christmas",
+        "Jesus Christ",
+        "Second Coming",
+        "praise",
+        "the sacrament",
+        "worship"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_VOCAL",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "3cb6c25b7a2d11ec9315eeeeac1e5d4dd58d7640",
+            "attributes": {},
+            "composer": [],
+            "description": "Kimberly Knighton sings, \"Jesus, Once of Humble Birth\" on Praise! Live from the Studio",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/3c/b6/3cb6c25b7a2d11ec9315eeeeac1e5d4dd58d7640/jesus_once_of_humble_birth_live_knighton_eng.mp3",
+            "duration": 262000,
+            "ipCode": "1 - Not IRI Owned",
             "isPartOf": [],
             "keywords": [
-              "Guitars",
-              "Record Albums"
+              "music",
+              "Live from the Studio",
+              "2021",
+              "Praise"
             ],
-            "$lastUpdatedDate": "Fri Sep 06 12:40:09 EDT 2024",
+            "$lastUpdatedDate": "Fri Sep 06 12:40:08 EDT 2024",
             "locatorIds": [],
+            "lyricist": [],
             "noindex": false,
-            "$id": "00000180-6261-d40b-a1e4-ff61a4580000",
+            "$id": "00000184-0ed5-d3a5-ab95-1fff23b90000",
             "$lang": "eng",
-            "$model": "image",
-            "$rootId": "00000180-6261-d40b-a1e4-ff61a4580000",
+            "$model": "audio",
+            "$rootId": "00000184-0ed5-d3a5-ab95-1fff23b90000",
             "$site": "music",
+            "performer": [],
             "products": [],
-            "publicAltText": "A drawing of the silhoutte of a boy with brown hair, a red shirt, and yellow pants playing a guitar. The yellow words, \"Praise!\" are written at the top center of the light blue background.",
             "publicDownload": [],
-            "$publishDate": "Mon Apr 25 16:20:07 EDT 2022",
+            "$publishDate": "Tue Oct 25 07:09:20 EDT 2022",
             "$publishStatus": "PUBLISHED",
             "related": [],
-            "renditions": [
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!320%2C320/0/default",
-                "height": 320,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!320%2C320/0/default",
-                "width": 320
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!640%2C640/0/default",
-                "height": 640,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!640%2C640/0/default",
-                "width": 640
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!800%2C800/0/default",
-                "height": 800,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!800%2C800/0/default",
-                "width": 800
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1280%2C1280/0/default",
-                "height": 1280,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1280%2C1280/0/default",
-                "width": 1280
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1600%2C1600/0/default",
-                "height": 1600,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1600%2C1600/0/default",
-                "width": 1600
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1920%2C1920/0/default",
-                "height": 1920,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1920%2C1920/0/default",
-                "width": 1920
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!60%2C60/0/default",
-                "height": 60,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!60%2C60/0/default",
-                "width": 60
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!250%2C250/0/default",
-                "height": 250,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!250%2C250/0/default",
-                "width": 250
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!200%2C200/0/default",
-                "height": 200,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!200%2C200/0/default",
-                "width": 200
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!100%2C100/0/default",
-                "height": 100,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!100%2C100/0/default",
-                "width": 100
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!500%2C500/0/default",
-                "height": 500,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!500%2C500/0/default",
-                "width": 500
-              }
-            ],
             "requiredAssets": [],
             "sameAs": [],
-            "seoDescription": "Praise Digital Album Cover",
+            "seoDescription": "Kimberly Knighton sings, \"Jesus, Once of Humble Birth\" on Praise! Live from the Studio",
             "seoDescriptionAiGenerated": false,
-            "seoTitle": "Praise Album Cover",
+            "seoTitle": "Jesus, Once of Humble Birth (Live)",
             "seoTitleAiGenerated": false,
-            "shareableDescription": "Praise Digital Album Cover",
-            "shareableTitle": "Praise Album Cover",
-            "title": "Praise Album Cover"
-          },
-          "title": "Have I Done Any Good? (Live)",
-          "translator": []
-        },
-        "$id": "00000196-c6da-d455-a9f6-dedeb2a40000",
-        "$model": "assetPurpose",
-        "$rootId": "00000196-c6da-d455-a9f6-dedeb2a40000",
-        "$site": "music",
-        "$publishStatus": "PUBLISHED"
-      }
-    ]
-  },
-  {
-    "title": "Jesus, Once of Humble Birth",
-    "slug": "2017-11-jesus-once-of-humble-birth",
-    "bookSlug": "praise-live-from-the-studio",
-    "bookSectionTitle": "Praise! Live from the Studio",
-    "songNumber": "9",
-    "songDate": "2021-01-01",
-    "arrangers": [
-      {
-        "personName": "Kimberly Knighton"
-      }
-    ],
-    "artists": [
-      {
-        "personName": "Kimberly Knighton"
-      }
-    ],
-    "authors": [
-      {
-        "personName": "Parley P. Pratt"
-      }
-    ],
-    "composers": [
-      {
-        "personName": "Giacomo Meyerbeer"
-      },
-      {
-        "personName": "English Chorister"
-      }
-    ],
-    "instrumentations": [
-      {
-        "name": "Voice"
-      }
-    ],
-    "musicalFeatures": [],
-    "recordingAvailable": true,
-    "sheetMusicAvailable": false,
-    "videoAvailable": true,
-    "tags": [
-      "Atonement of Jesus Christ",
-      "Christmas",
-      "Jesus Christ",
-      "Second Coming",
-      "praise",
-      "the sacrament",
-      "worship"
-    ],
-    "voicings": [],
-    "assets": [
-      {
-        "annotatedFields": {},
-        "assetType": "AUDIO_VOCAL",
-        "attributes": {},
-        "locatorIds": [],
-        "mediaObject": {
-          "annotatedFields": {},
-          "arranger": [],
-          "assetID": "3cb6c25b7a2d11ec9315eeeeac1e5d4dd58d7640",
-          "attributes": {},
-          "composer": [],
-          "description": "Kimberly Knighton sings, \"Jesus, Once of Humble Birth\" on Praise! Live from the Studio",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/3c/b6/3cb6c25b7a2d11ec9315eeeeac1e5d4dd58d7640/jesus_once_of_humble_birth_live_knighton_eng.mp3",
-          "duration": 262000,
-          "ipCode": "1 - Not IRI Owned",
-          "isPartOf": [],
-          "keywords": [
-            "music",
-            "Live from the Studio",
-            "2021",
-            "Praise"
-          ],
-          "$lastUpdatedDate": "Fri Sep 06 12:40:08 EDT 2024",
-          "locatorIds": [],
-          "lyricist": [],
-          "noindex": false,
-          "$id": "00000184-0ed5-d3a5-ab95-1fff23b90000",
-          "$lang": "eng",
-          "$model": "audio",
-          "$rootId": "00000184-0ed5-d3a5-ab95-1fff23b90000",
-          "$site": "music",
-          "performer": [],
-          "products": [],
-          "publicDownload": [],
-          "$publishDate": "Tue Oct 25 07:09:20 EDT 2022",
-          "$publishStatus": "PUBLISHED",
-          "related": [],
-          "requiredAssets": [],
-          "sameAs": [],
-          "seoDescription": "Kimberly Knighton sings, \"Jesus, Once of Humble Birth\" on Praise! Live from the Studio",
-          "seoDescriptionAiGenerated": false,
-          "seoTitle": "Jesus, Once of Humble Birth (Live)",
-          "seoTitleAiGenerated": false,
-          "shareableDescription": "Kimberly Knighton sings, \"Jesus, Once of Humble Birth\" on Praise! Live from the Studio",
-          "shareableTitle": "Jesus, Once of Humble Birth (Live)",
-          "thumbnail": {
-            "annotatedFields": {},
-            "assetID": "3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4",
-            "attributes": {},
-            "description": "Praise Digital Album Cover",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/1920,/0/default",
-            "focalPoint": {
-              "x": "50.00%",
-              "y": "50.00%"
+            "shareableDescription": "Kimberly Knighton sings, \"Jesus, Once of Humble Birth\" on Praise! Live from the Studio",
+            "shareableTitle": "Jesus, Once of Humble Birth (Live)",
+            "thumbnail": {
+              "annotatedFields": {},
+              "assetID": "3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4",
+              "attributes": {},
+              "description": "Praise Digital Album Cover",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/1920,/0/default",
+              "focalPoint": {
+                "x": "50.00%",
+                "y": "50.00%"
+              },
+              "ipCode": "0 - IRI Owned",
+              "isPartOf": [],
+              "keywords": [
+                "Guitars",
+                "Record Albums"
+              ],
+              "$lastUpdatedDate": "Fri Sep 06 12:40:09 EDT 2024",
+              "locatorIds": [],
+              "noindex": false,
+              "$id": "00000180-6261-d40b-a1e4-ff61a4580000",
+              "$lang": "eng",
+              "$model": "image",
+              "$rootId": "00000180-6261-d40b-a1e4-ff61a4580000",
+              "$site": "music",
+              "products": [],
+              "publicAltText": "A drawing of the silhoutte of a boy with brown hair, a red shirt, and yellow pants playing a guitar. The yellow words, \"Praise!\" are written at the top center of the light blue background.",
+              "publicDownload": [],
+              "$publishDate": "Mon Apr 25 16:20:07 EDT 2022",
+              "$publishStatus": "PUBLISHED",
+              "related": [],
+              "renditions": [
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!320%2C320/0/default",
+                  "height": 320,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!320%2C320/0/default",
+                  "width": 320
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!640%2C640/0/default",
+                  "height": 640,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!640%2C640/0/default",
+                  "width": 640
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!800%2C800/0/default",
+                  "height": 800,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!800%2C800/0/default",
+                  "width": 800
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1280%2C1280/0/default",
+                  "height": 1280,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1280%2C1280/0/default",
+                  "width": 1280
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1600%2C1600/0/default",
+                  "height": 1600,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1600%2C1600/0/default",
+                  "width": 1600
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1920%2C1920/0/default",
+                  "height": 1920,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1920%2C1920/0/default",
+                  "width": 1920
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!60%2C60/0/default",
+                  "height": 60,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!60%2C60/0/default",
+                  "width": 60
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!250%2C250/0/default",
+                  "height": 250,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!250%2C250/0/default",
+                  "width": 250
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!200%2C200/0/default",
+                  "height": 200,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!200%2C200/0/default",
+                  "width": 200
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!100%2C100/0/default",
+                  "height": 100,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!100%2C100/0/default",
+                  "width": 100
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!500%2C500/0/default",
+                  "height": 500,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!500%2C500/0/default",
+                  "width": 500
+                }
+              ],
+              "requiredAssets": [],
+              "sameAs": [],
+              "seoDescription": "Praise Digital Album Cover",
+              "seoDescriptionAiGenerated": false,
+              "seoTitle": "Praise Album Cover",
+              "seoTitleAiGenerated": false,
+              "shareableDescription": "Praise Digital Album Cover",
+              "shareableTitle": "Praise Album Cover",
+              "title": "Praise Album Cover"
             },
-            "ipCode": "0 - IRI Owned",
+            "title": "Jesus, Once of Humble Birth (Live)",
+            "translator": []
+          },
+          "$id": "00000196-c6da-d455-a9f6-dedeb32a0000",
+          "$model": "assetPurpose",
+          "$rootId": "00000196-c6da-d455-a9f6-dedeb32a0000",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    },
+    {
+      "title": "God So Loved the World",
+      "slug": "2018-02-god-so-loved-the-world",
+      "bookSlug": "praise-live-from-the-studio",
+      "bookSectionTitle": "Praise! Live from the Studio",
+      "songNumber": "10",
+      "songDate": "2021-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "City of Enoch"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Jeremy Christensen"
+        },
+        {
+          "personName": "Kyle Wesley"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Jeremy Christensen"
+        },
+        {
+          "personName": "Kyle Wesley"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [],
+      "voicings": [],
+      "assets": [
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_VOCAL",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "38cfc4347a2d11eca4f1eeeeac1e06c7c25832f0",
+            "attributes": {},
+            "composer": [],
+            "description": "City of Enoch performs, \"God So Loved the World\" on Praise! Live from the Studio",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/38/cf/38cfc4347a2d11eca4f1eeeeac1e06c7c25832f0/god_so_loved_the_world_live_city_of_enoch_eng.mp3",
+            "duration": 203000,
+            "ipCode": "1 - Not IRI Owned",
             "isPartOf": [],
             "keywords": [
-              "Guitars",
-              "Record Albums"
+              "music",
+              "Live from the Studio",
+              "2021",
+              "Praise"
             ],
-            "$lastUpdatedDate": "Fri Sep 06 12:40:09 EDT 2024",
+            "$lastUpdatedDate": "Fri Sep 06 12:40:08 EDT 2024",
             "locatorIds": [],
+            "lyricist": [],
             "noindex": false,
-            "$id": "00000180-6261-d40b-a1e4-ff61a4580000",
+            "$id": "00000184-0ed5-d3a5-ab95-1fff258d0000",
             "$lang": "eng",
-            "$model": "image",
-            "$rootId": "00000180-6261-d40b-a1e4-ff61a4580000",
+            "$model": "audio",
+            "$rootId": "00000184-0ed5-d3a5-ab95-1fff258d0000",
             "$site": "music",
+            "performer": [],
             "products": [],
-            "publicAltText": "A drawing of the silhoutte of a boy with brown hair, a red shirt, and yellow pants playing a guitar. The yellow words, \"Praise!\" are written at the top center of the light blue background.",
             "publicDownload": [],
-            "$publishDate": "Mon Apr 25 16:20:07 EDT 2022",
+            "$publishDate": "Tue Oct 25 07:09:20 EDT 2022",
             "$publishStatus": "PUBLISHED",
             "related": [],
-            "renditions": [
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!320%2C320/0/default",
-                "height": 320,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!320%2C320/0/default",
-                "width": 320
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!640%2C640/0/default",
-                "height": 640,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!640%2C640/0/default",
-                "width": 640
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!800%2C800/0/default",
-                "height": 800,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!800%2C800/0/default",
-                "width": 800
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1280%2C1280/0/default",
-                "height": 1280,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1280%2C1280/0/default",
-                "width": 1280
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1600%2C1600/0/default",
-                "height": 1600,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1600%2C1600/0/default",
-                "width": 1600
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1920%2C1920/0/default",
-                "height": 1920,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1920%2C1920/0/default",
-                "width": 1920
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!60%2C60/0/default",
-                "height": 60,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!60%2C60/0/default",
-                "width": 60
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!250%2C250/0/default",
-                "height": 250,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!250%2C250/0/default",
-                "width": 250
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!200%2C200/0/default",
-                "height": 200,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!200%2C200/0/default",
-                "width": 200
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!100%2C100/0/default",
-                "height": 100,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!100%2C100/0/default",
-                "width": 100
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!500%2C500/0/default",
-                "height": 500,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!500%2C500/0/default",
-                "width": 500
-              }
-            ],
             "requiredAssets": [],
             "sameAs": [],
-            "seoDescription": "Praise Digital Album Cover",
+            "seoDescription": "City of Enoch performs, \"God So Loved the World\" on Praise! Live from the Studio",
             "seoDescriptionAiGenerated": false,
-            "seoTitle": "Praise Album Cover",
+            "seoTitle": "God So Loved the World (Live)",
             "seoTitleAiGenerated": false,
-            "shareableDescription": "Praise Digital Album Cover",
-            "shareableTitle": "Praise Album Cover",
-            "title": "Praise Album Cover"
-          },
-          "title": "Jesus, Once of Humble Birth (Live)",
-          "translator": []
-        },
-        "$id": "00000196-c6da-d455-a9f6-dedeb32a0000",
-        "$model": "assetPurpose",
-        "$rootId": "00000196-c6da-d455-a9f6-dedeb32a0000",
-        "$site": "music",
-        "$publishStatus": "PUBLISHED"
-      }
-    ]
-  },
-  {
-    "title": "God So Loved the World",
-    "slug": "2018-02-god-so-loved-the-world",
-    "bookSlug": "praise-live-from-the-studio",
-    "bookSectionTitle": "Praise! Live from the Studio",
-    "songNumber": "10",
-    "songDate": "2021-01-01",
-    "arrangers": [],
-    "artists": [
-      {
-        "personName": "City of Enoch"
-      }
-    ],
-    "authors": [
-      {
-        "personName": "Jeremy Christensen"
-      },
-      {
-        "personName": "Kyle Wesley"
-      }
-    ],
-    "composers": [
-      {
-        "personName": "Jeremy Christensen"
-      },
-      {
-        "personName": "Kyle Wesley"
-      }
-    ],
-    "instrumentations": [
-      {
-        "name": "Voice"
-      }
-    ],
-    "musicalFeatures": [],
-    "recordingAvailable": true,
-    "sheetMusicAvailable": false,
-    "videoAvailable": true,
-    "tags": [],
-    "voicings": [],
-    "assets": [
-      {
-        "annotatedFields": {},
-        "assetType": "AUDIO_VOCAL",
-        "attributes": {},
-        "locatorIds": [],
-        "mediaObject": {
-          "annotatedFields": {},
-          "arranger": [],
-          "assetID": "38cfc4347a2d11eca4f1eeeeac1e06c7c25832f0",
-          "attributes": {},
-          "composer": [],
-          "description": "City of Enoch performs, \"God So Loved the World\" on Praise! Live from the Studio",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/38/cf/38cfc4347a2d11eca4f1eeeeac1e06c7c25832f0/god_so_loved_the_world_live_city_of_enoch_eng.mp3",
-          "duration": 203000,
-          "ipCode": "1 - Not IRI Owned",
-          "isPartOf": [],
-          "keywords": [
-            "music",
-            "Live from the Studio",
-            "2021",
-            "Praise"
-          ],
-          "$lastUpdatedDate": "Fri Sep 06 12:40:08 EDT 2024",
-          "locatorIds": [],
-          "lyricist": [],
-          "noindex": false,
-          "$id": "00000184-0ed5-d3a5-ab95-1fff258d0000",
-          "$lang": "eng",
-          "$model": "audio",
-          "$rootId": "00000184-0ed5-d3a5-ab95-1fff258d0000",
-          "$site": "music",
-          "performer": [],
-          "products": [],
-          "publicDownload": [],
-          "$publishDate": "Tue Oct 25 07:09:20 EDT 2022",
-          "$publishStatus": "PUBLISHED",
-          "related": [],
-          "requiredAssets": [],
-          "sameAs": [],
-          "seoDescription": "City of Enoch performs, \"God So Loved the World\" on Praise! Live from the Studio",
-          "seoDescriptionAiGenerated": false,
-          "seoTitle": "God So Loved the World (Live)",
-          "seoTitleAiGenerated": false,
-          "shareableDescription": "City of Enoch performs, \"God So Loved the World\" on Praise! Live from the Studio",
-          "shareableTitle": "God So Loved the World (Live)",
-          "thumbnail": {
-            "annotatedFields": {},
-            "assetID": "3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4",
-            "attributes": {},
-            "description": "Praise Digital Album Cover",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/1920,/0/default",
-            "focalPoint": {
-              "x": "50.00%",
-              "y": "50.00%"
+            "shareableDescription": "City of Enoch performs, \"God So Loved the World\" on Praise! Live from the Studio",
+            "shareableTitle": "God So Loved the World (Live)",
+            "thumbnail": {
+              "annotatedFields": {},
+              "assetID": "3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4",
+              "attributes": {},
+              "description": "Praise Digital Album Cover",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/1920,/0/default",
+              "focalPoint": {
+                "x": "50.00%",
+                "y": "50.00%"
+              },
+              "ipCode": "0 - IRI Owned",
+              "isPartOf": [],
+              "keywords": [
+                "Guitars",
+                "Record Albums"
+              ],
+              "$lastUpdatedDate": "Fri Sep 06 12:40:09 EDT 2024",
+              "locatorIds": [],
+              "noindex": false,
+              "$id": "00000180-6261-d40b-a1e4-ff61a4580000",
+              "$lang": "eng",
+              "$model": "image",
+              "$rootId": "00000180-6261-d40b-a1e4-ff61a4580000",
+              "$site": "music",
+              "products": [],
+              "publicAltText": "A drawing of the silhoutte of a boy with brown hair, a red shirt, and yellow pants playing a guitar. The yellow words, \"Praise!\" are written at the top center of the light blue background.",
+              "publicDownload": [],
+              "$publishDate": "Mon Apr 25 16:20:07 EDT 2022",
+              "$publishStatus": "PUBLISHED",
+              "related": [],
+              "renditions": [
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!320%2C320/0/default",
+                  "height": 320,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!320%2C320/0/default",
+                  "width": 320
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!640%2C640/0/default",
+                  "height": 640,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!640%2C640/0/default",
+                  "width": 640
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!800%2C800/0/default",
+                  "height": 800,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!800%2C800/0/default",
+                  "width": 800
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1280%2C1280/0/default",
+                  "height": 1280,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1280%2C1280/0/default",
+                  "width": 1280
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1600%2C1600/0/default",
+                  "height": 1600,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1600%2C1600/0/default",
+                  "width": 1600
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1920%2C1920/0/default",
+                  "height": 1920,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1920%2C1920/0/default",
+                  "width": 1920
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!60%2C60/0/default",
+                  "height": 60,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!60%2C60/0/default",
+                  "width": 60
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!250%2C250/0/default",
+                  "height": 250,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!250%2C250/0/default",
+                  "width": 250
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!200%2C200/0/default",
+                  "height": 200,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!200%2C200/0/default",
+                  "width": 200
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!100%2C100/0/default",
+                  "height": 100,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!100%2C100/0/default",
+                  "width": 100
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!500%2C500/0/default",
+                  "height": 500,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!500%2C500/0/default",
+                  "width": 500
+                }
+              ],
+              "requiredAssets": [],
+              "sameAs": [],
+              "seoDescription": "Praise Digital Album Cover",
+              "seoDescriptionAiGenerated": false,
+              "seoTitle": "Praise Album Cover",
+              "seoTitleAiGenerated": false,
+              "shareableDescription": "Praise Digital Album Cover",
+              "shareableTitle": "Praise Album Cover",
+              "title": "Praise Album Cover"
             },
-            "ipCode": "0 - IRI Owned",
-            "isPartOf": [],
-            "keywords": [
-              "Guitars",
-              "Record Albums"
-            ],
-            "$lastUpdatedDate": "Fri Sep 06 12:40:09 EDT 2024",
-            "locatorIds": [],
-            "noindex": false,
-            "$id": "00000180-6261-d40b-a1e4-ff61a4580000",
-            "$lang": "eng",
-            "$model": "image",
-            "$rootId": "00000180-6261-d40b-a1e4-ff61a4580000",
-            "$site": "music",
-            "products": [],
-            "publicAltText": "A drawing of the silhoutte of a boy with brown hair, a red shirt, and yellow pants playing a guitar. The yellow words, \"Praise!\" are written at the top center of the light blue background.",
-            "publicDownload": [],
-            "$publishDate": "Mon Apr 25 16:20:07 EDT 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "renditions": [
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!320%2C320/0/default",
-                "height": 320,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!320%2C320/0/default",
-                "width": 320
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!640%2C640/0/default",
-                "height": 640,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!640%2C640/0/default",
-                "width": 640
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!800%2C800/0/default",
-                "height": 800,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!800%2C800/0/default",
-                "width": 800
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1280%2C1280/0/default",
-                "height": 1280,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1280%2C1280/0/default",
-                "width": 1280
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1600%2C1600/0/default",
-                "height": 1600,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1600%2C1600/0/default",
-                "width": 1600
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1920%2C1920/0/default",
-                "height": 1920,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!1920%2C1920/0/default",
-                "width": 1920
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!60%2C60/0/default",
-                "height": 60,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!60%2C60/0/default",
-                "width": 60
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!250%2C250/0/default",
-                "height": 250,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!250%2C250/0/default",
-                "width": 250
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!200%2C200/0/default",
-                "height": 200,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!200%2C200/0/default",
-                "width": 200
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!100%2C100/0/default",
-                "height": 100,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!100%2C100/0/default",
-                "width": 100
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!500%2C500/0/default",
-                "height": 500,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3f02d1372aef11ecbc5aeeeeac1e477b5c2a9dd4/full/!500%2C500/0/default",
-                "width": 500
-              }
-            ],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "Praise Digital Album Cover",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "Praise Album Cover",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "Praise Digital Album Cover",
-            "shareableTitle": "Praise Album Cover",
-            "title": "Praise Album Cover"
+            "title": "God So Loved the World (Live)",
+            "translator": []
           },
-          "title": "God So Loved the World (Live)",
-          "translator": []
-        },
-        "$id": "00000196-c6db-d455-a9f6-dedf8b450000",
-        "$model": "assetPurpose",
-        "$rootId": "00000196-c6db-d455-a9f6-dedf8b450000",
-        "$site": "music",
-        "$publishStatus": "PUBLISHED"
-      }
-    ]
-  }
-]
+          "$id": "00000196-c6db-d455-a9f6-dedf8b450000",
+          "$model": "assetPurpose",
+          "$rootId": "00000196-c6db-d455-a9f6-dedf8b450000",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    }
+  ],
+  "limit": 500,
+  "offset": 0,
+  "total": 10
+}

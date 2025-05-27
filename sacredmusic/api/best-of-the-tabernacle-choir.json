@@ -1,1988 +1,1993 @@
-[
-  {
-    "title": "All Creatures of Our God and King",
-    "slug": "all-creatures-of-our-god-and-king-wilberg",
-    "bookSlug": "best-of-the-tabernacle-choir",
-    "songNumber": "1",
-    "arrangers": [
-      {
-        "personName": "Mack Wilberg"
-      }
-    ],
-    "artists": [
-      {
-        "personName": "Tabernacle Choir at Temple Square, The"
-      }
-    ],
-    "authors": [
-      {
-        "personName": "St. Francis of Assisi"
-      }
-    ],
-    "composers": [
-      {
-        "personName": "Geistliche Kirchengesänge"
-      },
-      {
-        "personName": "German hymn"
-      }
-    ],
-    "instrumentations": [
-      {
-        "name": "Choir"
-      },
-      {
-        "name": "Orchestra"
-      }
-    ],
-    "musicalFeatures": [],
-    "recordingAvailable": true,
-    "sheetMusicAvailable": false,
-    "videoAvailable": false,
-    "tags": [
-      "Creator",
-      "Jesus Christ",
-      "gratitude",
-      "nature",
-      "praise"
-    ],
-    "voicings": [],
-    "assets": [
-      {
-        "annotatedFields": {},
-        "assetType": "AUDIO_VOCAL_CONGREGATION",
-        "attributes": {},
-        "locatorIds": [],
-        "mediaObject": {
+{
+  "data": [
+    {
+      "title": "All Creatures of Our God and King",
+      "slug": "all-creatures-of-our-god-and-king-wilberg",
+      "bookSlug": "best-of-the-tabernacle-choir",
+      "songNumber": "1",
+      "arrangers": [
+        {
+          "personName": "Mack Wilberg"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Tabernacle Choir at Temple Square, The"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "St. Francis of Assisi"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Geistliche Kirchengesänge"
+        },
+        {
+          "personName": "German hymn"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Choir"
+        },
+        {
+          "name": "Orchestra"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Creator",
+        "Jesus Christ",
+        "gratitude",
+        "nature",
+        "praise"
+      ],
+      "voicings": [],
+      "assets": [
+        {
           "annotatedFields": {},
-          "arranger": [],
-          "assetID": "f81ccd6fc14711ee83f1eeeeac1e760e0c2d29a4",
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
           "attributes": {},
-          "composer": [],
-          "description": "All Creatures of Our God and King",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/f81ccd6fc14711ee83f1eeeeac1e760e0c2d29a4-64k-en.mp3",
-          "duration": 252000,
-          "isPartOf": [],
-          "keywords": [],
-          "$lastUpdatedDate": "Sat May 24 18:44:12 EDT 2025",
           "locatorIds": [],
-          "lyricist": [],
-          "noindex": false,
-          "$id": "0000018e-1a97-d154-adbf-deff27da0000",
-          "$lang": "eng",
-          "$model": "audio",
-          "$rootId": "0000018e-1a97-d154-adbf-deff27da0000",
-          "$site": "music",
-          "performer": [],
-          "products": [],
-          "publicDownload": [],
-          "$publishDate": "Thu Mar 07 15:24:57 EST 2024",
-          "$publishStatus": "PUBLISHED",
-          "related": [],
-          "requiredAssets": [],
-          "sameAs": [],
-          "seoDescription": "All Creatures of Our God and King",
-          "seoDescriptionAiGenerated": false,
-          "seoTitle": "All Creatures of Our God and King",
-          "seoTitleAiGenerated": false,
-          "shareableDescription": "All Creatures of Our God and King",
-          "shareableTitle": "All Creatures of Our God and King",
-          "thumbnail": {
+          "mediaObject": {
             "annotatedFields": {},
-            "assetID": "5984e0578b7011eca8c7eeeeac1e7bee29452179",
+            "arranger": [],
+            "assetID": "f81ccd6fc14711ee83f1eeeeac1e760e0c2d29a4",
             "attributes": {},
-            "description": "Best of The Tabernacle Choir",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/1920,/0/default",
-            "focalPoint": {
-              "x": "50.00%",
-              "y": "50.00%"
-            },
+            "composer": [],
+            "description": "All Creatures of Our God and King",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/f81ccd6fc14711ee83f1eeeeac1e760e0c2d29a4-64k-en.mp3",
+            "duration": 252000,
             "isPartOf": [],
             "keywords": [],
-            "$lastUpdatedDate": "Fri Nov 01 22:12:57 EDT 2024",
+            "$lastUpdatedDate": "Sat May 24 18:44:12 EDT 2025",
             "locatorIds": [],
+            "lyricist": [],
             "noindex": false,
-            "$id": "0000018e-1a97-d154-adbf-deff38f40000",
+            "$id": "0000018e-1a97-d154-adbf-deff27da0000",
             "$lang": "eng",
-            "$model": "image",
-            "$rootId": "0000018e-1a97-d154-adbf-deff38f40000",
+            "$model": "audio",
+            "$rootId": "0000018e-1a97-d154-adbf-deff27da0000",
             "$site": "music",
+            "performer": [],
             "products": [],
-            "publicAltText": "A faded out photo of a choir singing with the words \"Best of the Tabernacle Choir\" across the top.",
             "publicDownload": [],
-            "$publishDate": "Thu Mar 07 15:25:01 EST 2024",
+            "$publishDate": "Thu Mar 07 15:24:57 EST 2024",
             "$publishStatus": "PUBLISHED",
             "related": [],
-            "renditions": [
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!320%2C320/0/default",
-                "height": 320,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!320%2C320/0/default",
-                "width": 320
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!640%2C640/0/default",
-                "height": 640,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!640%2C640/0/default",
-                "width": 640
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!800%2C800/0/default",
-                "height": 800,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!800%2C800/0/default",
-                "width": 800
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1280%2C1280/0/default",
-                "height": 1280,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1280%2C1280/0/default",
-                "width": 1280
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1600%2C1600/0/default",
-                "height": 1600,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1600%2C1600/0/default",
-                "width": 1600
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1920%2C1920/0/default",
-                "height": 1920,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1920%2C1920/0/default",
-                "width": 1920
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!60%2C60/0/default",
-                "height": 60,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!60%2C60/0/default",
-                "width": 60
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!250%2C250/0/default",
-                "height": 250,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!250%2C250/0/default",
-                "width": 250
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!200%2C200/0/default",
-                "height": 200,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!200%2C200/0/default",
-                "width": 200
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!100%2C100/0/default",
-                "height": 100,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!100%2C100/0/default",
-                "width": 100
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!500%2C500/0/default",
-                "height": 500,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!500%2C500/0/default",
-                "width": 500
-              }
-            ],
             "requiredAssets": [],
             "sameAs": [],
-            "seoDescription": "Best of The Tabernacle Choir",
+            "seoDescription": "All Creatures of Our God and King",
             "seoDescriptionAiGenerated": false,
-            "seoTitle": "Best of The Tabernacle Choir",
+            "seoTitle": "All Creatures of Our God and King",
             "seoTitleAiGenerated": false,
-            "shareableDescription": "Best of The Tabernacle Choir",
-            "shareableTitle": "Best of The Tabernacle Choir",
-            "title": "Best of The Tabernacle Choir"
-          },
-          "title": "All Creatures of Our God and King",
-          "translator": []
-        },
-        "$id": "00000196-c6e2-d455-a9f6-deeef4180000",
-        "$model": "assetPurpose",
-        "$rootId": "00000196-c6e2-d455-a9f6-deeef4180000",
-        "$site": "music",
-        "$publishStatus": "PUBLISHED"
-      }
-    ]
-  },
-  {
-    "title": "Tell Me the Stories of Jesus",
-    "slug": "tell-me-the-stories-of-jesus-murphy",
-    "bookSlug": "best-of-the-tabernacle-choir",
-    "songNumber": "2",
-    "arrangers": [
-      {
-        "personName": "Ryan T. Murphy"
-      }
-    ],
-    "artists": [
-      {
-        "personName": "Tabernacle Choir at Temple Square, The"
-      }
-    ],
-    "authors": [
-      {
-        "personName": "W. H. Parker"
-      }
-    ],
-    "composers": [
-      {
-        "personName": "Frederic A. Challinor"
-      }
-    ],
-    "instrumentations": [
-      {
-        "name": "Choir"
-      },
-      {
-        "name": "Orchestra"
-      }
-    ],
-    "musicalFeatures": [],
-    "recordingAvailable": true,
-    "sheetMusicAvailable": false,
-    "videoAvailable": false,
-    "tags": [
-      "Jesus Christ",
-      "Jesus Christ's ministry",
-      "grace",
-      "love"
-    ],
-    "voicings": [],
-    "assets": [
-      {
-        "annotatedFields": {},
-        "assetType": "AUDIO_VOCAL_CONGREGATION",
-        "attributes": {},
-        "locatorIds": [],
-        "mediaObject": {
-          "annotatedFields": {},
-          "arranger": [],
-          "assetID": "fa215000c14711ee83f1eeeeac1e760e0478ff09",
-          "attributes": {},
-          "composer": [],
-          "description": "Tell Me the Stories of Jesus",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/fa215000c14711ee83f1eeeeac1e760e0478ff09-256k-en.mp3",
-          "duration": 283296,
-          "isPartOf": [],
-          "keywords": [],
-          "$lastUpdatedDate": "Mon May 26 05:43:25 EDT 2025",
-          "locatorIds": [],
-          "lyricist": [],
-          "noindex": false,
-          "$id": "0000018e-1a97-d154-adbf-deff7b6b0000",
-          "$lang": "eng",
-          "$model": "audio",
-          "$rootId": "0000018e-1a97-d154-adbf-deff7b6b0000",
-          "$site": "music",
-          "performer": [],
-          "products": [],
-          "publicDownload": [],
-          "$publishDate": "Thu Mar 07 15:25:18 EST 2024",
-          "$publishStatus": "PUBLISHED",
-          "related": [],
-          "requiredAssets": [],
-          "sameAs": [],
-          "seoDescription": "Tell Me the Stories of Jesus",
-          "seoDescriptionAiGenerated": false,
-          "seoTitle": "Tell Me the Stories of Jesus",
-          "seoTitleAiGenerated": false,
-          "shareableDescription": "Tell Me the Stories of Jesus",
-          "shareableTitle": "Tell Me the Stories of Jesus",
-          "thumbnail": {
-            "annotatedFields": {},
-            "assetID": "d1416ea9b77711ec9840eeeeac1e8718f29c9161",
-            "attributes": {},
-            "description": "Easter with the Tabernacle Choir",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/d1416ea9b77711ec9840eeeeac1e8718f29c9161/full/640,/0/default",
-            "focalPoint": {
-              "x": "50.00%",
-              "y": "50.00%"
+            "shareableDescription": "All Creatures of Our God and King",
+            "shareableTitle": "All Creatures of Our God and King",
+            "thumbnail": {
+              "annotatedFields": {},
+              "assetID": "5984e0578b7011eca8c7eeeeac1e7bee29452179",
+              "attributes": {},
+              "description": "Best of The Tabernacle Choir",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/1920,/0/default",
+              "focalPoint": {
+                "x": "50.00%",
+                "y": "50.00%"
+              },
+              "isPartOf": [],
+              "keywords": [],
+              "$lastUpdatedDate": "Fri Nov 01 22:12:57 EDT 2024",
+              "locatorIds": [],
+              "noindex": false,
+              "$id": "0000018e-1a97-d154-adbf-deff38f40000",
+              "$lang": "eng",
+              "$model": "image",
+              "$rootId": "0000018e-1a97-d154-adbf-deff38f40000",
+              "$site": "music",
+              "products": [],
+              "publicAltText": "A faded out photo of a choir singing with the words \"Best of the Tabernacle Choir\" across the top.",
+              "publicDownload": [],
+              "$publishDate": "Thu Mar 07 15:25:01 EST 2024",
+              "$publishStatus": "PUBLISHED",
+              "related": [],
+              "renditions": [
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!320%2C320/0/default",
+                  "height": 320,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!320%2C320/0/default",
+                  "width": 320
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!640%2C640/0/default",
+                  "height": 640,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!640%2C640/0/default",
+                  "width": 640
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!800%2C800/0/default",
+                  "height": 800,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!800%2C800/0/default",
+                  "width": 800
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1280%2C1280/0/default",
+                  "height": 1280,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1280%2C1280/0/default",
+                  "width": 1280
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1600%2C1600/0/default",
+                  "height": 1600,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1600%2C1600/0/default",
+                  "width": 1600
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1920%2C1920/0/default",
+                  "height": 1920,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1920%2C1920/0/default",
+                  "width": 1920
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!60%2C60/0/default",
+                  "height": 60,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!60%2C60/0/default",
+                  "width": 60
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!250%2C250/0/default",
+                  "height": 250,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!250%2C250/0/default",
+                  "width": 250
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!200%2C200/0/default",
+                  "height": 200,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!200%2C200/0/default",
+                  "width": 200
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!100%2C100/0/default",
+                  "height": 100,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!100%2C100/0/default",
+                  "width": 100
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!500%2C500/0/default",
+                  "height": 500,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!500%2C500/0/default",
+                  "width": 500
+                }
+              ],
+              "requiredAssets": [],
+              "sameAs": [],
+              "seoDescription": "Best of The Tabernacle Choir",
+              "seoDescriptionAiGenerated": false,
+              "seoTitle": "Best of The Tabernacle Choir",
+              "seoTitleAiGenerated": false,
+              "shareableDescription": "Best of The Tabernacle Choir",
+              "shareableTitle": "Best of The Tabernacle Choir",
+              "title": "Best of The Tabernacle Choir"
             },
+            "title": "All Creatures of Our God and King",
+            "translator": []
+          },
+          "$id": "00000196-c6e2-d455-a9f6-deeef4180000",
+          "$model": "assetPurpose",
+          "$rootId": "00000196-c6e2-d455-a9f6-deeef4180000",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    },
+    {
+      "title": "Tell Me the Stories of Jesus",
+      "slug": "tell-me-the-stories-of-jesus-murphy",
+      "bookSlug": "best-of-the-tabernacle-choir",
+      "songNumber": "2",
+      "arrangers": [
+        {
+          "personName": "Ryan T. Murphy"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Tabernacle Choir at Temple Square, The"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "W. H. Parker"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Frederic A. Challinor"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Choir"
+        },
+        {
+          "name": "Orchestra"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Jesus Christ",
+        "Jesus Christ's ministry",
+        "grace",
+        "love"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "fa215000c14711ee83f1eeeeac1e760e0478ff09",
+            "attributes": {},
+            "composer": [],
+            "description": "Tell Me the Stories of Jesus",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/fa215000c14711ee83f1eeeeac1e760e0478ff09-256k-en.mp3",
+            "duration": 283296,
             "isPartOf": [],
             "keywords": [],
-            "$lastUpdatedDate": "Wed Dec 11 12:49:48 EST 2024",
+            "$lastUpdatedDate": "Mon May 26 05:43:25 EDT 2025",
             "locatorIds": [],
+            "lyricist": [],
             "noindex": false,
-            "$id": "00000188-b813-d02b-af8b-bc3b14d70000",
+            "$id": "0000018e-1a97-d154-adbf-deff7b6b0000",
             "$lang": "eng",
-            "$model": "image",
-            "$rootId": "00000188-b813-d02b-af8b-bc3b14d70000",
+            "$model": "audio",
+            "$rootId": "0000018e-1a97-d154-adbf-deff7b6b0000",
             "$site": "music",
+            "performer": [],
             "products": [],
-            "publicAltText": "A photo of purple and orange clouds that have sunlight shining through and the words, \"Easter With the Tabernacle Choir\" written across the top left corner.",
             "publicDownload": [],
-            "$publishDate": "Wed Jun 14 00:03:58 EDT 2023",
+            "$publishDate": "Thu Mar 07 15:25:18 EST 2024",
             "$publishStatus": "PUBLISHED",
             "related": [],
-            "renditions": [
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/d1416ea9b77711ec9840eeeeac1e8718f29c9161/full/!320%2C251/0/default",
-                "height": 251,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/d1416ea9b77711ec9840eeeeac1e8718f29c9161/full/!320%2C251/0/default",
-                "width": 320
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/d1416ea9b77711ec9840eeeeac1e8718f29c9161/full/!640%2C501/0/default",
-                "height": 501,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/d1416ea9b77711ec9840eeeeac1e8718f29c9161/full/!640%2C501/0/default",
-                "width": 640
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/d1416ea9b77711ec9840eeeeac1e8718f29c9161/full/!60%2C47/0/default",
-                "height": 47,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/d1416ea9b77711ec9840eeeeac1e8718f29c9161/full/!60%2C47/0/default",
-                "width": 60
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/d1416ea9b77711ec9840eeeeac1e8718f29c9161/full/!250%2C196/0/default",
-                "height": 196,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/d1416ea9b77711ec9840eeeeac1e8718f29c9161/full/!250%2C196/0/default",
-                "width": 250
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/d1416ea9b77711ec9840eeeeac1e8718f29c9161/full/!200%2C157/0/default",
-                "height": 157,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/d1416ea9b77711ec9840eeeeac1e8718f29c9161/full/!200%2C157/0/default",
-                "width": 200
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/d1416ea9b77711ec9840eeeeac1e8718f29c9161/full/!100%2C78/0/default",
-                "height": 78,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/d1416ea9b77711ec9840eeeeac1e8718f29c9161/full/!100%2C78/0/default",
-                "width": 100
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/d1416ea9b77711ec9840eeeeac1e8718f29c9161/full/!500%2C391/0/default",
-                "height": 391,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/d1416ea9b77711ec9840eeeeac1e8718f29c9161/full/!500%2C391/0/default",
-                "width": 500
-              }
-            ],
             "requiredAssets": [],
             "sameAs": [],
-            "seoDescription": "Easter with the Tabernacle Choir",
+            "seoDescription": "Tell Me the Stories of Jesus",
             "seoDescriptionAiGenerated": false,
-            "seoTitle": "Easter with the Tabernacle Choir",
+            "seoTitle": "Tell Me the Stories of Jesus",
             "seoTitleAiGenerated": false,
-            "shareableDescription": "Easter with the Tabernacle Choir",
-            "shareableTitle": "Easter with the Tabernacle Choir",
-            "title": "Easter with the Tabernacle Choir"
-          },
-          "title": "Tell Me the Stories of Jesus",
-          "translator": []
-        },
-        "$id": "00000196-c6e2-d455-a9f6-deeef3f80000",
-        "$model": "assetPurpose",
-        "$rootId": "00000196-c6e2-d455-a9f6-deeef3f80000",
-        "$site": "music",
-        "$publishStatus": "PUBLISHED"
-      }
-    ]
-  },
-  {
-    "title": "“Give,” Said the Little Stream",
-    "slug": "give-said-the-little-stream-murphy",
-    "bookSlug": "best-of-the-tabernacle-choir",
-    "songNumber": "3",
-    "arrangers": [
-      {
-        "personName": "William B. Bradbury"
-      },
-      {
-        "personName": "Ryan T. Murphy"
-      }
-    ],
-    "artists": [
-      {
-        "personName": "Tabernacle Choir at Temple Square, The"
-      }
-    ],
-    "authors": [
-      {
-        "personName": "Fanny J. Crosby"
-      }
-    ],
-    "composers": [
-      {
-        "personName": "William B. Bradbury"
-      }
-    ],
-    "instrumentations": [
-      {
-        "name": "Choir"
-      },
-      {
-        "name": "Orchestra"
-      }
-    ],
-    "musicalFeatures": [],
-    "recordingAvailable": true,
-    "sheetMusicAvailable": false,
-    "videoAvailable": false,
-    "tags": [
-      "charity",
-      "compassion",
-      "hope",
-      "music"
-    ],
-    "voicings": [],
-    "assets": [
-      {
-        "annotatedFields": {},
-        "assetType": "AUDIO_VOCAL_CONGREGATION",
-        "attributes": {},
-        "locatorIds": [],
-        "mediaObject": {
-          "annotatedFields": {},
-          "arranger": [],
-          "assetID": "fbcfea5dc14711eeba5aeeeeac1e9027ffcc0861",
-          "attributes": {},
-          "composer": [],
-          "description": "Give, Said the Little Stream",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/fbcfea5dc14711eeba5aeeeeac1e9027ffcc0861-32k-en.mp3",
-          "duration": 197000,
-          "isPartOf": [],
-          "keywords": [],
-          "$lastUpdatedDate": "Sun May 25 09:05:21 EDT 2025",
-          "locatorIds": [],
-          "lyricist": [],
-          "noindex": false,
-          "$id": "0000018e-1a97-d154-adbf-deff2a800000",
-          "$lang": "eng",
-          "$model": "audio",
-          "$rootId": "0000018e-1a97-d154-adbf-deff2a800000",
-          "$site": "music",
-          "performer": [],
-          "products": [],
-          "publicDownload": [],
-          "$publishDate": "Thu Mar 07 15:24:58 EST 2024",
-          "$publishStatus": "PUBLISHED",
-          "related": [],
-          "requiredAssets": [],
-          "sameAs": [],
-          "seoDescription": "Give, Said the Little Stream",
-          "seoDescriptionAiGenerated": false,
-          "seoTitle": "Give, Said the Little Stream",
-          "seoTitleAiGenerated": false,
-          "shareableDescription": "Give, Said the Little Stream",
-          "shareableTitle": "Give, Said the Little Stream",
-          "thumbnail": {
-            "annotatedFields": {},
-            "assetID": "5984e0578b7011eca8c7eeeeac1e7bee29452179",
-            "attributes": {},
-            "description": "Best of The Tabernacle Choir",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/1920,/0/default",
-            "focalPoint": {
-              "x": "50.00%",
-              "y": "50.00%"
+            "shareableDescription": "Tell Me the Stories of Jesus",
+            "shareableTitle": "Tell Me the Stories of Jesus",
+            "thumbnail": {
+              "annotatedFields": {},
+              "assetID": "d1416ea9b77711ec9840eeeeac1e8718f29c9161",
+              "attributes": {},
+              "description": "Easter with the Tabernacle Choir",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/d1416ea9b77711ec9840eeeeac1e8718f29c9161/full/640,/0/default",
+              "focalPoint": {
+                "x": "50.00%",
+                "y": "50.00%"
+              },
+              "isPartOf": [],
+              "keywords": [],
+              "$lastUpdatedDate": "Wed Dec 11 12:49:48 EST 2024",
+              "locatorIds": [],
+              "noindex": false,
+              "$id": "00000188-b813-d02b-af8b-bc3b14d70000",
+              "$lang": "eng",
+              "$model": "image",
+              "$rootId": "00000188-b813-d02b-af8b-bc3b14d70000",
+              "$site": "music",
+              "products": [],
+              "publicAltText": "A photo of purple and orange clouds that have sunlight shining through and the words, \"Easter With the Tabernacle Choir\" written across the top left corner.",
+              "publicDownload": [],
+              "$publishDate": "Wed Jun 14 00:03:58 EDT 2023",
+              "$publishStatus": "PUBLISHED",
+              "related": [],
+              "renditions": [
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/d1416ea9b77711ec9840eeeeac1e8718f29c9161/full/!320%2C251/0/default",
+                  "height": 251,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/d1416ea9b77711ec9840eeeeac1e8718f29c9161/full/!320%2C251/0/default",
+                  "width": 320
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/d1416ea9b77711ec9840eeeeac1e8718f29c9161/full/!640%2C501/0/default",
+                  "height": 501,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/d1416ea9b77711ec9840eeeeac1e8718f29c9161/full/!640%2C501/0/default",
+                  "width": 640
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/d1416ea9b77711ec9840eeeeac1e8718f29c9161/full/!60%2C47/0/default",
+                  "height": 47,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/d1416ea9b77711ec9840eeeeac1e8718f29c9161/full/!60%2C47/0/default",
+                  "width": 60
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/d1416ea9b77711ec9840eeeeac1e8718f29c9161/full/!250%2C196/0/default",
+                  "height": 196,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/d1416ea9b77711ec9840eeeeac1e8718f29c9161/full/!250%2C196/0/default",
+                  "width": 250
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/d1416ea9b77711ec9840eeeeac1e8718f29c9161/full/!200%2C157/0/default",
+                  "height": 157,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/d1416ea9b77711ec9840eeeeac1e8718f29c9161/full/!200%2C157/0/default",
+                  "width": 200
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/d1416ea9b77711ec9840eeeeac1e8718f29c9161/full/!100%2C78/0/default",
+                  "height": 78,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/d1416ea9b77711ec9840eeeeac1e8718f29c9161/full/!100%2C78/0/default",
+                  "width": 100
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/d1416ea9b77711ec9840eeeeac1e8718f29c9161/full/!500%2C391/0/default",
+                  "height": 391,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/d1416ea9b77711ec9840eeeeac1e8718f29c9161/full/!500%2C391/0/default",
+                  "width": 500
+                }
+              ],
+              "requiredAssets": [],
+              "sameAs": [],
+              "seoDescription": "Easter with the Tabernacle Choir",
+              "seoDescriptionAiGenerated": false,
+              "seoTitle": "Easter with the Tabernacle Choir",
+              "seoTitleAiGenerated": false,
+              "shareableDescription": "Easter with the Tabernacle Choir",
+              "shareableTitle": "Easter with the Tabernacle Choir",
+              "title": "Easter with the Tabernacle Choir"
             },
+            "title": "Tell Me the Stories of Jesus",
+            "translator": []
+          },
+          "$id": "00000196-c6e2-d455-a9f6-deeef3f80000",
+          "$model": "assetPurpose",
+          "$rootId": "00000196-c6e2-d455-a9f6-deeef3f80000",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    },
+    {
+      "title": "“Give,” Said the Little Stream",
+      "slug": "give-said-the-little-stream-murphy",
+      "bookSlug": "best-of-the-tabernacle-choir",
+      "songNumber": "3",
+      "arrangers": [
+        {
+          "personName": "William B. Bradbury"
+        },
+        {
+          "personName": "Ryan T. Murphy"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Tabernacle Choir at Temple Square, The"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Fanny J. Crosby"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "William B. Bradbury"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Choir"
+        },
+        {
+          "name": "Orchestra"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "charity",
+        "compassion",
+        "hope",
+        "music"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "fbcfea5dc14711eeba5aeeeeac1e9027ffcc0861",
+            "attributes": {},
+            "composer": [],
+            "description": "Give, Said the Little Stream",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/fbcfea5dc14711eeba5aeeeeac1e9027ffcc0861-32k-en.mp3",
+            "duration": 197000,
             "isPartOf": [],
             "keywords": [],
-            "$lastUpdatedDate": "Fri Nov 01 22:12:57 EDT 2024",
+            "$lastUpdatedDate": "Sun May 25 09:05:21 EDT 2025",
             "locatorIds": [],
+            "lyricist": [],
             "noindex": false,
-            "$id": "0000018e-1a97-d154-adbf-deff38f40000",
+            "$id": "0000018e-1a97-d154-adbf-deff2a800000",
             "$lang": "eng",
-            "$model": "image",
-            "$rootId": "0000018e-1a97-d154-adbf-deff38f40000",
+            "$model": "audio",
+            "$rootId": "0000018e-1a97-d154-adbf-deff2a800000",
             "$site": "music",
+            "performer": [],
             "products": [],
-            "publicAltText": "A faded out photo of a choir singing with the words \"Best of the Tabernacle Choir\" across the top.",
             "publicDownload": [],
-            "$publishDate": "Thu Mar 07 15:25:01 EST 2024",
+            "$publishDate": "Thu Mar 07 15:24:58 EST 2024",
             "$publishStatus": "PUBLISHED",
             "related": [],
-            "renditions": [
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!320%2C320/0/default",
-                "height": 320,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!320%2C320/0/default",
-                "width": 320
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!640%2C640/0/default",
-                "height": 640,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!640%2C640/0/default",
-                "width": 640
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!800%2C800/0/default",
-                "height": 800,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!800%2C800/0/default",
-                "width": 800
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1280%2C1280/0/default",
-                "height": 1280,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1280%2C1280/0/default",
-                "width": 1280
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1600%2C1600/0/default",
-                "height": 1600,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1600%2C1600/0/default",
-                "width": 1600
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1920%2C1920/0/default",
-                "height": 1920,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1920%2C1920/0/default",
-                "width": 1920
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!60%2C60/0/default",
-                "height": 60,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!60%2C60/0/default",
-                "width": 60
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!250%2C250/0/default",
-                "height": 250,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!250%2C250/0/default",
-                "width": 250
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!200%2C200/0/default",
-                "height": 200,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!200%2C200/0/default",
-                "width": 200
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!100%2C100/0/default",
-                "height": 100,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!100%2C100/0/default",
-                "width": 100
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!500%2C500/0/default",
-                "height": 500,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!500%2C500/0/default",
-                "width": 500
-              }
-            ],
             "requiredAssets": [],
             "sameAs": [],
-            "seoDescription": "Best of The Tabernacle Choir",
+            "seoDescription": "Give, Said the Little Stream",
             "seoDescriptionAiGenerated": false,
-            "seoTitle": "Best of The Tabernacle Choir",
+            "seoTitle": "Give, Said the Little Stream",
             "seoTitleAiGenerated": false,
-            "shareableDescription": "Best of The Tabernacle Choir",
-            "shareableTitle": "Best of The Tabernacle Choir",
-            "title": "Best of The Tabernacle Choir"
-          },
-          "title": "Give, Said the Little Stream",
-          "translator": []
-        },
-        "$id": "00000196-c6e2-d455-a9f6-deeef4310000",
-        "$model": "assetPurpose",
-        "$rootId": "00000196-c6e2-d455-a9f6-deeef4310000",
-        "$site": "music",
-        "$publishStatus": "PUBLISHED"
-      }
-    ]
-  },
-  {
-    "title": "Called to Serve",
-    "slug": "called-to-serve-wilberg",
-    "bookSlug": "best-of-the-tabernacle-choir",
-    "songNumber": "4",
-    "arrangers": [
-      {
-        "personName": "Mack Wilberg"
-      }
-    ],
-    "artists": [
-      {
-        "personName": "Tabernacle Choir at Temple Square, The"
-      }
-    ],
-    "authors": [
-      {
-        "personName": "Elsie Duncan Yale"
-      }
-    ],
-    "composers": [
-      {
-        "personName": "Adam Geibel"
-      }
-    ],
-    "instrumentations": [
-      {
-        "name": "Choir"
-      },
-      {
-        "name": "Orchestra"
-      }
-    ],
-    "musicalFeatures": [],
-    "recordingAvailable": true,
-    "sheetMusicAvailable": false,
-    "videoAvailable": false,
-    "tags": [
-      "Jesus Christ",
-      "commitment",
-      "endure to the end",
-      "faith",
-      "missionary work",
-      "praise",
-      "service"
-    ],
-    "voicings": [],
-    "assets": [
-      {
-        "annotatedFields": {},
-        "assetType": "AUDIO_VOCAL_CONGREGATION",
-        "attributes": {},
-        "locatorIds": [],
-        "mediaObject": {
-          "annotatedFields": {},
-          "arranger": [],
-          "assetID": "fdb2b41bc14711eebf43eeeeac1e7c1f1a5d88ee",
-          "attributes": {},
-          "composer": [],
-          "description": "Called to Serve",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/fdb2b41bc14711eebf43eeeeac1e7c1f1a5d88ee-256k-en.mp3",
-          "duration": 200064,
-          "isPartOf": [],
-          "keywords": [],
-          "$lastUpdatedDate": "Sun May 25 03:59:24 EDT 2025",
-          "locatorIds": [],
-          "lyricist": [],
-          "noindex": false,
-          "$id": "0000018e-1a97-d154-adbf-deff2cec0000",
-          "$lang": "eng",
-          "$model": "audio",
-          "$rootId": "0000018e-1a97-d154-adbf-deff2cec0000",
-          "$site": "music",
-          "performer": [],
-          "products": [],
-          "publicDownload": [],
-          "$publishDate": "Thu Mar 07 15:24:58 EST 2024",
-          "$publishStatus": "PUBLISHED",
-          "related": [],
-          "requiredAssets": [],
-          "sameAs": [],
-          "seoDescription": "Called to Serve",
-          "seoDescriptionAiGenerated": false,
-          "seoTitle": "Called to Serve",
-          "seoTitleAiGenerated": false,
-          "shareableDescription": "Called to Serve",
-          "shareableTitle": "Called to Serve",
-          "thumbnail": {
-            "annotatedFields": {},
-            "assetID": "5984e0578b7011eca8c7eeeeac1e7bee29452179",
-            "attributes": {},
-            "description": "Best of The Tabernacle Choir",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/1920,/0/default",
-            "focalPoint": {
-              "x": "50.00%",
-              "y": "50.00%"
+            "shareableDescription": "Give, Said the Little Stream",
+            "shareableTitle": "Give, Said the Little Stream",
+            "thumbnail": {
+              "annotatedFields": {},
+              "assetID": "5984e0578b7011eca8c7eeeeac1e7bee29452179",
+              "attributes": {},
+              "description": "Best of The Tabernacle Choir",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/1920,/0/default",
+              "focalPoint": {
+                "x": "50.00%",
+                "y": "50.00%"
+              },
+              "isPartOf": [],
+              "keywords": [],
+              "$lastUpdatedDate": "Fri Nov 01 22:12:57 EDT 2024",
+              "locatorIds": [],
+              "noindex": false,
+              "$id": "0000018e-1a97-d154-adbf-deff38f40000",
+              "$lang": "eng",
+              "$model": "image",
+              "$rootId": "0000018e-1a97-d154-adbf-deff38f40000",
+              "$site": "music",
+              "products": [],
+              "publicAltText": "A faded out photo of a choir singing with the words \"Best of the Tabernacle Choir\" across the top.",
+              "publicDownload": [],
+              "$publishDate": "Thu Mar 07 15:25:01 EST 2024",
+              "$publishStatus": "PUBLISHED",
+              "related": [],
+              "renditions": [
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!320%2C320/0/default",
+                  "height": 320,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!320%2C320/0/default",
+                  "width": 320
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!640%2C640/0/default",
+                  "height": 640,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!640%2C640/0/default",
+                  "width": 640
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!800%2C800/0/default",
+                  "height": 800,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!800%2C800/0/default",
+                  "width": 800
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1280%2C1280/0/default",
+                  "height": 1280,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1280%2C1280/0/default",
+                  "width": 1280
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1600%2C1600/0/default",
+                  "height": 1600,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1600%2C1600/0/default",
+                  "width": 1600
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1920%2C1920/0/default",
+                  "height": 1920,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1920%2C1920/0/default",
+                  "width": 1920
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!60%2C60/0/default",
+                  "height": 60,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!60%2C60/0/default",
+                  "width": 60
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!250%2C250/0/default",
+                  "height": 250,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!250%2C250/0/default",
+                  "width": 250
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!200%2C200/0/default",
+                  "height": 200,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!200%2C200/0/default",
+                  "width": 200
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!100%2C100/0/default",
+                  "height": 100,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!100%2C100/0/default",
+                  "width": 100
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!500%2C500/0/default",
+                  "height": 500,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!500%2C500/0/default",
+                  "width": 500
+                }
+              ],
+              "requiredAssets": [],
+              "sameAs": [],
+              "seoDescription": "Best of The Tabernacle Choir",
+              "seoDescriptionAiGenerated": false,
+              "seoTitle": "Best of The Tabernacle Choir",
+              "seoTitleAiGenerated": false,
+              "shareableDescription": "Best of The Tabernacle Choir",
+              "shareableTitle": "Best of The Tabernacle Choir",
+              "title": "Best of The Tabernacle Choir"
             },
+            "title": "Give, Said the Little Stream",
+            "translator": []
+          },
+          "$id": "00000196-c6e2-d455-a9f6-deeef4310000",
+          "$model": "assetPurpose",
+          "$rootId": "00000196-c6e2-d455-a9f6-deeef4310000",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    },
+    {
+      "title": "Called to Serve",
+      "slug": "called-to-serve-wilberg",
+      "bookSlug": "best-of-the-tabernacle-choir",
+      "songNumber": "4",
+      "arrangers": [
+        {
+          "personName": "Mack Wilberg"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Tabernacle Choir at Temple Square, The"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Elsie Duncan Yale"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Adam Geibel"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Choir"
+        },
+        {
+          "name": "Orchestra"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Jesus Christ",
+        "commitment",
+        "endure to the end",
+        "faith",
+        "missionary work",
+        "praise",
+        "service"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "fdb2b41bc14711eebf43eeeeac1e7c1f1a5d88ee",
+            "attributes": {},
+            "composer": [],
+            "description": "Called to Serve",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/fdb2b41bc14711eebf43eeeeac1e7c1f1a5d88ee-256k-en.mp3",
+            "duration": 200064,
             "isPartOf": [],
             "keywords": [],
-            "$lastUpdatedDate": "Fri Nov 01 22:12:57 EDT 2024",
+            "$lastUpdatedDate": "Sun May 25 03:59:24 EDT 2025",
             "locatorIds": [],
+            "lyricist": [],
             "noindex": false,
-            "$id": "0000018e-1a97-d154-adbf-deff38f40000",
+            "$id": "0000018e-1a97-d154-adbf-deff2cec0000",
             "$lang": "eng",
-            "$model": "image",
-            "$rootId": "0000018e-1a97-d154-adbf-deff38f40000",
+            "$model": "audio",
+            "$rootId": "0000018e-1a97-d154-adbf-deff2cec0000",
             "$site": "music",
+            "performer": [],
             "products": [],
-            "publicAltText": "A faded out photo of a choir singing with the words \"Best of the Tabernacle Choir\" across the top.",
             "publicDownload": [],
-            "$publishDate": "Thu Mar 07 15:25:01 EST 2024",
+            "$publishDate": "Thu Mar 07 15:24:58 EST 2024",
             "$publishStatus": "PUBLISHED",
             "related": [],
-            "renditions": [
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!320%2C320/0/default",
-                "height": 320,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!320%2C320/0/default",
-                "width": 320
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!640%2C640/0/default",
-                "height": 640,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!640%2C640/0/default",
-                "width": 640
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!800%2C800/0/default",
-                "height": 800,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!800%2C800/0/default",
-                "width": 800
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1280%2C1280/0/default",
-                "height": 1280,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1280%2C1280/0/default",
-                "width": 1280
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1600%2C1600/0/default",
-                "height": 1600,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1600%2C1600/0/default",
-                "width": 1600
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1920%2C1920/0/default",
-                "height": 1920,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1920%2C1920/0/default",
-                "width": 1920
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!60%2C60/0/default",
-                "height": 60,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!60%2C60/0/default",
-                "width": 60
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!250%2C250/0/default",
-                "height": 250,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!250%2C250/0/default",
-                "width": 250
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!200%2C200/0/default",
-                "height": 200,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!200%2C200/0/default",
-                "width": 200
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!100%2C100/0/default",
-                "height": 100,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!100%2C100/0/default",
-                "width": 100
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!500%2C500/0/default",
-                "height": 500,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!500%2C500/0/default",
-                "width": 500
-              }
-            ],
             "requiredAssets": [],
             "sameAs": [],
-            "seoDescription": "Best of The Tabernacle Choir",
+            "seoDescription": "Called to Serve",
             "seoDescriptionAiGenerated": false,
-            "seoTitle": "Best of The Tabernacle Choir",
+            "seoTitle": "Called to Serve",
             "seoTitleAiGenerated": false,
-            "shareableDescription": "Best of The Tabernacle Choir",
-            "shareableTitle": "Best of The Tabernacle Choir",
-            "title": "Best of The Tabernacle Choir"
-          },
-          "title": "Called to Serve",
-          "translator": []
-        },
-        "$id": "00000196-c6e2-d455-a9f6-deeef44e0000",
-        "$model": "assetPurpose",
-        "$rootId": "00000196-c6e2-d455-a9f6-deeef44e0000",
-        "$site": "music",
-        "$publishStatus": "PUBLISHED"
-      }
-    ]
-  },
-  {
-    "title": "Shenandoah",
-    "slug": "shenandoah-wilberg",
-    "bookSlug": "best-of-the-tabernacle-choir",
-    "songNumber": "5",
-    "arrangers": [],
-    "artists": [
-      {
-        "personName": "Tabernacle Choir at Temple Square, The"
-      }
-    ],
-    "authors": [],
-    "composers": [],
-    "instrumentations": [
-      {
-        "name": "Choir"
-      },
-      {
-        "name": "Orchestra"
-      }
-    ],
-    "musicalFeatures": [],
-    "recordingAvailable": true,
-    "sheetMusicAvailable": false,
-    "videoAvailable": false,
-    "tags": [],
-    "voicings": [],
-    "assets": [
-      {
-        "annotatedFields": {},
-        "assetType": "AUDIO_VOCAL_CONGREGATION",
-        "attributes": {},
-        "locatorIds": [],
-        "mediaObject": {
-          "annotatedFields": {},
-          "arranger": [],
-          "assetID": "635e60ddabf911eea5e1eeeeac1e72f416704455",
-          "attributes": {},
-          "composer": [],
-          "description": "Shenandoah",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/635e60ddabf911eea5e1eeeeac1e72f416704455-32k-en.m4a",
-          "duration": 290000,
-          "isPartOf": [],
-          "keywords": [],
-          "$lastUpdatedDate": "Sat May 24 11:22:30 EDT 2025",
-          "locatorIds": [],
-          "lyricist": [],
-          "noindex": false,
-          "$id": "0000018c-db85-dba4-affe-fff5bc1c0000",
-          "$lang": "eng",
-          "$model": "audio",
-          "$rootId": "0000018c-db85-dba4-affe-fff5bc1c0000",
-          "$site": "music",
-          "performer": [],
-          "products": [],
-          "publicDownload": [],
-          "$publishDate": "Fri Jan 05 16:27:03 EST 2024",
-          "$publishStatus": "PUBLISHED",
-          "related": [],
-          "requiredAssets": [],
-          "sameAs": [],
-          "seoDescription": "Shenandoah",
-          "seoDescriptionAiGenerated": false,
-          "seoTitle": "Shenandoah",
-          "seoTitleAiGenerated": false,
-          "shareableDescription": "Shenandoah",
-          "shareableTitle": "Shenandoah",
-          "thumbnail": {
-            "annotatedFields": {},
-            "assetID": "5984e0578b7011eca8c7eeeeac1e7bee29452179",
-            "attributes": {},
-            "description": "Best of The Tabernacle Choir",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/1920,/0/default",
-            "focalPoint": {
-              "x": "50.00%",
-              "y": "50.00%"
+            "shareableDescription": "Called to Serve",
+            "shareableTitle": "Called to Serve",
+            "thumbnail": {
+              "annotatedFields": {},
+              "assetID": "5984e0578b7011eca8c7eeeeac1e7bee29452179",
+              "attributes": {},
+              "description": "Best of The Tabernacle Choir",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/1920,/0/default",
+              "focalPoint": {
+                "x": "50.00%",
+                "y": "50.00%"
+              },
+              "isPartOf": [],
+              "keywords": [],
+              "$lastUpdatedDate": "Fri Nov 01 22:12:57 EDT 2024",
+              "locatorIds": [],
+              "noindex": false,
+              "$id": "0000018e-1a97-d154-adbf-deff38f40000",
+              "$lang": "eng",
+              "$model": "image",
+              "$rootId": "0000018e-1a97-d154-adbf-deff38f40000",
+              "$site": "music",
+              "products": [],
+              "publicAltText": "A faded out photo of a choir singing with the words \"Best of the Tabernacle Choir\" across the top.",
+              "publicDownload": [],
+              "$publishDate": "Thu Mar 07 15:25:01 EST 2024",
+              "$publishStatus": "PUBLISHED",
+              "related": [],
+              "renditions": [
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!320%2C320/0/default",
+                  "height": 320,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!320%2C320/0/default",
+                  "width": 320
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!640%2C640/0/default",
+                  "height": 640,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!640%2C640/0/default",
+                  "width": 640
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!800%2C800/0/default",
+                  "height": 800,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!800%2C800/0/default",
+                  "width": 800
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1280%2C1280/0/default",
+                  "height": 1280,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1280%2C1280/0/default",
+                  "width": 1280
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1600%2C1600/0/default",
+                  "height": 1600,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1600%2C1600/0/default",
+                  "width": 1600
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1920%2C1920/0/default",
+                  "height": 1920,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1920%2C1920/0/default",
+                  "width": 1920
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!60%2C60/0/default",
+                  "height": 60,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!60%2C60/0/default",
+                  "width": 60
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!250%2C250/0/default",
+                  "height": 250,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!250%2C250/0/default",
+                  "width": 250
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!200%2C200/0/default",
+                  "height": 200,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!200%2C200/0/default",
+                  "width": 200
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!100%2C100/0/default",
+                  "height": 100,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!100%2C100/0/default",
+                  "width": 100
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!500%2C500/0/default",
+                  "height": 500,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!500%2C500/0/default",
+                  "width": 500
+                }
+              ],
+              "requiredAssets": [],
+              "sameAs": [],
+              "seoDescription": "Best of The Tabernacle Choir",
+              "seoDescriptionAiGenerated": false,
+              "seoTitle": "Best of The Tabernacle Choir",
+              "seoTitleAiGenerated": false,
+              "shareableDescription": "Best of The Tabernacle Choir",
+              "shareableTitle": "Best of The Tabernacle Choir",
+              "title": "Best of The Tabernacle Choir"
             },
+            "title": "Called to Serve",
+            "translator": []
+          },
+          "$id": "00000196-c6e2-d455-a9f6-deeef44e0000",
+          "$model": "assetPurpose",
+          "$rootId": "00000196-c6e2-d455-a9f6-deeef44e0000",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    },
+    {
+      "title": "Shenandoah",
+      "slug": "shenandoah-wilberg",
+      "bookSlug": "best-of-the-tabernacle-choir",
+      "songNumber": "5",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Tabernacle Choir at Temple Square, The"
+        }
+      ],
+      "authors": [],
+      "composers": [],
+      "instrumentations": [
+        {
+          "name": "Choir"
+        },
+        {
+          "name": "Orchestra"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [],
+      "assets": [
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "635e60ddabf911eea5e1eeeeac1e72f416704455",
+            "attributes": {},
+            "composer": [],
+            "description": "Shenandoah",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/635e60ddabf911eea5e1eeeeac1e72f416704455-32k-en.m4a",
+            "duration": 290000,
             "isPartOf": [],
             "keywords": [],
-            "$lastUpdatedDate": "Fri Nov 01 22:12:57 EDT 2024",
+            "$lastUpdatedDate": "Sat May 24 11:22:30 EDT 2025",
             "locatorIds": [],
+            "lyricist": [],
             "noindex": false,
-            "$id": "0000018e-1a97-d154-adbf-deff38f40000",
+            "$id": "0000018c-db85-dba4-affe-fff5bc1c0000",
             "$lang": "eng",
-            "$model": "image",
-            "$rootId": "0000018e-1a97-d154-adbf-deff38f40000",
+            "$model": "audio",
+            "$rootId": "0000018c-db85-dba4-affe-fff5bc1c0000",
             "$site": "music",
+            "performer": [],
             "products": [],
-            "publicAltText": "A faded out photo of a choir singing with the words \"Best of the Tabernacle Choir\" across the top.",
             "publicDownload": [],
-            "$publishDate": "Thu Mar 07 15:25:01 EST 2024",
+            "$publishDate": "Fri Jan 05 16:27:03 EST 2024",
             "$publishStatus": "PUBLISHED",
             "related": [],
-            "renditions": [
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!320%2C320/0/default",
-                "height": 320,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!320%2C320/0/default",
-                "width": 320
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!640%2C640/0/default",
-                "height": 640,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!640%2C640/0/default",
-                "width": 640
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!800%2C800/0/default",
-                "height": 800,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!800%2C800/0/default",
-                "width": 800
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1280%2C1280/0/default",
-                "height": 1280,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1280%2C1280/0/default",
-                "width": 1280
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1600%2C1600/0/default",
-                "height": 1600,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1600%2C1600/0/default",
-                "width": 1600
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1920%2C1920/0/default",
-                "height": 1920,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1920%2C1920/0/default",
-                "width": 1920
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!60%2C60/0/default",
-                "height": 60,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!60%2C60/0/default",
-                "width": 60
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!250%2C250/0/default",
-                "height": 250,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!250%2C250/0/default",
-                "width": 250
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!200%2C200/0/default",
-                "height": 200,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!200%2C200/0/default",
-                "width": 200
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!100%2C100/0/default",
-                "height": 100,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!100%2C100/0/default",
-                "width": 100
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!500%2C500/0/default",
-                "height": 500,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!500%2C500/0/default",
-                "width": 500
-              }
-            ],
             "requiredAssets": [],
             "sameAs": [],
-            "seoDescription": "Best of The Tabernacle Choir",
+            "seoDescription": "Shenandoah",
             "seoDescriptionAiGenerated": false,
-            "seoTitle": "Best of The Tabernacle Choir",
+            "seoTitle": "Shenandoah",
             "seoTitleAiGenerated": false,
-            "shareableDescription": "Best of The Tabernacle Choir",
-            "shareableTitle": "Best of The Tabernacle Choir",
-            "title": "Best of The Tabernacle Choir"
-          },
-          "title": "Shenandoah",
-          "translator": []
-        },
-        "$id": "00000196-c6e2-d455-a9f6-deeef46b0000",
-        "$model": "assetPurpose",
-        "$rootId": "00000196-c6e2-d455-a9f6-deeef46b0000",
-        "$site": "music",
-        "$publishStatus": "PUBLISHED"
-      }
-    ]
-  },
-  {
-    "title": "Teach Me to Walk in the Light",
-    "slug": "teach-me-to-walk-in-the-light-wilberg",
-    "bookSlug": "best-of-the-tabernacle-choir",
-    "songNumber": "6",
-    "arrangers": [],
-    "artists": [
-      {
-        "personName": "Tabernacle Choir at Temple Square, The"
-      }
-    ],
-    "authors": [
-      {
-        "personName": "Clara W. McMaster"
-      }
-    ],
-    "composers": [
-      {
-        "personName": "Clara W. McMaster"
-      }
-    ],
-    "instrumentations": [
-      {
-        "name": "Choir"
-      },
-      {
-        "name": "Orchestra"
-      }
-    ],
-    "musicalFeatures": [],
-    "recordingAvailable": true,
-    "sheetMusicAvailable": false,
-    "videoAvailable": false,
-    "tags": [
-      "Heavenly Father",
-      "Jesus Christ",
-      "commandments",
-      "exaltation",
-      "gospel",
-      "gratitude",
-      "guidance",
-      "joy",
-      "knowledge",
-      "learning",
-      "love",
-      "obedience",
-      "plan of salvation",
-      "praise",
-      "prayer",
-      "teaching",
-      "truth"
-    ],
-    "voicings": [],
-    "assets": [
-      {
-        "annotatedFields": {},
-        "assetType": "AUDIO_VOCAL_CONGREGATION",
-        "attributes": {},
-        "locatorIds": [],
-        "mediaObject": {
-          "annotatedFields": {},
-          "arranger": [],
-          "assetID": "f0461e80c14711ee8aa9eeeeac1e47e8362cd000",
-          "attributes": {},
-          "composer": [],
-          "description": "Teach Me To Walk in the Light",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/f0461e80c14711ee8aa9eeeeac1e47e8362cd000-32k-en.mp3",
-          "duration": 238000,
-          "isPartOf": [],
-          "keywords": [],
-          "$lastUpdatedDate": "Sat May 24 02:24:15 EDT 2025",
-          "locatorIds": [],
-          "lyricist": [],
-          "noindex": false,
-          "$id": "0000018d-7b86-dadb-a7bf-7fb786680000",
-          "$lang": "eng",
-          "$model": "audio",
-          "$rootId": "0000018d-7b86-dadb-a7bf-7fb786680000",
-          "$site": "music",
-          "performer": [],
-          "products": [],
-          "publicDownload": [],
-          "$publishDate": "Mon Feb 05 18:07:10 EST 2024",
-          "$publishStatus": "PUBLISHED",
-          "related": [],
-          "requiredAssets": [],
-          "sameAs": [],
-          "seoDescription": "Teach Me To Walk in the Light",
-          "seoDescriptionAiGenerated": false,
-          "seoTitle": "Teach Me To Walk in the Light",
-          "seoTitleAiGenerated": false,
-          "shareableDescription": "Teach Me To Walk in the Light",
-          "shareableTitle": "Teach Me To Walk in the Light",
-          "thumbnail": {
-            "annotatedFields": {},
-            "assetID": "5984e0578b7011eca8c7eeeeac1e7bee29452179",
-            "attributes": {},
-            "description": "Best of The Tabernacle Choir",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/1920,/0/default",
-            "focalPoint": {
-              "x": "50.00%",
-              "y": "50.00%"
+            "shareableDescription": "Shenandoah",
+            "shareableTitle": "Shenandoah",
+            "thumbnail": {
+              "annotatedFields": {},
+              "assetID": "5984e0578b7011eca8c7eeeeac1e7bee29452179",
+              "attributes": {},
+              "description": "Best of The Tabernacle Choir",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/1920,/0/default",
+              "focalPoint": {
+                "x": "50.00%",
+                "y": "50.00%"
+              },
+              "isPartOf": [],
+              "keywords": [],
+              "$lastUpdatedDate": "Fri Nov 01 22:12:57 EDT 2024",
+              "locatorIds": [],
+              "noindex": false,
+              "$id": "0000018e-1a97-d154-adbf-deff38f40000",
+              "$lang": "eng",
+              "$model": "image",
+              "$rootId": "0000018e-1a97-d154-adbf-deff38f40000",
+              "$site": "music",
+              "products": [],
+              "publicAltText": "A faded out photo of a choir singing with the words \"Best of the Tabernacle Choir\" across the top.",
+              "publicDownload": [],
+              "$publishDate": "Thu Mar 07 15:25:01 EST 2024",
+              "$publishStatus": "PUBLISHED",
+              "related": [],
+              "renditions": [
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!320%2C320/0/default",
+                  "height": 320,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!320%2C320/0/default",
+                  "width": 320
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!640%2C640/0/default",
+                  "height": 640,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!640%2C640/0/default",
+                  "width": 640
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!800%2C800/0/default",
+                  "height": 800,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!800%2C800/0/default",
+                  "width": 800
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1280%2C1280/0/default",
+                  "height": 1280,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1280%2C1280/0/default",
+                  "width": 1280
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1600%2C1600/0/default",
+                  "height": 1600,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1600%2C1600/0/default",
+                  "width": 1600
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1920%2C1920/0/default",
+                  "height": 1920,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1920%2C1920/0/default",
+                  "width": 1920
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!60%2C60/0/default",
+                  "height": 60,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!60%2C60/0/default",
+                  "width": 60
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!250%2C250/0/default",
+                  "height": 250,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!250%2C250/0/default",
+                  "width": 250
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!200%2C200/0/default",
+                  "height": 200,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!200%2C200/0/default",
+                  "width": 200
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!100%2C100/0/default",
+                  "height": 100,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!100%2C100/0/default",
+                  "width": 100
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!500%2C500/0/default",
+                  "height": 500,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!500%2C500/0/default",
+                  "width": 500
+                }
+              ],
+              "requiredAssets": [],
+              "sameAs": [],
+              "seoDescription": "Best of The Tabernacle Choir",
+              "seoDescriptionAiGenerated": false,
+              "seoTitle": "Best of The Tabernacle Choir",
+              "seoTitleAiGenerated": false,
+              "shareableDescription": "Best of The Tabernacle Choir",
+              "shareableTitle": "Best of The Tabernacle Choir",
+              "title": "Best of The Tabernacle Choir"
             },
+            "title": "Shenandoah",
+            "translator": []
+          },
+          "$id": "00000196-c6e2-d455-a9f6-deeef46b0000",
+          "$model": "assetPurpose",
+          "$rootId": "00000196-c6e2-d455-a9f6-deeef46b0000",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    },
+    {
+      "title": "Teach Me to Walk in the Light",
+      "slug": "teach-me-to-walk-in-the-light-wilberg",
+      "bookSlug": "best-of-the-tabernacle-choir",
+      "songNumber": "6",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Tabernacle Choir at Temple Square, The"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Clara W. McMaster"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Clara W. McMaster"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Choir"
+        },
+        {
+          "name": "Orchestra"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Heavenly Father",
+        "Jesus Christ",
+        "commandments",
+        "exaltation",
+        "gospel",
+        "gratitude",
+        "guidance",
+        "joy",
+        "knowledge",
+        "learning",
+        "love",
+        "obedience",
+        "plan of salvation",
+        "praise",
+        "prayer",
+        "teaching",
+        "truth"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "f0461e80c14711ee8aa9eeeeac1e47e8362cd000",
+            "attributes": {},
+            "composer": [],
+            "description": "Teach Me To Walk in the Light",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/f0461e80c14711ee8aa9eeeeac1e47e8362cd000-32k-en.mp3",
+            "duration": 238000,
             "isPartOf": [],
             "keywords": [],
-            "$lastUpdatedDate": "Fri Nov 01 22:12:57 EDT 2024",
+            "$lastUpdatedDate": "Sat May 24 02:24:15 EDT 2025",
             "locatorIds": [],
+            "lyricist": [],
             "noindex": false,
-            "$id": "0000018e-1a97-d154-adbf-deff38f40000",
+            "$id": "0000018d-7b86-dadb-a7bf-7fb786680000",
             "$lang": "eng",
-            "$model": "image",
-            "$rootId": "0000018e-1a97-d154-adbf-deff38f40000",
+            "$model": "audio",
+            "$rootId": "0000018d-7b86-dadb-a7bf-7fb786680000",
             "$site": "music",
+            "performer": [],
             "products": [],
-            "publicAltText": "A faded out photo of a choir singing with the words \"Best of the Tabernacle Choir\" across the top.",
             "publicDownload": [],
-            "$publishDate": "Thu Mar 07 15:25:01 EST 2024",
+            "$publishDate": "Mon Feb 05 18:07:10 EST 2024",
             "$publishStatus": "PUBLISHED",
             "related": [],
-            "renditions": [
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!320%2C320/0/default",
-                "height": 320,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!320%2C320/0/default",
-                "width": 320
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!640%2C640/0/default",
-                "height": 640,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!640%2C640/0/default",
-                "width": 640
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!800%2C800/0/default",
-                "height": 800,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!800%2C800/0/default",
-                "width": 800
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1280%2C1280/0/default",
-                "height": 1280,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1280%2C1280/0/default",
-                "width": 1280
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1600%2C1600/0/default",
-                "height": 1600,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1600%2C1600/0/default",
-                "width": 1600
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1920%2C1920/0/default",
-                "height": 1920,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1920%2C1920/0/default",
-                "width": 1920
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!60%2C60/0/default",
-                "height": 60,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!60%2C60/0/default",
-                "width": 60
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!250%2C250/0/default",
-                "height": 250,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!250%2C250/0/default",
-                "width": 250
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!200%2C200/0/default",
-                "height": 200,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!200%2C200/0/default",
-                "width": 200
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!100%2C100/0/default",
-                "height": 100,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!100%2C100/0/default",
-                "width": 100
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!500%2C500/0/default",
-                "height": 500,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!500%2C500/0/default",
-                "width": 500
-              }
-            ],
             "requiredAssets": [],
             "sameAs": [],
-            "seoDescription": "Best of The Tabernacle Choir",
+            "seoDescription": "Teach Me To Walk in the Light",
             "seoDescriptionAiGenerated": false,
-            "seoTitle": "Best of The Tabernacle Choir",
+            "seoTitle": "Teach Me To Walk in the Light",
             "seoTitleAiGenerated": false,
-            "shareableDescription": "Best of The Tabernacle Choir",
-            "shareableTitle": "Best of The Tabernacle Choir",
-            "title": "Best of The Tabernacle Choir"
-          },
-          "title": "Teach Me To Walk in the Light",
-          "translator": []
-        },
-        "$id": "00000196-c6e2-d455-a9f6-deeef48a0000",
-        "$model": "assetPurpose",
-        "$rootId": "00000196-c6e2-d455-a9f6-deeef48a0000",
-        "$site": "music",
-        "$publishStatus": "PUBLISHED"
-      }
-    ]
-  },
-  {
-    "title": "Press Forward Saints",
-    "slug": "press-forward-saints-wilberg",
-    "bookSlug": "best-of-the-tabernacle-choir",
-    "songNumber": "7",
-    "arrangers": [
-      {
-        "personName": "Mack Wilberg"
-      }
-    ],
-    "artists": [
-      {
-        "personName": "Tabernacle Choir at Temple Square, The"
-      }
-    ],
-    "authors": [
-      {
-        "personName": "Marvin K. Gardner"
-      }
-    ],
-    "composers": [
-      {
-        "personName": "Vanja Y. Watkins"
-      }
-    ],
-    "instrumentations": [
-      {
-        "name": "Choir"
-      },
-      {
-        "name": "Orchestra"
-      }
-    ],
-    "musicalFeatures": [],
-    "recordingAvailable": true,
-    "sheetMusicAvailable": false,
-    "videoAvailable": false,
-    "tags": [
-      "endure to the end",
-      "exaltation",
-      "faith",
-      "hope",
-      "love",
-      "scriptures"
-    ],
-    "voicings": [],
-    "assets": [
-      {
-        "annotatedFields": {},
-        "assetType": "AUDIO_VOCAL_CONGREGATION",
-        "attributes": {},
-        "locatorIds": [],
-        "mediaObject": {
-          "annotatedFields": {},
-          "arranger": [],
-          "assetID": "f1fc8112c14711eea9b8eeeeac1e2bed9939a5c1",
-          "attributes": {},
-          "composer": [],
-          "description": "Press Forward, Saints",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/f1fc8112c14711eea9b8eeeeac1e2bed9939a5c1-256k-en.mp3",
-          "duration": 215784,
-          "isPartOf": [],
-          "keywords": [],
-          "$lastUpdatedDate": "Sun May 25 10:10:58 EDT 2025",
-          "locatorIds": [],
-          "lyricist": [],
-          "noindex": false,
-          "$id": "0000018d-7b86-dfcd-a99f-fb9effb30000",
-          "$lang": "eng",
-          "$model": "audio",
-          "$rootId": "0000018d-7b86-dfcd-a99f-fb9effb30000",
-          "$site": "music",
-          "performer": [],
-          "products": [],
-          "publicDownload": [],
-          "$publishDate": "Mon Feb 05 18:07:41 EST 2024",
-          "$publishStatus": "PUBLISHED",
-          "related": [],
-          "requiredAssets": [],
-          "sameAs": [],
-          "seoDescription": "Press Forward, Saints",
-          "seoDescriptionAiGenerated": false,
-          "seoTitle": "Press Forward, Saints",
-          "seoTitleAiGenerated": false,
-          "shareableDescription": "Press Forward, Saints",
-          "shareableTitle": "Press Forward, Saints",
-          "thumbnail": {
-            "annotatedFields": {},
-            "assetID": "5984e0578b7011eca8c7eeeeac1e7bee29452179",
-            "attributes": {},
-            "description": "Best of The Tabernacle Choir",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/1920,/0/default",
-            "focalPoint": {
-              "x": "50.00%",
-              "y": "50.00%"
+            "shareableDescription": "Teach Me To Walk in the Light",
+            "shareableTitle": "Teach Me To Walk in the Light",
+            "thumbnail": {
+              "annotatedFields": {},
+              "assetID": "5984e0578b7011eca8c7eeeeac1e7bee29452179",
+              "attributes": {},
+              "description": "Best of The Tabernacle Choir",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/1920,/0/default",
+              "focalPoint": {
+                "x": "50.00%",
+                "y": "50.00%"
+              },
+              "isPartOf": [],
+              "keywords": [],
+              "$lastUpdatedDate": "Fri Nov 01 22:12:57 EDT 2024",
+              "locatorIds": [],
+              "noindex": false,
+              "$id": "0000018e-1a97-d154-adbf-deff38f40000",
+              "$lang": "eng",
+              "$model": "image",
+              "$rootId": "0000018e-1a97-d154-adbf-deff38f40000",
+              "$site": "music",
+              "products": [],
+              "publicAltText": "A faded out photo of a choir singing with the words \"Best of the Tabernacle Choir\" across the top.",
+              "publicDownload": [],
+              "$publishDate": "Thu Mar 07 15:25:01 EST 2024",
+              "$publishStatus": "PUBLISHED",
+              "related": [],
+              "renditions": [
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!320%2C320/0/default",
+                  "height": 320,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!320%2C320/0/default",
+                  "width": 320
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!640%2C640/0/default",
+                  "height": 640,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!640%2C640/0/default",
+                  "width": 640
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!800%2C800/0/default",
+                  "height": 800,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!800%2C800/0/default",
+                  "width": 800
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1280%2C1280/0/default",
+                  "height": 1280,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1280%2C1280/0/default",
+                  "width": 1280
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1600%2C1600/0/default",
+                  "height": 1600,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1600%2C1600/0/default",
+                  "width": 1600
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1920%2C1920/0/default",
+                  "height": 1920,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1920%2C1920/0/default",
+                  "width": 1920
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!60%2C60/0/default",
+                  "height": 60,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!60%2C60/0/default",
+                  "width": 60
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!250%2C250/0/default",
+                  "height": 250,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!250%2C250/0/default",
+                  "width": 250
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!200%2C200/0/default",
+                  "height": 200,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!200%2C200/0/default",
+                  "width": 200
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!100%2C100/0/default",
+                  "height": 100,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!100%2C100/0/default",
+                  "width": 100
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!500%2C500/0/default",
+                  "height": 500,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!500%2C500/0/default",
+                  "width": 500
+                }
+              ],
+              "requiredAssets": [],
+              "sameAs": [],
+              "seoDescription": "Best of The Tabernacle Choir",
+              "seoDescriptionAiGenerated": false,
+              "seoTitle": "Best of The Tabernacle Choir",
+              "seoTitleAiGenerated": false,
+              "shareableDescription": "Best of The Tabernacle Choir",
+              "shareableTitle": "Best of The Tabernacle Choir",
+              "title": "Best of The Tabernacle Choir"
             },
+            "title": "Teach Me To Walk in the Light",
+            "translator": []
+          },
+          "$id": "00000196-c6e2-d455-a9f6-deeef48a0000",
+          "$model": "assetPurpose",
+          "$rootId": "00000196-c6e2-d455-a9f6-deeef48a0000",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    },
+    {
+      "title": "Press Forward Saints",
+      "slug": "press-forward-saints-wilberg",
+      "bookSlug": "best-of-the-tabernacle-choir",
+      "songNumber": "7",
+      "arrangers": [
+        {
+          "personName": "Mack Wilberg"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Tabernacle Choir at Temple Square, The"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Marvin K. Gardner"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Vanja Y. Watkins"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Choir"
+        },
+        {
+          "name": "Orchestra"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "endure to the end",
+        "exaltation",
+        "faith",
+        "hope",
+        "love",
+        "scriptures"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "f1fc8112c14711eea9b8eeeeac1e2bed9939a5c1",
+            "attributes": {},
+            "composer": [],
+            "description": "Press Forward, Saints",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/f1fc8112c14711eea9b8eeeeac1e2bed9939a5c1-256k-en.mp3",
+            "duration": 215784,
             "isPartOf": [],
             "keywords": [],
-            "$lastUpdatedDate": "Fri Nov 01 22:12:57 EDT 2024",
+            "$lastUpdatedDate": "Sun May 25 10:10:58 EDT 2025",
             "locatorIds": [],
+            "lyricist": [],
             "noindex": false,
-            "$id": "0000018e-1a97-d154-adbf-deff38f40000",
+            "$id": "0000018d-7b86-dfcd-a99f-fb9effb30000",
             "$lang": "eng",
-            "$model": "image",
-            "$rootId": "0000018e-1a97-d154-adbf-deff38f40000",
+            "$model": "audio",
+            "$rootId": "0000018d-7b86-dfcd-a99f-fb9effb30000",
             "$site": "music",
+            "performer": [],
             "products": [],
-            "publicAltText": "A faded out photo of a choir singing with the words \"Best of the Tabernacle Choir\" across the top.",
             "publicDownload": [],
-            "$publishDate": "Thu Mar 07 15:25:01 EST 2024",
+            "$publishDate": "Mon Feb 05 18:07:41 EST 2024",
             "$publishStatus": "PUBLISHED",
             "related": [],
-            "renditions": [
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!320%2C320/0/default",
-                "height": 320,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!320%2C320/0/default",
-                "width": 320
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!640%2C640/0/default",
-                "height": 640,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!640%2C640/0/default",
-                "width": 640
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!800%2C800/0/default",
-                "height": 800,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!800%2C800/0/default",
-                "width": 800
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1280%2C1280/0/default",
-                "height": 1280,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1280%2C1280/0/default",
-                "width": 1280
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1600%2C1600/0/default",
-                "height": 1600,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1600%2C1600/0/default",
-                "width": 1600
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1920%2C1920/0/default",
-                "height": 1920,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1920%2C1920/0/default",
-                "width": 1920
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!60%2C60/0/default",
-                "height": 60,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!60%2C60/0/default",
-                "width": 60
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!250%2C250/0/default",
-                "height": 250,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!250%2C250/0/default",
-                "width": 250
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!200%2C200/0/default",
-                "height": 200,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!200%2C200/0/default",
-                "width": 200
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!100%2C100/0/default",
-                "height": 100,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!100%2C100/0/default",
-                "width": 100
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!500%2C500/0/default",
-                "height": 500,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!500%2C500/0/default",
-                "width": 500
-              }
-            ],
             "requiredAssets": [],
             "sameAs": [],
-            "seoDescription": "Best of The Tabernacle Choir",
+            "seoDescription": "Press Forward, Saints",
             "seoDescriptionAiGenerated": false,
-            "seoTitle": "Best of The Tabernacle Choir",
+            "seoTitle": "Press Forward, Saints",
             "seoTitleAiGenerated": false,
-            "shareableDescription": "Best of The Tabernacle Choir",
-            "shareableTitle": "Best of The Tabernacle Choir",
-            "title": "Best of The Tabernacle Choir"
-          },
-          "title": "Press Forward, Saints",
-          "translator": []
-        },
-        "$id": "00000196-c6e2-d455-a9f6-deeef4a80000",
-        "$model": "assetPurpose",
-        "$rootId": "00000196-c6e2-d455-a9f6-deeef4a80000",
-        "$site": "music",
-        "$publishStatus": "PUBLISHED"
-      }
-    ]
-  },
-  {
-    "title": "Have I Done Any Good",
-    "slug": "have-i-done-any-good-zabriskie",
-    "bookSlug": "best-of-the-tabernacle-choir",
-    "songNumber": "8",
-    "arrangers": [
-      {
-        "personName": "David A. Zabriskie"
-      }
-    ],
-    "artists": [
-      {
-        "personName": "Tabernacle Choir at Temple Square, The"
-      }
-    ],
-    "authors": [
-      {
-        "personName": "Will L. Thompson"
-      }
-    ],
-    "composers": [
-      {
-        "personName": "Will L. Thompson"
-      }
-    ],
-    "instrumentations": [
-      {
-        "name": "Choir"
-      },
-      {
-        "name": "Orchestra"
-      }
-    ],
-    "musicalFeatures": [],
-    "recordingAvailable": true,
-    "sheetMusicAvailable": false,
-    "videoAvailable": false,
-    "tags": [
-      "agency",
-      "joy",
-      "love",
-      "ministering",
-      "service",
-      "sharing",
-      "work"
-    ],
-    "voicings": [],
-    "assets": [
-      {
-        "annotatedFields": {},
-        "assetType": "AUDIO_VOCAL_CONGREGATION",
-        "attributes": {},
-        "locatorIds": [],
-        "mediaObject": {
-          "annotatedFields": {},
-          "arranger": [],
-          "assetID": "f5d99431c14711ee96beeeeeac1e73a11609eb0a",
-          "attributes": {},
-          "composer": [],
-          "description": "Have I Done Any Good?",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/f5d99431c14711ee96beeeeeac1e73a11609eb0a-128k-en.mp3",
-          "duration": 213000,
-          "isPartOf": [],
-          "keywords": [],
-          "$lastUpdatedDate": "Mon May 26 15:06:24 EDT 2025",
-          "locatorIds": [],
-          "lyricist": [],
-          "noindex": false,
-          "$id": "0000018e-1a97-d154-adbf-deff2f7d0000",
-          "$lang": "eng",
-          "$model": "audio",
-          "$rootId": "0000018e-1a97-d154-adbf-deff2f7d0000",
-          "$site": "music",
-          "performer": [],
-          "products": [],
-          "publicDownload": [],
-          "$publishDate": "Thu Mar 07 15:24:59 EST 2024",
-          "$publishStatus": "PUBLISHED",
-          "related": [],
-          "requiredAssets": [],
-          "sameAs": [],
-          "seoDescription": "Have I Done Any Good?",
-          "seoDescriptionAiGenerated": false,
-          "seoTitle": "Have I Done Any Good?",
-          "seoTitleAiGenerated": false,
-          "shareableDescription": "Have I Done Any Good?",
-          "shareableTitle": "Have I Done Any Good?",
-          "thumbnail": {
-            "annotatedFields": {},
-            "assetID": "5984e0578b7011eca8c7eeeeac1e7bee29452179",
-            "attributes": {},
-            "description": "Best of The Tabernacle Choir",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/1920,/0/default",
-            "focalPoint": {
-              "x": "50.00%",
-              "y": "50.00%"
+            "shareableDescription": "Press Forward, Saints",
+            "shareableTitle": "Press Forward, Saints",
+            "thumbnail": {
+              "annotatedFields": {},
+              "assetID": "5984e0578b7011eca8c7eeeeac1e7bee29452179",
+              "attributes": {},
+              "description": "Best of The Tabernacle Choir",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/1920,/0/default",
+              "focalPoint": {
+                "x": "50.00%",
+                "y": "50.00%"
+              },
+              "isPartOf": [],
+              "keywords": [],
+              "$lastUpdatedDate": "Fri Nov 01 22:12:57 EDT 2024",
+              "locatorIds": [],
+              "noindex": false,
+              "$id": "0000018e-1a97-d154-adbf-deff38f40000",
+              "$lang": "eng",
+              "$model": "image",
+              "$rootId": "0000018e-1a97-d154-adbf-deff38f40000",
+              "$site": "music",
+              "products": [],
+              "publicAltText": "A faded out photo of a choir singing with the words \"Best of the Tabernacle Choir\" across the top.",
+              "publicDownload": [],
+              "$publishDate": "Thu Mar 07 15:25:01 EST 2024",
+              "$publishStatus": "PUBLISHED",
+              "related": [],
+              "renditions": [
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!320%2C320/0/default",
+                  "height": 320,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!320%2C320/0/default",
+                  "width": 320
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!640%2C640/0/default",
+                  "height": 640,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!640%2C640/0/default",
+                  "width": 640
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!800%2C800/0/default",
+                  "height": 800,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!800%2C800/0/default",
+                  "width": 800
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1280%2C1280/0/default",
+                  "height": 1280,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1280%2C1280/0/default",
+                  "width": 1280
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1600%2C1600/0/default",
+                  "height": 1600,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1600%2C1600/0/default",
+                  "width": 1600
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1920%2C1920/0/default",
+                  "height": 1920,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1920%2C1920/0/default",
+                  "width": 1920
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!60%2C60/0/default",
+                  "height": 60,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!60%2C60/0/default",
+                  "width": 60
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!250%2C250/0/default",
+                  "height": 250,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!250%2C250/0/default",
+                  "width": 250
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!200%2C200/0/default",
+                  "height": 200,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!200%2C200/0/default",
+                  "width": 200
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!100%2C100/0/default",
+                  "height": 100,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!100%2C100/0/default",
+                  "width": 100
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!500%2C500/0/default",
+                  "height": 500,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!500%2C500/0/default",
+                  "width": 500
+                }
+              ],
+              "requiredAssets": [],
+              "sameAs": [],
+              "seoDescription": "Best of The Tabernacle Choir",
+              "seoDescriptionAiGenerated": false,
+              "seoTitle": "Best of The Tabernacle Choir",
+              "seoTitleAiGenerated": false,
+              "shareableDescription": "Best of The Tabernacle Choir",
+              "shareableTitle": "Best of The Tabernacle Choir",
+              "title": "Best of The Tabernacle Choir"
             },
+            "title": "Press Forward, Saints",
+            "translator": []
+          },
+          "$id": "00000196-c6e2-d455-a9f6-deeef4a80000",
+          "$model": "assetPurpose",
+          "$rootId": "00000196-c6e2-d455-a9f6-deeef4a80000",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    },
+    {
+      "title": "Have I Done Any Good",
+      "slug": "have-i-done-any-good-zabriskie",
+      "bookSlug": "best-of-the-tabernacle-choir",
+      "songNumber": "8",
+      "arrangers": [
+        {
+          "personName": "David A. Zabriskie"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Tabernacle Choir at Temple Square, The"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Will L. Thompson"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Will L. Thompson"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Choir"
+        },
+        {
+          "name": "Orchestra"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "agency",
+        "joy",
+        "love",
+        "ministering",
+        "service",
+        "sharing",
+        "work"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "f5d99431c14711ee96beeeeeac1e73a11609eb0a",
+            "attributes": {},
+            "composer": [],
+            "description": "Have I Done Any Good?",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/f5d99431c14711ee96beeeeeac1e73a11609eb0a-128k-en.mp3",
+            "duration": 213000,
             "isPartOf": [],
             "keywords": [],
-            "$lastUpdatedDate": "Fri Nov 01 22:12:57 EDT 2024",
+            "$lastUpdatedDate": "Mon May 26 15:06:24 EDT 2025",
             "locatorIds": [],
+            "lyricist": [],
             "noindex": false,
-            "$id": "0000018e-1a97-d154-adbf-deff38f40000",
+            "$id": "0000018e-1a97-d154-adbf-deff2f7d0000",
             "$lang": "eng",
-            "$model": "image",
-            "$rootId": "0000018e-1a97-d154-adbf-deff38f40000",
+            "$model": "audio",
+            "$rootId": "0000018e-1a97-d154-adbf-deff2f7d0000",
             "$site": "music",
+            "performer": [],
             "products": [],
-            "publicAltText": "A faded out photo of a choir singing with the words \"Best of the Tabernacle Choir\" across the top.",
             "publicDownload": [],
-            "$publishDate": "Thu Mar 07 15:25:01 EST 2024",
+            "$publishDate": "Thu Mar 07 15:24:59 EST 2024",
             "$publishStatus": "PUBLISHED",
             "related": [],
-            "renditions": [
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!320%2C320/0/default",
-                "height": 320,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!320%2C320/0/default",
-                "width": 320
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!640%2C640/0/default",
-                "height": 640,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!640%2C640/0/default",
-                "width": 640
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!800%2C800/0/default",
-                "height": 800,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!800%2C800/0/default",
-                "width": 800
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1280%2C1280/0/default",
-                "height": 1280,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1280%2C1280/0/default",
-                "width": 1280
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1600%2C1600/0/default",
-                "height": 1600,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1600%2C1600/0/default",
-                "width": 1600
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1920%2C1920/0/default",
-                "height": 1920,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1920%2C1920/0/default",
-                "width": 1920
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!60%2C60/0/default",
-                "height": 60,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!60%2C60/0/default",
-                "width": 60
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!250%2C250/0/default",
-                "height": 250,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!250%2C250/0/default",
-                "width": 250
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!200%2C200/0/default",
-                "height": 200,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!200%2C200/0/default",
-                "width": 200
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!100%2C100/0/default",
-                "height": 100,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!100%2C100/0/default",
-                "width": 100
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!500%2C500/0/default",
-                "height": 500,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!500%2C500/0/default",
-                "width": 500
-              }
-            ],
             "requiredAssets": [],
             "sameAs": [],
-            "seoDescription": "Best of The Tabernacle Choir",
+            "seoDescription": "Have I Done Any Good?",
             "seoDescriptionAiGenerated": false,
-            "seoTitle": "Best of The Tabernacle Choir",
+            "seoTitle": "Have I Done Any Good?",
             "seoTitleAiGenerated": false,
-            "shareableDescription": "Best of The Tabernacle Choir",
-            "shareableTitle": "Best of The Tabernacle Choir",
-            "title": "Best of The Tabernacle Choir"
-          },
-          "title": "Have I Done Any Good?",
-          "translator": []
-        },
-        "$id": "00000196-c6e2-d455-a9f6-deeef4c00000",
-        "$model": "assetPurpose",
-        "$rootId": "00000196-c6e2-d455-a9f6-deeef4c00000",
-        "$site": "music",
-        "$publishStatus": "PUBLISHED"
-      }
-    ]
-  },
-  {
-    "title": "The Spirit of God",
-    "slug": "the-spirit-of-god-wilberg",
-    "bookSlug": "best-of-the-tabernacle-choir",
-    "songNumber": "9",
-    "arrangers": [
-      {
-        "personName": "Mack Wilberg"
-      }
-    ],
-    "artists": [
-      {
-        "personName": "Tabernacle Choir at Temple Square, The"
-      }
-    ],
-    "authors": [
-      {
-        "personName": "William W. Phelps"
-      }
-    ],
-    "composers": [
-      {
-        "personName": "Anon."
-      }
-    ],
-    "instrumentations": [
-      {
-        "name": "Choir"
-      },
-      {
-        "name": "Orchestra"
-      }
-    ],
-    "musicalFeatures": [],
-    "recordingAvailable": true,
-    "sheetMusicAvailable": false,
-    "videoAvailable": false,
-    "tags": [
-      "Jesus Christ",
-      "Joseph Smith",
-      "Millennium",
-      "Restoration",
-      "Second Coming",
-      "baptism",
-      "faith",
-      "family",
-      "missionary work",
-      "praise",
-      "priesthood",
-      "scriptures",
-      "temples"
-    ],
-    "voicings": [],
-    "assets": [
-      {
-        "annotatedFields": {},
-        "assetType": "AUDIO_VOCAL_CONGREGATION",
-        "attributes": {},
-        "locatorIds": [],
-        "mediaObject": {
-          "annotatedFields": {},
-          "arranger": [],
-          "assetID": "cbaf7aa3015f11eeba40eeeeac1eb6b5f33959e0",
-          "attributes": {},
-          "composer": [],
-          "description": "The Spirit of God",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/cbaf7aa3015f11eeba40eeeeac1eb6b5f33959e0-128k-en.mp3",
-          "duration": 339000,
-          "isPartOf": [],
-          "keywords": [],
-          "$lastUpdatedDate": "Sun May 25 08:12:41 EDT 2025",
-          "locatorIds": [],
-          "lyricist": [],
-          "noindex": false,
-          "$id": "0000018b-ba0e-de8b-a7fb-bacebbd80000",
-          "$lang": "eng",
-          "$model": "audio",
-          "$rootId": "0000018b-ba0e-de8b-a7fb-bacebbd80000",
-          "$site": "music",
-          "performer": [],
-          "products": [],
-          "publicDownload": [],
-          "$publishDate": "Fri Nov 10 11:26:49 EST 2023",
-          "$publishStatus": "PUBLISHED",
-          "related": [],
-          "requiredAssets": [],
-          "sameAs": [],
-          "seoDescription": "The Spirit of God",
-          "seoDescriptionAiGenerated": false,
-          "seoTitle": "The Spirit of God",
-          "seoTitleAiGenerated": false,
-          "shareableDescription": "The Spirit of God",
-          "shareableTitle": "The Spirit of God",
-          "thumbnail": {
-            "annotatedFields": {},
-            "assetID": "5984e0578b7011eca8c7eeeeac1e7bee29452179",
-            "attributes": {},
-            "description": "Best of The Tabernacle Choir",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/1920,/0/default",
-            "focalPoint": {
-              "x": "50.00%",
-              "y": "50.00%"
+            "shareableDescription": "Have I Done Any Good?",
+            "shareableTitle": "Have I Done Any Good?",
+            "thumbnail": {
+              "annotatedFields": {},
+              "assetID": "5984e0578b7011eca8c7eeeeac1e7bee29452179",
+              "attributes": {},
+              "description": "Best of The Tabernacle Choir",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/1920,/0/default",
+              "focalPoint": {
+                "x": "50.00%",
+                "y": "50.00%"
+              },
+              "isPartOf": [],
+              "keywords": [],
+              "$lastUpdatedDate": "Fri Nov 01 22:12:57 EDT 2024",
+              "locatorIds": [],
+              "noindex": false,
+              "$id": "0000018e-1a97-d154-adbf-deff38f40000",
+              "$lang": "eng",
+              "$model": "image",
+              "$rootId": "0000018e-1a97-d154-adbf-deff38f40000",
+              "$site": "music",
+              "products": [],
+              "publicAltText": "A faded out photo of a choir singing with the words \"Best of the Tabernacle Choir\" across the top.",
+              "publicDownload": [],
+              "$publishDate": "Thu Mar 07 15:25:01 EST 2024",
+              "$publishStatus": "PUBLISHED",
+              "related": [],
+              "renditions": [
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!320%2C320/0/default",
+                  "height": 320,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!320%2C320/0/default",
+                  "width": 320
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!640%2C640/0/default",
+                  "height": 640,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!640%2C640/0/default",
+                  "width": 640
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!800%2C800/0/default",
+                  "height": 800,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!800%2C800/0/default",
+                  "width": 800
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1280%2C1280/0/default",
+                  "height": 1280,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1280%2C1280/0/default",
+                  "width": 1280
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1600%2C1600/0/default",
+                  "height": 1600,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1600%2C1600/0/default",
+                  "width": 1600
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1920%2C1920/0/default",
+                  "height": 1920,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1920%2C1920/0/default",
+                  "width": 1920
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!60%2C60/0/default",
+                  "height": 60,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!60%2C60/0/default",
+                  "width": 60
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!250%2C250/0/default",
+                  "height": 250,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!250%2C250/0/default",
+                  "width": 250
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!200%2C200/0/default",
+                  "height": 200,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!200%2C200/0/default",
+                  "width": 200
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!100%2C100/0/default",
+                  "height": 100,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!100%2C100/0/default",
+                  "width": 100
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!500%2C500/0/default",
+                  "height": 500,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!500%2C500/0/default",
+                  "width": 500
+                }
+              ],
+              "requiredAssets": [],
+              "sameAs": [],
+              "seoDescription": "Best of The Tabernacle Choir",
+              "seoDescriptionAiGenerated": false,
+              "seoTitle": "Best of The Tabernacle Choir",
+              "seoTitleAiGenerated": false,
+              "shareableDescription": "Best of The Tabernacle Choir",
+              "shareableTitle": "Best of The Tabernacle Choir",
+              "title": "Best of The Tabernacle Choir"
             },
+            "title": "Have I Done Any Good?",
+            "translator": []
+          },
+          "$id": "00000196-c6e2-d455-a9f6-deeef4c00000",
+          "$model": "assetPurpose",
+          "$rootId": "00000196-c6e2-d455-a9f6-deeef4c00000",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    },
+    {
+      "title": "The Spirit of God",
+      "slug": "the-spirit-of-god-wilberg",
+      "bookSlug": "best-of-the-tabernacle-choir",
+      "songNumber": "9",
+      "arrangers": [
+        {
+          "personName": "Mack Wilberg"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Tabernacle Choir at Temple Square, The"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "William W. Phelps"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Anon."
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Choir"
+        },
+        {
+          "name": "Orchestra"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Jesus Christ",
+        "Joseph Smith",
+        "Millennium",
+        "Restoration",
+        "Second Coming",
+        "baptism",
+        "faith",
+        "family",
+        "missionary work",
+        "praise",
+        "priesthood",
+        "scriptures",
+        "temples"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "cbaf7aa3015f11eeba40eeeeac1eb6b5f33959e0",
+            "attributes": {},
+            "composer": [],
+            "description": "The Spirit of God",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/cbaf7aa3015f11eeba40eeeeac1eb6b5f33959e0-128k-en.mp3",
+            "duration": 339000,
             "isPartOf": [],
             "keywords": [],
-            "$lastUpdatedDate": "Fri Nov 01 22:12:57 EDT 2024",
+            "$lastUpdatedDate": "Sun May 25 08:12:41 EDT 2025",
             "locatorIds": [],
+            "lyricist": [],
             "noindex": false,
-            "$id": "0000018e-1a97-d154-adbf-deff38f40000",
+            "$id": "0000018b-ba0e-de8b-a7fb-bacebbd80000",
             "$lang": "eng",
-            "$model": "image",
-            "$rootId": "0000018e-1a97-d154-adbf-deff38f40000",
+            "$model": "audio",
+            "$rootId": "0000018b-ba0e-de8b-a7fb-bacebbd80000",
             "$site": "music",
+            "performer": [],
             "products": [],
-            "publicAltText": "A faded out photo of a choir singing with the words \"Best of the Tabernacle Choir\" across the top.",
             "publicDownload": [],
-            "$publishDate": "Thu Mar 07 15:25:01 EST 2024",
+            "$publishDate": "Fri Nov 10 11:26:49 EST 2023",
             "$publishStatus": "PUBLISHED",
             "related": [],
-            "renditions": [
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!320%2C320/0/default",
-                "height": 320,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!320%2C320/0/default",
-                "width": 320
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!640%2C640/0/default",
-                "height": 640,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!640%2C640/0/default",
-                "width": 640
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!800%2C800/0/default",
-                "height": 800,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!800%2C800/0/default",
-                "width": 800
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1280%2C1280/0/default",
-                "height": 1280,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1280%2C1280/0/default",
-                "width": 1280
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1600%2C1600/0/default",
-                "height": 1600,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1600%2C1600/0/default",
-                "width": 1600
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1920%2C1920/0/default",
-                "height": 1920,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1920%2C1920/0/default",
-                "width": 1920
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!60%2C60/0/default",
-                "height": 60,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!60%2C60/0/default",
-                "width": 60
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!250%2C250/0/default",
-                "height": 250,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!250%2C250/0/default",
-                "width": 250
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!200%2C200/0/default",
-                "height": 200,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!200%2C200/0/default",
-                "width": 200
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!100%2C100/0/default",
-                "height": 100,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!100%2C100/0/default",
-                "width": 100
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!500%2C500/0/default",
-                "height": 500,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!500%2C500/0/default",
-                "width": 500
-              }
-            ],
             "requiredAssets": [],
             "sameAs": [],
-            "seoDescription": "Best of The Tabernacle Choir",
+            "seoDescription": "The Spirit of God",
             "seoDescriptionAiGenerated": false,
-            "seoTitle": "Best of The Tabernacle Choir",
+            "seoTitle": "The Spirit of God",
             "seoTitleAiGenerated": false,
-            "shareableDescription": "Best of The Tabernacle Choir",
-            "shareableTitle": "Best of The Tabernacle Choir",
-            "title": "Best of The Tabernacle Choir"
-          },
-          "title": "The Spirit of God",
-          "translator": []
-        },
-        "$id": "00000196-c6e2-d455-a9f6-deeef4db0000",
-        "$model": "assetPurpose",
-        "$rootId": "00000196-c6e2-d455-a9f6-deeef4db0000",
-        "$site": "music",
-        "$publishStatus": "PUBLISHED"
-      }
-    ]
-  },
-  {
-    "title": "Brightly Beams Our Father’s Mercy",
-    "slug": "brightly-beams-our-fathers-mercy-murphy",
-    "bookSlug": "best-of-the-tabernacle-choir",
-    "songNumber": "10",
-    "arrangers": [
-      {
-        "personName": "Ryan T. Murphy"
-      }
-    ],
-    "artists": [
-      {
-        "personName": "Tabernacle Choir at Temple Square, The"
-      }
-    ],
-    "authors": [
-      {
-        "personName": "Philip Paul Bliss"
-      }
-    ],
-    "composers": [
-      {
-        "personName": "Philip Paul Bliss"
-      }
-    ],
-    "instrumentations": [
-      {
-        "name": "Choir"
-      },
-      {
-        "name": "Orchestra"
-      }
-    ],
-    "musicalFeatures": [],
-    "recordingAvailable": true,
-    "sheetMusicAvailable": false,
-    "videoAvailable": false,
-    "tags": [
-      "Heavenly Father",
-      "guidance",
-      "mercy",
-      "ministering",
-      "preparation",
-      "salvation",
-      "service",
-      "trials"
-    ],
-    "voicings": [],
-    "assets": [
-      {
-        "annotatedFields": {},
-        "assetType": "AUDIO_VOCAL_CONGREGATION",
-        "attributes": {},
-        "locatorIds": [],
-        "mediaObject": {
-          "annotatedFields": {},
-          "arranger": [],
-          "assetID": "44a56dc6686211ee9284eeeeac1e7ffe96c43685",
-          "attributes": {},
-          "composer": [],
-          "description": "Brightly Beams Our Father’s Mercy",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/44a56dc6686211ee9284eeeeac1e7ffe96c43685-256k-en.mp3",
-          "duration": 313000,
-          "isPartOf": [],
-          "keywords": [],
-          "$lastUpdatedDate": "Sun May 25 19:27:10 EDT 2025",
-          "locatorIds": [],
-          "lyricist": [],
-          "noindex": false,
-          "$id": "0000018b-29c6-d090-a5df-efd6b3860000",
-          "$lang": "eng",
-          "$model": "audio",
-          "$rootId": "0000018b-29c6-d090-a5df-efd6b3860000",
-          "$site": "music",
-          "performer": [],
-          "products": [],
-          "publicDownload": [],
-          "$publishDate": "Fri Oct 13 12:02:49 EDT 2023",
-          "$publishStatus": "PUBLISHED",
-          "related": [],
-          "requiredAssets": [],
-          "sameAs": [],
-          "seoDescription": "Brightly Beams Our Father’s Mercy",
-          "seoDescriptionAiGenerated": false,
-          "seoTitle": "Brightly Beams Our Father’s Mercy",
-          "seoTitleAiGenerated": false,
-          "shareableDescription": "Brightly Beams Our Father’s Mercy",
-          "shareableTitle": "Brightly Beams Our Father’s Mercy",
-          "thumbnail": {
-            "annotatedFields": {},
-            "assetID": "5984e0578b7011eca8c7eeeeac1e7bee29452179",
-            "attributes": {},
-            "description": "Best of The Tabernacle Choir",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/1920,/0/default",
-            "focalPoint": {
-              "x": "50.00%",
-              "y": "50.00%"
+            "shareableDescription": "The Spirit of God",
+            "shareableTitle": "The Spirit of God",
+            "thumbnail": {
+              "annotatedFields": {},
+              "assetID": "5984e0578b7011eca8c7eeeeac1e7bee29452179",
+              "attributes": {},
+              "description": "Best of The Tabernacle Choir",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/1920,/0/default",
+              "focalPoint": {
+                "x": "50.00%",
+                "y": "50.00%"
+              },
+              "isPartOf": [],
+              "keywords": [],
+              "$lastUpdatedDate": "Fri Nov 01 22:12:57 EDT 2024",
+              "locatorIds": [],
+              "noindex": false,
+              "$id": "0000018e-1a97-d154-adbf-deff38f40000",
+              "$lang": "eng",
+              "$model": "image",
+              "$rootId": "0000018e-1a97-d154-adbf-deff38f40000",
+              "$site": "music",
+              "products": [],
+              "publicAltText": "A faded out photo of a choir singing with the words \"Best of the Tabernacle Choir\" across the top.",
+              "publicDownload": [],
+              "$publishDate": "Thu Mar 07 15:25:01 EST 2024",
+              "$publishStatus": "PUBLISHED",
+              "related": [],
+              "renditions": [
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!320%2C320/0/default",
+                  "height": 320,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!320%2C320/0/default",
+                  "width": 320
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!640%2C640/0/default",
+                  "height": 640,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!640%2C640/0/default",
+                  "width": 640
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!800%2C800/0/default",
+                  "height": 800,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!800%2C800/0/default",
+                  "width": 800
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1280%2C1280/0/default",
+                  "height": 1280,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1280%2C1280/0/default",
+                  "width": 1280
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1600%2C1600/0/default",
+                  "height": 1600,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1600%2C1600/0/default",
+                  "width": 1600
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1920%2C1920/0/default",
+                  "height": 1920,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1920%2C1920/0/default",
+                  "width": 1920
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!60%2C60/0/default",
+                  "height": 60,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!60%2C60/0/default",
+                  "width": 60
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!250%2C250/0/default",
+                  "height": 250,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!250%2C250/0/default",
+                  "width": 250
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!200%2C200/0/default",
+                  "height": 200,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!200%2C200/0/default",
+                  "width": 200
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!100%2C100/0/default",
+                  "height": 100,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!100%2C100/0/default",
+                  "width": 100
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!500%2C500/0/default",
+                  "height": 500,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!500%2C500/0/default",
+                  "width": 500
+                }
+              ],
+              "requiredAssets": [],
+              "sameAs": [],
+              "seoDescription": "Best of The Tabernacle Choir",
+              "seoDescriptionAiGenerated": false,
+              "seoTitle": "Best of The Tabernacle Choir",
+              "seoTitleAiGenerated": false,
+              "shareableDescription": "Best of The Tabernacle Choir",
+              "shareableTitle": "Best of The Tabernacle Choir",
+              "title": "Best of The Tabernacle Choir"
             },
+            "title": "The Spirit of God",
+            "translator": []
+          },
+          "$id": "00000196-c6e2-d455-a9f6-deeef4db0000",
+          "$model": "assetPurpose",
+          "$rootId": "00000196-c6e2-d455-a9f6-deeef4db0000",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    },
+    {
+      "title": "Brightly Beams Our Father’s Mercy",
+      "slug": "brightly-beams-our-fathers-mercy-murphy",
+      "bookSlug": "best-of-the-tabernacle-choir",
+      "songNumber": "10",
+      "arrangers": [
+        {
+          "personName": "Ryan T. Murphy"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Tabernacle Choir at Temple Square, The"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Philip Paul Bliss"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Philip Paul Bliss"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Choir"
+        },
+        {
+          "name": "Orchestra"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Heavenly Father",
+        "guidance",
+        "mercy",
+        "ministering",
+        "preparation",
+        "salvation",
+        "service",
+        "trials"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "44a56dc6686211ee9284eeeeac1e7ffe96c43685",
+            "attributes": {},
+            "composer": [],
+            "description": "Brightly Beams Our Father’s Mercy",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/44a56dc6686211ee9284eeeeac1e7ffe96c43685-256k-en.mp3",
+            "duration": 313000,
             "isPartOf": [],
             "keywords": [],
-            "$lastUpdatedDate": "Fri Nov 01 22:12:57 EDT 2024",
+            "$lastUpdatedDate": "Sun May 25 19:27:10 EDT 2025",
             "locatorIds": [],
+            "lyricist": [],
             "noindex": false,
-            "$id": "0000018e-1a97-d154-adbf-deff38f40000",
+            "$id": "0000018b-29c6-d090-a5df-efd6b3860000",
             "$lang": "eng",
-            "$model": "image",
-            "$rootId": "0000018e-1a97-d154-adbf-deff38f40000",
+            "$model": "audio",
+            "$rootId": "0000018b-29c6-d090-a5df-efd6b3860000",
             "$site": "music",
+            "performer": [],
             "products": [],
-            "publicAltText": "A faded out photo of a choir singing with the words \"Best of the Tabernacle Choir\" across the top.",
             "publicDownload": [],
-            "$publishDate": "Thu Mar 07 15:25:01 EST 2024",
+            "$publishDate": "Fri Oct 13 12:02:49 EDT 2023",
             "$publishStatus": "PUBLISHED",
             "related": [],
-            "renditions": [
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!320%2C320/0/default",
-                "height": 320,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!320%2C320/0/default",
-                "width": 320
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!640%2C640/0/default",
-                "height": 640,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!640%2C640/0/default",
-                "width": 640
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!800%2C800/0/default",
-                "height": 800,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!800%2C800/0/default",
-                "width": 800
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1280%2C1280/0/default",
-                "height": 1280,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1280%2C1280/0/default",
-                "width": 1280
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1600%2C1600/0/default",
-                "height": 1600,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1600%2C1600/0/default",
-                "width": 1600
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1920%2C1920/0/default",
-                "height": 1920,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1920%2C1920/0/default",
-                "width": 1920
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!60%2C60/0/default",
-                "height": 60,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!60%2C60/0/default",
-                "width": 60
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!250%2C250/0/default",
-                "height": 250,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!250%2C250/0/default",
-                "width": 250
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!200%2C200/0/default",
-                "height": 200,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!200%2C200/0/default",
-                "width": 200
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!100%2C100/0/default",
-                "height": 100,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!100%2C100/0/default",
-                "width": 100
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!500%2C500/0/default",
-                "height": 500,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!500%2C500/0/default",
-                "width": 500
-              }
-            ],
             "requiredAssets": [],
             "sameAs": [],
-            "seoDescription": "Best of The Tabernacle Choir",
+            "seoDescription": "Brightly Beams Our Father’s Mercy",
             "seoDescriptionAiGenerated": false,
-            "seoTitle": "Best of The Tabernacle Choir",
+            "seoTitle": "Brightly Beams Our Father’s Mercy",
             "seoTitleAiGenerated": false,
-            "shareableDescription": "Best of The Tabernacle Choir",
-            "shareableTitle": "Best of The Tabernacle Choir",
-            "title": "Best of The Tabernacle Choir"
+            "shareableDescription": "Brightly Beams Our Father’s Mercy",
+            "shareableTitle": "Brightly Beams Our Father’s Mercy",
+            "thumbnail": {
+              "annotatedFields": {},
+              "assetID": "5984e0578b7011eca8c7eeeeac1e7bee29452179",
+              "attributes": {},
+              "description": "Best of The Tabernacle Choir",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/1920,/0/default",
+              "focalPoint": {
+                "x": "50.00%",
+                "y": "50.00%"
+              },
+              "isPartOf": [],
+              "keywords": [],
+              "$lastUpdatedDate": "Fri Nov 01 22:12:57 EDT 2024",
+              "locatorIds": [],
+              "noindex": false,
+              "$id": "0000018e-1a97-d154-adbf-deff38f40000",
+              "$lang": "eng",
+              "$model": "image",
+              "$rootId": "0000018e-1a97-d154-adbf-deff38f40000",
+              "$site": "music",
+              "products": [],
+              "publicAltText": "A faded out photo of a choir singing with the words \"Best of the Tabernacle Choir\" across the top.",
+              "publicDownload": [],
+              "$publishDate": "Thu Mar 07 15:25:01 EST 2024",
+              "$publishStatus": "PUBLISHED",
+              "related": [],
+              "renditions": [
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!320%2C320/0/default",
+                  "height": 320,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!320%2C320/0/default",
+                  "width": 320
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!640%2C640/0/default",
+                  "height": 640,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!640%2C640/0/default",
+                  "width": 640
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!800%2C800/0/default",
+                  "height": 800,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!800%2C800/0/default",
+                  "width": 800
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1280%2C1280/0/default",
+                  "height": 1280,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1280%2C1280/0/default",
+                  "width": 1280
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1600%2C1600/0/default",
+                  "height": 1600,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1600%2C1600/0/default",
+                  "width": 1600
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1920%2C1920/0/default",
+                  "height": 1920,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!1920%2C1920/0/default",
+                  "width": 1920
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!60%2C60/0/default",
+                  "height": 60,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!60%2C60/0/default",
+                  "width": 60
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!250%2C250/0/default",
+                  "height": 250,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!250%2C250/0/default",
+                  "width": 250
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!200%2C200/0/default",
+                  "height": 200,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!200%2C200/0/default",
+                  "width": 200
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!100%2C100/0/default",
+                  "height": 100,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!100%2C100/0/default",
+                  "width": 100
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!500%2C500/0/default",
+                  "height": 500,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5984e0578b7011eca8c7eeeeac1e7bee29452179/full/!500%2C500/0/default",
+                  "width": 500
+                }
+              ],
+              "requiredAssets": [],
+              "sameAs": [],
+              "seoDescription": "Best of The Tabernacle Choir",
+              "seoDescriptionAiGenerated": false,
+              "seoTitle": "Best of The Tabernacle Choir",
+              "seoTitleAiGenerated": false,
+              "shareableDescription": "Best of The Tabernacle Choir",
+              "shareableTitle": "Best of The Tabernacle Choir",
+              "title": "Best of The Tabernacle Choir"
+            },
+            "title": "Brightly Beams Our Father’s Mercy",
+            "translator": []
           },
-          "title": "Brightly Beams Our Father’s Mercy",
-          "translator": []
-        },
-        "$id": "00000196-c6e2-d455-a9f6-deeef4f70000",
-        "$model": "assetPurpose",
-        "$rootId": "00000196-c6e2-d455-a9f6-deeef4f70000",
-        "$site": "music",
-        "$publishStatus": "PUBLISHED"
-      }
-    ]
-  }
-]
+          "$id": "00000196-c6e2-d455-a9f6-deeef4f70000",
+          "$model": "assetPurpose",
+          "$rootId": "00000196-c6e2-d455-a9f6-deeef4f70000",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    }
+  ],
+  "limit": 500,
+  "offset": 0,
+  "total": 10
+}

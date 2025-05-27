@@ -1,1616 +1,1621 @@
-[
-  {
-    "title": "He Sent His Son",
-    "slug": "he-sent-his-son-2024",
-    "bookSlug": "cfm-submitted-music-2024",
-    "bookSectionTitle": "2024",
-    "songNumber": "1",
-    "songDate": "2024-10-18",
-    "arrangers": [
-      {
-        "personName": "Kristen Bromley"
-      }
-    ],
-    "artists": [
-      {
-        "personName": "Kristen Bromley"
-      }
-    ],
-    "authors": [
-      {
-        "personName": "Mabel Jones Gabbott"
-      }
-    ],
-    "composers": [
-      {
-        "personName": "Michael Finlinson Moody"
-      }
-    ],
-    "instrumentations": [
-      {
-        "name": "Guitar"
-      }
-    ],
-    "musicalFeatures": [],
-    "recordingAvailable": true,
-    "sheetMusicAvailable": false,
-    "videoAvailable": false,
-    "tags": [
-      "Atonement of Jesus Christ",
-      "Heavenly Father",
-      "Jesus Christ",
-      "charity",
-      "death",
-      "diligence",
-      "discipleship",
-      "example",
-      "faith",
-      "hope",
-      "love",
-      "ministering",
-      "plan of salvation",
-      "resurrection",
-      "sacrifice",
-      "scriptures",
-      "service"
-    ],
-    "voicings": [],
-    "assets": [
-      {
-        "annotatedFields": {},
-        "assetType": "AUDIO_INSTRUMENTAL",
-        "attributes": {},
-        "locatorIds": [],
-        "mediaObject": {
+{
+  "data": [
+    {
+      "title": "He Sent His Son",
+      "slug": "he-sent-his-son-2024",
+      "bookSlug": "cfm-submitted-music-2024",
+      "bookSectionTitle": "2024",
+      "songNumber": "1",
+      "songDate": "2024-10-18",
+      "arrangers": [
+        {
+          "personName": "Kristen Bromley"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Kristen Bromley"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Mabel Jones Gabbott"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Michael Finlinson Moody"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Guitar"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Atonement of Jesus Christ",
+        "Heavenly Father",
+        "Jesus Christ",
+        "charity",
+        "death",
+        "diligence",
+        "discipleship",
+        "example",
+        "faith",
+        "hope",
+        "love",
+        "ministering",
+        "plan of salvation",
+        "resurrection",
+        "sacrifice",
+        "scriptures",
+        "service"
+      ],
+      "voicings": [],
+      "assets": [
+        {
           "annotatedFields": {},
-          "arranger": [],
-          "assetID": "v34mryofxgy0zyb28079v0ozbgwvnq3jk62jk6nx",
+          "assetType": "AUDIO_INSTRUMENTAL",
           "attributes": {},
-          "composer": [],
-          "description": "Submitted arrangement of the song “He Sent His Son.” Instrumental.",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/v3/4m/v34mryofxgy0zyb28079v0ozbgwvnq3jk62jk6nx/he_sent_his_son_2024.mp3",
-          "duration": 212000,
-          "isPartOf": [],
-          "keywords": [
-            "music",
-            "Jesus Christ"
-          ],
-          "$lastUpdatedDate": "Sun Oct 20 07:06:23 EDT 2024",
           "locatorIds": [],
-          "lyricist": [],
-          "noindex": false,
-          "$id": "00000192-9b46-dd48-a3b7-9ffe1e100000",
-          "$lang": "eng",
-          "$model": "audio",
-          "$rootId": "00000192-9b46-dd48-a3b7-9ffe1e100000",
-          "$site": "music",
-          "performer": [],
-          "products": [],
-          "publicAltText": "Submitted arrangement of the song “He Sent His Son.” Instrumental.",
-          "publicDownload": [],
-          "$publishDate": "Thu Oct 17 12:18:36 EDT 2024",
-          "$publishStatus": "PUBLISHED",
-          "related": [],
-          "requiredAssets": [],
-          "sameAs": [],
-          "seoDescription": "Submitted arrangement of the song “He Sent His Son.” Instrumental.",
-          "seoDescriptionAiGenerated": false,
-          "seoTitle": "He Sent His Son",
-          "seoTitleAiGenerated": false,
-          "shareableDescription": "Submitted arrangement of the song “He Sent His Son.” Instrumental.",
-          "shareableTitle": "He Sent His Son",
-          "thumbnail": {
+          "mediaObject": {
             "annotatedFields": {},
-            "assetID": "qc2j43smokihdapxt1um7jl71bt6866ivbycbz63",
+            "arranger": [],
+            "assetID": "v34mryofxgy0zyb28079v0ozbgwvnq3jk62jk6nx",
             "attributes": {},
-            "description": "Globe Art with Sky Background",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/1600,/0/default",
-            "focalPoint": {
-              "x": "50.00%",
-              "y": "50.00%"
-            },
-            "ipCode": "0 - IRI Owned",
+            "composer": [],
+            "description": "Submitted arrangement of the song “He Sent His Son.” Instrumental.",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/v3/4m/v34mryofxgy0zyb28079v0ozbgwvnq3jk62jk6nx/he_sent_his_son_2024.mp3",
+            "duration": 212000,
             "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Sun Oct 20 07:06:22 EDT 2024",
+            "keywords": [
+              "music",
+              "Jesus Christ"
+            ],
+            "$lastUpdatedDate": "Sun Oct 20 07:06:23 EDT 2024",
             "locatorIds": [],
+            "lyricist": [],
             "noindex": false,
-            "$id": "00000192-9b46-dd48-a3b7-9ffe24d40000",
+            "$id": "00000192-9b46-dd48-a3b7-9ffe1e100000",
             "$lang": "eng",
-            "$model": "image",
-            "$rootId": "00000192-9b46-dd48-a3b7-9ffe24d40000",
+            "$model": "audio",
+            "$rootId": "00000192-9b46-dd48-a3b7-9ffe1e100000",
             "$site": "music",
+            "performer": [],
             "products": [],
-            "publicAltText": "Globe Art with Sky Background",
+            "publicAltText": "Submitted arrangement of the song “He Sent His Son.” Instrumental.",
             "publicDownload": [],
-            "$publishDate": "Thu Oct 17 12:18:38 EDT 2024",
+            "$publishDate": "Thu Oct 17 12:18:36 EDT 2024",
             "$publishStatus": "PUBLISHED",
             "related": [],
-            "renditions": [
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!320%2C320/0/default",
-                "height": 320,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!320%2C320/0/default",
-                "width": 320
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!640%2C640/0/default",
-                "height": 640,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!640%2C640/0/default",
-                "width": 640
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!800%2C800/0/default",
-                "height": 800,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!800%2C800/0/default",
-                "width": 800
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1280%2C1280/0/default",
-                "height": 1280,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1280%2C1280/0/default",
-                "width": 1280
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1600%2C1600/0/default",
-                "height": 1600,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1600%2C1600/0/default",
-                "width": 1600
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!60%2C60/0/default",
-                "height": 60,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!60%2C60/0/default",
-                "width": 60
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!250%2C250/0/default",
-                "height": 250,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!250%2C250/0/default",
-                "width": 250
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!200%2C200/0/default",
-                "height": 200,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!200%2C200/0/default",
-                "width": 200
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!100%2C100/0/default",
-                "height": 100,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!100%2C100/0/default",
-                "width": 100
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!500%2C500/0/default",
-                "height": 500,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!500%2C500/0/default",
-                "width": 500
-              }
-            ],
-            "reqCreditLine": "false",
             "requiredAssets": [],
             "sameAs": [],
-            "seoDescription": "Globe Art with Sky Background",
+            "seoDescription": "Submitted arrangement of the song “He Sent His Son.” Instrumental.",
             "seoDescriptionAiGenerated": false,
-            "seoTitle": "No Title",
+            "seoTitle": "He Sent His Son",
             "seoTitleAiGenerated": false,
-            "shareableDescription": "Globe Art with Sky Background",
-            "shareableTitle": "No Title",
-            "title": "No Title"
-          },
-          "title": "He Sent His Son",
-          "translator": []
-        },
-        "$id": "00000196-c6e3-d455-a9f6-deef4f9e0000",
-        "$model": "assetPurpose",
-        "$rootId": "00000196-c6e3-d455-a9f6-deef4f9e0000",
-        "$site": "music",
-        "$publishStatus": "PUBLISHED"
-      }
-    ]
-  },
-  {
-    "title": "High On the Mountain Top",
-    "slug": "high-on-the-mountain-top-2024",
-    "bookSlug": "cfm-submitted-music-2024",
-    "bookSectionTitle": "2024",
-    "songNumber": "2",
-    "songDate": "2024-10-18",
-    "arrangers": [
-      {
-        "personName": "Sunny Whiting"
-      },
-      {
-        "personName": " Adam Keith"
-      }
-    ],
-    "artists": [
-      {
-        "personName": "Sunny Whiting"
-      },
-      {
-        "personName": " Adam Keith"
-      }
-    ],
-    "authors": [
-      {
-        "personName": "Joel H. Johnson"
-      }
-    ],
-    "composers": [
-      {
-        "personName": "Ebenezer Beesley"
-      }
-    ],
-    "instrumentations": [
-      {
-        "name": "Voice"
-      },
-      {
-        "name": "Guitar"
-      }
-    ],
-    "musicalFeatures": [],
-    "recordingAvailable": true,
-    "sheetMusicAvailable": false,
-    "videoAvailable": false,
-    "tags": [
-      "Jesus Christ",
-      "Restoration",
-      "Zion",
-      "exaltation",
-      "learning",
-      "obedience",
-      "service",
-      "temples",
-      "truth",
-      "wisdom"
-    ],
-    "voicings": [
-      {
-        "name": "Unison"
-      }
-    ],
-    "assets": [
-      {
-        "annotatedFields": {},
-        "assetType": "AUDIO_VOCAL",
-        "attributes": {},
-        "locatorIds": [],
-        "mediaObject": {
-          "annotatedFields": {},
-          "arranger": [],
-          "assetID": "aoj4957ctk803kj83cswzwjq2eqqg1oockmqm7uy",
-          "attributes": {},
-          "composer": [],
-          "description": "Submitted arrangement of the song “High on the Mountain Top.” English.",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/ao/j4/aoj4957ctk803kj83cswzwjq2eqqg1oockmqm7uy/high_on_the_mountaintop_2024.mp3",
-          "duration": 144000,
-          "isPartOf": [],
-          "keywords": [
-            "music",
-            "Jesus Christ"
-          ],
-          "$lastUpdatedDate": "Fri Oct 18 19:17:16 EDT 2024",
-          "locatorIds": [],
-          "lyricist": [],
-          "noindex": false,
-          "$id": "00000192-9b45-dd48-a3b7-9ffdf64f0000",
-          "$lang": "eng",
-          "$model": "audio",
-          "$rootId": "00000192-9b45-dd48-a3b7-9ffdf64f0000",
-          "$site": "music",
-          "performer": [],
-          "products": [],
-          "publicAltText": "Submitted arrangement of the song “High on the Mountain Top.” English.",
-          "publicDownload": [],
-          "$publishDate": "Thu Oct 17 12:18:26 EDT 2024",
-          "$publishStatus": "PUBLISHED",
-          "related": [],
-          "requiredAssets": [],
-          "sameAs": [],
-          "seoDescription": "Submitted arrangement of the song “High on the Mountain Top.” English.",
-          "seoDescriptionAiGenerated": false,
-          "seoTitle": "High on the Mountain Top",
-          "seoTitleAiGenerated": false,
-          "shareableDescription": "Submitted arrangement of the song “High on the Mountain Top.” English.",
-          "shareableTitle": "High on the Mountain Top",
-          "thumbnail": {
-            "annotatedFields": {},
-            "assetID": "qc2j43smokihdapxt1um7jl71bt6866ivbycbz63",
-            "attributes": {},
-            "description": "Globe Art with Sky Background",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/1600,/0/default",
-            "focalPoint": {
-              "x": "50.00%",
-              "y": "50.00%"
+            "shareableDescription": "Submitted arrangement of the song “He Sent His Son.” Instrumental.",
+            "shareableTitle": "He Sent His Son",
+            "thumbnail": {
+              "annotatedFields": {},
+              "assetID": "qc2j43smokihdapxt1um7jl71bt6866ivbycbz63",
+              "attributes": {},
+              "description": "Globe Art with Sky Background",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/1600,/0/default",
+              "focalPoint": {
+                "x": "50.00%",
+                "y": "50.00%"
+              },
+              "ipCode": "0 - IRI Owned",
+              "isPartOf": [],
+              "keywords": [],
+              "$lastUpdatedDate": "Sun Oct 20 07:06:22 EDT 2024",
+              "locatorIds": [],
+              "noindex": false,
+              "$id": "00000192-9b46-dd48-a3b7-9ffe24d40000",
+              "$lang": "eng",
+              "$model": "image",
+              "$rootId": "00000192-9b46-dd48-a3b7-9ffe24d40000",
+              "$site": "music",
+              "products": [],
+              "publicAltText": "Globe Art with Sky Background",
+              "publicDownload": [],
+              "$publishDate": "Thu Oct 17 12:18:38 EDT 2024",
+              "$publishStatus": "PUBLISHED",
+              "related": [],
+              "renditions": [
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!320%2C320/0/default",
+                  "height": 320,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!320%2C320/0/default",
+                  "width": 320
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!640%2C640/0/default",
+                  "height": 640,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!640%2C640/0/default",
+                  "width": 640
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!800%2C800/0/default",
+                  "height": 800,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!800%2C800/0/default",
+                  "width": 800
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1280%2C1280/0/default",
+                  "height": 1280,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1280%2C1280/0/default",
+                  "width": 1280
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1600%2C1600/0/default",
+                  "height": 1600,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1600%2C1600/0/default",
+                  "width": 1600
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!60%2C60/0/default",
+                  "height": 60,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!60%2C60/0/default",
+                  "width": 60
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!250%2C250/0/default",
+                  "height": 250,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!250%2C250/0/default",
+                  "width": 250
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!200%2C200/0/default",
+                  "height": 200,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!200%2C200/0/default",
+                  "width": 200
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!100%2C100/0/default",
+                  "height": 100,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!100%2C100/0/default",
+                  "width": 100
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!500%2C500/0/default",
+                  "height": 500,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!500%2C500/0/default",
+                  "width": 500
+                }
+              ],
+              "reqCreditLine": "false",
+              "requiredAssets": [],
+              "sameAs": [],
+              "seoDescription": "Globe Art with Sky Background",
+              "seoDescriptionAiGenerated": false,
+              "seoTitle": "No Title",
+              "seoTitleAiGenerated": false,
+              "shareableDescription": "Globe Art with Sky Background",
+              "shareableTitle": "No Title",
+              "title": "No Title"
             },
-            "ipCode": "0 - IRI Owned",
+            "title": "He Sent His Son",
+            "translator": []
+          },
+          "$id": "00000196-c6e3-d455-a9f6-deef4f9e0000",
+          "$model": "assetPurpose",
+          "$rootId": "00000196-c6e3-d455-a9f6-deef4f9e0000",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    },
+    {
+      "title": "High On the Mountain Top",
+      "slug": "high-on-the-mountain-top-2024",
+      "bookSlug": "cfm-submitted-music-2024",
+      "bookSectionTitle": "2024",
+      "songNumber": "2",
+      "songDate": "2024-10-18",
+      "arrangers": [
+        {
+          "personName": "Sunny Whiting"
+        },
+        {
+          "personName": " Adam Keith"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Sunny Whiting"
+        },
+        {
+          "personName": " Adam Keith"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Joel H. Johnson"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Ebenezer Beesley"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Guitar"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Jesus Christ",
+        "Restoration",
+        "Zion",
+        "exaltation",
+        "learning",
+        "obedience",
+        "service",
+        "temples",
+        "truth",
+        "wisdom"
+      ],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": [
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_VOCAL",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "aoj4957ctk803kj83cswzwjq2eqqg1oockmqm7uy",
+            "attributes": {},
+            "composer": [],
+            "description": "Submitted arrangement of the song “High on the Mountain Top.” English.",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/ao/j4/aoj4957ctk803kj83cswzwjq2eqqg1oockmqm7uy/high_on_the_mountaintop_2024.mp3",
+            "duration": 144000,
             "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Sun Oct 20 07:06:22 EDT 2024",
+            "keywords": [
+              "music",
+              "Jesus Christ"
+            ],
+            "$lastUpdatedDate": "Fri Oct 18 19:17:16 EDT 2024",
             "locatorIds": [],
+            "lyricist": [],
             "noindex": false,
-            "$id": "00000192-9b46-dd48-a3b7-9ffe24d40000",
+            "$id": "00000192-9b45-dd48-a3b7-9ffdf64f0000",
             "$lang": "eng",
-            "$model": "image",
-            "$rootId": "00000192-9b46-dd48-a3b7-9ffe24d40000",
+            "$model": "audio",
+            "$rootId": "00000192-9b45-dd48-a3b7-9ffdf64f0000",
             "$site": "music",
+            "performer": [],
             "products": [],
-            "publicAltText": "Globe Art with Sky Background",
+            "publicAltText": "Submitted arrangement of the song “High on the Mountain Top.” English.",
             "publicDownload": [],
-            "$publishDate": "Thu Oct 17 12:18:38 EDT 2024",
+            "$publishDate": "Thu Oct 17 12:18:26 EDT 2024",
             "$publishStatus": "PUBLISHED",
             "related": [],
-            "renditions": [
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!320%2C320/0/default",
-                "height": 320,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!320%2C320/0/default",
-                "width": 320
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!640%2C640/0/default",
-                "height": 640,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!640%2C640/0/default",
-                "width": 640
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!800%2C800/0/default",
-                "height": 800,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!800%2C800/0/default",
-                "width": 800
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1280%2C1280/0/default",
-                "height": 1280,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1280%2C1280/0/default",
-                "width": 1280
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1600%2C1600/0/default",
-                "height": 1600,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1600%2C1600/0/default",
-                "width": 1600
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!60%2C60/0/default",
-                "height": 60,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!60%2C60/0/default",
-                "width": 60
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!250%2C250/0/default",
-                "height": 250,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!250%2C250/0/default",
-                "width": 250
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!200%2C200/0/default",
-                "height": 200,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!200%2C200/0/default",
-                "width": 200
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!100%2C100/0/default",
-                "height": 100,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!100%2C100/0/default",
-                "width": 100
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!500%2C500/0/default",
-                "height": 500,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!500%2C500/0/default",
-                "width": 500
-              }
-            ],
-            "reqCreditLine": "false",
             "requiredAssets": [],
             "sameAs": [],
-            "seoDescription": "Globe Art with Sky Background",
+            "seoDescription": "Submitted arrangement of the song “High on the Mountain Top.” English.",
             "seoDescriptionAiGenerated": false,
-            "seoTitle": "No Title",
+            "seoTitle": "High on the Mountain Top",
             "seoTitleAiGenerated": false,
-            "shareableDescription": "Globe Art with Sky Background",
-            "shareableTitle": "No Title",
-            "title": "No Title"
-          },
-          "title": "High on the Mountain Top",
-          "translator": []
-        },
-        "$id": "00000196-c6e3-d455-a9f6-deef4fb10000",
-        "$model": "assetPurpose",
-        "$rootId": "00000196-c6e3-d455-a9f6-deef4fb10000",
-        "$site": "music",
-        "$publishStatus": "PUBLISHED"
-      }
-    ]
-  },
-  {
-    "title": "Did You Think to Pray?",
-    "slug": "did-you-think-to-pray-2024",
-    "bookSlug": "cfm-submitted-music-2024",
-    "bookSectionTitle": "2024",
-    "songNumber": "3",
-    "songDate": "2024-10-18",
-    "arrangers": [
-      {
-        "personName": "Bryson Jones"
-      },
-      {
-        "personName": "Tierra Jones"
-      },
-      {
-        "personName": "Nate Smith"
-      }
-    ],
-    "artists": [
-      {
-        "personName": "Bryson Jones"
-      },
-      {
-        "personName": "Tierra Jones"
-      },
-      {
-        "personName": "Nate Smith"
-      },
-      {
-        "personName": "Tierra Jones"
-      }
-    ],
-    "authors": [
-      {
-        "personName": "Mary A. Pepper Kidder"
-      }
-    ],
-    "composers": [
-      {
-        "personName": "William O. Perkins"
-      }
-    ],
-    "instrumentations": [
-      {
-        "name": "Voice"
-      },
-      {
-        "name": "Piano"
-      }
-    ],
-    "musicalFeatures": [],
-    "recordingAvailable": true,
-    "sheetMusicAvailable": false,
-    "videoAvailable": false,
-    "tags": [
-      "Jesus Christ",
-      "comfort",
-      "forgiveness",
-      "grace",
-      "gratitude",
-      "hope",
-      "peace",
-      "prayer",
-      "trials"
-    ],
-    "voicings": [
-      {
-        "name": "Two-Part"
-      }
-    ],
-    "assets": [
-      {
-        "annotatedFields": {},
-        "assetType": "AUDIO_VOCAL",
-        "attributes": {},
-        "locatorIds": [],
-        "mediaObject": {
-          "annotatedFields": {},
-          "arranger": [],
-          "assetID": "wtijyy6bohwn9jjvafad0vgminquclbqb8b5q06s",
-          "attributes": {},
-          "composer": [],
-          "description": "Submitted arrangement of the song “Did You Think to Pray?” English.",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/wt/ij/wtijyy6bohwn9jjvafad0vgminquclbqb8b5q06s/did_you_think_to_pray_2024.mp3",
-          "duration": 191000,
-          "isPartOf": [],
-          "keywords": [
-            "music",
-            "Jesus Christ"
-          ],
-          "$lastUpdatedDate": "Fri Oct 18 19:17:19 EDT 2024",
-          "locatorIds": [],
-          "lyricist": [],
-          "noindex": false,
-          "$id": "00000192-9b46-dd48-a3b7-9ffe1c170000",
-          "$lang": "eng",
-          "$model": "audio",
-          "$rootId": "00000192-9b46-dd48-a3b7-9ffe1c170000",
-          "$site": "music",
-          "performer": [],
-          "products": [],
-          "publicAltText": "Submitted arrangement of the song “Did You Think to Pray?” English.",
-          "publicDownload": [],
-          "$publishDate": "Thu Oct 17 12:18:36 EDT 2024",
-          "$publishStatus": "PUBLISHED",
-          "related": [],
-          "requiredAssets": [],
-          "sameAs": [],
-          "seoDescription": "Submitted arrangement of the song “Did You Think to Pray?” English.",
-          "seoDescriptionAiGenerated": false,
-          "seoTitle": "Did You Think to Pray?",
-          "seoTitleAiGenerated": false,
-          "shareableDescription": "Submitted arrangement of the song “Did You Think to Pray?” English.",
-          "shareableTitle": "Did You Think to Pray?",
-          "thumbnail": {
-            "annotatedFields": {},
-            "assetID": "qc2j43smokihdapxt1um7jl71bt6866ivbycbz63",
-            "attributes": {},
-            "description": "Globe Art with Sky Background",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/1600,/0/default",
-            "focalPoint": {
-              "x": "50.00%",
-              "y": "50.00%"
+            "shareableDescription": "Submitted arrangement of the song “High on the Mountain Top.” English.",
+            "shareableTitle": "High on the Mountain Top",
+            "thumbnail": {
+              "annotatedFields": {},
+              "assetID": "qc2j43smokihdapxt1um7jl71bt6866ivbycbz63",
+              "attributes": {},
+              "description": "Globe Art with Sky Background",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/1600,/0/default",
+              "focalPoint": {
+                "x": "50.00%",
+                "y": "50.00%"
+              },
+              "ipCode": "0 - IRI Owned",
+              "isPartOf": [],
+              "keywords": [],
+              "$lastUpdatedDate": "Sun Oct 20 07:06:22 EDT 2024",
+              "locatorIds": [],
+              "noindex": false,
+              "$id": "00000192-9b46-dd48-a3b7-9ffe24d40000",
+              "$lang": "eng",
+              "$model": "image",
+              "$rootId": "00000192-9b46-dd48-a3b7-9ffe24d40000",
+              "$site": "music",
+              "products": [],
+              "publicAltText": "Globe Art with Sky Background",
+              "publicDownload": [],
+              "$publishDate": "Thu Oct 17 12:18:38 EDT 2024",
+              "$publishStatus": "PUBLISHED",
+              "related": [],
+              "renditions": [
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!320%2C320/0/default",
+                  "height": 320,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!320%2C320/0/default",
+                  "width": 320
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!640%2C640/0/default",
+                  "height": 640,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!640%2C640/0/default",
+                  "width": 640
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!800%2C800/0/default",
+                  "height": 800,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!800%2C800/0/default",
+                  "width": 800
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1280%2C1280/0/default",
+                  "height": 1280,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1280%2C1280/0/default",
+                  "width": 1280
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1600%2C1600/0/default",
+                  "height": 1600,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1600%2C1600/0/default",
+                  "width": 1600
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!60%2C60/0/default",
+                  "height": 60,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!60%2C60/0/default",
+                  "width": 60
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!250%2C250/0/default",
+                  "height": 250,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!250%2C250/0/default",
+                  "width": 250
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!200%2C200/0/default",
+                  "height": 200,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!200%2C200/0/default",
+                  "width": 200
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!100%2C100/0/default",
+                  "height": 100,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!100%2C100/0/default",
+                  "width": 100
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!500%2C500/0/default",
+                  "height": 500,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!500%2C500/0/default",
+                  "width": 500
+                }
+              ],
+              "reqCreditLine": "false",
+              "requiredAssets": [],
+              "sameAs": [],
+              "seoDescription": "Globe Art with Sky Background",
+              "seoDescriptionAiGenerated": false,
+              "seoTitle": "No Title",
+              "seoTitleAiGenerated": false,
+              "shareableDescription": "Globe Art with Sky Background",
+              "shareableTitle": "No Title",
+              "title": "No Title"
             },
-            "ipCode": "0 - IRI Owned",
+            "title": "High on the Mountain Top",
+            "translator": []
+          },
+          "$id": "00000196-c6e3-d455-a9f6-deef4fb10000",
+          "$model": "assetPurpose",
+          "$rootId": "00000196-c6e3-d455-a9f6-deef4fb10000",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    },
+    {
+      "title": "Did You Think to Pray?",
+      "slug": "did-you-think-to-pray-2024",
+      "bookSlug": "cfm-submitted-music-2024",
+      "bookSectionTitle": "2024",
+      "songNumber": "3",
+      "songDate": "2024-10-18",
+      "arrangers": [
+        {
+          "personName": "Bryson Jones"
+        },
+        {
+          "personName": "Tierra Jones"
+        },
+        {
+          "personName": "Nate Smith"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Bryson Jones"
+        },
+        {
+          "personName": "Tierra Jones"
+        },
+        {
+          "personName": "Nate Smith"
+        },
+        {
+          "personName": "Tierra Jones"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Mary A. Pepper Kidder"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "William O. Perkins"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Jesus Christ",
+        "comfort",
+        "forgiveness",
+        "grace",
+        "gratitude",
+        "hope",
+        "peace",
+        "prayer",
+        "trials"
+      ],
+      "voicings": [
+        {
+          "name": "Two-Part"
+        }
+      ],
+      "assets": [
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_VOCAL",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "wtijyy6bohwn9jjvafad0vgminquclbqb8b5q06s",
+            "attributes": {},
+            "composer": [],
+            "description": "Submitted arrangement of the song “Did You Think to Pray?” English.",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/wt/ij/wtijyy6bohwn9jjvafad0vgminquclbqb8b5q06s/did_you_think_to_pray_2024.mp3",
+            "duration": 191000,
             "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Sun Oct 20 07:06:22 EDT 2024",
+            "keywords": [
+              "music",
+              "Jesus Christ"
+            ],
+            "$lastUpdatedDate": "Fri Oct 18 19:17:19 EDT 2024",
             "locatorIds": [],
+            "lyricist": [],
             "noindex": false,
-            "$id": "00000192-9b46-dd48-a3b7-9ffe24d40000",
+            "$id": "00000192-9b46-dd48-a3b7-9ffe1c170000",
             "$lang": "eng",
-            "$model": "image",
-            "$rootId": "00000192-9b46-dd48-a3b7-9ffe24d40000",
+            "$model": "audio",
+            "$rootId": "00000192-9b46-dd48-a3b7-9ffe1c170000",
             "$site": "music",
+            "performer": [],
             "products": [],
-            "publicAltText": "Globe Art with Sky Background",
+            "publicAltText": "Submitted arrangement of the song “Did You Think to Pray?” English.",
             "publicDownload": [],
-            "$publishDate": "Thu Oct 17 12:18:38 EDT 2024",
+            "$publishDate": "Thu Oct 17 12:18:36 EDT 2024",
             "$publishStatus": "PUBLISHED",
             "related": [],
-            "renditions": [
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!320%2C320/0/default",
-                "height": 320,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!320%2C320/0/default",
-                "width": 320
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!640%2C640/0/default",
-                "height": 640,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!640%2C640/0/default",
-                "width": 640
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!800%2C800/0/default",
-                "height": 800,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!800%2C800/0/default",
-                "width": 800
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1280%2C1280/0/default",
-                "height": 1280,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1280%2C1280/0/default",
-                "width": 1280
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1600%2C1600/0/default",
-                "height": 1600,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1600%2C1600/0/default",
-                "width": 1600
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!60%2C60/0/default",
-                "height": 60,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!60%2C60/0/default",
-                "width": 60
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!250%2C250/0/default",
-                "height": 250,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!250%2C250/0/default",
-                "width": 250
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!200%2C200/0/default",
-                "height": 200,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!200%2C200/0/default",
-                "width": 200
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!100%2C100/0/default",
-                "height": 100,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!100%2C100/0/default",
-                "width": 100
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!500%2C500/0/default",
-                "height": 500,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!500%2C500/0/default",
-                "width": 500
-              }
-            ],
-            "reqCreditLine": "false",
             "requiredAssets": [],
             "sameAs": [],
-            "seoDescription": "Globe Art with Sky Background",
+            "seoDescription": "Submitted arrangement of the song “Did You Think to Pray?” English.",
             "seoDescriptionAiGenerated": false,
-            "seoTitle": "No Title",
+            "seoTitle": "Did You Think to Pray?",
             "seoTitleAiGenerated": false,
-            "shareableDescription": "Globe Art with Sky Background",
-            "shareableTitle": "No Title",
-            "title": "No Title"
-          },
-          "title": "Did You Think to Pray?",
-          "translator": []
-        },
-        "$id": "00000196-c6e3-d455-a9f6-deef4fc60000",
-        "$model": "assetPurpose",
-        "$rootId": "00000196-c6e3-d455-a9f6-deef4fc60000",
-        "$site": "music",
-        "$publishStatus": "PUBLISHED"
-      }
-    ]
-  },
-  {
-    "title": "Come Unto Jesus",
-    "slug": "come-unto-jesus-2024",
-    "bookSlug": "cfm-submitted-music-2024",
-    "bookSectionTitle": "2024",
-    "songNumber": "4",
-    "songDate": "2024-10-18",
-    "arrangers": [
-      {
-        "personName": "Brett Brown"
-      },
-      {
-        "personName": "Tom Bahr"
-      },
-      {
-        "personName": "Alex Watson"
-      }
-    ],
-    "artists": [
-      {
-        "personName": "Brett Brown"
-      },
-      {
-        "personName": "Tom Bahr"
-      },
-      {
-        "personName": "Alex Watson"
-      },
-      {
-        "personName": "Peyton Beatty"
-      },
-      {
-        "personName": "Evie Clair"
-      }
-    ],
-    "authors": [
-      {
-        "personName": "Orson Pratt Huish"
-      }
-    ],
-    "composers": [
-      {
-        "personName": "Orson Pratt Huish"
-      }
-    ],
-    "instrumentations": [
-      {
-        "name": "Voice"
-      },
-      {
-        "name": "Piano"
-      },
-      {
-        "name": "Guitar"
-      }
-    ],
-    "musicalFeatures": [],
-    "recordingAvailable": true,
-    "sheetMusicAvailable": false,
-    "videoAvailable": false,
-    "tags": [
-      "Jesus Christ",
-      "comfort",
-      "faith",
-      "grace",
-      "guidance",
-      "love",
-      "peace",
-      "prayer",
-      "repentance",
-      "trials"
-    ],
-    "voicings": [
-      {
-        "name": "Two-Part"
-      }
-    ],
-    "assets": [
-      {
-        "annotatedFields": {},
-        "assetType": "AUDIO_VOCAL",
-        "attributes": {},
-        "locatorIds": [],
-        "mediaObject": {
-          "annotatedFields": {},
-          "arranger": [],
-          "assetID": "k0uv2a1sbt37ujhfc8937uixs85jozyo1vwohop6",
-          "attributes": {},
-          "composer": [],
-          "description": "Submitted arrangement of the song “Come Unto Jesus.” English.",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/k0/uv/k0uv2a1sbt37ujhfc8937uixs85jozyo1vwohop6/come_unto_jesus_2024.mp3",
-          "duration": 152000,
-          "isPartOf": [],
-          "keywords": [
-            "music",
-            "Jesus Christ"
-          ],
-          "$lastUpdatedDate": "Fri Oct 18 10:02:22 EDT 2024",
-          "locatorIds": [],
-          "lyricist": [],
-          "noindex": false,
-          "$id": "00000192-9b45-dd48-a3b7-9ffdf46a0000",
-          "$lang": "eng",
-          "$model": "audio",
-          "$rootId": "00000192-9b45-dd48-a3b7-9ffdf46a0000",
-          "$site": "music",
-          "performer": [],
-          "products": [],
-          "publicAltText": "Submitted arrangement of the song “Come Unto Jesus.” English.",
-          "publicDownload": [],
-          "$publishDate": "Thu Oct 17 12:18:25 EDT 2024",
-          "$publishStatus": "PUBLISHED",
-          "related": [],
-          "requiredAssets": [],
-          "sameAs": [],
-          "seoDescription": "Submitted arrangement of the song “Come Unto Jesus.” English.",
-          "seoDescriptionAiGenerated": false,
-          "seoTitle": "Come Unto Jesus",
-          "seoTitleAiGenerated": false,
-          "shareableDescription": "Submitted arrangement of the song “Come Unto Jesus.” English.",
-          "shareableTitle": "Come Unto Jesus",
-          "thumbnail": {
-            "annotatedFields": {},
-            "assetID": "qc2j43smokihdapxt1um7jl71bt6866ivbycbz63",
-            "attributes": {},
-            "description": "Globe Art with Sky Background",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/1600,/0/default",
-            "focalPoint": {
-              "x": "50.00%",
-              "y": "50.00%"
+            "shareableDescription": "Submitted arrangement of the song “Did You Think to Pray?” English.",
+            "shareableTitle": "Did You Think to Pray?",
+            "thumbnail": {
+              "annotatedFields": {},
+              "assetID": "qc2j43smokihdapxt1um7jl71bt6866ivbycbz63",
+              "attributes": {},
+              "description": "Globe Art with Sky Background",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/1600,/0/default",
+              "focalPoint": {
+                "x": "50.00%",
+                "y": "50.00%"
+              },
+              "ipCode": "0 - IRI Owned",
+              "isPartOf": [],
+              "keywords": [],
+              "$lastUpdatedDate": "Sun Oct 20 07:06:22 EDT 2024",
+              "locatorIds": [],
+              "noindex": false,
+              "$id": "00000192-9b46-dd48-a3b7-9ffe24d40000",
+              "$lang": "eng",
+              "$model": "image",
+              "$rootId": "00000192-9b46-dd48-a3b7-9ffe24d40000",
+              "$site": "music",
+              "products": [],
+              "publicAltText": "Globe Art with Sky Background",
+              "publicDownload": [],
+              "$publishDate": "Thu Oct 17 12:18:38 EDT 2024",
+              "$publishStatus": "PUBLISHED",
+              "related": [],
+              "renditions": [
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!320%2C320/0/default",
+                  "height": 320,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!320%2C320/0/default",
+                  "width": 320
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!640%2C640/0/default",
+                  "height": 640,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!640%2C640/0/default",
+                  "width": 640
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!800%2C800/0/default",
+                  "height": 800,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!800%2C800/0/default",
+                  "width": 800
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1280%2C1280/0/default",
+                  "height": 1280,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1280%2C1280/0/default",
+                  "width": 1280
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1600%2C1600/0/default",
+                  "height": 1600,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1600%2C1600/0/default",
+                  "width": 1600
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!60%2C60/0/default",
+                  "height": 60,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!60%2C60/0/default",
+                  "width": 60
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!250%2C250/0/default",
+                  "height": 250,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!250%2C250/0/default",
+                  "width": 250
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!200%2C200/0/default",
+                  "height": 200,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!200%2C200/0/default",
+                  "width": 200
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!100%2C100/0/default",
+                  "height": 100,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!100%2C100/0/default",
+                  "width": 100
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!500%2C500/0/default",
+                  "height": 500,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!500%2C500/0/default",
+                  "width": 500
+                }
+              ],
+              "reqCreditLine": "false",
+              "requiredAssets": [],
+              "sameAs": [],
+              "seoDescription": "Globe Art with Sky Background",
+              "seoDescriptionAiGenerated": false,
+              "seoTitle": "No Title",
+              "seoTitleAiGenerated": false,
+              "shareableDescription": "Globe Art with Sky Background",
+              "shareableTitle": "No Title",
+              "title": "No Title"
             },
-            "ipCode": "0 - IRI Owned",
+            "title": "Did You Think to Pray?",
+            "translator": []
+          },
+          "$id": "00000196-c6e3-d455-a9f6-deef4fc60000",
+          "$model": "assetPurpose",
+          "$rootId": "00000196-c6e3-d455-a9f6-deef4fc60000",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    },
+    {
+      "title": "Come Unto Jesus",
+      "slug": "come-unto-jesus-2024",
+      "bookSlug": "cfm-submitted-music-2024",
+      "bookSectionTitle": "2024",
+      "songNumber": "4",
+      "songDate": "2024-10-18",
+      "arrangers": [
+        {
+          "personName": "Brett Brown"
+        },
+        {
+          "personName": "Tom Bahr"
+        },
+        {
+          "personName": "Alex Watson"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Brett Brown"
+        },
+        {
+          "personName": "Tom Bahr"
+        },
+        {
+          "personName": "Alex Watson"
+        },
+        {
+          "personName": "Peyton Beatty"
+        },
+        {
+          "personName": "Evie Clair"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Orson Pratt Huish"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Orson Pratt Huish"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        },
+        {
+          "name": "Guitar"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Jesus Christ",
+        "comfort",
+        "faith",
+        "grace",
+        "guidance",
+        "love",
+        "peace",
+        "prayer",
+        "repentance",
+        "trials"
+      ],
+      "voicings": [
+        {
+          "name": "Two-Part"
+        }
+      ],
+      "assets": [
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_VOCAL",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "k0uv2a1sbt37ujhfc8937uixs85jozyo1vwohop6",
+            "attributes": {},
+            "composer": [],
+            "description": "Submitted arrangement of the song “Come Unto Jesus.” English.",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/k0/uv/k0uv2a1sbt37ujhfc8937uixs85jozyo1vwohop6/come_unto_jesus_2024.mp3",
+            "duration": 152000,
             "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Sun Oct 20 07:06:22 EDT 2024",
+            "keywords": [
+              "music",
+              "Jesus Christ"
+            ],
+            "$lastUpdatedDate": "Fri Oct 18 10:02:22 EDT 2024",
             "locatorIds": [],
+            "lyricist": [],
             "noindex": false,
-            "$id": "00000192-9b46-dd48-a3b7-9ffe24d40000",
+            "$id": "00000192-9b45-dd48-a3b7-9ffdf46a0000",
             "$lang": "eng",
-            "$model": "image",
-            "$rootId": "00000192-9b46-dd48-a3b7-9ffe24d40000",
+            "$model": "audio",
+            "$rootId": "00000192-9b45-dd48-a3b7-9ffdf46a0000",
             "$site": "music",
+            "performer": [],
             "products": [],
-            "publicAltText": "Globe Art with Sky Background",
+            "publicAltText": "Submitted arrangement of the song “Come Unto Jesus.” English.",
             "publicDownload": [],
-            "$publishDate": "Thu Oct 17 12:18:38 EDT 2024",
+            "$publishDate": "Thu Oct 17 12:18:25 EDT 2024",
             "$publishStatus": "PUBLISHED",
             "related": [],
-            "renditions": [
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!320%2C320/0/default",
-                "height": 320,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!320%2C320/0/default",
-                "width": 320
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!640%2C640/0/default",
-                "height": 640,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!640%2C640/0/default",
-                "width": 640
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!800%2C800/0/default",
-                "height": 800,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!800%2C800/0/default",
-                "width": 800
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1280%2C1280/0/default",
-                "height": 1280,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1280%2C1280/0/default",
-                "width": 1280
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1600%2C1600/0/default",
-                "height": 1600,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1600%2C1600/0/default",
-                "width": 1600
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!60%2C60/0/default",
-                "height": 60,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!60%2C60/0/default",
-                "width": 60
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!250%2C250/0/default",
-                "height": 250,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!250%2C250/0/default",
-                "width": 250
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!200%2C200/0/default",
-                "height": 200,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!200%2C200/0/default",
-                "width": 200
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!100%2C100/0/default",
-                "height": 100,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!100%2C100/0/default",
-                "width": 100
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!500%2C500/0/default",
-                "height": 500,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!500%2C500/0/default",
-                "width": 500
-              }
-            ],
-            "reqCreditLine": "false",
             "requiredAssets": [],
             "sameAs": [],
-            "seoDescription": "Globe Art with Sky Background",
+            "seoDescription": "Submitted arrangement of the song “Come Unto Jesus.” English.",
             "seoDescriptionAiGenerated": false,
-            "seoTitle": "No Title",
+            "seoTitle": "Come Unto Jesus",
             "seoTitleAiGenerated": false,
-            "shareableDescription": "Globe Art with Sky Background",
-            "shareableTitle": "No Title",
-            "title": "No Title"
-          },
-          "title": "Come Unto Jesus",
-          "translator": []
-        },
-        "$id": "00000196-c6e3-d455-a9f6-deef4fd90000",
-        "$model": "assetPurpose",
-        "$rootId": "00000196-c6e3-d455-a9f6-deef4fd90000",
-        "$site": "music",
-        "$publishStatus": "PUBLISHED"
-      }
-    ]
-  },
-  {
-    "title": "Called to Serve",
-    "slug": "called-to-serve-2024",
-    "bookSlug": "cfm-submitted-music-2024",
-    "bookSectionTitle": "2024",
-    "songNumber": "5",
-    "songDate": "2024-10-18",
-    "arrangers": [
-      {
-        "personName": "Evie Clair"
-      },
-      {
-        "personName": "Peyton Beatty"
-      }
-    ],
-    "artists": [
-      {
-        "personName": "Evie Clair"
-      },
-      {
-        "personName": "Peyton Beatty"
-      }
-    ],
-    "authors": [
-      {
-        "personName": "Elsie Duncan Yale"
-      }
-    ],
-    "composers": [
-      {
-        "personName": "Adam Geibel"
-      }
-    ],
-    "instrumentations": [
-      {
-        "name": "Voice"
-      },
-      {
-        "name": "Guitar"
-      }
-    ],
-    "musicalFeatures": [],
-    "recordingAvailable": true,
-    "sheetMusicAvailable": false,
-    "videoAvailable": false,
-    "tags": [
-      "Jesus Christ",
-      "commitment",
-      "endure to the end",
-      "faith",
-      "missionary work",
-      "praise",
-      "service"
-    ],
-    "voicings": [
-      {
-        "name": "Two-Part"
-      }
-    ],
-    "assets": [
-      {
-        "annotatedFields": {},
-        "assetType": "AUDIO_VOCAL",
-        "attributes": {},
-        "locatorIds": [],
-        "mediaObject": {
-          "annotatedFields": {},
-          "arranger": [],
-          "assetID": "8gffodsnktkcc6f8d6qejcl1mt3z8oz3bhemch1d",
-          "attributes": {},
-          "composer": [],
-          "description": "Submitted arrangement of the song “Called to Serve.” English.",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/8g/ff/8gffodsnktkcc6f8d6qejcl1mt3z8oz3bhemch1d/called_to_serve_2024.mp3",
-          "duration": 125000,
-          "isPartOf": [],
-          "keywords": [
-            "music",
-            "Jesus Christ"
-          ],
-          "$lastUpdatedDate": "Fri Oct 18 15:08:53 EDT 2024",
-          "locatorIds": [],
-          "lyricist": [],
-          "noindex": false,
-          "$id": "00000192-9b46-dd48-a3b7-9ffe0d570000",
-          "$lang": "eng",
-          "$model": "audio",
-          "$rootId": "00000192-9b46-dd48-a3b7-9ffe0d570000",
-          "$site": "music",
-          "performer": [],
-          "products": [],
-          "publicAltText": "Submitted arrangement of the song “Called to Serve.” English.",
-          "publicDownload": [],
-          "$publishDate": "Thu Oct 17 12:18:32 EDT 2024",
-          "$publishStatus": "PUBLISHED",
-          "related": [],
-          "requiredAssets": [],
-          "sameAs": [],
-          "seoDescription": "Submitted arrangement of the song “Called to Serve.” English.",
-          "seoDescriptionAiGenerated": false,
-          "seoTitle": "Called to Serve",
-          "seoTitleAiGenerated": false,
-          "shareableDescription": "Submitted arrangement of the song “Called to Serve.” English.",
-          "shareableTitle": "Called to Serve",
-          "thumbnail": {
-            "annotatedFields": {},
-            "assetID": "qc2j43smokihdapxt1um7jl71bt6866ivbycbz63",
-            "attributes": {},
-            "description": "Globe Art with Sky Background",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/1600,/0/default",
-            "focalPoint": {
-              "x": "50.00%",
-              "y": "50.00%"
+            "shareableDescription": "Submitted arrangement of the song “Come Unto Jesus.” English.",
+            "shareableTitle": "Come Unto Jesus",
+            "thumbnail": {
+              "annotatedFields": {},
+              "assetID": "qc2j43smokihdapxt1um7jl71bt6866ivbycbz63",
+              "attributes": {},
+              "description": "Globe Art with Sky Background",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/1600,/0/default",
+              "focalPoint": {
+                "x": "50.00%",
+                "y": "50.00%"
+              },
+              "ipCode": "0 - IRI Owned",
+              "isPartOf": [],
+              "keywords": [],
+              "$lastUpdatedDate": "Sun Oct 20 07:06:22 EDT 2024",
+              "locatorIds": [],
+              "noindex": false,
+              "$id": "00000192-9b46-dd48-a3b7-9ffe24d40000",
+              "$lang": "eng",
+              "$model": "image",
+              "$rootId": "00000192-9b46-dd48-a3b7-9ffe24d40000",
+              "$site": "music",
+              "products": [],
+              "publicAltText": "Globe Art with Sky Background",
+              "publicDownload": [],
+              "$publishDate": "Thu Oct 17 12:18:38 EDT 2024",
+              "$publishStatus": "PUBLISHED",
+              "related": [],
+              "renditions": [
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!320%2C320/0/default",
+                  "height": 320,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!320%2C320/0/default",
+                  "width": 320
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!640%2C640/0/default",
+                  "height": 640,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!640%2C640/0/default",
+                  "width": 640
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!800%2C800/0/default",
+                  "height": 800,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!800%2C800/0/default",
+                  "width": 800
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1280%2C1280/0/default",
+                  "height": 1280,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1280%2C1280/0/default",
+                  "width": 1280
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1600%2C1600/0/default",
+                  "height": 1600,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1600%2C1600/0/default",
+                  "width": 1600
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!60%2C60/0/default",
+                  "height": 60,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!60%2C60/0/default",
+                  "width": 60
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!250%2C250/0/default",
+                  "height": 250,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!250%2C250/0/default",
+                  "width": 250
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!200%2C200/0/default",
+                  "height": 200,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!200%2C200/0/default",
+                  "width": 200
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!100%2C100/0/default",
+                  "height": 100,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!100%2C100/0/default",
+                  "width": 100
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!500%2C500/0/default",
+                  "height": 500,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!500%2C500/0/default",
+                  "width": 500
+                }
+              ],
+              "reqCreditLine": "false",
+              "requiredAssets": [],
+              "sameAs": [],
+              "seoDescription": "Globe Art with Sky Background",
+              "seoDescriptionAiGenerated": false,
+              "seoTitle": "No Title",
+              "seoTitleAiGenerated": false,
+              "shareableDescription": "Globe Art with Sky Background",
+              "shareableTitle": "No Title",
+              "title": "No Title"
             },
-            "ipCode": "0 - IRI Owned",
+            "title": "Come Unto Jesus",
+            "translator": []
+          },
+          "$id": "00000196-c6e3-d455-a9f6-deef4fd90000",
+          "$model": "assetPurpose",
+          "$rootId": "00000196-c6e3-d455-a9f6-deef4fd90000",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    },
+    {
+      "title": "Called to Serve",
+      "slug": "called-to-serve-2024",
+      "bookSlug": "cfm-submitted-music-2024",
+      "bookSectionTitle": "2024",
+      "songNumber": "5",
+      "songDate": "2024-10-18",
+      "arrangers": [
+        {
+          "personName": "Evie Clair"
+        },
+        {
+          "personName": "Peyton Beatty"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Evie Clair"
+        },
+        {
+          "personName": "Peyton Beatty"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Elsie Duncan Yale"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Adam Geibel"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Guitar"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Jesus Christ",
+        "commitment",
+        "endure to the end",
+        "faith",
+        "missionary work",
+        "praise",
+        "service"
+      ],
+      "voicings": [
+        {
+          "name": "Two-Part"
+        }
+      ],
+      "assets": [
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_VOCAL",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "8gffodsnktkcc6f8d6qejcl1mt3z8oz3bhemch1d",
+            "attributes": {},
+            "composer": [],
+            "description": "Submitted arrangement of the song “Called to Serve.” English.",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/8g/ff/8gffodsnktkcc6f8d6qejcl1mt3z8oz3bhemch1d/called_to_serve_2024.mp3",
+            "duration": 125000,
             "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Sun Oct 20 07:06:22 EDT 2024",
+            "keywords": [
+              "music",
+              "Jesus Christ"
+            ],
+            "$lastUpdatedDate": "Fri Oct 18 15:08:53 EDT 2024",
             "locatorIds": [],
+            "lyricist": [],
             "noindex": false,
-            "$id": "00000192-9b46-dd48-a3b7-9ffe24d40000",
+            "$id": "00000192-9b46-dd48-a3b7-9ffe0d570000",
             "$lang": "eng",
-            "$model": "image",
-            "$rootId": "00000192-9b46-dd48-a3b7-9ffe24d40000",
+            "$model": "audio",
+            "$rootId": "00000192-9b46-dd48-a3b7-9ffe0d570000",
             "$site": "music",
+            "performer": [],
             "products": [],
-            "publicAltText": "Globe Art with Sky Background",
+            "publicAltText": "Submitted arrangement of the song “Called to Serve.” English.",
             "publicDownload": [],
-            "$publishDate": "Thu Oct 17 12:18:38 EDT 2024",
+            "$publishDate": "Thu Oct 17 12:18:32 EDT 2024",
             "$publishStatus": "PUBLISHED",
             "related": [],
-            "renditions": [
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!320%2C320/0/default",
-                "height": 320,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!320%2C320/0/default",
-                "width": 320
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!640%2C640/0/default",
-                "height": 640,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!640%2C640/0/default",
-                "width": 640
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!800%2C800/0/default",
-                "height": 800,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!800%2C800/0/default",
-                "width": 800
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1280%2C1280/0/default",
-                "height": 1280,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1280%2C1280/0/default",
-                "width": 1280
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1600%2C1600/0/default",
-                "height": 1600,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1600%2C1600/0/default",
-                "width": 1600
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!60%2C60/0/default",
-                "height": 60,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!60%2C60/0/default",
-                "width": 60
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!250%2C250/0/default",
-                "height": 250,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!250%2C250/0/default",
-                "width": 250
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!200%2C200/0/default",
-                "height": 200,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!200%2C200/0/default",
-                "width": 200
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!100%2C100/0/default",
-                "height": 100,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!100%2C100/0/default",
-                "width": 100
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!500%2C500/0/default",
-                "height": 500,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!500%2C500/0/default",
-                "width": 500
-              }
-            ],
-            "reqCreditLine": "false",
             "requiredAssets": [],
             "sameAs": [],
-            "seoDescription": "Globe Art with Sky Background",
+            "seoDescription": "Submitted arrangement of the song “Called to Serve.” English.",
             "seoDescriptionAiGenerated": false,
-            "seoTitle": "No Title",
+            "seoTitle": "Called to Serve",
             "seoTitleAiGenerated": false,
-            "shareableDescription": "Globe Art with Sky Background",
-            "shareableTitle": "No Title",
-            "title": "No Title"
-          },
-          "title": "Called to Serve",
-          "translator": []
-        },
-        "$id": "00000196-c6e3-d455-a9f6-deef4fef0000",
-        "$model": "assetPurpose",
-        "$rootId": "00000196-c6e3-d455-a9f6-deef4fef0000",
-        "$site": "music",
-        "$publishStatus": "PUBLISHED"
-      }
-    ]
-  },
-  {
-    "title": "“Give,” Said the Little Stream",
-    "slug": "give-said-the-little-stream-2024",
-    "bookSlug": "cfm-submitted-music-2024",
-    "bookSectionTitle": "2024",
-    "songNumber": "6",
-    "songDate": "2024-10-18",
-    "arrangers": [
-      {
-        "personName": "Marcella Lawton"
-      }
-    ],
-    "artists": [
-      {
-        "personName": "Marcella Lawton"
-      }
-    ],
-    "authors": [
-      {
-        "personName": "Fanny J. Crosby"
-      }
-    ],
-    "composers": [
-      {
-        "personName": "William B. Bradbury"
-      }
-    ],
-    "instrumentations": [
-      {
-        "name": "Voice"
-      },
-      {
-        "name": "Guitar"
-      }
-    ],
-    "musicalFeatures": [],
-    "recordingAvailable": true,
-    "sheetMusicAvailable": false,
-    "videoAvailable": false,
-    "tags": [
-      "charity",
-      "compassion",
-      "hope",
-      "music"
-    ],
-    "voicings": [
-      {
-        "name": "Unison"
-      }
-    ],
-    "assets": [
-      {
-        "annotatedFields": {},
-        "assetType": "AUDIO_VOCAL",
-        "attributes": {},
-        "locatorIds": [],
-        "mediaObject": {
-          "annotatedFields": {},
-          "arranger": [],
-          "assetID": "6qu4jsbqkgzk0ci841qtzmjx6t4tpm9lw5zrvflv",
-          "attributes": {},
-          "composer": [],
-          "description": "Submitted arrangement of the song “‘Give,’ Said the Little Stream.” English.",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/6q/u4/6qu4jsbqkgzk0ci841qtzmjx6t4tpm9lw5zrvflv/give_said_the_little_stream_2024.mp3",
-          "duration": 99000,
-          "isPartOf": [],
-          "keywords": [
-            "music",
-            "Jesus Christ"
-          ],
-          "$lastUpdatedDate": "Thu Oct 17 12:18:31 EDT 2024",
-          "locatorIds": [],
-          "lyricist": [],
-          "noindex": false,
-          "$id": "00000192-9b46-dd48-a3b7-9ffe0b580000",
-          "$lang": "eng",
-          "$model": "audio",
-          "$rootId": "00000192-9b46-dd48-a3b7-9ffe0b580000",
-          "$site": "music",
-          "performer": [],
-          "products": [],
-          "publicAltText": "Submitted arrangement of the song “‘Give,’ Said the Little Stream.” English.",
-          "publicDownload": [],
-          "$publishDate": "Thu Oct 17 12:18:31 EDT 2024",
-          "$publishStatus": "PUBLISHED",
-          "related": [],
-          "requiredAssets": [],
-          "sameAs": [],
-          "seoDescription": "Submitted arrangement of the song “‘Give,’ Said the Little Stream.” English.",
-          "seoDescriptionAiGenerated": false,
-          "seoTitle": "“Give,” Said the Little Stream",
-          "seoTitleAiGenerated": false,
-          "shareableDescription": "Submitted arrangement of the song “‘Give,’ Said the Little Stream.” English.",
-          "shareableTitle": "“Give,” Said the Little Stream",
-          "title": "“Give,” Said the Little Stream",
-          "translator": []
-        },
-        "$id": "00000196-c6e3-d455-a9f6-deef50010000",
-        "$model": "assetPurpose",
-        "$rootId": "00000196-c6e3-d455-a9f6-deef50010000",
-        "$site": "music",
-        "$publishStatus": "PUBLISHED"
-      }
-    ]
-  },
-  {
-    "title": "Reverently and Meekly Now",
-    "slug": "reverently-and-meekly-now-2024",
-    "bookSlug": "cfm-submitted-music-2024",
-    "bookSectionTitle": "2024",
-    "songNumber": "7",
-    "songDate": "2024-10-18",
-    "arrangers": [
-      {
-        "personName": "Kayla Jensen"
-      }
-    ],
-    "artists": [
-      {
-        "personName": "Kayla Jensen"
-      }
-    ],
-    "authors": [
-      {
-        "personName": "Joseph L. Townsend"
-      }
-    ],
-    "composers": [
-      {
-        "personName": "Ebenezer Beesley"
-      }
-    ],
-    "instrumentations": [
-      {
-        "name": "Voice"
-      }
-    ],
-    "musicalFeatures": [],
-    "recordingAvailable": true,
-    "sheetMusicAvailable": false,
-    "videoAvailable": false,
-    "tags": [
-      "Jesus Christ",
-      "forgiveness",
-      "grace",
-      "mercy",
-      "reverence",
-      "the sacrament",
-      "worthiness"
-    ],
-    "voicings": [
-      {
-        "name": "Unison"
-      }
-    ],
-    "assets": [
-      {
-        "annotatedFields": {},
-        "assetType": "AUDIO_VOCAL",
-        "attributes": {},
-        "locatorIds": [],
-        "mediaObject": {
-          "annotatedFields": {},
-          "arranger": [],
-          "assetID": "uz5j4s6r9m7pe795jmc28f5i3kpevmr0zrh126my",
-          "attributes": {},
-          "composer": [],
-          "description": "Submitted arrangement of the song “Reverently and Meekly Now.” English.",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/uz/5j/uz5j4s6r9m7pe795jmc28f5i3kpevmr0zrh126my/reverently_and_meekly_now_2024.mp3",
-          "duration": 267000,
-          "isPartOf": [],
-          "keywords": [
-            "music",
-            "Jesus Christ"
-          ],
-          "$lastUpdatedDate": "Sun Oct 20 07:06:20 EDT 2024",
-          "locatorIds": [],
-          "lyricist": [],
-          "noindex": false,
-          "$id": "00000192-9b45-dd48-a3b7-9ffdff180000",
-          "$lang": "eng",
-          "$model": "audio",
-          "$rootId": "00000192-9b45-dd48-a3b7-9ffdff180000",
-          "$site": "music",
-          "performer": [],
-          "products": [],
-          "publicAltText": "Submitted arrangement of the song “Reverently and Meekly Now.” English.",
-          "publicDownload": [],
-          "$publishDate": "Thu Oct 17 12:18:28 EDT 2024",
-          "$publishStatus": "PUBLISHED",
-          "related": [],
-          "requiredAssets": [],
-          "sameAs": [],
-          "seoDescription": "Submitted arrangement of the song “Reverently and Meekly Now.” English.",
-          "seoDescriptionAiGenerated": false,
-          "seoTitle": "Reverently and Meekly Now",
-          "seoTitleAiGenerated": false,
-          "shareableDescription": "Submitted arrangement of the song “Reverently and Meekly Now.” English.",
-          "shareableTitle": "Reverently and Meekly Now",
-          "thumbnail": {
-            "annotatedFields": {},
-            "assetID": "qc2j43smokihdapxt1um7jl71bt6866ivbycbz63",
-            "attributes": {},
-            "description": "Globe Art with Sky Background",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/1600,/0/default",
-            "focalPoint": {
-              "x": "50.00%",
-              "y": "50.00%"
+            "shareableDescription": "Submitted arrangement of the song “Called to Serve.” English.",
+            "shareableTitle": "Called to Serve",
+            "thumbnail": {
+              "annotatedFields": {},
+              "assetID": "qc2j43smokihdapxt1um7jl71bt6866ivbycbz63",
+              "attributes": {},
+              "description": "Globe Art with Sky Background",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/1600,/0/default",
+              "focalPoint": {
+                "x": "50.00%",
+                "y": "50.00%"
+              },
+              "ipCode": "0 - IRI Owned",
+              "isPartOf": [],
+              "keywords": [],
+              "$lastUpdatedDate": "Sun Oct 20 07:06:22 EDT 2024",
+              "locatorIds": [],
+              "noindex": false,
+              "$id": "00000192-9b46-dd48-a3b7-9ffe24d40000",
+              "$lang": "eng",
+              "$model": "image",
+              "$rootId": "00000192-9b46-dd48-a3b7-9ffe24d40000",
+              "$site": "music",
+              "products": [],
+              "publicAltText": "Globe Art with Sky Background",
+              "publicDownload": [],
+              "$publishDate": "Thu Oct 17 12:18:38 EDT 2024",
+              "$publishStatus": "PUBLISHED",
+              "related": [],
+              "renditions": [
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!320%2C320/0/default",
+                  "height": 320,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!320%2C320/0/default",
+                  "width": 320
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!640%2C640/0/default",
+                  "height": 640,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!640%2C640/0/default",
+                  "width": 640
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!800%2C800/0/default",
+                  "height": 800,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!800%2C800/0/default",
+                  "width": 800
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1280%2C1280/0/default",
+                  "height": 1280,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1280%2C1280/0/default",
+                  "width": 1280
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1600%2C1600/0/default",
+                  "height": 1600,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1600%2C1600/0/default",
+                  "width": 1600
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!60%2C60/0/default",
+                  "height": 60,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!60%2C60/0/default",
+                  "width": 60
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!250%2C250/0/default",
+                  "height": 250,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!250%2C250/0/default",
+                  "width": 250
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!200%2C200/0/default",
+                  "height": 200,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!200%2C200/0/default",
+                  "width": 200
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!100%2C100/0/default",
+                  "height": 100,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!100%2C100/0/default",
+                  "width": 100
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!500%2C500/0/default",
+                  "height": 500,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!500%2C500/0/default",
+                  "width": 500
+                }
+              ],
+              "reqCreditLine": "false",
+              "requiredAssets": [],
+              "sameAs": [],
+              "seoDescription": "Globe Art with Sky Background",
+              "seoDescriptionAiGenerated": false,
+              "seoTitle": "No Title",
+              "seoTitleAiGenerated": false,
+              "shareableDescription": "Globe Art with Sky Background",
+              "shareableTitle": "No Title",
+              "title": "No Title"
             },
-            "ipCode": "0 - IRI Owned",
+            "title": "Called to Serve",
+            "translator": []
+          },
+          "$id": "00000196-c6e3-d455-a9f6-deef4fef0000",
+          "$model": "assetPurpose",
+          "$rootId": "00000196-c6e3-d455-a9f6-deef4fef0000",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    },
+    {
+      "title": "“Give,” Said the Little Stream",
+      "slug": "give-said-the-little-stream-2024",
+      "bookSlug": "cfm-submitted-music-2024",
+      "bookSectionTitle": "2024",
+      "songNumber": "6",
+      "songDate": "2024-10-18",
+      "arrangers": [
+        {
+          "personName": "Marcella Lawton"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Marcella Lawton"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Fanny J. Crosby"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "William B. Bradbury"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Guitar"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "charity",
+        "compassion",
+        "hope",
+        "music"
+      ],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": [
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_VOCAL",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "6qu4jsbqkgzk0ci841qtzmjx6t4tpm9lw5zrvflv",
+            "attributes": {},
+            "composer": [],
+            "description": "Submitted arrangement of the song “‘Give,’ Said the Little Stream.” English.",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/6q/u4/6qu4jsbqkgzk0ci841qtzmjx6t4tpm9lw5zrvflv/give_said_the_little_stream_2024.mp3",
+            "duration": 99000,
             "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Sun Oct 20 07:06:22 EDT 2024",
+            "keywords": [
+              "music",
+              "Jesus Christ"
+            ],
+            "$lastUpdatedDate": "Thu Oct 17 12:18:31 EDT 2024",
             "locatorIds": [],
+            "lyricist": [],
             "noindex": false,
-            "$id": "00000192-9b46-dd48-a3b7-9ffe24d40000",
+            "$id": "00000192-9b46-dd48-a3b7-9ffe0b580000",
             "$lang": "eng",
-            "$model": "image",
-            "$rootId": "00000192-9b46-dd48-a3b7-9ffe24d40000",
+            "$model": "audio",
+            "$rootId": "00000192-9b46-dd48-a3b7-9ffe0b580000",
             "$site": "music",
+            "performer": [],
             "products": [],
-            "publicAltText": "Globe Art with Sky Background",
+            "publicAltText": "Submitted arrangement of the song “‘Give,’ Said the Little Stream.” English.",
             "publicDownload": [],
-            "$publishDate": "Thu Oct 17 12:18:38 EDT 2024",
+            "$publishDate": "Thu Oct 17 12:18:31 EDT 2024",
             "$publishStatus": "PUBLISHED",
             "related": [],
-            "renditions": [
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!320%2C320/0/default",
-                "height": 320,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!320%2C320/0/default",
-                "width": 320
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!640%2C640/0/default",
-                "height": 640,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!640%2C640/0/default",
-                "width": 640
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!800%2C800/0/default",
-                "height": 800,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!800%2C800/0/default",
-                "width": 800
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1280%2C1280/0/default",
-                "height": 1280,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1280%2C1280/0/default",
-                "width": 1280
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1600%2C1600/0/default",
-                "height": 1600,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1600%2C1600/0/default",
-                "width": 1600
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!60%2C60/0/default",
-                "height": 60,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!60%2C60/0/default",
-                "width": 60
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!250%2C250/0/default",
-                "height": 250,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!250%2C250/0/default",
-                "width": 250
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!200%2C200/0/default",
-                "height": 200,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!200%2C200/0/default",
-                "width": 200
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!100%2C100/0/default",
-                "height": 100,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!100%2C100/0/default",
-                "width": 100
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!500%2C500/0/default",
-                "height": 500,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!500%2C500/0/default",
-                "width": 500
-              }
-            ],
-            "reqCreditLine": "false",
             "requiredAssets": [],
             "sameAs": [],
-            "seoDescription": "Globe Art with Sky Background",
+            "seoDescription": "Submitted arrangement of the song “‘Give,’ Said the Little Stream.” English.",
             "seoDescriptionAiGenerated": false,
-            "seoTitle": "No Title",
+            "seoTitle": "“Give,” Said the Little Stream",
             "seoTitleAiGenerated": false,
-            "shareableDescription": "Globe Art with Sky Background",
-            "shareableTitle": "No Title",
-            "title": "No Title"
+            "shareableDescription": "Submitted arrangement of the song “‘Give,’ Said the Little Stream.” English.",
+            "shareableTitle": "“Give,” Said the Little Stream",
+            "title": "“Give,” Said the Little Stream",
+            "translator": []
           },
-          "title": "Reverently and Meekly Now",
-          "translator": []
-        },
-        "$id": "00000196-c6e3-d455-a9f6-deef50160000",
-        "$model": "assetPurpose",
-        "$rootId": "00000196-c6e3-d455-a9f6-deef50160000",
-        "$site": "music",
-        "$publishStatus": "PUBLISHED"
-      }
-    ]
-  },
-  {
-    "title": "Lord, I Would Follow Thee",
-    "slug": "lord-i-would-follow-thee-2024",
-    "bookSlug": "cfm-submitted-music-2024",
-    "bookSectionTitle": "2024",
-    "songNumber": "8",
-    "songDate": "2024-10-18",
-    "arrangers": [
-      {
-        "personName": "Ian Christensen"
-      }
-    ],
-    "artists": [
-      {
-        "personName": "Ian Christensen"
-      },
-      {
-        "personName": "Jorge Gabriel Muñoz Tapia"
-      }
-    ],
-    "authors": [
-      {
-        "personName": "Susan Evans McCloud"
-      }
-    ],
-    "composers": [
-      {
-        "personName": "K. Newell Dayley"
-      }
-    ],
-    "instrumentations": [
-      {
-        "name": "Piano"
-      }
-    ],
-    "musicalFeatures": [],
-    "recordingAvailable": true,
-    "sheetMusicAvailable": false,
-    "videoAvailable": false,
-    "tags": [
-      "Jesus Christ",
-      "commitment",
-      "discipleship",
-      "example",
-      "judging",
-      "love",
-      "ministering",
-      "service"
-    ],
-    "voicings": [],
-    "assets": [
-      {
-        "annotatedFields": {},
-        "assetType": "AUDIO_INSTRUMENTAL",
-        "attributes": {},
-        "locatorIds": [],
-        "mediaObject": {
-          "annotatedFields": {},
-          "arranger": [],
-          "assetID": "m8cv85ywqgysriooezhx6mkehn7w57r49lynlq6h",
-          "attributes": {},
-          "composer": [],
-          "description": "Submitted arrangement of the song “Lord, I Would Follow Thee.” Instrumental.",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/m8/cv/m8cv85ywqgysriooezhx6mkehn7w57r49lynlq6h/lord_i_would_follow_thee_2024.mp3",
-          "duration": 118000,
-          "isPartOf": [],
-          "keywords": [
-            "music",
-            "Jesus Christ"
-          ],
-          "$lastUpdatedDate": "Fri Oct 18 20:28:11 EDT 2024",
-          "locatorIds": [],
-          "lyricist": [],
-          "noindex": false,
-          "$id": "00000192-9b46-dd48-a3b7-9ffe11f40000",
-          "$lang": "eng",
-          "$model": "audio",
-          "$rootId": "00000192-9b46-dd48-a3b7-9ffe11f40000",
+          "$id": "00000196-c6e3-d455-a9f6-deef50010000",
+          "$model": "assetPurpose",
+          "$rootId": "00000196-c6e3-d455-a9f6-deef50010000",
           "$site": "music",
-          "performer": [],
-          "products": [],
-          "publicAltText": "Submitted arrangement of the song “Lord, I Would Follow Thee.” Instrumental.",
-          "publicDownload": [],
-          "$publishDate": "Thu Oct 17 12:18:33 EDT 2024",
-          "$publishStatus": "PUBLISHED",
-          "related": [],
-          "requiredAssets": [],
-          "sameAs": [],
-          "seoDescription": "Submitted arrangement of the song “Lord, I Would Follow Thee.” Instrumental.",
-          "seoDescriptionAiGenerated": false,
-          "seoTitle": "Lord, I Would Follow Thee",
-          "seoTitleAiGenerated": false,
-          "shareableDescription": "Submitted arrangement of the song “Lord, I Would Follow Thee.” Instrumental.",
-          "shareableTitle": "Lord, I Would Follow Thee",
-          "thumbnail": {
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    },
+    {
+      "title": "Reverently and Meekly Now",
+      "slug": "reverently-and-meekly-now-2024",
+      "bookSlug": "cfm-submitted-music-2024",
+      "bookSectionTitle": "2024",
+      "songNumber": "7",
+      "songDate": "2024-10-18",
+      "arrangers": [
+        {
+          "personName": "Kayla Jensen"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Kayla Jensen"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Joseph L. Townsend"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Ebenezer Beesley"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Jesus Christ",
+        "forgiveness",
+        "grace",
+        "mercy",
+        "reverence",
+        "the sacrament",
+        "worthiness"
+      ],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": [
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_VOCAL",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
             "annotatedFields": {},
-            "assetID": "qc2j43smokihdapxt1um7jl71bt6866ivbycbz63",
+            "arranger": [],
+            "assetID": "uz5j4s6r9m7pe795jmc28f5i3kpevmr0zrh126my",
             "attributes": {},
-            "description": "Globe Art with Sky Background",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/1600,/0/default",
-            "focalPoint": {
-              "x": "50.00%",
-              "y": "50.00%"
-            },
-            "ipCode": "0 - IRI Owned",
+            "composer": [],
+            "description": "Submitted arrangement of the song “Reverently and Meekly Now.” English.",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/uz/5j/uz5j4s6r9m7pe795jmc28f5i3kpevmr0zrh126my/reverently_and_meekly_now_2024.mp3",
+            "duration": 267000,
             "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Sun Oct 20 07:06:22 EDT 2024",
+            "keywords": [
+              "music",
+              "Jesus Christ"
+            ],
+            "$lastUpdatedDate": "Sun Oct 20 07:06:20 EDT 2024",
             "locatorIds": [],
+            "lyricist": [],
             "noindex": false,
-            "$id": "00000192-9b46-dd48-a3b7-9ffe24d40000",
+            "$id": "00000192-9b45-dd48-a3b7-9ffdff180000",
             "$lang": "eng",
-            "$model": "image",
-            "$rootId": "00000192-9b46-dd48-a3b7-9ffe24d40000",
+            "$model": "audio",
+            "$rootId": "00000192-9b45-dd48-a3b7-9ffdff180000",
             "$site": "music",
+            "performer": [],
             "products": [],
-            "publicAltText": "Globe Art with Sky Background",
+            "publicAltText": "Submitted arrangement of the song “Reverently and Meekly Now.” English.",
             "publicDownload": [],
-            "$publishDate": "Thu Oct 17 12:18:38 EDT 2024",
+            "$publishDate": "Thu Oct 17 12:18:28 EDT 2024",
             "$publishStatus": "PUBLISHED",
             "related": [],
-            "renditions": [
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!320%2C320/0/default",
-                "height": 320,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!320%2C320/0/default",
-                "width": 320
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!640%2C640/0/default",
-                "height": 640,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!640%2C640/0/default",
-                "width": 640
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!800%2C800/0/default",
-                "height": 800,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!800%2C800/0/default",
-                "width": 800
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1280%2C1280/0/default",
-                "height": 1280,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1280%2C1280/0/default",
-                "width": 1280
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1600%2C1600/0/default",
-                "height": 1600,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1600%2C1600/0/default",
-                "width": 1600
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!60%2C60/0/default",
-                "height": 60,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!60%2C60/0/default",
-                "width": 60
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!250%2C250/0/default",
-                "height": 250,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!250%2C250/0/default",
-                "width": 250
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!200%2C200/0/default",
-                "height": 200,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!200%2C200/0/default",
-                "width": 200
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!100%2C100/0/default",
-                "height": 100,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!100%2C100/0/default",
-                "width": 100
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!500%2C500/0/default",
-                "height": 500,
-                "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!500%2C500/0/default",
-                "width": 500
-              }
-            ],
-            "reqCreditLine": "false",
             "requiredAssets": [],
             "sameAs": [],
-            "seoDescription": "Globe Art with Sky Background",
+            "seoDescription": "Submitted arrangement of the song “Reverently and Meekly Now.” English.",
             "seoDescriptionAiGenerated": false,
-            "seoTitle": "No Title",
+            "seoTitle": "Reverently and Meekly Now",
             "seoTitleAiGenerated": false,
-            "shareableDescription": "Globe Art with Sky Background",
-            "shareableTitle": "No Title",
-            "title": "No Title"
+            "shareableDescription": "Submitted arrangement of the song “Reverently and Meekly Now.” English.",
+            "shareableTitle": "Reverently and Meekly Now",
+            "thumbnail": {
+              "annotatedFields": {},
+              "assetID": "qc2j43smokihdapxt1um7jl71bt6866ivbycbz63",
+              "attributes": {},
+              "description": "Globe Art with Sky Background",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/1600,/0/default",
+              "focalPoint": {
+                "x": "50.00%",
+                "y": "50.00%"
+              },
+              "ipCode": "0 - IRI Owned",
+              "isPartOf": [],
+              "keywords": [],
+              "$lastUpdatedDate": "Sun Oct 20 07:06:22 EDT 2024",
+              "locatorIds": [],
+              "noindex": false,
+              "$id": "00000192-9b46-dd48-a3b7-9ffe24d40000",
+              "$lang": "eng",
+              "$model": "image",
+              "$rootId": "00000192-9b46-dd48-a3b7-9ffe24d40000",
+              "$site": "music",
+              "products": [],
+              "publicAltText": "Globe Art with Sky Background",
+              "publicDownload": [],
+              "$publishDate": "Thu Oct 17 12:18:38 EDT 2024",
+              "$publishStatus": "PUBLISHED",
+              "related": [],
+              "renditions": [
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!320%2C320/0/default",
+                  "height": 320,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!320%2C320/0/default",
+                  "width": 320
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!640%2C640/0/default",
+                  "height": 640,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!640%2C640/0/default",
+                  "width": 640
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!800%2C800/0/default",
+                  "height": 800,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!800%2C800/0/default",
+                  "width": 800
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1280%2C1280/0/default",
+                  "height": 1280,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1280%2C1280/0/default",
+                  "width": 1280
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1600%2C1600/0/default",
+                  "height": 1600,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1600%2C1600/0/default",
+                  "width": 1600
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!60%2C60/0/default",
+                  "height": 60,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!60%2C60/0/default",
+                  "width": 60
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!250%2C250/0/default",
+                  "height": 250,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!250%2C250/0/default",
+                  "width": 250
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!200%2C200/0/default",
+                  "height": 200,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!200%2C200/0/default",
+                  "width": 200
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!100%2C100/0/default",
+                  "height": 100,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!100%2C100/0/default",
+                  "width": 100
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!500%2C500/0/default",
+                  "height": 500,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!500%2C500/0/default",
+                  "width": 500
+                }
+              ],
+              "reqCreditLine": "false",
+              "requiredAssets": [],
+              "sameAs": [],
+              "seoDescription": "Globe Art with Sky Background",
+              "seoDescriptionAiGenerated": false,
+              "seoTitle": "No Title",
+              "seoTitleAiGenerated": false,
+              "shareableDescription": "Globe Art with Sky Background",
+              "shareableTitle": "No Title",
+              "title": "No Title"
+            },
+            "title": "Reverently and Meekly Now",
+            "translator": []
           },
-          "title": "Lord, I Would Follow Thee",
-          "translator": []
+          "$id": "00000196-c6e3-d455-a9f6-deef50160000",
+          "$model": "assetPurpose",
+          "$rootId": "00000196-c6e3-d455-a9f6-deef50160000",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    },
+    {
+      "title": "Lord, I Would Follow Thee",
+      "slug": "lord-i-would-follow-thee-2024",
+      "bookSlug": "cfm-submitted-music-2024",
+      "bookSectionTitle": "2024",
+      "songNumber": "8",
+      "songDate": "2024-10-18",
+      "arrangers": [
+        {
+          "personName": "Ian Christensen"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Ian Christensen"
         },
-        "$id": "00000196-c6e3-d455-a9f6-deef502a0000",
-        "$model": "assetPurpose",
-        "$rootId": "00000196-c6e3-d455-a9f6-deef502a0000",
-        "$site": "music",
-        "$publishStatus": "PUBLISHED"
-      }
-    ]
-  }
-]
+        {
+          "personName": "Jorge Gabriel Muñoz Tapia"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Susan Evans McCloud"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "K. Newell Dayley"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Jesus Christ",
+        "commitment",
+        "discipleship",
+        "example",
+        "judging",
+        "love",
+        "ministering",
+        "service"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_INSTRUMENTAL",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "m8cv85ywqgysriooezhx6mkehn7w57r49lynlq6h",
+            "attributes": {},
+            "composer": [],
+            "description": "Submitted arrangement of the song “Lord, I Would Follow Thee.” Instrumental.",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/m8/cv/m8cv85ywqgysriooezhx6mkehn7w57r49lynlq6h/lord_i_would_follow_thee_2024.mp3",
+            "duration": 118000,
+            "isPartOf": [],
+            "keywords": [
+              "music",
+              "Jesus Christ"
+            ],
+            "$lastUpdatedDate": "Fri Oct 18 20:28:11 EDT 2024",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "00000192-9b46-dd48-a3b7-9ffe11f40000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "00000192-9b46-dd48-a3b7-9ffe11f40000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "Submitted arrangement of the song “Lord, I Would Follow Thee.” Instrumental.",
+            "publicDownload": [],
+            "$publishDate": "Thu Oct 17 12:18:33 EDT 2024",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Submitted arrangement of the song “Lord, I Would Follow Thee.” Instrumental.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Lord, I Would Follow Thee",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Submitted arrangement of the song “Lord, I Would Follow Thee.” Instrumental.",
+            "shareableTitle": "Lord, I Would Follow Thee",
+            "thumbnail": {
+              "annotatedFields": {},
+              "assetID": "qc2j43smokihdapxt1um7jl71bt6866ivbycbz63",
+              "attributes": {},
+              "description": "Globe Art with Sky Background",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/1600,/0/default",
+              "focalPoint": {
+                "x": "50.00%",
+                "y": "50.00%"
+              },
+              "ipCode": "0 - IRI Owned",
+              "isPartOf": [],
+              "keywords": [],
+              "$lastUpdatedDate": "Sun Oct 20 07:06:22 EDT 2024",
+              "locatorIds": [],
+              "noindex": false,
+              "$id": "00000192-9b46-dd48-a3b7-9ffe24d40000",
+              "$lang": "eng",
+              "$model": "image",
+              "$rootId": "00000192-9b46-dd48-a3b7-9ffe24d40000",
+              "$site": "music",
+              "products": [],
+              "publicAltText": "Globe Art with Sky Background",
+              "publicDownload": [],
+              "$publishDate": "Thu Oct 17 12:18:38 EDT 2024",
+              "$publishStatus": "PUBLISHED",
+              "related": [],
+              "renditions": [
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!320%2C320/0/default",
+                  "height": 320,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!320%2C320/0/default",
+                  "width": 320
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!640%2C640/0/default",
+                  "height": 640,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!640%2C640/0/default",
+                  "width": 640
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!800%2C800/0/default",
+                  "height": 800,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!800%2C800/0/default",
+                  "width": 800
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1280%2C1280/0/default",
+                  "height": 1280,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1280%2C1280/0/default",
+                  "width": 1280
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1600%2C1600/0/default",
+                  "height": 1600,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1600%2C1600/0/default",
+                  "width": 1600
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!60%2C60/0/default",
+                  "height": 60,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!60%2C60/0/default",
+                  "width": 60
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!250%2C250/0/default",
+                  "height": 250,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!250%2C250/0/default",
+                  "width": 250
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!200%2C200/0/default",
+                  "height": 200,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!200%2C200/0/default",
+                  "width": 200
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!100%2C100/0/default",
+                  "height": 100,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!100%2C100/0/default",
+                  "width": 100
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!500%2C500/0/default",
+                  "height": 500,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!500%2C500/0/default",
+                  "width": 500
+                }
+              ],
+              "reqCreditLine": "false",
+              "requiredAssets": [],
+              "sameAs": [],
+              "seoDescription": "Globe Art with Sky Background",
+              "seoDescriptionAiGenerated": false,
+              "seoTitle": "No Title",
+              "seoTitleAiGenerated": false,
+              "shareableDescription": "Globe Art with Sky Background",
+              "shareableTitle": "No Title",
+              "title": "No Title"
+            },
+            "title": "Lord, I Would Follow Thee",
+            "translator": []
+          },
+          "$id": "00000196-c6e3-d455-a9f6-deef502a0000",
+          "$model": "assetPurpose",
+          "$rootId": "00000196-c6e3-d455-a9f6-deef502a0000",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    }
+  ],
+  "limit": 500,
+  "offset": 0,
+  "total": 8
+}
