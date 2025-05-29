@@ -158,7 +158,7 @@
               "keywords": [
                 "Children's Songbook"
               ],
-              "$lastUpdatedDate": "Tue May 27 17:45:31 EDT 2025",
+              "$lastUpdatedDate": "Wed May 28 15:44:40 EDT 2025",
               "locatorIds": [],
               "noindex": false,
               "$id": "0000017a-108d-dcbd-a77b-dddde23f0000",
@@ -352,7 +352,7 @@
               "keywords": [
                 "Children's Songbook"
               ],
-              "$lastUpdatedDate": "Tue May 27 17:45:31 EDT 2025",
+              "$lastUpdatedDate": "Wed May 28 15:44:40 EDT 2025",
               "locatorIds": [],
               "noindex": false,
               "$id": "0000017a-108d-dcbd-a77b-dddde23f0000",
@@ -503,7 +503,7 @@
               "keywords": [
                 "Children's Songbook"
               ],
-              "$lastUpdatedDate": "Tue May 27 17:45:31 EDT 2025",
+              "$lastUpdatedDate": "Wed May 28 15:44:40 EDT 2025",
               "locatorIds": [],
               "noindex": false,
               "$id": "0000017a-108d-dcbd-a77b-dddde23f0000",
@@ -1115,7 +1115,7 @@
               "keywords": [
                 "Children's Songbook"
               ],
-              "$lastUpdatedDate": "Tue May 27 17:45:31 EDT 2025",
+              "$lastUpdatedDate": "Wed May 28 15:44:40 EDT 2025",
               "locatorIds": [],
               "noindex": false,
               "$id": "0000017a-108d-dcbd-a77b-dddde23f0000",
@@ -1266,7 +1266,7 @@
               "keywords": [
                 "Children's Songbook"
               ],
-              "$lastUpdatedDate": "Tue May 27 17:45:31 EDT 2025",
+              "$lastUpdatedDate": "Wed May 28 15:44:40 EDT 2025",
               "locatorIds": [],
               "noindex": false,
               "$id": "0000017a-108d-dcbd-a77b-dddde23f0000",
@@ -17228,11 +17228,12 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "comfort",
+        "Book of Mormon",
+        "Education",
+        "Jesus Christ",
         "diligence",
-        "faith",
-        "gospel",
-        "love",
+        "faith in Jesus Christ",
+        "guidance",
         "prayer",
         "scriptures",
         "testimony"
@@ -20873,11 +20874,10 @@
       "sheetMusicAvailable": true,
       "videoAvailable": true,
       "tags": [
-        "Jesus Christ",
         "courage",
-        "faith",
-        "missionary work",
+        "discipleship",
         "pioneers",
+        "sacrifice",
         "work",
         "worldwide Church"
       ],
@@ -23597,8 +23597,14 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "Jesus Christ",
-        "Jesus Christ's ministry"
+        "God's love",
+        "Second Coming",
+        "blessings",
+        "gratitude",
+        "hope",
+        "love",
+        "peace",
+        "praise"
       ],
       "voicings": [
         {

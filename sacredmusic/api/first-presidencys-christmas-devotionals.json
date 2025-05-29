@@ -4515,16 +4515,10 @@
       "artists": [],
       "authors": [
         {
-          "personName": "Anon."
-        },
-        {
           "personName": "Austrian carol"
         }
       ],
       "composers": [
-        {
-          "personName": "Anon."
-        },
         {
           "personName": "Austrian carol"
         }
@@ -4538,7 +4532,13 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
-      "tags": [],
+      "tags": [
+        "Christmas",
+        "God's love",
+        "Jesus Christ",
+        "peace",
+        "praise"
+      ],
       "voicings": [],
       "assets": [
         {
