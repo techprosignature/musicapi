@@ -1740,8 +1740,16 @@
           "personName": "Children and Youth Choir"
         }
       ],
-      "authors": [],
-      "composers": [],
+      "authors": [
+        {
+          "personName": "African-American spiritual"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "African-American spiritual"
+        }
+      ],
       "instrumentations": [
         {
           "name": "Voice"
@@ -1755,7 +1763,13 @@
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
-        "children"
+        "commitment",
+        "consecration",
+        "discipleship",
+        "music",
+        "prayer",
+        "service",
+        "work"
       ],
       "voicings": [
         {
