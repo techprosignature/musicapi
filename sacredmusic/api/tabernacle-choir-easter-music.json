@@ -417,7 +417,7 @@
             "duration": 168288,
             "isPartOf": [],
             "keywords": [],
-            "$lastUpdatedDate": "Wed May 28 12:58:16 EDT 2025",
+            "$lastUpdatedDate": "Sun Jun 01 13:32:28 EDT 2025",
             "locatorIds": [],
             "lyricist": [],
             "noindex": false,
@@ -442,83 +442,106 @@
             "shareableTitle": "Meditation",
             "thumbnail": {
               "annotatedFields": {},
-              "assetID": "d1416ea9b77711ec9840eeeeac1e8718f29c9161",
+              "assetID": "dd27101a28b1231640565e8189f77f1a201fc948",
               "attributes": {},
-              "description": "Easter with the Tabernacle Choir",
-              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/d1416ea9b77711ec9840eeeeac1e8718f29c9161/full/640,/0/default",
+              "description": "2023-05-0180-meditation-1920x1080-thumb-master.jpg",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dd27101a28b1231640565e8189f77f1a201fc948/full/1920,/0/default",
               "focalPoint": {
                 "x": "50.00%",
                 "y": "50.00%"
               },
               "isPartOf": [],
               "keywords": [],
-              "$lastUpdatedDate": "Wed Dec 11 12:49:48 EST 2024",
+              "$lastUpdatedDate": "Sun Jun 01 13:32:27 EDT 2025",
               "locatorIds": [],
               "noindex": false,
-              "$id": "00000188-b813-d02b-af8b-bc3b14d70000",
+              "$id": "00000197-2c8d-d1c6-a9d7-efbf50850000",
               "$lang": "eng",
               "$model": "image",
-              "$rootId": "00000188-b813-d02b-af8b-bc3b14d70000",
+              "$rootId": "00000197-2c8d-d1c6-a9d7-efbf50850000",
               "$site": "music",
               "products": [],
-              "publicAltText": "A photo of purple and orange clouds that have sunlight shining through and the words, \"Easter With the Tabernacle Choir\" written across the top left corner.",
               "publicDownload": [],
-              "$publishDate": "Wed Jun 14 00:03:58 EDT 2023",
+              "$publishDate": "Sun Jun 01 13:32:28 EDT 2025",
               "$publishStatus": "PUBLISHED",
               "related": [],
               "renditions": [
                 {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/d1416ea9b77711ec9840eeeeac1e8718f29c9161/full/!320%2C251/0/default",
-                  "height": 251,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/d1416ea9b77711ec9840eeeeac1e8718f29c9161/full/!320%2C251/0/default",
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dd27101a28b1231640565e8189f77f1a201fc948/full/!320%2C180/0/default",
+                  "height": 180,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/dd27101a28b1231640565e8189f77f1a201fc948/full/!320%2C180/0/default",
                   "width": 320
                 },
                 {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/d1416ea9b77711ec9840eeeeac1e8718f29c9161/full/!640%2C501/0/default",
-                  "height": 501,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/d1416ea9b77711ec9840eeeeac1e8718f29c9161/full/!640%2C501/0/default",
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dd27101a28b1231640565e8189f77f1a201fc948/full/!640%2C360/0/default",
+                  "height": 360,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/dd27101a28b1231640565e8189f77f1a201fc948/full/!640%2C360/0/default",
                   "width": 640
                 },
                 {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/d1416ea9b77711ec9840eeeeac1e8718f29c9161/full/!60%2C47/0/default",
-                  "height": 47,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/d1416ea9b77711ec9840eeeeac1e8718f29c9161/full/!60%2C47/0/default",
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dd27101a28b1231640565e8189f77f1a201fc948/full/!800%2C450/0/default",
+                  "height": 450,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/dd27101a28b1231640565e8189f77f1a201fc948/full/!800%2C450/0/default",
+                  "width": 800
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dd27101a28b1231640565e8189f77f1a201fc948/full/!1280%2C720/0/default",
+                  "height": 720,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/dd27101a28b1231640565e8189f77f1a201fc948/full/!1280%2C720/0/default",
+                  "width": 1280
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dd27101a28b1231640565e8189f77f1a201fc948/full/!1600%2C900/0/default",
+                  "height": 900,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/dd27101a28b1231640565e8189f77f1a201fc948/full/!1600%2C900/0/default",
+                  "width": 1600
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dd27101a28b1231640565e8189f77f1a201fc948/full/!1920%2C1080/0/default",
+                  "height": 1080,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/dd27101a28b1231640565e8189f77f1a201fc948/full/!1920%2C1080/0/default",
+                  "width": 1920
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dd27101a28b1231640565e8189f77f1a201fc948/full/!60%2C34/0/default",
+                  "height": 34,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/dd27101a28b1231640565e8189f77f1a201fc948/full/!60%2C34/0/default",
                   "width": 60
                 },
                 {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/d1416ea9b77711ec9840eeeeac1e8718f29c9161/full/!250%2C196/0/default",
-                  "height": 196,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/d1416ea9b77711ec9840eeeeac1e8718f29c9161/full/!250%2C196/0/default",
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dd27101a28b1231640565e8189f77f1a201fc948/full/!250%2C141/0/default",
+                  "height": 141,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/dd27101a28b1231640565e8189f77f1a201fc948/full/!250%2C141/0/default",
                   "width": 250
                 },
                 {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/d1416ea9b77711ec9840eeeeac1e8718f29c9161/full/!200%2C157/0/default",
-                  "height": 157,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/d1416ea9b77711ec9840eeeeac1e8718f29c9161/full/!200%2C157/0/default",
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dd27101a28b1231640565e8189f77f1a201fc948/full/!200%2C113/0/default",
+                  "height": 113,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/dd27101a28b1231640565e8189f77f1a201fc948/full/!200%2C113/0/default",
                   "width": 200
                 },
                 {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/d1416ea9b77711ec9840eeeeac1e8718f29c9161/full/!100%2C78/0/default",
-                  "height": 78,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/d1416ea9b77711ec9840eeeeac1e8718f29c9161/full/!100%2C78/0/default",
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dd27101a28b1231640565e8189f77f1a201fc948/full/!100%2C56/0/default",
+                  "height": 56,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/dd27101a28b1231640565e8189f77f1a201fc948/full/!100%2C56/0/default",
                   "width": 100
                 },
                 {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/d1416ea9b77711ec9840eeeeac1e8718f29c9161/full/!500%2C391/0/default",
-                  "height": 391,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/d1416ea9b77711ec9840eeeeac1e8718f29c9161/full/!500%2C391/0/default",
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dd27101a28b1231640565e8189f77f1a201fc948/full/!500%2C281/0/default",
+                  "height": 281,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/dd27101a28b1231640565e8189f77f1a201fc948/full/!500%2C281/0/default",
                   "width": 500
                 }
               ],
               "requiredAssets": [],
               "sameAs": [],
-              "seoDescription": "Easter with the Tabernacle Choir",
+              "seoDescription": "2023-05-0180-meditation-1920x1080-thumb-master.jpg",
               "seoDescriptionAiGenerated": false,
-              "seoTitle": "Easter with the Tabernacle Choir",
+              "seoTitle": "No Title",
               "seoTitleAiGenerated": false,
-              "shareableDescription": "Easter with the Tabernacle Choir",
-              "shareableTitle": "Easter with the Tabernacle Choir",
-              "title": "Easter with the Tabernacle Choir"
+              "shareableDescription": "2023-05-0180-meditation-1920x1080-thumb-master.jpg",
+              "shareableTitle": "No Title",
+              "title": "No Title"
             },
             "title": "Meditation",
             "translator": []
