@@ -12745,7 +12745,7 @@
             "keywords": [
               "Face to Face"
             ],
-            "$lastUpdatedDate": "Wed May 28 14:31:55 EDT 2025",
+            "$lastUpdatedDate": "Mon Jun 02 20:24:53 EDT 2025",
             "locatorIds": [],
             "lyricist": [],
             "noindex": false,
@@ -12772,25 +12772,25 @@
               "annotatedFields": {},
               "assetID": "381005597026be6a9db789ae60d687c35b286c7a",
               "attributes": {},
-              "description": "This segment is from the Face to Face Broadcast with Elder and Sister Rasband on September 13th, 2020.",
-              "distributionUrl": "https://assets.churchofjesuschrist.org/437d4de2ecb469b9b0b6c21f7d7f91828ca1c9cf.jpeg",
+              "description": "2020-09-1061-joseph-smiths-first-prayer-1920x1080-thumb-master.jpg",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/381005597026be6a9db789ae60d687c35b286c7a/full/1920,/0/default",
               "focalPoint": {
                 "x": "50.00%",
                 "y": "50.00%"
               },
               "isPartOf": [],
               "keywords": [],
-              "$lastUpdatedDate": "Thu Dec 01 13:32:28 EST 2022",
+              "$lastUpdatedDate": "Mon Jun 02 20:24:53 EDT 2025",
               "locatorIds": [],
               "noindex": false,
-              "$owningSite": "gospel-living",
-              "$id": "00000175-6c14-db9a-a1f5-7f7e8c000000",
+              "$id": "00000175-6c14-db9a-a1f5-7f7e8b200000",
+              "$lang": "eng",
               "$model": "image",
-              "$rootId": "00000175-6c14-db9a-a1f5-7f7e8c000000",
+              "$rootId": "00000175-6c14-db9a-a1f5-7f7e8b200000",
               "$site": "music",
               "products": [],
               "publicDownload": [],
-              "$publishDate": "Tue Oct 27 18:01:27 EDT 2020",
+              "$publishDate": "Tue Oct 27 18:01:26 EDT 2020",
               "$publishStatus": "PUBLISHED",
               "related": [],
               "renditions": [
@@ -12863,11 +12863,13 @@
               ],
               "requiredAssets": [],
               "sameAs": [],
-              "seoDescription": "This segment is from the Face to Face Broadcast with Elder and Sister Rasband on September 13th, 2020.",
+              "seoDescription": "2020-09-1061-joseph-smiths-first-prayer-1920x1080-thumb-master.jpg",
               "seoDescriptionAiGenerated": false,
-              "seoTitle": "00000175-6c14-db9a-a1f5-7f7e8c000000",
+              "seoTitle": "2020-09-1061-joseph-smiths-first-prayer-1920x1080-thumb-master.jpg",
               "seoTitleAiGenerated": false,
-              "shareableDescription": "This segment is from the Face to Face Broadcast with Elder and Sister Rasband on September 13th, 2020."
+              "shareableDescription": "2020-09-1061-joseph-smiths-first-prayer-1920x1080-thumb-master.jpg",
+              "shareableTitle": "2020-09-1061-joseph-smiths-first-prayer-1920x1080-thumb-master.jpg",
+              "title": "2020-09-1061-joseph-smiths-first-prayer-1920x1080-thumb-master.jpg"
             },
             "title": "Joseph Smith's First Prayer",
             "translator": []
