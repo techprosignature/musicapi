@@ -1469,7 +1469,7 @@
               "keywords": [
                 "Children's Songbook"
               ],
-              "$lastUpdatedDate": "Sat May 31 05:59:05 EDT 2025",
+              "$lastUpdatedDate": "Thu Jun 05 07:14:09 EDT 2025",
               "locatorIds": [],
               "noindex": false,
               "$id": "0000017a-108d-dcbd-a77b-dddde23f0000",
@@ -1617,7 +1617,7 @@
               "keywords": [
                 "Children's Songbook"
               ],
-              "$lastUpdatedDate": "Sat May 31 05:59:05 EDT 2025",
+              "$lastUpdatedDate": "Thu Jun 05 07:14:09 EDT 2025",
               "locatorIds": [],
               "noindex": false,
               "$id": "0000017a-108d-dcbd-a77b-dddde23f0000",
@@ -2455,7 +2455,7 @@
               "keywords": [
                 "Children's Songbook"
               ],
-              "$lastUpdatedDate": "Sat May 31 05:59:05 EDT 2025",
+              "$lastUpdatedDate": "Thu Jun 05 07:14:09 EDT 2025",
               "locatorIds": [],
               "noindex": false,
               "$id": "0000017a-108d-dcbd-a77b-dddde23f0000",
@@ -5055,63 +5055,6 @@
         "Jesus Christ",
         "reverence",
         "worship"
-      ],
-      "voicings": [
-        {
-          "name": "SATB"
-        }
-      ],
-      "assets": []
-    },
-    {
-      "title": "O Lord, Who Gave Thy Life for Me",
-      "slug": "o-lord-who-gave-thy-life-for-me",
-      "bookSlug": "music-from-the-liahona",
-      "bookSectionTitle": "2002",
-      "songNumber": "",
-      "songDate": "2002-10-01",
-      "arrangers": [],
-      "artists": [],
-      "authors": [
-        {
-          "personName": "Alice Warner Johnson"
-        }
-      ],
-      "composers": [
-        {
-          "personName": "Alice Warner Johnson"
-        }
-      ],
-      "instrumentations": [
-        {
-          "name": "Voice"
-        },
-        {
-          "name": "Piano"
-        },
-        {
-          "name": "Organ"
-        }
-      ],
-      "musicalFeatures": [],
-      "recordingAvailable": false,
-      "sheetMusicAvailable": true,
-      "videoAvailable": false,
-      "tags": [
-        "commitment",
-        "discipleship",
-        "endure to the end",
-        "faith in Jesus Christ",
-        "forgiveness",
-        "grace",
-        "humility",
-        "love",
-        "mercy",
-        "repentance",
-        "sacrifice",
-        "supplication",
-        "the sacrament",
-        "trust"
       ],
       "voicings": [
         {
