@@ -158,7 +158,7 @@
               "keywords": [
                 "Children's Songbook"
               ],
-              "$lastUpdatedDate": "Fri Jun 06 18:56:09 EDT 2025",
+              "$lastUpdatedDate": "Wed Jun 11 20:29:09 EDT 2025",
               "locatorIds": [],
               "noindex": false,
               "$id": "0000017a-108d-dcbd-a77b-dddde23f0000",
@@ -352,7 +352,7 @@
               "keywords": [
                 "Children's Songbook"
               ],
-              "$lastUpdatedDate": "Fri Jun 06 18:56:09 EDT 2025",
+              "$lastUpdatedDate": "Wed Jun 11 20:29:09 EDT 2025",
               "locatorIds": [],
               "noindex": false,
               "$id": "0000017a-108d-dcbd-a77b-dddde23f0000",
@@ -503,7 +503,7 @@
               "keywords": [
                 "Children's Songbook"
               ],
-              "$lastUpdatedDate": "Fri Jun 06 18:56:09 EDT 2025",
+              "$lastUpdatedDate": "Wed Jun 11 20:29:09 EDT 2025",
               "locatorIds": [],
               "noindex": false,
               "$id": "0000017a-108d-dcbd-a77b-dddde23f0000",
@@ -1115,7 +1115,7 @@
               "keywords": [
                 "Children's Songbook"
               ],
-              "$lastUpdatedDate": "Fri Jun 06 18:56:09 EDT 2025",
+              "$lastUpdatedDate": "Wed Jun 11 20:29:09 EDT 2025",
               "locatorIds": [],
               "noindex": false,
               "$id": "0000017a-108d-dcbd-a77b-dddde23f0000",
@@ -1266,7 +1266,7 @@
               "keywords": [
                 "Children's Songbook"
               ],
-              "$lastUpdatedDate": "Fri Jun 06 18:56:09 EDT 2025",
+              "$lastUpdatedDate": "Wed Jun 11 20:29:09 EDT 2025",
               "locatorIds": [],
               "noindex": false,
               "$id": "0000017a-108d-dcbd-a77b-dddde23f0000",
@@ -20845,50 +20845,6 @@
       "assets": []
     },
     {
-      "title": "I’m a Pioneer Too",
-      "slug": "im-a-pioneer-too",
-      "bookSlug": "featured-music-for-children",
-      "songNumber": "",
-      "arrangers": [],
-      "artists": [],
-      "authors": [
-        {
-          "personName": "Jan Underwood Pinborough"
-        }
-      ],
-      "composers": [
-        {
-          "personName": "Michael Finlinson Moody"
-        }
-      ],
-      "instrumentations": [
-        {
-          "name": "Voice"
-        },
-        {
-          "name": "Piano"
-        }
-      ],
-      "musicalFeatures": [],
-      "recordingAvailable": false,
-      "sheetMusicAvailable": true,
-      "videoAvailable": true,
-      "tags": [
-        "courage",
-        "discipleship",
-        "pioneers",
-        "sacrifice",
-        "work",
-        "worldwide Church"
-      ],
-      "voicings": [
-        {
-          "name": "Unison"
-        }
-      ],
-      "assets": []
-    },
-    {
       "title": "I Want to Be a Missionary Now",
       "subtitle": "Simplified",
       "slug": "i-want-to-be-a-missionary-now-simplified",
@@ -23559,52 +23515,6 @@
         "friendship",
         "kindness",
         "service"
-      ],
-      "voicings": [
-        {
-          "name": "Unison"
-        }
-      ],
-      "assets": []
-    },
-    {
-      "title": "Because",
-      "slug": "because",
-      "bookSlug": "featured-music-for-children",
-      "songNumber": "",
-      "arrangers": [],
-      "artists": [],
-      "authors": [
-        {
-          "personName": "Shawna Belt Edwards"
-        }
-      ],
-      "composers": [
-        {
-          "personName": "Shawna Belt Edwards"
-        }
-      ],
-      "instrumentations": [
-        {
-          "name": "Voice"
-        },
-        {
-          "name": "Piano"
-        }
-      ],
-      "musicalFeatures": [],
-      "recordingAvailable": false,
-      "sheetMusicAvailable": true,
-      "videoAvailable": false,
-      "tags": [
-        "God's love",
-        "Second Coming",
-        "blessings",
-        "gratitude",
-        "hope",
-        "love",
-        "peace",
-        "praise"
       ],
       "voicings": [
         {
