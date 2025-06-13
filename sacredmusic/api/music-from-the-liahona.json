@@ -1469,7 +1469,7 @@
               "keywords": [
                 "Children's Songbook"
               ],
-              "$lastUpdatedDate": "Wed Jun 11 20:29:09 EDT 2025",
+              "$lastUpdatedDate": "Thu Jun 12 17:51:05 EDT 2025",
               "locatorIds": [],
               "noindex": false,
               "$id": "0000017a-108d-dcbd-a77b-dddde23f0000",
@@ -1617,7 +1617,7 @@
               "keywords": [
                 "Children's Songbook"
               ],
-              "$lastUpdatedDate": "Wed Jun 11 20:29:09 EDT 2025",
+              "$lastUpdatedDate": "Thu Jun 12 17:51:05 EDT 2025",
               "locatorIds": [],
               "noindex": false,
               "$id": "0000017a-108d-dcbd-a77b-dddde23f0000",
@@ -2455,7 +2455,7 @@
               "keywords": [
                 "Children's Songbook"
               ],
-              "$lastUpdatedDate": "Wed Jun 11 20:29:09 EDT 2025",
+              "$lastUpdatedDate": "Thu Jun 12 17:51:05 EDT 2025",
               "locatorIds": [],
               "noindex": false,
               "$id": "0000017a-108d-dcbd-a77b-dddde23f0000",
@@ -5062,6 +5062,162 @@
         }
       ],
       "assets": []
+    },
+    {
+      "title": "O Lord, Who Gave Thy Life for Me",
+      "slug": "o-lord-who-gave-thy-life-for-me",
+      "bookSlug": "music-from-the-liahona",
+      "bookSectionTitle": "2002",
+      "songNumber": "",
+      "songDate": "2002-10-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Alice Warner Johnson"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Alice Warner Johnson"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        },
+        {
+          "name": "Guitar"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "commitment",
+        "discipleship",
+        "endure to the end",
+        "faith in Jesus Christ",
+        "forgiveness",
+        "grace",
+        "humility",
+        "love",
+        "mercy",
+        "repentance",
+        "sacrifice",
+        "supplication",
+        "the sacrament",
+        "trust"
+      ],
+      "voicings": [
+        {
+          "name": "SATB"
+        }
+      ],
+      "assets": [
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "lh802zr0pm2snxsjv99i2rykszg9r4kutyun169r",
+            "attributes": {},
+            "composer": [],
+            "description": "O Lord, Who Gave Thy Life for Me",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/lh/80/lh802zr0pm2snxsjv99i2rykszg9r4kutyun169r/o_lord_who_gave_thy_life_for_me.mp3",
+            "duration": 163000,
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Wed Jun 11 16:26:46 EDT 2025",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "00000197-40ec-dadc-abd7-5afe47090000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "00000197-40ec-dadc-abd7-5afe47090000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "Piano accompaniment track for  “O Lord, Who Gave Thy Life for Me” from Hymns—For Home and Church. English.",
+            "publicDownload": [],
+            "$publishDate": "Thu Jun 05 12:28:35 EDT 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "O Lord, Who Gave Thy Life for Me",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "O Lord, Who Gave Thy Life for Me",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "O Lord, Who Gave Thy Life for Me",
+            "shareableTitle": "O Lord, Who Gave Thy Life for Me",
+            "title": "O Lord, Who Gave Thy Life for Me",
+            "translator": []
+          },
+          "$id": "00000197-40ec-dadc-abd7-5afe49bf0000",
+          "$model": "assetPurpose",
+          "$rootId": "00000197-40ec-dadc-abd7-5afe49bf0000",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        },
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_ACCOMPANIMENT_GUITAR",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "zbztfs64pnweqamayii7yirzyk6nd8ctjrbijeqm",
+            "attributes": {},
+            "composer": [],
+            "description": "O Lord, Who Gave Thy Life for Me",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/zb/zt/zbztfs64pnweqamayii7yirzyk6nd8ctjrbijeqm/o_lord_who_gave_thy_life_for_me.mp3",
+            "duration": 163000,
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Wed Jun 11 16:30:10 EDT 2025",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "00000197-40ec-dadc-abd7-5afe488a0000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "00000197-40ec-dadc-abd7-5afe488a0000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "Guitar accompaniment track for “O Lord, Who Gave Thy Life for Me” from Hymns—For Home and Church. English.",
+            "publicDownload": [],
+            "$publishDate": "Thu Jun 05 12:28:36 EDT 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "O Lord, Who Gave Thy Life for Me",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "O Lord, Who Gave Thy Life for Me",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "O Lord, Who Gave Thy Life for Me",
+            "shareableTitle": "O Lord, Who Gave Thy Life for Me",
+            "title": "O Lord, Who Gave Thy Life for Me",
+            "translator": []
+          },
+          "$id": "00000197-40ec-dadc-abd7-5afe49bf0001",
+          "$model": "assetPurpose",
+          "$rootId": "00000197-40ec-dadc-abd7-5afe49bf0001",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
     },
     {
       "title": "Our Prayer to Thee",

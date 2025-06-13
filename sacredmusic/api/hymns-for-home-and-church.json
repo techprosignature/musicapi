@@ -14432,6 +14432,2985 @@
       ]
     },
     {
+      "title": "Look unto Christ",
+      "slug": "look-unto-christ",
+      "bookSlug": "hymns-for-home-and-church",
+      "bookSectionTitle": "Sabbath and Weekday",
+      "songNumber": "1032",
+      "songDate": "2025-06-13",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Sherrie Manwill Boren"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Sherrie Manwill Boren"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        },
+        {
+          "name": "Guitar"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Jesus Christ",
+        "adversity",
+        "commitment",
+        "courage",
+        "encouragement",
+        "endure to the end",
+        "faith in Jesus Christ",
+        "hope",
+        "trials",
+        "trust in the Lord"
+      ],
+      "voicings": [
+        {
+          "name": "SATB"
+        }
+      ],
+      "assets": [
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "swqvhp7en6xrqtkwcnlvmu1bdpp4s6gt860k6hcc",
+            "attributes": {},
+            "composer": [],
+            "description": "Look unto Christ",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/sw/qv/swqvhp7en6xrqtkwcnlvmu1bdpp4s6gt860k6hcc/look_unto_christ.mp3",
+            "duration": 145000,
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Wed Jun 11 16:28:51 EDT 2025",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "00000197-40ec-dadc-abd7-5afe27da0000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "00000197-40ec-dadc-abd7-5afe27da0000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "Piano accompaniment track for  “Look unto Christ” from Hymns—For Home and Church. English.",
+            "publicDownload": [],
+            "$publishDate": "Thu Jun 05 12:28:27 EDT 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Look unto Christ",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Look unto Christ",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Look unto Christ",
+            "shareableTitle": "Look unto Christ",
+            "title": "Look unto Christ",
+            "translator": []
+          },
+          "$id": "00000197-60b9-dc97-addf-ebfb807e0000",
+          "$model": "assetPurpose",
+          "$rootId": "00000197-60b9-dc97-addf-ebfb807e0000",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        },
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_ACCOMPANIMENT_GUITAR",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "wrngkkngk271x5e8a4iye2ozskke4myvuaaodhwa",
+            "attributes": {},
+            "composer": [],
+            "description": "Look unto Christ",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/wr/ng/wrngkkngk271x5e8a4iye2ozskke4myvuaaodhwa/look_unto_christ.mp3",
+            "duration": 145000,
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Wed Jun 11 16:29:47 EDT 2025",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "00000197-40ec-dadc-abd7-5afe296b0000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "00000197-40ec-dadc-abd7-5afe296b0000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "Guitar accompaniment track for “Look unto Christ” from Hymns—For Home and Church. English.",
+            "publicDownload": [],
+            "$publishDate": "Thu Jun 05 12:28:28 EDT 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Look unto Christ",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Look unto Christ",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Look unto Christ",
+            "shareableTitle": "Look unto Christ",
+            "title": "Look unto Christ",
+            "translator": []
+          },
+          "$id": "00000197-60b9-dc97-addf-ebfb807e0001",
+          "$model": "assetPurpose",
+          "$rootId": "00000197-60b9-dc97-addf-ebfb807e0001",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        },
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "5y86a11ve7xp996zkq1mq6ut123vgd3myquk1998",
+            "attributes": {},
+            "composer": [],
+            "description": "Vocal choir recording of “Look unto Christ” from Hymns—For Home and Church. English.",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/5y/86/5y86a11ve7xp996zkq1mq6ut123vgd3myquk1998/look_unto_christ.mp3",
+            "duration": 145000,
+            "isPartOf": [],
+            "keywords": [
+              "trust",
+              "adversity",
+              "faith",
+              "Commitment",
+              "Endure to the End",
+              "Jesus Christ",
+              "hope"
+            ],
+            "$lastUpdatedDate": "Wed Jun 11 16:25:35 EDT 2025",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "00000197-4bb2-dadc-abd7-5bfa0ae20000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "00000197-4bb2-dadc-abd7-5bfa0ae20000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "Vocal choir recording of “Look unto Christ” from Hymns—For Home and Church. English.",
+            "publicDownload": [],
+            "$publishDate": "Sat Jun 07 14:40:48 EDT 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Vocal choir recording of “Look unto Christ” from Hymns—For Home and Church. English.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Look unto Christ",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Vocal choir recording of “Look unto Christ” from Hymns—For Home and Church. English.",
+            "shareableTitle": "Look unto Christ",
+            "thumbnail": {
+              "annotatedFields": {},
+              "assetID": "37108f66ca8411eeba3aeeeeac1ea51f5750182f",
+              "attributes": {},
+              "description": "Sacred Music",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
+              "focalPoint": {
+                "x": "50.00%",
+                "y": "50.00%"
+              },
+              "ipCode": "0 - IRI Owned",
+              "isPartOf": [],
+              "keywords": [],
+              "$lastUpdatedDate": "Wed Jun 11 16:30:15 EDT 2025",
+              "locatorIds": [],
+              "noindex": false,
+              "$id": "0000018d-f618-d9c6-af9d-fe9d440a0000",
+              "$lang": "eng",
+              "$model": "image",
+              "$rootId": "0000018d-f618-d9c6-af9d-fe9d440a0000",
+              "$site": "music",
+              "products": [],
+              "publicAltText": "Logo of the white Christus statue bordered by a white line forming an arch on a medium green background.",
+              "publicDownload": [
+                "No Access"
+              ],
+              "$publishDate": "Thu Feb 29 13:20:01 EST 2024",
+              "$publishStatus": "PUBLISHED",
+              "related": [],
+              "renditions": [
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
+                  "height": 320,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
+                  "width": 320
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!640%2C640/0/default",
+                  "height": 640,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!640%2C640/0/default",
+                  "width": 640
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!800%2C800/0/default",
+                  "height": 800,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!800%2C800/0/default",
+                  "width": 800
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!60%2C60/0/default",
+                  "height": 60,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!60%2C60/0/default",
+                  "width": 60
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!250%2C250/0/default",
+                  "height": 250,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!250%2C250/0/default",
+                  "width": 250
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!200%2C200/0/default",
+                  "height": 200,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!200%2C200/0/default",
+                  "width": 200
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!100%2C100/0/default",
+                  "height": 100,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!100%2C100/0/default",
+                  "width": 100
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!500%2C500/0/default",
+                  "height": 500,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!500%2C500/0/default",
+                  "width": 500
+                }
+              ],
+              "requiredAssets": [],
+              "sameAs": [],
+              "seoDescription": "Sacred Music",
+              "seoDescriptionAiGenerated": false,
+              "seoTitle": "No Title",
+              "seoTitleAiGenerated": false,
+              "shareableDescription": "Sacred Music",
+              "shareableTitle": "No Title",
+              "title": "No Title"
+            },
+            "title": "Look unto Christ",
+            "translator": []
+          },
+          "$id": "00000197-60b9-dc97-addf-ebfb807e0002",
+          "$model": "assetPurpose",
+          "$rootId": "00000197-60b9-dc97-addf-ebfb807e0002",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    },
+    {
+      "title": "Oh, How Great Is Our Joy",
+      "slug": "oh-how-great-is-our-joy",
+      "bookSlug": "hymns-for-home-and-church",
+      "bookSectionTitle": "Sabbath and Weekday",
+      "songNumber": "1033",
+      "songDate": "2025-06-13",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Andrés C. González"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Joseph P. Webster"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        },
+        {
+          "name": "Guitar"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Light of Christ",
+        "gathering of Israel",
+        "joy",
+        "love",
+        "missionary work",
+        "rejoicing",
+        "service",
+        "teachers",
+        "work"
+      ],
+      "voicings": [
+        {
+          "name": "SATB"
+        }
+      ],
+      "assets": [
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "9pb8i0rhkpiy7gnprpj4pvewowm51q6sr9y1ndr6",
+            "attributes": {},
+            "composer": [],
+            "description": "Oh, How Great Is Our Joy",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/9p/b8/9pb8i0rhkpiy7gnprpj4pvewowm51q6sr9y1ndr6/oh_how_great_is_our_joy.mp3",
+            "duration": 152000,
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Wed Jun 11 16:26:53 EDT 2025",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "00000197-40ec-dadc-abd7-5afe2b270000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "00000197-40ec-dadc-abd7-5afe2b270000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "Piano accompaniment track for  “Oh, How Great Is Our Joy” from Hymns—For Home and Church. English.",
+            "publicDownload": [],
+            "$publishDate": "Thu Jun 05 12:28:28 EDT 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Oh, How Great Is Our Joy",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Oh, How Great Is Our Joy",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Oh, How Great Is Our Joy",
+            "shareableTitle": "Oh, How Great Is Our Joy",
+            "title": "Oh, How Great Is Our Joy",
+            "translator": []
+          },
+          "$id": "00000197-60b9-dc97-addf-ebfb80b80000",
+          "$model": "assetPurpose",
+          "$rootId": "00000197-60b9-dc97-addf-ebfb80b80000",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        },
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_ACCOMPANIMENT_GUITAR",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "pop4g8g5bdsr4mnww6qftej6v5mnzkbfjuqfar5w",
+            "attributes": {},
+            "composer": [],
+            "description": "Oh, How Great Is Our Joy",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/po/p4/pop4g8g5bdsr4mnww6qftej6v5mnzkbfjuqfar5w/oh_how_great_is_our_joy.mp3",
+            "duration": 152000,
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Wed Jun 11 16:29:00 EDT 2025",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "00000197-40ec-dadc-abd7-5afe2cc10000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "00000197-40ec-dadc-abd7-5afe2cc10000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "Guitar accompaniment track for “Oh, How Great Is Our Joy” from Hymns—For Home and Church. English.",
+            "publicDownload": [],
+            "$publishDate": "Thu Jun 05 12:28:29 EDT 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Oh, How Great Is Our Joy",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Oh, How Great Is Our Joy",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Oh, How Great Is Our Joy",
+            "shareableTitle": "Oh, How Great Is Our Joy",
+            "title": "Oh, How Great Is Our Joy",
+            "translator": []
+          },
+          "$id": "00000197-60b9-dc97-addf-ebfb80b80001",
+          "$model": "assetPurpose",
+          "$rootId": "00000197-60b9-dc97-addf-ebfb80b80001",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        },
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "pl96lihy0nf6xhk3h2ohzdq6yd0wcrd0h1a646h2",
+            "attributes": {},
+            "composer": [],
+            "description": "Vocal choir recording of “Oh, How Great Is Our Joy” from Hymns—For Home and Church. English.",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/pl/96/pl96lihy0nf6xhk3h2ohzdq6yd0wcrd0h1a646h2/oh_how_great_is_our_joy.mp3",
+            "duration": 152000,
+            "isPartOf": [],
+            "keywords": [
+              "love",
+              "Light Of Christ",
+              "missionary work",
+              "Gathering of Israel",
+              "Teachers",
+              "joy",
+              "service",
+              "work"
+            ],
+            "$lastUpdatedDate": "Wed Jun 11 16:27:11 EDT 2025",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "00000197-60ac-dc97-addf-ebefe0f10000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "00000197-60ac-dc97-addf-ebefe0f10000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "Vocal choir recording of “Oh, How Great Is Our Joy” from Hymns—For Home and Church. English.",
+            "publicDownload": [],
+            "$publishDate": "Wed Jun 11 16:27:11 EDT 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Vocal choir recording of “Oh, How Great Is Our Joy” from Hymns—For Home and Church. English.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Oh, How Great Is Our Joy",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Vocal choir recording of “Oh, How Great Is Our Joy” from Hymns—For Home and Church. English.",
+            "shareableTitle": "Oh, How Great Is Our Joy",
+            "thumbnail": {
+              "annotatedFields": {},
+              "assetID": "37108f66ca8411eeba3aeeeeac1ea51f5750182f",
+              "attributes": {},
+              "description": "Sacred Music",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
+              "focalPoint": {
+                "x": "50.00%",
+                "y": "50.00%"
+              },
+              "ipCode": "0 - IRI Owned",
+              "isPartOf": [],
+              "keywords": [],
+              "$lastUpdatedDate": "Wed Jun 11 16:30:15 EDT 2025",
+              "locatorIds": [],
+              "noindex": false,
+              "$id": "0000018d-f618-d9c6-af9d-fe9d440a0000",
+              "$lang": "eng",
+              "$model": "image",
+              "$rootId": "0000018d-f618-d9c6-af9d-fe9d440a0000",
+              "$site": "music",
+              "products": [],
+              "publicAltText": "Logo of the white Christus statue bordered by a white line forming an arch on a medium green background.",
+              "publicDownload": [
+                "No Access"
+              ],
+              "$publishDate": "Thu Feb 29 13:20:01 EST 2024",
+              "$publishStatus": "PUBLISHED",
+              "related": [],
+              "renditions": [
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
+                  "height": 320,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
+                  "width": 320
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!640%2C640/0/default",
+                  "height": 640,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!640%2C640/0/default",
+                  "width": 640
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!800%2C800/0/default",
+                  "height": 800,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!800%2C800/0/default",
+                  "width": 800
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!60%2C60/0/default",
+                  "height": 60,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!60%2C60/0/default",
+                  "width": 60
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!250%2C250/0/default",
+                  "height": 250,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!250%2C250/0/default",
+                  "width": 250
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!200%2C200/0/default",
+                  "height": 200,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!200%2C200/0/default",
+                  "width": 200
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!100%2C100/0/default",
+                  "height": 100,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!100%2C100/0/default",
+                  "width": 100
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!500%2C500/0/default",
+                  "height": 500,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!500%2C500/0/default",
+                  "width": 500
+                }
+              ],
+              "requiredAssets": [],
+              "sameAs": [],
+              "seoDescription": "Sacred Music",
+              "seoDescriptionAiGenerated": false,
+              "seoTitle": "No Title",
+              "seoTitleAiGenerated": false,
+              "shareableDescription": "Sacred Music",
+              "shareableTitle": "No Title",
+              "title": "No Title"
+            },
+            "title": "Oh, How Great Is Our Joy",
+            "translator": []
+          },
+          "$id": "00000197-60b9-dc97-addf-ebfb80b80002",
+          "$model": "assetPurpose",
+          "$rootId": "00000197-60b9-dc97-addf-ebfb80b80002",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    },
+    {
+      "title": "I’m a Pioneer Too",
+      "slug": "im-a-pioneer-too",
+      "bookSlug": "hymns-for-home-and-church",
+      "bookSectionTitle": "Sabbath and Weekday",
+      "songNumber": "1034",
+      "songDate": "2025-06-13",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Jan Underwood Pinborough"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Michael Finlinson Moody"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        },
+        {
+          "name": "Guitar"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "courage",
+        "discipleship",
+        "pioneers",
+        "sacrifice",
+        "work",
+        "worldwide Church"
+      ],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": [
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "xclo4v5mxfsc6xgl94bil6m8emqqufrfc4uv10t9",
+            "attributes": {},
+            "composer": [],
+            "description": "I’m a Pioneer Too",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/xc/lo/xclo4v5mxfsc6xgl94bil6m8emqqufrfc4uv10t9/im_a_pioneer_too.mp3",
+            "duration": 97000,
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Wed Jun 11 16:29:40 EDT 2025",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "00000197-40ec-dadc-abd7-5afe2e7c0000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "00000197-40ec-dadc-abd7-5afe2e7c0000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "Piano accompaniment track for  “I’m a Pioneer Too” from Hymns—For Home and Church. English.",
+            "publicDownload": [],
+            "$publishDate": "Thu Jun 05 12:28:29 EDT 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "I’m a Pioneer Too",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "I’m a Pioneer Too",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "I’m a Pioneer Too",
+            "shareableTitle": "I’m a Pioneer Too",
+            "title": "I’m a Pioneer Too",
+            "translator": []
+          },
+          "$id": "00000197-60b9-dc97-addf-ebfb80f60000",
+          "$model": "assetPurpose",
+          "$rootId": "00000197-60b9-dc97-addf-ebfb80f60000",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        },
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_ACCOMPANIMENT_GUITAR",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "ktcp206cn64vxnaqa5vvfmdola5qcis5d633gkyy",
+            "attributes": {},
+            "composer": [],
+            "description": "I’m a Pioneer Too",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/kt/cp/ktcp206cn64vxnaqa5vvfmdola5qcis5d633gkyy/im_a_pioneer_too.mp3",
+            "duration": 97000,
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Wed Jun 11 16:25:39 EDT 2025",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "00000197-40ec-dadc-abd7-5afe30400000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "00000197-40ec-dadc-abd7-5afe30400000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "Guitar accompaniment track for “I’m a Pioneer Too” from Hymns—For Home and Church. English.",
+            "publicDownload": [],
+            "$publishDate": "Thu Jun 05 12:28:30 EDT 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "I’m a Pioneer Too",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "I’m a Pioneer Too",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "I’m a Pioneer Too",
+            "shareableTitle": "I’m a Pioneer Too",
+            "title": "I’m a Pioneer Too",
+            "translator": []
+          },
+          "$id": "00000197-60b9-dc97-addf-ebfb80f60001",
+          "$model": "assetPurpose",
+          "$rootId": "00000197-60b9-dc97-addf-ebfb80f60001",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        },
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_VOCAL_CHILDREN",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "djihydtvlny9zjpzzdh5r3dy8vl1zwm47gcjxayi",
+            "attributes": {},
+            "composer": [],
+            "description": "Vocal solo recording of “I’m a Pioneer Too” from Hymns—For Home and Church. English.",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/dj/ih/djihydtvlny9zjpzzdh5r3dy8vl1zwm47gcjxayi/im_a_pioneer_too.mp3",
+            "duration": 97000,
+            "isPartOf": [],
+            "keywords": [
+              "pioneers",
+              "work",
+              "sacrifice",
+              "discipleship"
+            ],
+            "$lastUpdatedDate": "Wed Jun 11 16:24:31 EDT 2025",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "00000197-4bb1-dadc-abd7-5bfbd2af0000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "00000197-4bb1-dadc-abd7-5bfbd2af0000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "Vocal solo recording of “I’m a Pioneer Too” from Hymns—For Home and Church. English.",
+            "publicDownload": [],
+            "$publishDate": "Sat Jun 07 14:40:34 EDT 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Vocal solo recording of “I’m a Pioneer Too” from Hymns—For Home and Church. English.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "I’m a Pioneer Too",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Vocal solo recording of “I’m a Pioneer Too” from Hymns—For Home and Church. English.",
+            "shareableTitle": "I’m a Pioneer Too",
+            "thumbnail": {
+              "annotatedFields": {},
+              "assetID": "37108f66ca8411eeba3aeeeeac1ea51f5750182f",
+              "attributes": {},
+              "description": "Sacred Music",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
+              "focalPoint": {
+                "x": "50.00%",
+                "y": "50.00%"
+              },
+              "ipCode": "0 - IRI Owned",
+              "isPartOf": [],
+              "keywords": [],
+              "$lastUpdatedDate": "Wed Jun 11 16:30:15 EDT 2025",
+              "locatorIds": [],
+              "noindex": false,
+              "$id": "0000018d-f618-d9c6-af9d-fe9d440a0000",
+              "$lang": "eng",
+              "$model": "image",
+              "$rootId": "0000018d-f618-d9c6-af9d-fe9d440a0000",
+              "$site": "music",
+              "products": [],
+              "publicAltText": "Logo of the white Christus statue bordered by a white line forming an arch on a medium green background.",
+              "publicDownload": [
+                "No Access"
+              ],
+              "$publishDate": "Thu Feb 29 13:20:01 EST 2024",
+              "$publishStatus": "PUBLISHED",
+              "related": [],
+              "renditions": [
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
+                  "height": 320,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
+                  "width": 320
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!640%2C640/0/default",
+                  "height": 640,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!640%2C640/0/default",
+                  "width": 640
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!800%2C800/0/default",
+                  "height": 800,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!800%2C800/0/default",
+                  "width": 800
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!60%2C60/0/default",
+                  "height": 60,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!60%2C60/0/default",
+                  "width": 60
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!250%2C250/0/default",
+                  "height": 250,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!250%2C250/0/default",
+                  "width": 250
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!200%2C200/0/default",
+                  "height": 200,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!200%2C200/0/default",
+                  "width": 200
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!100%2C100/0/default",
+                  "height": 100,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!100%2C100/0/default",
+                  "width": 100
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!500%2C500/0/default",
+                  "height": 500,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!500%2C500/0/default",
+                  "width": 500
+                }
+              ],
+              "requiredAssets": [],
+              "sameAs": [],
+              "seoDescription": "Sacred Music",
+              "seoDescriptionAiGenerated": false,
+              "seoTitle": "No Title",
+              "seoTitleAiGenerated": false,
+              "shareableDescription": "Sacred Music",
+              "shareableTitle": "No Title",
+              "title": "No Title"
+            },
+            "title": "I’m a Pioneer Too",
+            "translator": []
+          },
+          "$id": "00000197-60b9-dc97-addf-ebfb80f60002",
+          "$model": "assetPurpose",
+          "$rootId": "00000197-60b9-dc97-addf-ebfb80f60002",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    },
+    {
+      "title": "As I Keep the Sabbath Day",
+      "slug": "as-i-keep-the-sabbath-day",
+      "bookSlug": "hymns-for-home-and-church",
+      "bookSectionTitle": "Sabbath and Weekday",
+      "songNumber": "1035",
+      "songDate": "2025-06-13",
+      "arrangers": [],
+      "artists": [],
+      "authors": [],
+      "composers": [],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        },
+        {
+          "name": "Guitar"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "God's love",
+        "Sabbath",
+        "commandments",
+        "covenants",
+        "gratitude",
+        "obedience",
+        "peace",
+        "worship"
+      ],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": [
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "te2ga7lksgz4vilngy9bzyrhvs7ll60oefgdipap",
+            "attributes": {},
+            "composer": [],
+            "description": "As I Keep the Sabbath Day",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/te/2g/te2ga7lksgz4vilngy9bzyrhvs7ll60oefgdipap/as_i_keep_the_sabbath_day.mp3",
+            "duration": 138000,
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Wed Jun 11 16:28:12 EDT 2025",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "00000197-40ec-dadc-abd7-5afe3a470000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "00000197-40ec-dadc-abd7-5afe3a470000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "Piano accompaniment track for  “As I Keep the Sabbath Day” from Hymns—For Home and Church. English.",
+            "publicDownload": [],
+            "$publishDate": "Thu Jun 05 12:28:32 EDT 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "As I Keep the Sabbath Day",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "As I Keep the Sabbath Day",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "As I Keep the Sabbath Day",
+            "shareableTitle": "As I Keep the Sabbath Day",
+            "title": "As I Keep the Sabbath Day",
+            "translator": []
+          },
+          "$id": "00000197-60b9-dc97-addf-ebfb812e0000",
+          "$model": "assetPurpose",
+          "$rootId": "00000197-60b9-dc97-addf-ebfb812e0000",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        },
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_ACCOMPANIMENT_GUITAR",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "w1qp479zaww0k8ujq0hq0saikmb3oaekycfshrig",
+            "attributes": {},
+            "composer": [],
+            "description": "As I Keep the Sabbath Day",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/w1/qp/w1qp479zaww0k8ujq0hq0saikmb3oaekycfshrig/as_i_keep_the_sabbath_day.mp3",
+            "duration": 138000,
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Wed Jun 11 16:29:13 EDT 2025",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "00000197-40ec-dadc-abd7-5afe3bd00000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "00000197-40ec-dadc-abd7-5afe3bd00000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "Guitar accompaniment track for “As I Keep the Sabbath Day” from Hymns—For Home and Church. English.",
+            "publicDownload": [],
+            "$publishDate": "Thu Jun 05 12:28:33 EDT 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "As I Keep the Sabbath Day",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "As I Keep the Sabbath Day",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "As I Keep the Sabbath Day",
+            "shareableTitle": "As I Keep the Sabbath Day",
+            "title": "As I Keep the Sabbath Day",
+            "translator": []
+          },
+          "$id": "00000197-60b9-dc97-addf-ebfb812e0001",
+          "$model": "assetPurpose",
+          "$rootId": "00000197-60b9-dc97-addf-ebfb812e0001",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        },
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_VOCAL",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "a5vy3t2fiz3m8qo33sveggafv4iqnnk2944vnund",
+            "attributes": {},
+            "composer": [],
+            "description": "Vocal solo recording of “As I Keep the Sabbath Day” from Hymns—For Home and Church. English.",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/a5/vy/a5vy3t2fiz3m8qo33sveggafv4iqnnk2944vnund/as_i_keep_the_sabbath_day.mp3",
+            "duration": 138000,
+            "isPartOf": [],
+            "keywords": [
+              "love",
+              "covenants",
+              "commandments",
+              "obedience",
+              "gratitude",
+              "peace",
+              "sabbath day",
+              "worship"
+            ],
+            "$lastUpdatedDate": "Wed Jun 11 16:22:49 EDT 2025",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "00000197-4bb6-dadc-abd7-5bfe543d0000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "00000197-4bb6-dadc-abd7-5bfe543d0000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "Vocal solo recording of “As I Keep the Sabbath Day” from Hymns—For Home and Church. English.",
+            "publicDownload": [],
+            "$publishDate": "Sat Jun 07 14:45:29 EDT 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Vocal solo recording of “As I Keep the Sabbath Day” from Hymns—For Home and Church. English.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "As I Keep the Sabbath Day",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Vocal solo recording of “As I Keep the Sabbath Day” from Hymns—For Home and Church. English.",
+            "shareableTitle": "As I Keep the Sabbath Day",
+            "thumbnail": {
+              "annotatedFields": {},
+              "assetID": "37108f66ca8411eeba3aeeeeac1ea51f5750182f",
+              "attributes": {},
+              "description": "Sacred Music",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
+              "focalPoint": {
+                "x": "50.00%",
+                "y": "50.00%"
+              },
+              "ipCode": "0 - IRI Owned",
+              "isPartOf": [],
+              "keywords": [],
+              "$lastUpdatedDate": "Wed Jun 11 16:30:15 EDT 2025",
+              "locatorIds": [],
+              "noindex": false,
+              "$id": "0000018d-f618-d9c6-af9d-fe9d440a0000",
+              "$lang": "eng",
+              "$model": "image",
+              "$rootId": "0000018d-f618-d9c6-af9d-fe9d440a0000",
+              "$site": "music",
+              "products": [],
+              "publicAltText": "Logo of the white Christus statue bordered by a white line forming an arch on a medium green background.",
+              "publicDownload": [
+                "No Access"
+              ],
+              "$publishDate": "Thu Feb 29 13:20:01 EST 2024",
+              "$publishStatus": "PUBLISHED",
+              "related": [],
+              "renditions": [
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
+                  "height": 320,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
+                  "width": 320
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!640%2C640/0/default",
+                  "height": 640,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!640%2C640/0/default",
+                  "width": 640
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!800%2C800/0/default",
+                  "height": 800,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!800%2C800/0/default",
+                  "width": 800
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!60%2C60/0/default",
+                  "height": 60,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!60%2C60/0/default",
+                  "width": 60
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!250%2C250/0/default",
+                  "height": 250,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!250%2C250/0/default",
+                  "width": 250
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!200%2C200/0/default",
+                  "height": 200,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!200%2C200/0/default",
+                  "width": 200
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!100%2C100/0/default",
+                  "height": 100,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!100%2C100/0/default",
+                  "width": 100
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!500%2C500/0/default",
+                  "height": 500,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!500%2C500/0/default",
+                  "width": 500
+                }
+              ],
+              "requiredAssets": [],
+              "sameAs": [],
+              "seoDescription": "Sacred Music",
+              "seoDescriptionAiGenerated": false,
+              "seoTitle": "No Title",
+              "seoTitleAiGenerated": false,
+              "shareableDescription": "Sacred Music",
+              "shareableTitle": "No Title",
+              "title": "No Title"
+            },
+            "title": "As I Keep the Sabbath Day",
+            "translator": []
+          },
+          "$id": "00000197-60b9-dc97-addf-ebfb812e0002",
+          "$model": "assetPurpose",
+          "$rootId": "00000197-60b9-dc97-addf-ebfb812e0002",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    },
+    {
+      "title": "Read the Book of Mormon and Pray",
+      "slug": "read-the-book-of-mormon-and-pray",
+      "bookSlug": "hymns-for-home-and-church",
+      "bookSectionTitle": "Sabbath and Weekday",
+      "songNumber": "1036",
+      "songDate": "2025-06-13",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Teresa Toone Barlow"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Teresa Toone Barlow"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Teresa Toone Barlow"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        },
+        {
+          "name": "Guitar"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Book of Mormon",
+        "Education",
+        "Jesus Christ",
+        "diligence",
+        "faith in Jesus Christ",
+        "guidance",
+        "prayer",
+        "scriptures",
+        "testimony"
+      ],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": [
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "1de5q0j4uotizunij7yuagyx28fgv090bb3titoi",
+            "attributes": {},
+            "composer": [],
+            "description": "Read the Book of Mormon and Pray",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/1d/e5/1de5q0j4uotizunij7yuagyx28fgv090bb3titoi/read_the_book_of_mormon_and_pray.mp3",
+            "duration": 100000,
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Wed Jun 11 16:26:06 EDT 2025",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "00000197-40ec-dadc-abd7-5afe4a640000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "00000197-40ec-dadc-abd7-5afe4a640000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "Piano accompaniment track for  “Read the Book of Mormon and Pray” from Hymns—For Home and Church. English.",
+            "publicDownload": [],
+            "$publishDate": "Thu Jun 05 12:28:36 EDT 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Read the Book of Mormon and Pray",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Read the Book of Mormon and Pray",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Read the Book of Mormon and Pray",
+            "shareableTitle": "Read the Book of Mormon and Pray",
+            "title": "Read the Book of Mormon and Pray",
+            "translator": []
+          },
+          "$id": "00000197-60b9-dc97-addf-ebfb82610000",
+          "$model": "assetPurpose",
+          "$rootId": "00000197-60b9-dc97-addf-ebfb82610000",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        },
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_ACCOMPANIMENT_GUITAR",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "nh9huttok71xipbn0z316lbguf3fd427zwn2iw6v",
+            "attributes": {},
+            "composer": [],
+            "description": "As Bread Is Broken",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/nh/9h/nh9huttok71xipbn0z316lbguf3fd427zwn2iw6v/as_bread_is_broken.mp3",
+            "duration": 100000,
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Wed Jun 11 16:26:38 EDT 2025",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "00000197-40ec-dadc-abd7-5afe4be20000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "00000197-40ec-dadc-abd7-5afe4be20000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "Guitar accompaniment track for “As Bread Is Broken” from Hymns—For Home and Church.",
+            "publicDownload": [],
+            "$publishDate": "Thu Jun 05 12:28:37 EDT 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "As Bread Is Broken",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "As Bread Is Broken",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "As Bread Is Broken",
+            "shareableTitle": "As Bread Is Broken",
+            "title": "As Bread Is Broken",
+            "translator": []
+          },
+          "$id": "00000197-60b9-dc97-addf-ebfb82610001",
+          "$model": "assetPurpose",
+          "$rootId": "00000197-60b9-dc97-addf-ebfb82610001",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        },
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_VOCAL_CHILDREN",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "3pcrq6i08lfel4capzkm1txzgodn69gjrd7clox6",
+            "attributes": {},
+            "composer": [],
+            "description": "Vocal solo recording of “Read the Book of Mormon and Pray” from Hymns—For Home and Church. English.",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/3p/cr/3pcrq6i08lfel4capzkm1txzgodn69gjrd7clox6/read_the_book_of_mormon_and_pray.mp3",
+            "duration": 100000,
+            "isPartOf": [],
+            "keywords": [
+              "Guidance",
+              "education",
+              "prayer",
+              "Book of Mormon",
+              "testimony",
+              "scriptures",
+              "faith",
+              "Jesus Christ"
+            ],
+            "$lastUpdatedDate": "Wed Jun 11 16:29:03 EDT 2025",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "00000197-4bc6-dadc-abd7-5bde590a0000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "00000197-4bc6-dadc-abd7-5bde590a0000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "Vocal solo recording of “Read the Book of Mormon and Pray” from Hymns—For Home and Church. English.",
+            "publicDownload": [],
+            "$publishDate": "Sat Jun 07 15:02:59 EDT 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Vocal solo recording of “Read the Book of Mormon and Pray” from Hymns—For Home and Church. English.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Read the Book of Mormon and Pray",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Vocal solo recording of “Read the Book of Mormon and Pray” from Hymns—For Home and Church. English.",
+            "shareableTitle": "Read the Book of Mormon and Pray",
+            "thumbnail": {
+              "annotatedFields": {},
+              "assetID": "37108f66ca8411eeba3aeeeeac1ea51f5750182f",
+              "attributes": {},
+              "description": "Sacred Music",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
+              "focalPoint": {
+                "x": "50.00%",
+                "y": "50.00%"
+              },
+              "ipCode": "0 - IRI Owned",
+              "isPartOf": [],
+              "keywords": [],
+              "$lastUpdatedDate": "Wed Jun 11 16:30:15 EDT 2025",
+              "locatorIds": [],
+              "noindex": false,
+              "$id": "0000018d-f618-d9c6-af9d-fe9d440a0000",
+              "$lang": "eng",
+              "$model": "image",
+              "$rootId": "0000018d-f618-d9c6-af9d-fe9d440a0000",
+              "$site": "music",
+              "products": [],
+              "publicAltText": "Logo of the white Christus statue bordered by a white line forming an arch on a medium green background.",
+              "publicDownload": [
+                "No Access"
+              ],
+              "$publishDate": "Thu Feb 29 13:20:01 EST 2024",
+              "$publishStatus": "PUBLISHED",
+              "related": [],
+              "renditions": [
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
+                  "height": 320,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
+                  "width": 320
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!640%2C640/0/default",
+                  "height": 640,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!640%2C640/0/default",
+                  "width": 640
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!800%2C800/0/default",
+                  "height": 800,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!800%2C800/0/default",
+                  "width": 800
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!60%2C60/0/default",
+                  "height": 60,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!60%2C60/0/default",
+                  "width": 60
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!250%2C250/0/default",
+                  "height": 250,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!250%2C250/0/default",
+                  "width": 250
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!200%2C200/0/default",
+                  "height": 200,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!200%2C200/0/default",
+                  "width": 200
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!100%2C100/0/default",
+                  "height": 100,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!100%2C100/0/default",
+                  "width": 100
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!500%2C500/0/default",
+                  "height": 500,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!500%2C500/0/default",
+                  "width": 500
+                }
+              ],
+              "requiredAssets": [],
+              "sameAs": [],
+              "seoDescription": "Sacred Music",
+              "seoDescriptionAiGenerated": false,
+              "seoTitle": "No Title",
+              "seoTitleAiGenerated": false,
+              "shareableDescription": "Sacred Music",
+              "shareableTitle": "No Title",
+              "title": "No Title"
+            },
+            "title": "Read the Book of Mormon and Pray",
+            "translator": []
+          },
+          "$id": "00000197-60b9-dc97-addf-ebfb82610002",
+          "$model": "assetPurpose",
+          "$rootId": "00000197-60b9-dc97-addf-ebfb82610002",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    },
+    {
+      "title": "I’m Gonna Live So God Can Use Me",
+      "slug": "im-gonna-live-so-god-can-use-me",
+      "bookSlug": "hymns-for-home-and-church",
+      "bookSectionTitle": "Sabbath and Weekday",
+      "songNumber": "1037",
+      "songDate": "2025-06-13",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "African-American spiritual"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "African-American spiritual"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        },
+        {
+          "name": "Guitar"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "commitment",
+        "consecration",
+        "discipleship",
+        "music",
+        "prayer",
+        "service",
+        "work"
+      ],
+      "voicings": [
+        {
+          "name": "SATB"
+        }
+      ],
+      "assets": [
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "1ofvckm3qdstwsi2sf8yi138ycusjd5p9x3h1ak5",
+            "attributes": {},
+            "composer": [],
+            "description": "I’m Gonna Live So God Can Use Me",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/1o/fv/1ofvckm3qdstwsi2sf8yi138ycusjd5p9x3h1ak5/im_gonna_live_so_god_can_use_me.mp3",
+            "duration": 116000,
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Wed Jun 11 16:27:50 EDT 2025",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "00000197-40ec-dadc-abd7-5afe50b90000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "00000197-40ec-dadc-abd7-5afe50b90000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "Piano accompaniment track for  “I’m Gonna Live So God Can Use Me” from Hymns—For Home and Church. English.",
+            "publicDownload": [],
+            "$publishDate": "Thu Jun 05 12:28:38 EDT 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "I’m Gonna Live So God Can Use Me",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "I’m Gonna Live So God Can Use Me",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "I’m Gonna Live So God Can Use Me",
+            "shareableTitle": "I’m Gonna Live So God Can Use Me",
+            "title": "I’m Gonna Live So God Can Use Me",
+            "translator": []
+          },
+          "$id": "00000197-60b9-dc97-addf-ebfb82d60000",
+          "$model": "assetPurpose",
+          "$rootId": "00000197-60b9-dc97-addf-ebfb82d60000",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        },
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_ACCOMPANIMENT_GUITAR",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "yuvzn1u2i5indd3rf56i6988rm1mseh5v24iwv0y",
+            "attributes": {},
+            "composer": [],
+            "description": "I’m Gonna Live So God Can Use Me",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/yu/vz/yuvzn1u2i5indd3rf56i6988rm1mseh5v24iwv0y/im_gonna_live_so_god_can_use_me.mp3",
+            "duration": 116000,
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Wed Jun 11 16:30:05 EDT 2025",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "00000197-40ec-dadc-abd7-5afe52310001",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "00000197-40ec-dadc-abd7-5afe52310001",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "Guitar accompaniment track for “I’m Gonna Live So God Can Use Me” from Hymns—For Home and Church. English.",
+            "publicDownload": [],
+            "$publishDate": "Thu Jun 05 12:28:38 EDT 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "I’m Gonna Live So God Can Use Me",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "I’m Gonna Live So God Can Use Me",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "I’m Gonna Live So God Can Use Me",
+            "shareableTitle": "I’m Gonna Live So God Can Use Me",
+            "title": "I’m Gonna Live So God Can Use Me",
+            "translator": []
+          },
+          "$id": "00000197-60b9-dc97-addf-ebfb82d60001",
+          "$model": "assetPurpose",
+          "$rootId": "00000197-60b9-dc97-addf-ebfb82d60001",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        },
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "u60ny1p3cbs82hhjv52noeudm7szfrzo69x1gbo5",
+            "attributes": {},
+            "composer": [],
+            "description": "Vocal choir recording of “I’m Gonna Live So God Can Use Me” from Hymns—For Home and Church. English.",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/u6/0n/u60ny1p3cbs82hhjv52noeudm7szfrzo69x1gbo5/im_gonna_live_so_god_can_use_me.mp3",
+            "duration": 116000,
+            "isPartOf": [],
+            "keywords": [
+              "music",
+              "prayer",
+              "work",
+              "service",
+              "Consecration",
+              "Commitment",
+              "discipleship"
+            ],
+            "$lastUpdatedDate": "Wed Jun 11 16:28:24 EDT 2025",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "00000197-4bb4-dadc-abd7-5bfef8d30000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "00000197-4bb4-dadc-abd7-5bfef8d30000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "Vocal choir recording of “I’m Gonna Live So God Can Use Me” from Hymns—For Home and Church. English.",
+            "publicDownload": [],
+            "$publishDate": "Sat Jun 07 14:44:00 EDT 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Vocal choir recording of “I’m Gonna Live So God Can Use Me” from Hymns—For Home and Church. English.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "I’m Gonna Live So God Can Use Me",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Vocal choir recording of “I’m Gonna Live So God Can Use Me” from Hymns—For Home and Church. English.",
+            "shareableTitle": "I’m Gonna Live So God Can Use Me",
+            "thumbnail": {
+              "annotatedFields": {},
+              "assetID": "37108f66ca8411eeba3aeeeeac1ea51f5750182f",
+              "attributes": {},
+              "description": "Sacred Music",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
+              "focalPoint": {
+                "x": "50.00%",
+                "y": "50.00%"
+              },
+              "ipCode": "0 - IRI Owned",
+              "isPartOf": [],
+              "keywords": [],
+              "$lastUpdatedDate": "Wed Jun 11 16:30:15 EDT 2025",
+              "locatorIds": [],
+              "noindex": false,
+              "$id": "0000018d-f618-d9c6-af9d-fe9d440a0000",
+              "$lang": "eng",
+              "$model": "image",
+              "$rootId": "0000018d-f618-d9c6-af9d-fe9d440a0000",
+              "$site": "music",
+              "products": [],
+              "publicAltText": "Logo of the white Christus statue bordered by a white line forming an arch on a medium green background.",
+              "publicDownload": [
+                "No Access"
+              ],
+              "$publishDate": "Thu Feb 29 13:20:01 EST 2024",
+              "$publishStatus": "PUBLISHED",
+              "related": [],
+              "renditions": [
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
+                  "height": 320,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
+                  "width": 320
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!640%2C640/0/default",
+                  "height": 640,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!640%2C640/0/default",
+                  "width": 640
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!800%2C800/0/default",
+                  "height": 800,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!800%2C800/0/default",
+                  "width": 800
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!60%2C60/0/default",
+                  "height": 60,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!60%2C60/0/default",
+                  "width": 60
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!250%2C250/0/default",
+                  "height": 250,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!250%2C250/0/default",
+                  "width": 250
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!200%2C200/0/default",
+                  "height": 200,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!200%2C200/0/default",
+                  "width": 200
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!100%2C100/0/default",
+                  "height": 100,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!100%2C100/0/default",
+                  "width": 100
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!500%2C500/0/default",
+                  "height": 500,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!500%2C500/0/default",
+                  "width": 500
+                }
+              ],
+              "requiredAssets": [],
+              "sameAs": [],
+              "seoDescription": "Sacred Music",
+              "seoDescriptionAiGenerated": false,
+              "seoTitle": "No Title",
+              "seoTitleAiGenerated": false,
+              "shareableDescription": "Sacred Music",
+              "shareableTitle": "No Title",
+              "title": "No Title"
+            },
+            "title": "I’m Gonna Live So God Can Use Me",
+            "translator": []
+          },
+          "$id": "00000197-60b9-dc97-addf-ebfb82d60002",
+          "$model": "assetPurpose",
+          "$rootId": "00000197-60b9-dc97-addf-ebfb82d60002",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    },
+    {
+      "title": "The Lord’s My Shepherd",
+      "slug": "the-lords-my-shepherd",
+      "bookSlug": "hymns-for-home-and-church",
+      "bookSectionTitle": "Sabbath and Weekday",
+      "songNumber": "1038",
+      "songDate": "2025-06-13",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Psalm 23"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "James Leith Macbeth Bain"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        },
+        {
+          "name": "Organ"
+        },
+        {
+          "name": "Guitar"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Jesus Christ",
+        "assurance",
+        "blessings",
+        "comfort",
+        "courage",
+        "funeral",
+        "guidance",
+        "hope",
+        "peace",
+        "trust in the Lord"
+      ],
+      "voicings": [
+        {
+          "name": "SATB"
+        }
+      ],
+      "assets": [
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "m7mlms4cmfoxk14brdq12wdp76ge8k1dx942cyh1",
+            "attributes": {},
+            "composer": [],
+            "description": "The Lord’s My Shepherd",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/m7/ml/m7mlms4cmfoxk14brdq12wdp76ge8k1dx942cyh1/the_lords_my_shepherd.mp3",
+            "duration": 182000,
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Wed Jun 11 16:29:26 EDT 2025",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "00000197-40ec-dadc-abd7-5afe3d9f0000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "00000197-40ec-dadc-abd7-5afe3d9f0000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "Piano accompaniment track for  “The Lord’s My Shepherd” from Hymns—For Home and Church. English.",
+            "publicDownload": [],
+            "$publishDate": "Thu Jun 05 12:28:33 EDT 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "The Lord’s My Shepherd",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "The Lord’s My Shepherd",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "The Lord’s My Shepherd",
+            "shareableTitle": "The Lord’s My Shepherd",
+            "title": "The Lord’s My Shepherd",
+            "translator": []
+          },
+          "$id": "00000197-60b9-dc97-addf-ebfb816e0000",
+          "$model": "assetPurpose",
+          "$rootId": "00000197-60b9-dc97-addf-ebfb816e0000",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        },
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_ACCOMPANIMENT_GUITAR",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "w5nj6jqo1kt5df27vtmrevgqhh2l0vk80pe8kndx",
+            "attributes": {},
+            "composer": [],
+            "description": "The Lord’s My Shepherd",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/w5/nj/w5nj6jqo1kt5df27vtmrevgqhh2l0vk80pe8kndx/the_lords_my_shepherd.mp3",
+            "duration": 182000,
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Wed Jun 11 16:29:26 EDT 2025",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "00000197-40ec-dadc-abd7-5afe3f140000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "00000197-40ec-dadc-abd7-5afe3f140000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "Guitar accompaniment track for “The Lord’s My Shepherd” from Hymns—For Home and Church. English.",
+            "publicDownload": [],
+            "$publishDate": "Thu Jun 05 12:28:33 EDT 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "The Lord’s My Shepherd",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "The Lord’s My Shepherd",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "The Lord’s My Shepherd",
+            "shareableTitle": "The Lord’s My Shepherd",
+            "title": "The Lord’s My Shepherd",
+            "translator": []
+          },
+          "$id": "00000197-60b9-dc97-addf-ebfb816e0001",
+          "$model": "assetPurpose",
+          "$rootId": "00000197-60b9-dc97-addf-ebfb816e0001",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        },
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "7silfvsadmtjwos1sq7w86u4vuyktyqmeabegibb",
+            "attributes": {},
+            "composer": [],
+            "description": "Vocal choir recording of “The Lord’s My Shepherd” from Hymns—For Home and Church. English.",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/7s/il/7silfvsadmtjwos1sq7w86u4vuyktyqmeabegibb/the_lords_my_shepherd.mp3",
+            "duration": 182000,
+            "isPartOf": [],
+            "keywords": [
+              "trust",
+              "Guidance",
+              "Comforting",
+              "shepherds",
+              "blessings",
+              "peace",
+              "Funerals",
+              "Jesus Christ",
+              "hope"
+            ],
+            "$lastUpdatedDate": "Wed Jun 11 16:29:25 EDT 2025",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "00000197-4bb4-dadc-abd7-5bfe062a0000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "00000197-4bb4-dadc-abd7-5bfe062a0000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "Vocal choir recording of “The Lord’s My Shepherd” from Hymns—For Home and Church. English.",
+            "publicDownload": [],
+            "$publishDate": "Sat Jun 07 14:42:58 EDT 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Vocal choir recording of “The Lord’s My Shepherd” from Hymns—For Home and Church. English.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "The Lord’s My Shepherd",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Vocal choir recording of “The Lord’s My Shepherd” from Hymns—For Home and Church. English.",
+            "shareableTitle": "The Lord’s My Shepherd",
+            "thumbnail": {
+              "annotatedFields": {},
+              "assetID": "37108f66ca8411eeba3aeeeeac1ea51f5750182f",
+              "attributes": {},
+              "description": "Sacred Music",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
+              "focalPoint": {
+                "x": "50.00%",
+                "y": "50.00%"
+              },
+              "ipCode": "0 - IRI Owned",
+              "isPartOf": [],
+              "keywords": [],
+              "$lastUpdatedDate": "Wed Jun 11 16:30:15 EDT 2025",
+              "locatorIds": [],
+              "noindex": false,
+              "$id": "0000018d-f618-d9c6-af9d-fe9d440a0000",
+              "$lang": "eng",
+              "$model": "image",
+              "$rootId": "0000018d-f618-d9c6-af9d-fe9d440a0000",
+              "$site": "music",
+              "products": [],
+              "publicAltText": "Logo of the white Christus statue bordered by a white line forming an arch on a medium green background.",
+              "publicDownload": [
+                "No Access"
+              ],
+              "$publishDate": "Thu Feb 29 13:20:01 EST 2024",
+              "$publishStatus": "PUBLISHED",
+              "related": [],
+              "renditions": [
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
+                  "height": 320,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
+                  "width": 320
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!640%2C640/0/default",
+                  "height": 640,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!640%2C640/0/default",
+                  "width": 640
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!800%2C800/0/default",
+                  "height": 800,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!800%2C800/0/default",
+                  "width": 800
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!60%2C60/0/default",
+                  "height": 60,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!60%2C60/0/default",
+                  "width": 60
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!250%2C250/0/default",
+                  "height": 250,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!250%2C250/0/default",
+                  "width": 250
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!200%2C200/0/default",
+                  "height": 200,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!200%2C200/0/default",
+                  "width": 200
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!100%2C100/0/default",
+                  "height": 100,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!100%2C100/0/default",
+                  "width": 100
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!500%2C500/0/default",
+                  "height": 500,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!500%2C500/0/default",
+                  "width": 500
+                }
+              ],
+              "requiredAssets": [],
+              "sameAs": [],
+              "seoDescription": "Sacred Music",
+              "seoDescriptionAiGenerated": false,
+              "seoTitle": "No Title",
+              "seoTitleAiGenerated": false,
+              "shareableDescription": "Sacred Music",
+              "shareableTitle": "No Title",
+              "title": "No Title"
+            },
+            "title": "The Lord’s My Shepherd",
+            "translator": []
+          },
+          "$id": "00000197-60b9-dc97-addf-ebfb816e0002",
+          "$model": "assetPurpose",
+          "$rootId": "00000197-60b9-dc97-addf-ebfb816e0002",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    },
+    {
+      "title": "Because",
+      "slug": "because",
+      "bookSlug": "hymns-for-home-and-church",
+      "bookSectionTitle": "Sabbath and Weekday",
+      "songNumber": "1039",
+      "songDate": "2025-06-13",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Shawna Belt Edwards"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Shawna Belt Edwards"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        },
+        {
+          "name": "Guitar"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "God's love",
+        "Second Coming",
+        "blessings",
+        "gratitude",
+        "hope",
+        "love",
+        "peace",
+        "praise"
+      ],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": [
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "ksc2r3ze0r7uveqn7xizfpnkx2ixba7zn3vp0zcd",
+            "attributes": {},
+            "composer": [],
+            "description": "Because",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/ks/c2/ksc2r3ze0r7uveqn7xizfpnkx2ixba7zn3vp0zcd/because.mp3",
+            "duration": 138000,
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Wed Jun 11 16:27:00 EDT 2025",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "00000197-40ec-dadc-abd7-5afe43d70000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "00000197-40ec-dadc-abd7-5afe43d70000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "Piano accompaniment track for  “Because” from Hymns—For Home and Church. English.",
+            "publicDownload": [],
+            "$publishDate": "Thu Jun 05 12:28:35 EDT 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Because",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Because",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Because",
+            "shareableTitle": "Because",
+            "title": "Because",
+            "translator": []
+          },
+          "$id": "00000197-60b9-dc97-addf-ebfb81ea0000",
+          "$model": "assetPurpose",
+          "$rootId": "00000197-60b9-dc97-addf-ebfb81ea0000",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        },
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_ACCOMPANIMENT_GUITAR",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "e5x5hrvn3debngmycz14a8jkwyz62bzl6828e5ej",
+            "attributes": {},
+            "composer": [],
+            "description": "Because",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/e5/x5/e5x5hrvn3debngmycz14a8jkwyz62bzl6828e5ej/because.mp3",
+            "duration": 138000,
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Wed Jun 11 16:27:00 EDT 2025",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "00000197-40ec-dadc-abd7-5afe455b0000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "00000197-40ec-dadc-abd7-5afe455b0000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "Guitar accompaniment track for “Because” from Hymns—For Home and Church. English.",
+            "publicDownload": [],
+            "$publishDate": "Thu Jun 05 12:28:35 EDT 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Because",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Because",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Because",
+            "shareableTitle": "Because",
+            "title": "Because",
+            "translator": []
+          },
+          "$id": "00000197-60b9-dc97-addf-ebfb81ea0001",
+          "$model": "assetPurpose",
+          "$rootId": "00000197-60b9-dc97-addf-ebfb81ea0001",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        },
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_VOCAL",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "x1ebqihrdh4ssjggtzoz2nshbcsxecdmgfmknv36",
+            "attributes": {},
+            "composer": [],
+            "description": "Vocal solo recording of “Because” from Hymns—For Home and Church. English.",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/x1/eb/x1ebqihrdh4ssjggtzoz2nshbcsxecdmgfmknv36/because.mp3",
+            "duration": 138000,
+            "isPartOf": [],
+            "keywords": [
+              "love",
+              "Savior",
+              "blessings",
+              "gratitude",
+              "peace",
+              "hope",
+              "Jesus Christ",
+              "Second Coming"
+            ],
+            "$lastUpdatedDate": "Wed Jun 11 16:29:38 EDT 2025",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "00000197-4bb1-dadc-abd7-5bfb29310000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "00000197-4bb1-dadc-abd7-5bfb29310000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "Vocal solo recording of “Because” from Hymns—For Home and Church. English.",
+            "publicDownload": [],
+            "$publishDate": "Sat Jun 07 14:39:51 EDT 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Vocal solo recording of “Because” from Hymns—For Home and Church. English.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Because",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Vocal solo recording of “Because” from Hymns—For Home and Church. English.",
+            "shareableTitle": "Because",
+            "thumbnail": {
+              "annotatedFields": {},
+              "assetID": "37108f66ca8411eeba3aeeeeac1ea51f5750182f",
+              "attributes": {},
+              "description": "Sacred Music",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
+              "focalPoint": {
+                "x": "50.00%",
+                "y": "50.00%"
+              },
+              "ipCode": "0 - IRI Owned",
+              "isPartOf": [],
+              "keywords": [],
+              "$lastUpdatedDate": "Wed Jun 11 16:30:15 EDT 2025",
+              "locatorIds": [],
+              "noindex": false,
+              "$id": "0000018d-f618-d9c6-af9d-fe9d440a0000",
+              "$lang": "eng",
+              "$model": "image",
+              "$rootId": "0000018d-f618-d9c6-af9d-fe9d440a0000",
+              "$site": "music",
+              "products": [],
+              "publicAltText": "Logo of the white Christus statue bordered by a white line forming an arch on a medium green background.",
+              "publicDownload": [
+                "No Access"
+              ],
+              "$publishDate": "Thu Feb 29 13:20:01 EST 2024",
+              "$publishStatus": "PUBLISHED",
+              "related": [],
+              "renditions": [
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
+                  "height": 320,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
+                  "width": 320
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!640%2C640/0/default",
+                  "height": 640,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!640%2C640/0/default",
+                  "width": 640
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!800%2C800/0/default",
+                  "height": 800,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!800%2C800/0/default",
+                  "width": 800
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!60%2C60/0/default",
+                  "height": 60,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!60%2C60/0/default",
+                  "width": 60
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!250%2C250/0/default",
+                  "height": 250,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!250%2C250/0/default",
+                  "width": 250
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!200%2C200/0/default",
+                  "height": 200,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!200%2C200/0/default",
+                  "width": 200
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!100%2C100/0/default",
+                  "height": 100,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!100%2C100/0/default",
+                  "width": 100
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!500%2C500/0/default",
+                  "height": 500,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!500%2C500/0/default",
+                  "width": 500
+                }
+              ],
+              "requiredAssets": [],
+              "sameAs": [],
+              "seoDescription": "Sacred Music",
+              "seoDescriptionAiGenerated": false,
+              "seoTitle": "No Title",
+              "seoTitleAiGenerated": false,
+              "shareableDescription": "Sacred Music",
+              "shareableTitle": "No Title",
+              "title": "No Title"
+            },
+            "title": "Because",
+            "translator": []
+          },
+          "$id": "00000197-60b9-dc97-addf-ebfb81ea0002",
+          "$model": "assetPurpose",
+          "$rootId": "00000197-60b9-dc97-addf-ebfb81ea0002",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    },
+    {
+      "title": "His Voice as the Sound",
+      "slug": "his-voice-as-the-sound",
+      "bookSlug": "hymns-for-home-and-church",
+      "bookSectionTitle": "Sabbath and Weekday",
+      "songNumber": "1040",
+      "songDate": "2025-06-13",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Joseph Swain"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "American folk hymn"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        },
+        {
+          "name": "Guitar"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "comfort",
+        "discipleship",
+        "faith in Jesus Christ",
+        "grace",
+        "love",
+        "mercy",
+        "praise",
+        "worship"
+      ],
+      "voicings": [
+        {
+          "name": "SATB"
+        }
+      ],
+      "assets": [
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "vl7pw9iosq837ek8i0n18ybolizkyoip8aupbphz",
+            "attributes": {},
+            "composer": [],
+            "description": "His Voice as the Sound",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/vl/7p/vl7pw9iosq837ek8i0n18ybolizkyoip8aupbphz/his_voice_as_the_sound.mp3",
+            "duration": 180000,
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Wed Jun 11 16:29:10 EDT 2025",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "00000197-40ec-dadc-abd7-5afe4d940000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "00000197-40ec-dadc-abd7-5afe4d940000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "Piano accompaniment track for  “His Voice as the Sound” from Hymns—For Home and Church. English.",
+            "publicDownload": [],
+            "$publishDate": "Thu Jun 05 12:28:37 EDT 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "His Voice as the Sound",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "His Voice as the Sound",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "His Voice as the Sound",
+            "shareableTitle": "His Voice as the Sound",
+            "title": "His Voice as the Sound",
+            "translator": []
+          },
+          "$id": "00000197-60b9-dc97-addf-ebfb829d0000",
+          "$model": "assetPurpose",
+          "$rootId": "00000197-60b9-dc97-addf-ebfb829d0000",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        },
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_ACCOMPANIMENT_GUITAR",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "1r56jr2fjmpmig6bep4v6pv0o67s0384x9d2becu",
+            "attributes": {},
+            "composer": [],
+            "description": "His Voice as the Sound",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/1r/56/1r56jr2fjmpmig6bep4v6pv0o67s0384x9d2becu/his_voice_as_the_sound.mp3",
+            "duration": 180000,
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Wed Jun 11 16:27:40 EDT 2025",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "00000197-40ec-dadc-abd7-5afe4f080000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "00000197-40ec-dadc-abd7-5afe4f080000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "Guitar accompaniment track for “His Voice as the Sound” from Hymns—For Home and Church. English.",
+            "publicDownload": [],
+            "$publishDate": "Thu Jun 05 12:28:38 EDT 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "His Voice as the Sound",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "His Voice as the Sound",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "His Voice as the Sound",
+            "shareableTitle": "His Voice as the Sound",
+            "title": "His Voice as the Sound",
+            "translator": []
+          },
+          "$id": "00000197-60b9-dc97-addf-ebfb829d0001",
+          "$model": "assetPurpose",
+          "$rootId": "00000197-60b9-dc97-addf-ebfb829d0001",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        },
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "wom9mspsj8ty8gje49j7x3bz1ez6eofph4nds8ox",
+            "attributes": {},
+            "composer": [],
+            "description": "Vocal choir recording of “His Voice as the Sound” from Hymns—For Home and Church. English.",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/wo/m9/wom9mspsj8ty8gje49j7x3bz1ez6eofph4nds8ox/his_voice_as_the_sound.mp3",
+            "duration": 180000,
+            "isPartOf": [],
+            "keywords": [
+              "love",
+              "Comforting",
+              "shepherds",
+              "grace",
+              "faith",
+              "Jesus Christ",
+              "worship",
+              "discipleship",
+              "mercy"
+            ],
+            "$lastUpdatedDate": "Wed Jun 11 16:29:29 EDT 2025",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "00000197-4bc2-dadc-abd7-5bda23430000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "00000197-4bc2-dadc-abd7-5bda23430000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "Vocal choir recording of “His Voice as the Sound” from Hymns—For Home and Church. English.",
+            "publicDownload": [],
+            "$publishDate": "Sat Jun 07 14:58:23 EDT 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Vocal choir recording of “His Voice as the Sound” from Hymns—For Home and Church. English.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "His Voice as the Sound",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Vocal choir recording of “His Voice as the Sound” from Hymns—For Home and Church. English.",
+            "shareableTitle": "His Voice as the Sound",
+            "thumbnail": {
+              "annotatedFields": {},
+              "assetID": "37108f66ca8411eeba3aeeeeac1ea51f5750182f",
+              "attributes": {},
+              "description": "Sacred Music",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
+              "focalPoint": {
+                "x": "50.00%",
+                "y": "50.00%"
+              },
+              "ipCode": "0 - IRI Owned",
+              "isPartOf": [],
+              "keywords": [],
+              "$lastUpdatedDate": "Wed Jun 11 16:30:15 EDT 2025",
+              "locatorIds": [],
+              "noindex": false,
+              "$id": "0000018d-f618-d9c6-af9d-fe9d440a0000",
+              "$lang": "eng",
+              "$model": "image",
+              "$rootId": "0000018d-f618-d9c6-af9d-fe9d440a0000",
+              "$site": "music",
+              "products": [],
+              "publicAltText": "Logo of the white Christus statue bordered by a white line forming an arch on a medium green background.",
+              "publicDownload": [
+                "No Access"
+              ],
+              "$publishDate": "Thu Feb 29 13:20:01 EST 2024",
+              "$publishStatus": "PUBLISHED",
+              "related": [],
+              "renditions": [
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
+                  "height": 320,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
+                  "width": 320
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!640%2C640/0/default",
+                  "height": 640,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!640%2C640/0/default",
+                  "width": 640
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!800%2C800/0/default",
+                  "height": 800,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!800%2C800/0/default",
+                  "width": 800
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!60%2C60/0/default",
+                  "height": 60,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!60%2C60/0/default",
+                  "width": 60
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!250%2C250/0/default",
+                  "height": 250,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!250%2C250/0/default",
+                  "width": 250
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!200%2C200/0/default",
+                  "height": 200,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!200%2C200/0/default",
+                  "width": 200
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!100%2C100/0/default",
+                  "height": 100,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!100%2C100/0/default",
+                  "width": 100
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!500%2C500/0/default",
+                  "height": 500,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!500%2C500/0/default",
+                  "width": 500
+                }
+              ],
+              "requiredAssets": [],
+              "sameAs": [],
+              "seoDescription": "Sacred Music",
+              "seoDescriptionAiGenerated": false,
+              "seoTitle": "No Title",
+              "seoTitleAiGenerated": false,
+              "shareableDescription": "Sacred Music",
+              "shareableTitle": "No Title",
+              "title": "No Title"
+            },
+            "title": "His Voice as the Sound",
+            "translator": []
+          },
+          "$id": "00000197-60b9-dc97-addf-ebfb829d0002",
+          "$model": "assetPurpose",
+          "$rootId": "00000197-60b9-dc97-addf-ebfb829d0002",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    },
+    {
+      "title": "O Lord, Who Gave Thy Life for Me",
+      "slug": "o-lord-who-gave-thy-life-for-me",
+      "bookSlug": "hymns-for-home-and-church",
+      "bookSectionTitle": "Sabbath and Weekday",
+      "songNumber": "1041",
+      "songDate": "2025-06-13",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Alice Warner Johnson"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Alice Warner Johnson"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        },
+        {
+          "name": "Guitar"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "commitment",
+        "discipleship",
+        "endure to the end",
+        "faith in Jesus Christ",
+        "forgiveness",
+        "grace",
+        "humility",
+        "love",
+        "mercy",
+        "repentance",
+        "sacrifice",
+        "supplication",
+        "the sacrament",
+        "trust"
+      ],
+      "voicings": [
+        {
+          "name": "SATB"
+        }
+      ],
+      "assets": [
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "lh802zr0pm2snxsjv99i2rykszg9r4kutyun169r",
+            "attributes": {},
+            "composer": [],
+            "description": "O Lord, Who Gave Thy Life for Me",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/lh/80/lh802zr0pm2snxsjv99i2rykszg9r4kutyun169r/o_lord_who_gave_thy_life_for_me.mp3",
+            "duration": 163000,
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Wed Jun 11 16:26:46 EDT 2025",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "00000197-40ec-dadc-abd7-5afe47090000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "00000197-40ec-dadc-abd7-5afe47090000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "Piano accompaniment track for  “O Lord, Who Gave Thy Life for Me” from Hymns—For Home and Church. English.",
+            "publicDownload": [],
+            "$publishDate": "Thu Jun 05 12:28:35 EDT 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "O Lord, Who Gave Thy Life for Me",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "O Lord, Who Gave Thy Life for Me",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "O Lord, Who Gave Thy Life for Me",
+            "shareableTitle": "O Lord, Who Gave Thy Life for Me",
+            "title": "O Lord, Who Gave Thy Life for Me",
+            "translator": []
+          },
+          "$id": "00000197-60b9-dc97-addf-ebfb82290000",
+          "$model": "assetPurpose",
+          "$rootId": "00000197-60b9-dc97-addf-ebfb82290000",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        },
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_ACCOMPANIMENT_GUITAR",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "zbztfs64pnweqamayii7yirzyk6nd8ctjrbijeqm",
+            "attributes": {},
+            "composer": [],
+            "description": "O Lord, Who Gave Thy Life for Me",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/zb/zt/zbztfs64pnweqamayii7yirzyk6nd8ctjrbijeqm/o_lord_who_gave_thy_life_for_me.mp3",
+            "duration": 163000,
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Wed Jun 11 16:30:10 EDT 2025",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "00000197-40ec-dadc-abd7-5afe488a0000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "00000197-40ec-dadc-abd7-5afe488a0000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "Guitar accompaniment track for “O Lord, Who Gave Thy Life for Me” from Hymns—For Home and Church. English.",
+            "publicDownload": [],
+            "$publishDate": "Thu Jun 05 12:28:36 EDT 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "O Lord, Who Gave Thy Life for Me",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "O Lord, Who Gave Thy Life for Me",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "O Lord, Who Gave Thy Life for Me",
+            "shareableTitle": "O Lord, Who Gave Thy Life for Me",
+            "title": "O Lord, Who Gave Thy Life for Me",
+            "translator": []
+          },
+          "$id": "00000197-60b9-dc97-addf-ebfb82290001",
+          "$model": "assetPurpose",
+          "$rootId": "00000197-60b9-dc97-addf-ebfb82290001",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        },
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "28ecshr1msjjnd65mcbg71oher0rxamhfaxsmmmb",
+            "attributes": {},
+            "composer": [],
+            "description": "Vocal choir recording of “O Lord, Who Gave Thy Life for Me” from Hymns—For Home and Church. English.",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/28/ec/28ecshr1msjjnd65mcbg71oher0rxamhfaxsmmmb/o_lord_who_gave_thy_life_for_me.mp3",
+            "duration": 163000,
+            "isPartOf": [],
+            "keywords": [
+              "love",
+              "trust",
+              "humility",
+              "forgiveness",
+              "sacrifice",
+              "faith",
+              "Endure to the End",
+              "Jesus Christ",
+              "repentance",
+              "grace",
+              "Commitment",
+              "discipleship",
+              "mercy"
+            ],
+            "$lastUpdatedDate": "Wed Jun 11 16:23:47 EDT 2025",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "00000197-4bb5-dadc-abd7-5bffb1d80000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "00000197-4bb5-dadc-abd7-5bffb1d80000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "Vocal choir recording of “O Lord, Who Gave Thy Life for Me” from Hymns—For Home and Church. English.",
+            "publicDownload": [],
+            "$publishDate": "Sat Jun 07 14:44:48 EDT 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Vocal choir recording of “O Lord, Who Gave Thy Life for Me” from Hymns—For Home and Church. English.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "O Lord, Who Gave Thy Life for Me",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Vocal choir recording of “O Lord, Who Gave Thy Life for Me” from Hymns—For Home and Church. English.",
+            "shareableTitle": "O Lord, Who Gave Thy Life for Me",
+            "thumbnail": {
+              "annotatedFields": {},
+              "assetID": "37108f66ca8411eeba3aeeeeac1ea51f5750182f",
+              "attributes": {},
+              "description": "Sacred Music",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
+              "focalPoint": {
+                "x": "50.00%",
+                "y": "50.00%"
+              },
+              "ipCode": "0 - IRI Owned",
+              "isPartOf": [],
+              "keywords": [],
+              "$lastUpdatedDate": "Wed Jun 11 16:30:15 EDT 2025",
+              "locatorIds": [],
+              "noindex": false,
+              "$id": "0000018d-f618-d9c6-af9d-fe9d440a0000",
+              "$lang": "eng",
+              "$model": "image",
+              "$rootId": "0000018d-f618-d9c6-af9d-fe9d440a0000",
+              "$site": "music",
+              "products": [],
+              "publicAltText": "Logo of the white Christus statue bordered by a white line forming an arch on a medium green background.",
+              "publicDownload": [
+                "No Access"
+              ],
+              "$publishDate": "Thu Feb 29 13:20:01 EST 2024",
+              "$publishStatus": "PUBLISHED",
+              "related": [],
+              "renditions": [
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
+                  "height": 320,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
+                  "width": 320
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!640%2C640/0/default",
+                  "height": 640,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!640%2C640/0/default",
+                  "width": 640
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!800%2C800/0/default",
+                  "height": 800,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!800%2C800/0/default",
+                  "width": 800
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!60%2C60/0/default",
+                  "height": 60,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!60%2C60/0/default",
+                  "width": 60
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!250%2C250/0/default",
+                  "height": 250,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!250%2C250/0/default",
+                  "width": 250
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!200%2C200/0/default",
+                  "height": 200,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!200%2C200/0/default",
+                  "width": 200
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!100%2C100/0/default",
+                  "height": 100,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!100%2C100/0/default",
+                  "width": 100
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!500%2C500/0/default",
+                  "height": 500,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!500%2C500/0/default",
+                  "width": 500
+                }
+              ],
+              "requiredAssets": [],
+              "sameAs": [],
+              "seoDescription": "Sacred Music",
+              "seoDescriptionAiGenerated": false,
+              "seoTitle": "No Title",
+              "seoTitleAiGenerated": false,
+              "shareableDescription": "Sacred Music",
+              "shareableTitle": "No Title",
+              "title": "No Title"
+            },
+            "title": "O Lord, Who Gave Thy Life for Me",
+            "translator": []
+          },
+          "$id": "00000197-60b9-dc97-addf-ebfb82290002",
+          "$model": "assetPurpose",
+          "$rootId": "00000197-60b9-dc97-addf-ebfb82290002",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    },
+    {
       "title": "Hail the Day That Sees Him Rise",
       "slug": "hail-the-day-that-sees-him-rise",
       "bookSlug": "hymns-for-home-and-church",
@@ -17511,9 +20490,299 @@
           "$publishStatus": "PUBLISHED"
         }
       ]
+    },
+    {
+      "title": "Still, Still, Still",
+      "slug": "still-still-still",
+      "bookSlug": "hymns-for-home-and-church",
+      "bookSectionTitle": "Easter and Christmas",
+      "songNumber": "1207",
+      "songDate": "2025-06-13",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Austrian carol"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Austrian carol"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        },
+        {
+          "name": "Guitar"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Christmas",
+        "God's love",
+        "Jesus Christ",
+        "peace",
+        "praise"
+      ],
+      "voicings": [
+        {
+          "name": "SATB"
+        }
+      ],
+      "assets": [
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "ob064ek4gh9cv7sguh0bnb2mwgu4f1dlga2qaoqy",
+            "attributes": {},
+            "composer": [],
+            "description": "Still, Still, Still",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/ob/06/ob064ek4gh9cv7sguh0bnb2mwgu4f1dlga2qaoqy/still_still_still.mp3",
+            "duration": 119000,
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Wed Jun 11 16:26:49 EDT 2025",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "00000197-40ec-dadc-abd7-5afe40b50000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "00000197-40ec-dadc-abd7-5afe40b50000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "Piano accompaniment track for  “Still, Still, Still” from Hymns—For Home and Church. English.",
+            "publicDownload": [],
+            "$publishDate": "Thu Jun 05 12:28:34 EDT 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Still, Still, Still",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Still, Still, Still",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Still, Still, Still",
+            "shareableTitle": "Still, Still, Still",
+            "title": "Still, Still, Still",
+            "translator": []
+          },
+          "$id": "00000197-60b9-dc97-addf-ebfb81af0000",
+          "$model": "assetPurpose",
+          "$rootId": "00000197-60b9-dc97-addf-ebfb81af0000",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        },
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_ACCOMPANIMENT_GUITAR",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "qsk2duxa8oq94feg1b10q0lq7v7l2yyipkt8kv9g",
+            "attributes": {},
+            "composer": [],
+            "description": "Still, Still, Still",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/qs/k2/qsk2duxa8oq94feg1b10q0lq7v7l2yyipkt8kv9g/still_still_still.mp3",
+            "duration": 119000,
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Wed Jun 11 16:28:40 EDT 2025",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "00000197-40ec-dadc-abd7-5afe42260000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "00000197-40ec-dadc-abd7-5afe42260000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "Guitar accompaniment track for “Still, Still, Still” from Hymns—For Home and Church. English.",
+            "publicDownload": [],
+            "$publishDate": "Thu Jun 05 12:28:34 EDT 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Still, Still, Still",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Still, Still, Still",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Still, Still, Still",
+            "shareableTitle": "Still, Still, Still",
+            "title": "Still, Still, Still",
+            "translator": []
+          },
+          "$id": "00000197-60b9-dc97-addf-ebfb81af0001",
+          "$model": "assetPurpose",
+          "$rootId": "00000197-60b9-dc97-addf-ebfb81af0001",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        },
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "rf6radco561b7k3m18fcbar87rxo63vhn6nqnlhd",
+            "attributes": {},
+            "composer": [],
+            "description": "Vocal choir recording of “Still, Still, Still” from Hymns—For Home and Church. English.",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/rf/6r/rf6radco561b7k3m18fcbar87rxo63vhn6nqnlhd/still_still_still.mp3",
+            "duration": 119000,
+            "isPartOf": [],
+            "keywords": [
+              "love",
+              "Christmas",
+              "peace",
+              "Jesus Christ"
+            ],
+            "$lastUpdatedDate": "Wed Jun 11 16:27:45 EDT 2025",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "00000197-4bb0-dadc-abd7-5bfa1e950000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "00000197-4bb0-dadc-abd7-5bfa1e950000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "Vocal choir recording of “Still, Still, Still” from Hymns—For Home and Church. English.",
+            "publicDownload": [],
+            "$publishDate": "Sat Jun 07 14:38:42 EDT 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Vocal choir recording of “Still, Still, Still” from Hymns—For Home and Church. English.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Still, Still, Still",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Vocal choir recording of “Still, Still, Still” from Hymns—For Home and Church. English.",
+            "shareableTitle": "Still, Still, Still",
+            "thumbnail": {
+              "annotatedFields": {},
+              "assetID": "37108f66ca8411eeba3aeeeeac1ea51f5750182f",
+              "attributes": {},
+              "description": "Sacred Music",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
+              "focalPoint": {
+                "x": "50.00%",
+                "y": "50.00%"
+              },
+              "ipCode": "0 - IRI Owned",
+              "isPartOf": [],
+              "keywords": [],
+              "$lastUpdatedDate": "Wed Jun 11 16:30:15 EDT 2025",
+              "locatorIds": [],
+              "noindex": false,
+              "$id": "0000018d-f618-d9c6-af9d-fe9d440a0000",
+              "$lang": "eng",
+              "$model": "image",
+              "$rootId": "0000018d-f618-d9c6-af9d-fe9d440a0000",
+              "$site": "music",
+              "products": [],
+              "publicAltText": "Logo of the white Christus statue bordered by a white line forming an arch on a medium green background.",
+              "publicDownload": [
+                "No Access"
+              ],
+              "$publishDate": "Thu Feb 29 13:20:01 EST 2024",
+              "$publishStatus": "PUBLISHED",
+              "related": [],
+              "renditions": [
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
+                  "height": 320,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
+                  "width": 320
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!640%2C640/0/default",
+                  "height": 640,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!640%2C640/0/default",
+                  "width": 640
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!800%2C800/0/default",
+                  "height": 800,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!800%2C800/0/default",
+                  "width": 800
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!60%2C60/0/default",
+                  "height": 60,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!60%2C60/0/default",
+                  "width": 60
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!250%2C250/0/default",
+                  "height": 250,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!250%2C250/0/default",
+                  "width": 250
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!200%2C200/0/default",
+                  "height": 200,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!200%2C200/0/default",
+                  "width": 200
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!100%2C100/0/default",
+                  "height": 100,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!100%2C100/0/default",
+                  "width": 100
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!500%2C500/0/default",
+                  "height": 500,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!500%2C500/0/default",
+                  "width": 500
+                }
+              ],
+              "requiredAssets": [],
+              "sameAs": [],
+              "seoDescription": "Sacred Music",
+              "seoDescriptionAiGenerated": false,
+              "seoTitle": "No Title",
+              "seoTitleAiGenerated": false,
+              "shareableDescription": "Sacred Music",
+              "shareableTitle": "No Title",
+              "title": "No Title"
+            },
+            "title": "Still, Still, Still",
+            "translator": []
+          },
+          "$id": "00000197-60b9-dc97-addf-ebfb81af0002",
+          "$model": "assetPurpose",
+          "$rootId": "00000197-60b9-dc97-addf-ebfb81af0002",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
     }
   ],
   "limit": 500,
   "offset": 0,
-  "total": 37
+  "total": 48
 }
