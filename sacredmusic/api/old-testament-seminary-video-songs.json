@@ -62,7 +62,7 @@
             "ipCode": "1 - Not IRI Owned",
             "isPartOf": [],
             "keywords": [],
-            "$lastUpdatedDate": "Fri Aug 02 12:26:12 EDT 2024",
+            "$lastUpdatedDate": "Sun Jun 15 09:04:19 EDT 2025",
             "locatorIds": [],
             "lyricist": [],
             "noindex": false,
@@ -89,6 +89,112 @@
             "seoTitleAiGenerated": false,
             "shareableDescription": "“I’ve Got to Find Out Who I Am” from Old Testament Seminary Video Songs (English, 1991-01-01).",
             "shareableTitle": "I’ve Got to Find Out Who I Am",
+            "thumbnail": {
+              "annotatedFields": {},
+              "assetID": "16ca04e866b711ed8dafeeeeac1e98f5e31e16d2",
+              "attributes": {},
+              "description": "Old Testament Collage #1",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/16ca04e866b711ed8dafeeeeac1e98f5e31e16d2/full/1920,/0/default",
+              "focalPoint": {
+                "x": "50.00%",
+                "y": "50.00%"
+              },
+              "ipCode": "0 - IRI Owned",
+              "isPartOf": [],
+              "keywords": [],
+              "$lastUpdatedDate": "Sun Jun 15 09:04:19 EDT 2025",
+              "locatorIds": [],
+              "noindex": false,
+              "$id": "0000018a-0994-d1d6-afbf-6d974dd20000",
+              "$lang": "eng",
+              "$model": "image",
+              "$rootId": "0000018a-0994-d1d6-afbf-6d974dd20000",
+              "$site": "music",
+              "products": [],
+              "publicAltText": "An Old Testament prophet praying with an open scroll in front of him.  Another prophet preaches to a group of men is behind him.  Below the two prophets are hands holding illuminated scriptures.",
+              "publicDownload": [],
+              "$publishDate": "Fri Aug 18 12:57:08 EDT 2023",
+              "$publishStatus": "PUBLISHED",
+              "related": [],
+              "renditions": [
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/16ca04e866b711ed8dafeeeeac1e98f5e31e16d2/full/!320%2C320/0/default",
+                  "height": 320,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/16ca04e866b711ed8dafeeeeac1e98f5e31e16d2/full/!320%2C320/0/default",
+                  "width": 320
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/16ca04e866b711ed8dafeeeeac1e98f5e31e16d2/full/!640%2C640/0/default",
+                  "height": 640,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/16ca04e866b711ed8dafeeeeac1e98f5e31e16d2/full/!640%2C640/0/default",
+                  "width": 640
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/16ca04e866b711ed8dafeeeeac1e98f5e31e16d2/full/!800%2C800/0/default",
+                  "height": 800,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/16ca04e866b711ed8dafeeeeac1e98f5e31e16d2/full/!800%2C800/0/default",
+                  "width": 800
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/16ca04e866b711ed8dafeeeeac1e98f5e31e16d2/full/!1280%2C1280/0/default",
+                  "height": 1280,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/16ca04e866b711ed8dafeeeeac1e98f5e31e16d2/full/!1280%2C1280/0/default",
+                  "width": 1280
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/16ca04e866b711ed8dafeeeeac1e98f5e31e16d2/full/!1600%2C1600/0/default",
+                  "height": 1600,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/16ca04e866b711ed8dafeeeeac1e98f5e31e16d2/full/!1600%2C1600/0/default",
+                  "width": 1600
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/16ca04e866b711ed8dafeeeeac1e98f5e31e16d2/full/!1920%2C1920/0/default",
+                  "height": 1920,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/16ca04e866b711ed8dafeeeeac1e98f5e31e16d2/full/!1920%2C1920/0/default",
+                  "width": 1920
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/16ca04e866b711ed8dafeeeeac1e98f5e31e16d2/full/!60%2C60/0/default",
+                  "height": 60,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/16ca04e866b711ed8dafeeeeac1e98f5e31e16d2/full/!60%2C60/0/default",
+                  "width": 60
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/16ca04e866b711ed8dafeeeeac1e98f5e31e16d2/full/!250%2C250/0/default",
+                  "height": 250,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/16ca04e866b711ed8dafeeeeac1e98f5e31e16d2/full/!250%2C250/0/default",
+                  "width": 250
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/16ca04e866b711ed8dafeeeeac1e98f5e31e16d2/full/!200%2C200/0/default",
+                  "height": 200,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/16ca04e866b711ed8dafeeeeac1e98f5e31e16d2/full/!200%2C200/0/default",
+                  "width": 200
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/16ca04e866b711ed8dafeeeeac1e98f5e31e16d2/full/!100%2C100/0/default",
+                  "height": 100,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/16ca04e866b711ed8dafeeeeac1e98f5e31e16d2/full/!100%2C100/0/default",
+                  "width": 100
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/16ca04e866b711ed8dafeeeeac1e98f5e31e16d2/full/!500%2C500/0/default",
+                  "height": 500,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/16ca04e866b711ed8dafeeeeac1e98f5e31e16d2/full/!500%2C500/0/default",
+                  "width": 500
+                }
+              ],
+              "reqCreditLine": "false",
+              "requiredAssets": [],
+              "sameAs": [],
+              "seoDescription": "Old Testament Collage #1",
+              "seoDescriptionAiGenerated": false,
+              "seoTitle": "No Title",
+              "seoTitleAiGenerated": false,
+              "shareableDescription": "Old Testament Collage #1",
+              "shareableTitle": "No Title",
+              "title": "No Title"
+            },
             "title": "I’ve Got to Find Out Who I Am",
             "translator": []
           },
@@ -692,7 +798,7 @@
             "ipCode": "0 - IRI Owned",
             "isPartOf": [],
             "keywords": [],
-            "$lastUpdatedDate": "Fri Aug 02 12:26:06 EDT 2024",
+            "$lastUpdatedDate": "Sun Jun 15 09:01:23 EDT 2025",
             "locatorIds": [],
             "lyricist": [],
             "noindex": false,
@@ -719,6 +825,112 @@
             "seoTitleAiGenerated": false,
             "shareableDescription": "“Today” from Old Testament Seminary Video Songs (English, 1991-01-01).",
             "shareableTitle": "Today",
+            "thumbnail": {
+              "annotatedFields": {},
+              "assetID": "16ca04e866b711ed8dafeeeeac1e98f5e31e16d2",
+              "attributes": {},
+              "description": "Old Testament Collage #1",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/16ca04e866b711ed8dafeeeeac1e98f5e31e16d2/full/1920,/0/default",
+              "focalPoint": {
+                "x": "50.00%",
+                "y": "50.00%"
+              },
+              "ipCode": "0 - IRI Owned",
+              "isPartOf": [],
+              "keywords": [],
+              "$lastUpdatedDate": "Sun Jun 15 09:04:19 EDT 2025",
+              "locatorIds": [],
+              "noindex": false,
+              "$id": "0000018a-0994-d1d6-afbf-6d974dd20000",
+              "$lang": "eng",
+              "$model": "image",
+              "$rootId": "0000018a-0994-d1d6-afbf-6d974dd20000",
+              "$site": "music",
+              "products": [],
+              "publicAltText": "An Old Testament prophet praying with an open scroll in front of him.  Another prophet preaches to a group of men is behind him.  Below the two prophets are hands holding illuminated scriptures.",
+              "publicDownload": [],
+              "$publishDate": "Fri Aug 18 12:57:08 EDT 2023",
+              "$publishStatus": "PUBLISHED",
+              "related": [],
+              "renditions": [
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/16ca04e866b711ed8dafeeeeac1e98f5e31e16d2/full/!320%2C320/0/default",
+                  "height": 320,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/16ca04e866b711ed8dafeeeeac1e98f5e31e16d2/full/!320%2C320/0/default",
+                  "width": 320
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/16ca04e866b711ed8dafeeeeac1e98f5e31e16d2/full/!640%2C640/0/default",
+                  "height": 640,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/16ca04e866b711ed8dafeeeeac1e98f5e31e16d2/full/!640%2C640/0/default",
+                  "width": 640
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/16ca04e866b711ed8dafeeeeac1e98f5e31e16d2/full/!800%2C800/0/default",
+                  "height": 800,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/16ca04e866b711ed8dafeeeeac1e98f5e31e16d2/full/!800%2C800/0/default",
+                  "width": 800
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/16ca04e866b711ed8dafeeeeac1e98f5e31e16d2/full/!1280%2C1280/0/default",
+                  "height": 1280,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/16ca04e866b711ed8dafeeeeac1e98f5e31e16d2/full/!1280%2C1280/0/default",
+                  "width": 1280
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/16ca04e866b711ed8dafeeeeac1e98f5e31e16d2/full/!1600%2C1600/0/default",
+                  "height": 1600,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/16ca04e866b711ed8dafeeeeac1e98f5e31e16d2/full/!1600%2C1600/0/default",
+                  "width": 1600
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/16ca04e866b711ed8dafeeeeac1e98f5e31e16d2/full/!1920%2C1920/0/default",
+                  "height": 1920,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/16ca04e866b711ed8dafeeeeac1e98f5e31e16d2/full/!1920%2C1920/0/default",
+                  "width": 1920
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/16ca04e866b711ed8dafeeeeac1e98f5e31e16d2/full/!60%2C60/0/default",
+                  "height": 60,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/16ca04e866b711ed8dafeeeeac1e98f5e31e16d2/full/!60%2C60/0/default",
+                  "width": 60
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/16ca04e866b711ed8dafeeeeac1e98f5e31e16d2/full/!250%2C250/0/default",
+                  "height": 250,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/16ca04e866b711ed8dafeeeeac1e98f5e31e16d2/full/!250%2C250/0/default",
+                  "width": 250
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/16ca04e866b711ed8dafeeeeac1e98f5e31e16d2/full/!200%2C200/0/default",
+                  "height": 200,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/16ca04e866b711ed8dafeeeeac1e98f5e31e16d2/full/!200%2C200/0/default",
+                  "width": 200
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/16ca04e866b711ed8dafeeeeac1e98f5e31e16d2/full/!100%2C100/0/default",
+                  "height": 100,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/16ca04e866b711ed8dafeeeeac1e98f5e31e16d2/full/!100%2C100/0/default",
+                  "width": 100
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/16ca04e866b711ed8dafeeeeac1e98f5e31e16d2/full/!500%2C500/0/default",
+                  "height": 500,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/16ca04e866b711ed8dafeeeeac1e98f5e31e16d2/full/!500%2C500/0/default",
+                  "width": 500
+                }
+              ],
+              "reqCreditLine": "false",
+              "requiredAssets": [],
+              "sameAs": [],
+              "seoDescription": "Old Testament Collage #1",
+              "seoDescriptionAiGenerated": false,
+              "seoTitle": "No Title",
+              "seoTitleAiGenerated": false,
+              "shareableDescription": "Old Testament Collage #1",
+              "shareableTitle": "No Title",
+              "title": "No Title"
+            },
             "title": "Today",
             "translator": []
           },
