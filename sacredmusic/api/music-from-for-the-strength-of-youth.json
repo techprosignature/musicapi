@@ -13223,7 +13223,7 @@
               "ipCode": "0 - IRI Owned",
               "isPartOf": [],
               "keywords": [],
-              "$lastUpdatedDate": "Wed Jun 04 04:16:58 EDT 2025",
+              "$lastUpdatedDate": "Thu Jun 26 14:36:21 EDT 2025",
               "locatorIds": [],
               "noindex": false,
               "$id": "0000017d-72c1-d91f-a7ff-77db450e0000",
@@ -13385,7 +13385,7 @@
               "ipCode": "0 - IRI Owned",
               "isPartOf": [],
               "keywords": [],
-              "$lastUpdatedDate": "Wed Jun 04 04:16:58 EDT 2025",
+              "$lastUpdatedDate": "Thu Jun 26 14:36:21 EDT 2025",
               "locatorIds": [],
               "noindex": false,
               "$id": "0000017d-72c1-d91f-a7ff-77db450e0000",
@@ -13587,7 +13587,7 @@
               "ipCode": "0 - IRI Owned",
               "isPartOf": [],
               "keywords": [],
-              "$lastUpdatedDate": "Wed Jun 04 04:16:58 EDT 2025",
+              "$lastUpdatedDate": "Thu Jun 26 14:36:21 EDT 2025",
               "locatorIds": [],
               "noindex": false,
               "$id": "0000017d-72c1-d91f-a7ff-77db450e0000",
@@ -13749,7 +13749,7 @@
               "ipCode": "0 - IRI Owned",
               "isPartOf": [],
               "keywords": [],
-              "$lastUpdatedDate": "Wed Jun 04 04:16:58 EDT 2025",
+              "$lastUpdatedDate": "Thu Jun 26 14:36:21 EDT 2025",
               "locatorIds": [],
               "noindex": false,
               "$id": "0000017d-72c1-d91f-a7ff-77db450e0000",
@@ -15974,9 +15974,9 @@
             "title": "Look Unto Christ",
             "translator": []
           },
-          "$id": "00000197-84e9-d52b-a5f7-fced3f850000",
+          "$id": "00000197-ad1e-da48-a5df-adff20100000",
           "$model": "assetPurpose",
-          "$rootId": "00000197-84e9-d52b-a5f7-fced3f850000",
+          "$rootId": "00000197-ad1e-da48-a5df-adff20100000",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -16116,9 +16116,9 @@
             "title": "Look Unto Christ",
             "translator": []
           },
-          "$id": "00000197-84e9-d52b-a5f7-fced3f850001",
+          "$id": "00000197-ad1e-da48-a5df-adff20100001",
           "$model": "assetPurpose",
-          "$rootId": "00000197-84e9-d52b-a5f7-fced3f850001",
+          "$rootId": "00000197-ad1e-da48-a5df-adff20100001",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         }
@@ -16317,9 +16317,9 @@
             "title": "Doubt Not",
             "translator": []
           },
-          "$id": "00000197-84e9-d52b-a5f7-fced415b0000",
+          "$id": "00000197-ad1e-da48-a5df-adff22150000",
           "$model": "assetPurpose",
-          "$rootId": "00000197-84e9-d52b-a5f7-fced415b0000",
+          "$rootId": "00000197-ad1e-da48-a5df-adff22150000",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -16459,9 +16459,9 @@
             "title": "Doubt Not",
             "translator": []
           },
-          "$id": "00000197-84e9-d52b-a5f7-fced415b0001",
+          "$id": "00000197-ad1e-da48-a5df-adff22150001",
           "$model": "assetPurpose",
-          "$rootId": "00000197-84e9-d52b-a5f7-fced415b0001",
+          "$rootId": "00000197-ad1e-da48-a5df-adff22150001",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         }
@@ -16661,9 +16661,9 @@
             "title": "Fear Not",
             "translator": []
           },
-          "$id": "00000197-84e9-d52b-a5f7-fced41140000",
+          "$id": "00000197-ad1e-da48-a5df-adff21be0000",
           "$model": "assetPurpose",
-          "$rootId": "00000197-84e9-d52b-a5f7-fced41140000",
+          "$rootId": "00000197-ad1e-da48-a5df-adff21be0000",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -16803,9 +16803,9 @@
             "title": "Fear Not",
             "translator": []
           },
-          "$id": "00000197-84e9-d52b-a5f7-fced41140001",
+          "$id": "00000197-ad1e-da48-a5df-adff21be0001",
           "$model": "assetPurpose",
-          "$rootId": "00000197-84e9-d52b-a5f7-fced41140001",
+          "$rootId": "00000197-ad1e-da48-a5df-adff21be0001",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         }
