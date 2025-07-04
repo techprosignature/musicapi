@@ -404,7 +404,7 @@
       "assets": [
         {
           "annotatedFields": {},
-          "assetType": "AUDIO_INSTRUMENTAL",
+          "assetType": "AUDIO_ACCOMPANIMENT",
           "attributes": {},
           "locatorIds": [],
           "mediaObject": {
@@ -538,9 +538,9 @@
             "title": "Doubt Not",
             "translator": []
           },
-          "$id": "00000197-ad1e-da48-a5df-adff22150000",
+          "$id": "00000197-d108-d170-af97-d3b9feda0000",
           "$model": "assetPurpose",
-          "$rootId": "00000197-ad1e-da48-a5df-adff22150000",
+          "$rootId": "00000197-d108-d170-af97-d3b9feda0000",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -680,9 +680,9 @@
             "title": "Doubt Not",
             "translator": []
           },
-          "$id": "00000197-ad1e-da48-a5df-adff22150001",
+          "$id": "00000197-d108-d170-af97-d3b9feda0001",
           "$model": "assetPurpose",
-          "$rootId": "00000197-ad1e-da48-a5df-adff22150001",
+          "$rootId": "00000197-d108-d170-af97-d3b9feda0001",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         }
@@ -882,9 +882,9 @@
             "title": "Fear Not",
             "translator": []
           },
-          "$id": "00000197-ad1e-da48-a5df-adff21be0000",
+          "$id": "00000197-d108-d170-af97-d3b9fe8b0000",
           "$model": "assetPurpose",
-          "$rootId": "00000197-ad1e-da48-a5df-adff21be0000",
+          "$rootId": "00000197-d108-d170-af97-d3b9fe8b0000",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -1024,9 +1024,9 @@
             "title": "Fear Not",
             "translator": []
           },
-          "$id": "00000197-ad1e-da48-a5df-adff21be0001",
+          "$id": "00000197-d108-d170-af97-d3b9fe8b0001",
           "$model": "assetPurpose",
-          "$rootId": "00000197-ad1e-da48-a5df-adff21be0001",
+          "$rootId": "00000197-d108-d170-af97-d3b9fe8b0001",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         }
@@ -1086,7 +1086,7 @@
       "assets": [
         {
           "annotatedFields": {},
-          "assetType": "AUDIO_INSTRUMENTAL",
+          "assetType": "AUDIO_ACCOMPANIMENT",
           "attributes": {},
           "locatorIds": [],
           "mediaObject": {
@@ -1220,9 +1220,9 @@
             "title": "Carry Me",
             "translator": []
           },
-          "$id": "00000197-ad1e-da48-a5df-adff232a0000",
+          "$id": "00000197-d108-d170-af97-d3b9ff780000",
           "$model": "assetPurpose",
-          "$rootId": "00000197-ad1e-da48-a5df-adff232a0000",
+          "$rootId": "00000197-d108-d170-af97-d3b9ff780000",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -1362,9 +1362,9 @@
             "title": "Carry Me",
             "translator": []
           },
-          "$id": "00000197-ad1e-da48-a5df-adff232a0001",
+          "$id": "00000197-d108-d170-af97-d3b9ff780001",
           "$model": "assetPurpose",
-          "$rootId": "00000197-ad1e-da48-a5df-adff232a0001",
+          "$rootId": "00000197-d108-d170-af97-d3b9ff780001",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         }
@@ -1441,7 +1441,7 @@
       "assets": [
         {
           "annotatedFields": {},
-          "assetType": "AUDIO_INSTRUMENTAL",
+          "assetType": "AUDIO_ACCOMPANIMENT",
           "attributes": {},
           "locatorIds": [],
           "mediaObject": {
@@ -1575,9 +1575,9 @@
             "title": "His Work",
             "translator": []
           },
-          "$id": "00000197-ad1e-da48-a5df-adff215e0000",
+          "$id": "00000197-d108-d170-af97-d3b9fe350000",
           "$model": "assetPurpose",
-          "$rootId": "00000197-ad1e-da48-a5df-adff215e0000",
+          "$rootId": "00000197-d108-d170-af97-d3b9fe350000",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -1717,9 +1717,9 @@
             "title": "His Work",
             "translator": []
           },
-          "$id": "00000197-ad1e-da48-a5df-adff215e0001",
+          "$id": "00000197-d108-d170-af97-d3b9fe350001",
           "$model": "assetPurpose",
-          "$rootId": "00000197-ad1e-da48-a5df-adff215e0001",
+          "$rootId": "00000197-d108-d170-af97-d3b9fe350001",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         }
@@ -1786,7 +1786,7 @@
       "assets": [
         {
           "annotatedFields": {},
-          "assetType": "AUDIO_INSTRUMENTAL",
+          "assetType": "AUDIO_ACCOMPANIMENT",
           "attributes": {},
           "locatorIds": [],
           "mediaObject": {
@@ -1920,9 +1920,9 @@
             "title": "Daughter of Light",
             "translator": []
           },
-          "$id": "00000197-ad1e-da48-a5df-adff22700000",
+          "$id": "00000197-d108-d170-af97-d3b9ff280000",
           "$model": "assetPurpose",
-          "$rootId": "00000197-ad1e-da48-a5df-adff22700000",
+          "$rootId": "00000197-d108-d170-af97-d3b9ff280000",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -2062,9 +2062,9 @@
             "title": "Daughter of Light",
             "translator": []
           },
-          "$id": "00000197-ad1e-da48-a5df-adff22700001",
+          "$id": "00000197-d108-d170-af97-d3b9ff280001",
           "$model": "assetPurpose",
-          "$rootId": "00000197-ad1e-da48-a5df-adff22700001",
+          "$rootId": "00000197-d108-d170-af97-d3b9ff280001",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         }
@@ -2137,7 +2137,7 @@
       "assets": [
         {
           "annotatedFields": {},
-          "assetType": "AUDIO_INSTRUMENTAL",
+          "assetType": "AUDIO_ACCOMPANIMENT",
           "attributes": {},
           "locatorIds": [],
           "mediaObject": {
@@ -2271,9 +2271,9 @@
             "title": "I Need Your Strength",
             "translator": []
           },
-          "$id": "00000197-ad1e-da48-a5df-adff21090000",
+          "$id": "00000197-d108-d170-af97-d3b9fde70000",
           "$model": "assetPurpose",
-          "$rootId": "00000197-ad1e-da48-a5df-adff21090000",
+          "$rootId": "00000197-d108-d170-af97-d3b9fde70000",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -2413,9 +2413,9 @@
             "title": "I Need Your Strength",
             "translator": []
           },
-          "$id": "00000197-ad1e-da48-a5df-adff21090001",
+          "$id": "00000197-d108-d170-af97-d3b9fde70001",
           "$model": "assetPurpose",
-          "$rootId": "00000197-ad1e-da48-a5df-adff21090001",
+          "$rootId": "00000197-d108-d170-af97-d3b9fde70001",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         }
@@ -3852,6 +3852,55 @@
       "assets": [
         {
           "annotatedFields": {},
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "un3h6f16f8zaaooy73qrnzyuk86robq4a12k4189",
+            "attributes": {},
+            "composer": [],
+            "description": "Because He Lives",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/un/3h/un3h6f16f8zaaooy73qrnzyuk86robq4a12k4189/because_he_lives_2025.mp3",
+            "duration": 227000,
+            "isPartOf": [],
+            "keywords": [],
+            "$lastUpdatedDate": "Thu Apr 03 12:39:25 EDT 2025",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "00000195-fc85-d7dd-abd5-ffdf893f0000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "00000195-fc85-d7dd-abd5-ffdf893f0000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "Accompaniment track for “Because He Lives\" from the 2025 Youth Album.",
+            "publicDownload": [],
+            "$publishDate": "Thu Apr 03 12:39:24 EDT 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Because He Lives",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Because He Lives",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Because He Lives",
+            "shareableTitle": "Because He Lives",
+            "title": "Because He Lives",
+            "translator": []
+          },
+          "$id": "00000197-d109-d170-af97-d3b984180000",
+          "$model": "assetPurpose",
+          "$rootId": "00000197-d109-d170-af97-d3b984180000",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        },
+        {
+          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
           "attributes": {},
           "locatorIds": [],
@@ -3984,9 +4033,9 @@
             "title": "Because He Lives (Piano)",
             "translator": []
           },
-          "$id": "00000196-da4e-d350-abff-fb7ea0150000",
+          "$id": "00000197-d109-d170-af97-d3b984180001",
           "$model": "assetPurpose",
-          "$rootId": "00000196-da4e-d350-abff-fb7ea0150000",
+          "$rootId": "00000197-d109-d170-af97-d3b984180001",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         }
@@ -4380,9 +4429,386 @@
           "$publishStatus": "PUBLISHED"
         }
       ]
+    },
+    {
+      "title": "I’ll Hold On",
+      "slug": "ill-hold-on-2025",
+      "bookSlug": "look-unto-christ-2025-youth-album",
+      "bookSectionTitle": "2025 Singles",
+      "songNumber": "8",
+      "songDate": "2025-07-04",
+      "arrangers": [
+        {
+          "personName": "Mitch Davis"
+        },
+        {
+          "personName": "Todd Trần"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Jay Phung"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Luz Ysabelle Cuevas"
+        },
+        {
+          "personName": "Connor Austin"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Mitch Davis"
+        },
+        {
+          "personName": "Todd Trần"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Guitar"
+        },
+        {
+          "name": "Drums"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Jesus Christ",
+        "youth"
+      ],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": [
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "p2i91jmg8yhkezci14xtqfpgazhf512qslx40n8b",
+            "attributes": {},
+            "composer": [],
+            "description": "\"I'll Hold On\" from the 2026 Youth Album. English.",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/p2/i9/p2i91jmg8yhkezci14xtqfpgazhf512qslx40n8b/ill_hold_on.mp3",
+            "duration": 189000,
+            "isPartOf": [],
+            "keywords": [
+              "music",
+              "Youth Music",
+              "youth"
+            ],
+            "$lastUpdatedDate": "Thu Jul 03 12:05:54 EDT 2025",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "00000197-d109-d170-af97-d3b992af0000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "00000197-d109-d170-af97-d3b992af0000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "\"I'll Hold On\" from the 2026 Youth Album. English.",
+            "publicDownload": [],
+            "$publishDate": "Thu Jul 03 12:05:54 EDT 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "\"I'll Hold On\" from the 2026 Youth Album. English.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "I'll Hold On",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "\"I'll Hold On\" from the 2026 Youth Album. English.",
+            "shareableTitle": "I'll Hold On",
+            "thumbnail": {
+              "annotatedFields": {},
+              "assetID": "ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt",
+              "attributes": {},
+              "description": "Album Cover for Strive To Be Single “I’ll Hold On”",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/1920,/0/default",
+              "focalPoint": {
+                "x": "50.00%",
+                "y": "50.00%"
+              },
+              "isPartOf": [],
+              "keywords": [],
+              "$lastUpdatedDate": "Thu Jun 26 15:23:18 EDT 2025",
+              "locatorIds": [],
+              "noindex": false,
+              "$id": "00000197-adb1-d107-abd7-fdf5cc0a0000",
+              "$lang": "eng",
+              "$model": "image",
+              "$rootId": "00000197-adb1-d107-abd7-fdf5cc0a0000",
+              "$site": "music",
+              "products": [],
+              "publicAltText": "Album Cover for Strive To Be Single \"I'll Hold On\"",
+              "publicDownload": [],
+              "$publishDate": "Thu Jun 26 15:23:19 EDT 2025",
+              "$publishStatus": "PUBLISHED",
+              "related": [],
+              "renditions": [
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!320%2C320/0/default",
+                  "height": 320,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!320%2C320/0/default",
+                  "width": 320
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!640%2C640/0/default",
+                  "height": 640,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!640%2C640/0/default",
+                  "width": 640
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!800%2C800/0/default",
+                  "height": 800,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!800%2C800/0/default",
+                  "width": 800
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!1280%2C1279/0/default",
+                  "height": 1279,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!1280%2C1279/0/default",
+                  "width": 1280
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!1600%2C1599/0/default",
+                  "height": 1599,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!1600%2C1599/0/default",
+                  "width": 1600
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!1920%2C1919/0/default",
+                  "height": 1919,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!1920%2C1919/0/default",
+                  "width": 1920
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!60%2C60/0/default",
+                  "height": 60,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!60%2C60/0/default",
+                  "width": 60
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!250%2C250/0/default",
+                  "height": 250,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!250%2C250/0/default",
+                  "width": 250
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!200%2C200/0/default",
+                  "height": 200,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!200%2C200/0/default",
+                  "width": 200
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!100%2C100/0/default",
+                  "height": 100,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!100%2C100/0/default",
+                  "width": 100
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!500%2C500/0/default",
+                  "height": 500,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!500%2C500/0/default",
+                  "width": 500
+                }
+              ],
+              "requiredAssets": [],
+              "sameAs": [],
+              "seoDescription": "Album Cover for Strive To Be Single \"I'll Hold On\"",
+              "seoDescriptionAiGenerated": false,
+              "seoTitle": "No Title",
+              "seoTitleAiGenerated": false,
+              "shareableDescription": "Album Cover for Strive To Be Single \"I'll Hold On\"",
+              "shareableTitle": "No Title",
+              "title": "No Title"
+            },
+            "title": "I'll Hold On",
+            "translator": []
+          },
+          "$id": "00000197-d109-d170-af97-d3b993df0000",
+          "$model": "assetPurpose",
+          "$rootId": "00000197-d109-d170-af97-d3b993df0000",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        },
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_VOCAL",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "zu1ghm5m81n0lrvdmevwhgxlxbopm59tu50us4qr",
+            "attributes": {},
+            "composer": [],
+            "description": "\"I'll Hold On\" from the 2026 Youth Album. English.",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/zu/1g/zu1ghm5m81n0lrvdmevwhgxlxbopm59tu50us4qr/ill_hold_on.mp3",
+            "duration": 189000,
+            "isPartOf": [],
+            "keywords": [
+              "music",
+              "Youth Music",
+              "youth"
+            ],
+            "$lastUpdatedDate": "Thu Jun 26 15:23:20 EDT 2025",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "00000197-adb1-d107-abd7-fdf5cda90000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "00000197-adb1-d107-abd7-fdf5cda90000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "\"I'll Hold On\" from the 2026 Youth Album. English.",
+            "publicDownload": [],
+            "$publishDate": "Thu Jun 26 15:23:20 EDT 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "\"I'll Hold On\" from the 2026 Youth Album. English.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "I'll Hold On",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "\"I'll Hold On\" from the 2026 Youth Album. English.",
+            "shareableTitle": "I'll Hold On",
+            "thumbnail": {
+              "annotatedFields": {},
+              "assetID": "ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt",
+              "attributes": {},
+              "description": "Album Cover for Strive To Be Single “I’ll Hold On”",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/1920,/0/default",
+              "focalPoint": {
+                "x": "50.00%",
+                "y": "50.00%"
+              },
+              "isPartOf": [],
+              "keywords": [],
+              "$lastUpdatedDate": "Thu Jun 26 15:23:18 EDT 2025",
+              "locatorIds": [],
+              "noindex": false,
+              "$id": "00000197-adb1-d107-abd7-fdf5cc0a0000",
+              "$lang": "eng",
+              "$model": "image",
+              "$rootId": "00000197-adb1-d107-abd7-fdf5cc0a0000",
+              "$site": "music",
+              "products": [],
+              "publicAltText": "Album Cover for Strive To Be Single \"I'll Hold On\"",
+              "publicDownload": [],
+              "$publishDate": "Thu Jun 26 15:23:19 EDT 2025",
+              "$publishStatus": "PUBLISHED",
+              "related": [],
+              "renditions": [
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!320%2C320/0/default",
+                  "height": 320,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!320%2C320/0/default",
+                  "width": 320
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!640%2C640/0/default",
+                  "height": 640,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!640%2C640/0/default",
+                  "width": 640
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!800%2C800/0/default",
+                  "height": 800,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!800%2C800/0/default",
+                  "width": 800
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!1280%2C1279/0/default",
+                  "height": 1279,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!1280%2C1279/0/default",
+                  "width": 1280
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!1600%2C1599/0/default",
+                  "height": 1599,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!1600%2C1599/0/default",
+                  "width": 1600
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!1920%2C1919/0/default",
+                  "height": 1919,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!1920%2C1919/0/default",
+                  "width": 1920
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!60%2C60/0/default",
+                  "height": 60,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!60%2C60/0/default",
+                  "width": 60
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!250%2C250/0/default",
+                  "height": 250,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!250%2C250/0/default",
+                  "width": 250
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!200%2C200/0/default",
+                  "height": 200,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!200%2C200/0/default",
+                  "width": 200
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!100%2C100/0/default",
+                  "height": 100,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!100%2C100/0/default",
+                  "width": 100
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!500%2C500/0/default",
+                  "height": 500,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!500%2C500/0/default",
+                  "width": 500
+                }
+              ],
+              "requiredAssets": [],
+              "sameAs": [],
+              "seoDescription": "Album Cover for Strive To Be Single \"I'll Hold On\"",
+              "seoDescriptionAiGenerated": false,
+              "seoTitle": "No Title",
+              "seoTitleAiGenerated": false,
+              "shareableDescription": "Album Cover for Strive To Be Single \"I'll Hold On\"",
+              "shareableTitle": "No Title",
+              "title": "No Title"
+            },
+            "title": "I'll Hold On",
+            "translator": []
+          },
+          "$id": "00000197-d109-d170-af97-d3b993df0001",
+          "$model": "assetPurpose",
+          "$rootId": "00000197-d109-d170-af97-d3b993df0001",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
     }
   ],
   "limit": 500,
   "offset": 0,
-  "total": 14
+  "total": 15
 }
