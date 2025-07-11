@@ -3825,7 +3825,7 @@
       "assets": [
         {
           "annotatedFields": {},
-          "assetType": "AUDIO_INSTRUMENTAL",
+          "assetType": "AUDIO_ACCOMPANIMENT",
           "attributes": {},
           "locatorIds": [],
           "mediaObject": {
@@ -3977,9 +3977,9 @@
             "title": "No Apologies",
             "translator": []
           },
-          "$id": "00000197-84e9-d52b-a5f7-fced3fad0000",
+          "$id": "00000197-f594-d591-a797-fd94d4c10000",
           "$model": "assetPurpose",
-          "$rootId": "00000197-84e9-d52b-a5f7-fced3fad0000",
+          "$rootId": "00000197-f594-d591-a797-fd94d4c10000",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -4139,9 +4139,9 @@
             "title": "No Apologies",
             "translator": []
           },
-          "$id": "00000197-84e9-d52b-a5f7-fced3fad0001",
+          "$id": "00000197-f594-d591-a797-fd94d4c20000",
           "$model": "assetPurpose",
-          "$rootId": "00000197-84e9-d52b-a5f7-fced3fad0001",
+          "$rootId": "00000197-f594-d591-a797-fd94d4c20000",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         }
@@ -4571,7 +4571,7 @@
       "assets": [
         {
           "annotatedFields": {},
-          "assetType": "AUDIO_INSTRUMENTAL",
+          "assetType": "AUDIO_ACCOMPANIMENT",
           "attributes": {},
           "locatorIds": [],
           "mediaObject": {
@@ -4723,9 +4723,9 @@
             "title": "Lift Me Up with Your Light",
             "translator": []
           },
-          "$id": "00000197-84e9-d52b-a5f7-fced40150000",
+          "$id": "00000197-f594-d591-a797-fd94d51d0000",
           "$model": "assetPurpose",
-          "$rootId": "00000197-84e9-d52b-a5f7-fced40150000",
+          "$rootId": "00000197-f594-d591-a797-fd94d51d0000",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -4876,9 +4876,9 @@
             "title": "Lift Me Up with Your Light",
             "translator": []
           },
-          "$id": "00000197-84e9-d52b-a5f7-fced40150001",
+          "$id": "00000197-f594-d591-a797-fd94d51d0001",
           "$model": "assetPurpose",
-          "$rootId": "00000197-84e9-d52b-a5f7-fced40150001",
+          "$rootId": "00000197-f594-d591-a797-fd94d51d0001",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         }
@@ -4947,7 +4947,7 @@
       "assets": [
         {
           "annotatedFields": {},
-          "assetType": "AUDIO_INSTRUMENTAL",
+          "assetType": "AUDIO_ACCOMPANIMENT",
           "attributes": {},
           "locatorIds": [],
           "mediaObject": {
@@ -5099,9 +5099,9 @@
             "title": "Light the Way",
             "translator": []
           },
-          "$id": "00000197-84e9-d52b-a5f7-fced3fe90000",
+          "$id": "00000197-f594-d591-a797-fd94d4ef0000",
           "$model": "assetPurpose",
-          "$rootId": "00000197-84e9-d52b-a5f7-fced3fe90000",
+          "$rootId": "00000197-f594-d591-a797-fd94d4ef0000",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -5259,9 +5259,9 @@
             "title": "Light the Way",
             "translator": []
           },
-          "$id": "00000197-84e9-d52b-a5f7-fced3fe90001",
+          "$id": "00000197-f594-d591-a797-fd94d4ef0001",
           "$model": "assetPurpose",
-          "$rootId": "00000197-84e9-d52b-a5f7-fced3fe90001",
+          "$rootId": "00000197-f594-d591-a797-fd94d4ef0001",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         }
