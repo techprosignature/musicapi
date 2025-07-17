@@ -5895,7 +5895,7 @@
             "keywords": [
               "music"
             ],
-            "$lastUpdatedDate": "Wed Mar 05 12:45:31 EST 2025",
+            "$lastUpdatedDate": "Wed Jul 16 20:20:09 EDT 2025",
             "locatorIds": [],
             "lyricist": [],
             "noindex": false,
@@ -5943,7 +5943,7 @@
                 "Instruments (Musical)",
                 "Pencils"
               ],
-              "$lastUpdatedDate": "Wed Mar 05 12:45:38 EST 2025",
+              "$lastUpdatedDate": "Wed Jul 16 20:20:13 EDT 2025",
               "locatorIds": [],
               "noindex": false,
               "$id": "00000184-0ed3-d3a5-ab95-1ffb2c620000",
@@ -5952,11 +5952,11 @@
               "$rootId": "00000184-0ed3-d3a5-ab95-1ffb2c620000",
               "$site": "music",
               "products": [],
-              "publicAltText": "A woman sits at a piano and touches the keys with one hand and makes notes on her sheet of music with the other.",
+              "publicAltText": "A close up side view photo of a woman sitting at a piano and playing the keys with one hand and writing notes on her sheet of music with the other. The photo only shows the hands and it is implied that this is a woman.",
               "publicDownload": [
                 "View",
-                "Share",
-                "Download"
+                "Download",
+                "Share"
               ],
               "$publishDate": "Tue Oct 25 07:07:11 EDT 2022",
               "$publishStatus": "PUBLISHED",
