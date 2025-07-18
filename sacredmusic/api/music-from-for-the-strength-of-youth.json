@@ -14431,7 +14431,7 @@
               "Jesus Christ",
               "youth"
             ],
-            "$lastUpdatedDate": "Mon Jun 23 13:45:28 EDT 2025",
+            "$lastUpdatedDate": "Thu Jul 17 18:53:13 EDT 2025",
             "locatorIds": [],
             "lyricist": [],
             "noindex": false,
@@ -14468,7 +14468,7 @@
               "ipCode": "0 - IRI Owned",
               "isPartOf": [],
               "keywords": [],
-              "$lastUpdatedDate": "Mon Jun 23 13:49:09 EDT 2025",
+              "$lastUpdatedDate": "Thu Jul 17 18:56:26 EDT 2025",
               "locatorIds": [],
               "noindex": false,
               "$id": "0000018a-f21f-d8ec-abdb-f6bfa1190000",
@@ -14594,7 +14594,7 @@
               "youth",
               "Disciples"
             ],
-            "$lastUpdatedDate": "Mon Jun 23 13:45:40 EDT 2025",
+            "$lastUpdatedDate": "Thu Jul 17 18:53:25 EDT 2025",
             "locatorIds": [],
             "lyricist": [],
             "noindex": false,
@@ -14631,7 +14631,7 @@
               "ipCode": "0 - IRI Owned",
               "isPartOf": [],
               "keywords": [],
-              "$lastUpdatedDate": "Mon Jun 23 13:49:09 EDT 2025",
+              "$lastUpdatedDate": "Thu Jul 17 18:56:26 EDT 2025",
               "locatorIds": [],
               "noindex": false,
               "$id": "0000018a-f21f-d8ec-abdb-f6bfa1190000",
@@ -14816,7 +14816,7 @@
               "Jesus Christ",
               "youth"
             ],
-            "$lastUpdatedDate": "Mon Jun 23 13:45:29 EDT 2025",
+            "$lastUpdatedDate": "Thu Jul 17 18:53:14 EDT 2025",
             "locatorIds": [],
             "lyricist": [],
             "noindex": false,
@@ -14860,7 +14860,7 @@
               "ipCode": "0 - IRI Owned",
               "isPartOf": [],
               "keywords": [],
-              "$lastUpdatedDate": "Mon Jun 23 13:49:09 EDT 2025",
+              "$lastUpdatedDate": "Thu Jul 17 18:56:26 EDT 2025",
               "locatorIds": [],
               "noindex": false,
               "$id": "0000018a-f21f-d8ec-abdb-f6bfa1190000",
@@ -14985,7 +14985,7 @@
               "Jesus Christ",
               "youth"
             ],
-            "$lastUpdatedDate": "Mon Jun 23 13:45:29 EDT 2025",
+            "$lastUpdatedDate": "Thu Jul 17 18:53:14 EDT 2025",
             "locatorIds": [],
             "lyricist": [],
             "noindex": false,
@@ -15022,7 +15022,7 @@
               "ipCode": "0 - IRI Owned",
               "isPartOf": [],
               "keywords": [],
-              "$lastUpdatedDate": "Mon Jun 23 13:49:09 EDT 2025",
+              "$lastUpdatedDate": "Thu Jul 17 18:56:26 EDT 2025",
               "locatorIds": [],
               "noindex": false,
               "$id": "0000018a-f21f-d8ec-abdb-f6bfa1190000",
@@ -15202,7 +15202,7 @@
               "youth",
               "mercy"
             ],
-            "$lastUpdatedDate": "Mon Jun 23 13:45:39 EDT 2025",
+            "$lastUpdatedDate": "Thu Jul 17 18:53:25 EDT 2025",
             "locatorIds": [],
             "lyricist": [],
             "noindex": false,
@@ -15246,7 +15246,7 @@
               "ipCode": "0 - IRI Owned",
               "isPartOf": [],
               "keywords": [],
-              "$lastUpdatedDate": "Mon Jun 23 13:49:09 EDT 2025",
+              "$lastUpdatedDate": "Thu Jul 17 18:56:26 EDT 2025",
               "locatorIds": [],
               "noindex": false,
               "$id": "0000018a-f21f-d8ec-abdb-f6bfa1190000",
@@ -15373,7 +15373,7 @@
               "youth",
               "mercy"
             ],
-            "$lastUpdatedDate": "Mon Jun 23 13:45:36 EDT 2025",
+            "$lastUpdatedDate": "Thu Jul 17 18:53:21 EDT 2025",
             "locatorIds": [],
             "lyricist": [],
             "noindex": false,
@@ -15410,7 +15410,7 @@
               "ipCode": "0 - IRI Owned",
               "isPartOf": [],
               "keywords": [],
-              "$lastUpdatedDate": "Mon Jun 23 13:49:09 EDT 2025",
+              "$lastUpdatedDate": "Thu Jul 17 18:56:26 EDT 2025",
               "locatorIds": [],
               "noindex": false,
               "$id": "0000018a-f21f-d8ec-abdb-f6bfa1190000",
@@ -16183,7 +16183,7 @@
       "assets": [
         {
           "annotatedFields": {},
-          "assetType": "AUDIO_INSTRUMENTAL",
+          "assetType": "AUDIO_ACCOMPANIMENT",
           "attributes": {},
           "locatorIds": [],
           "mediaObject": {
@@ -16317,9 +16317,9 @@
             "title": "Doubt Not",
             "translator": []
           },
-          "$id": "00000197-ad1e-da48-a5df-adff22150000",
+          "$id": "00000197-d108-d170-af97-d3b9feda0000",
           "$model": "assetPurpose",
-          "$rootId": "00000197-ad1e-da48-a5df-adff22150000",
+          "$rootId": "00000197-d108-d170-af97-d3b9feda0000",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -16459,9 +16459,9 @@
             "title": "Doubt Not",
             "translator": []
           },
-          "$id": "00000197-ad1e-da48-a5df-adff22150001",
+          "$id": "00000197-d108-d170-af97-d3b9feda0001",
           "$model": "assetPurpose",
-          "$rootId": "00000197-ad1e-da48-a5df-adff22150001",
+          "$rootId": "00000197-d108-d170-af97-d3b9feda0001",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         }
@@ -16661,9 +16661,9 @@
             "title": "Fear Not",
             "translator": []
           },
-          "$id": "00000197-ad1e-da48-a5df-adff21be0000",
+          "$id": "00000197-d108-d170-af97-d3b9fe8b0000",
           "$model": "assetPurpose",
-          "$rootId": "00000197-ad1e-da48-a5df-adff21be0000",
+          "$rootId": "00000197-d108-d170-af97-d3b9fe8b0000",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -16803,9 +16803,344 @@
             "title": "Fear Not",
             "translator": []
           },
-          "$id": "00000197-ad1e-da48-a5df-adff21be0001",
+          "$id": "00000197-d108-d170-af97-d3b9fe8b0001",
           "$model": "assetPurpose",
-          "$rootId": "00000197-ad1e-da48-a5df-adff21be0001",
+          "$rootId": "00000197-d108-d170-af97-d3b9fe8b0001",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
+    },
+    {
+      "title": "Christ the Lord",
+      "subtitle": "for solo and trio",
+      "slug": "christ-the-lord-2025",
+      "bookSlug": "music-from-for-the-strength-of-youth",
+      "bookSectionTitle": "2025",
+      "songNumber": "",
+      "songDate": "2025-12-01",
+      "arrangers": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Mitch Davis"
+        },
+        {
+          "personName": "Gavin McMahan"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Evie Clair"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": true,
+      "tags": [],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": [
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "cbf9cc7a0e2111ef9cf6eeeeac1ebd08f036925c",
+            "attributes": {},
+            "composer": [],
+            "description": "Instrumental track for \"Christ the Lord\" from the 2024 Youth Album.",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/cb/f9/cbf9cc7a0e2111ef9cf6eeeeac1ebd08f036925c/christ_the_lord_instrumental_2025.mp3",
+            "duration": 173000,
+            "ipCode": "0 - IRI Owned",
+            "isPartOf": [],
+            "keywords": [
+              "music",
+              "Youth Music",
+              "youth"
+            ],
+            "$lastUpdatedDate": "Wed Nov 20 13:17:23 EST 2024",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "0000018f-8267-d3e8-a9ef-de7fef020000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "0000018f-8267-d3e8-a9ef-de7fef020000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "Instrumental track for \"Christ the Lord\" from the 2024 Youth Album.",
+            "publicDownload": [],
+            "$publishDate": "Thu May 16 13:16:40 EDT 2024",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Instrumental track for \"Christ the Lord\" from the 2024 Youth Album.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Christ the Lord",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Instrumental track for \"Christ the Lord\" from the 2024 Youth Album.",
+            "shareableTitle": "Christ the Lord",
+            "thumbnail": {
+              "annotatedFields": {},
+              "assetID": "il49yakrsfgezwjgpk249jibyzm77k3izdrck6l8",
+              "attributes": {},
+              "description": "Christ The Lord Album Cover",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/il49yakrsfgezwjgpk249jibyzm77k3izdrck6l8/full/800,/0/default",
+              "focalPoint": {
+                "x": "50.00%",
+                "y": "50.00%"
+              },
+              "isPartOf": [],
+              "keywords": [],
+              "$lastUpdatedDate": "Wed Nov 20 13:17:22 EST 2024",
+              "locatorIds": [],
+              "noindex": false,
+              "$id": "00000193-4acb-d739-a3b3-7afb0ca90000",
+              "$lang": "eng",
+              "$model": "image",
+              "$rootId": "00000193-4acb-d739-a3b3-7afb0ca90000",
+              "$site": "music",
+              "products": [],
+              "publicAltText": "Christ The Lord Album Cover",
+              "publicDownload": [],
+              "$publishDate": "Wed Nov 20 13:17:21 EST 2024",
+              "$publishStatus": "PUBLISHED",
+              "related": [],
+              "renditions": [
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/il49yakrsfgezwjgpk249jibyzm77k3izdrck6l8/full/!320%2C320/0/default",
+                  "height": 320,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/il49yakrsfgezwjgpk249jibyzm77k3izdrck6l8/full/!320%2C320/0/default",
+                  "width": 320
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/il49yakrsfgezwjgpk249jibyzm77k3izdrck6l8/full/!640%2C640/0/default",
+                  "height": 640,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/il49yakrsfgezwjgpk249jibyzm77k3izdrck6l8/full/!640%2C640/0/default",
+                  "width": 640
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/il49yakrsfgezwjgpk249jibyzm77k3izdrck6l8/full/!800%2C800/0/default",
+                  "height": 800,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/il49yakrsfgezwjgpk249jibyzm77k3izdrck6l8/full/!800%2C800/0/default",
+                  "width": 800
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/il49yakrsfgezwjgpk249jibyzm77k3izdrck6l8/full/!60%2C60/0/default",
+                  "height": 60,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/il49yakrsfgezwjgpk249jibyzm77k3izdrck6l8/full/!60%2C60/0/default",
+                  "width": 60
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/il49yakrsfgezwjgpk249jibyzm77k3izdrck6l8/full/!250%2C250/0/default",
+                  "height": 250,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/il49yakrsfgezwjgpk249jibyzm77k3izdrck6l8/full/!250%2C250/0/default",
+                  "width": 250
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/il49yakrsfgezwjgpk249jibyzm77k3izdrck6l8/full/!200%2C200/0/default",
+                  "height": 200,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/il49yakrsfgezwjgpk249jibyzm77k3izdrck6l8/full/!200%2C200/0/default",
+                  "width": 200
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/il49yakrsfgezwjgpk249jibyzm77k3izdrck6l8/full/!100%2C100/0/default",
+                  "height": 100,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/il49yakrsfgezwjgpk249jibyzm77k3izdrck6l8/full/!100%2C100/0/default",
+                  "width": 100
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/il49yakrsfgezwjgpk249jibyzm77k3izdrck6l8/full/!500%2C500/0/default",
+                  "height": 500,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/il49yakrsfgezwjgpk249jibyzm77k3izdrck6l8/full/!500%2C500/0/default",
+                  "width": 500
+                }
+              ],
+              "requiredAssets": [],
+              "sameAs": [],
+              "seoDescription": "Christ The Lord Album Cover",
+              "seoDescriptionAiGenerated": false,
+              "seoTitle": "No Title",
+              "seoTitleAiGenerated": false,
+              "shareableDescription": "Christ The Lord Album Cover",
+              "shareableTitle": "No Title",
+              "title": "No Title"
+            },
+            "title": "Christ the Lord",
+            "translator": []
+          },
+          "$id": "00000198-19da-d591-a79a-bddac0fe0000",
+          "$model": "assetPurpose",
+          "$rootId": "00000198-19da-d591-a79a-bddac0fe0000",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        },
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_VOCAL",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "07a5e1a8f1f411eea0a1eeeeac1eceb71ef93557",
+            "attributes": {},
+            "composer": [],
+            "description": "Evie Clair sings “Christ the Lord\" from the 2025 Youth Album. English.",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/07/a5/07a5e1a8f1f411eea0a1eeeeac1eceb71ef93557/christ_the_lord_2025.mp3",
+            "duration": 173000,
+            "ipCode": "0 - IRI Owned",
+            "isPartOf": [],
+            "keywords": [
+              "music",
+              "Youth Music",
+              "youth"
+            ],
+            "$lastUpdatedDate": "Wed Nov 20 13:17:21 EST 2024",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "0000018e-caae-d42f-a99e-caaef4d70000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "0000018e-caae-d42f-a99e-caaef4d70000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "Evie Clair sings “Christ the Lord\" from the 2025 Youth Album. English.",
+            "publicDownload": [],
+            "$publishDate": "Wed Apr 10 21:04:07 EDT 2024",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Evie Clair sings “Christ the Lord\" from the 2025 Youth Album. English.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "Christ the Lord",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Evie Clair sings “Christ the Lord\" from the 2025 Youth Album. English.",
+            "shareableTitle": "Christ the Lord",
+            "thumbnail": {
+              "annotatedFields": {},
+              "assetID": "il49yakrsfgezwjgpk249jibyzm77k3izdrck6l8",
+              "attributes": {},
+              "description": "Christ The Lord Album Cover",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/il49yakrsfgezwjgpk249jibyzm77k3izdrck6l8/full/800,/0/default",
+              "focalPoint": {
+                "x": "50.00%",
+                "y": "50.00%"
+              },
+              "isPartOf": [],
+              "keywords": [],
+              "$lastUpdatedDate": "Wed Nov 20 13:17:22 EST 2024",
+              "locatorIds": [],
+              "noindex": false,
+              "$id": "00000193-4acb-d739-a3b3-7afb0ca90000",
+              "$lang": "eng",
+              "$model": "image",
+              "$rootId": "00000193-4acb-d739-a3b3-7afb0ca90000",
+              "$site": "music",
+              "products": [],
+              "publicAltText": "Christ The Lord Album Cover",
+              "publicDownload": [],
+              "$publishDate": "Wed Nov 20 13:17:21 EST 2024",
+              "$publishStatus": "PUBLISHED",
+              "related": [],
+              "renditions": [
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/il49yakrsfgezwjgpk249jibyzm77k3izdrck6l8/full/!320%2C320/0/default",
+                  "height": 320,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/il49yakrsfgezwjgpk249jibyzm77k3izdrck6l8/full/!320%2C320/0/default",
+                  "width": 320
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/il49yakrsfgezwjgpk249jibyzm77k3izdrck6l8/full/!640%2C640/0/default",
+                  "height": 640,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/il49yakrsfgezwjgpk249jibyzm77k3izdrck6l8/full/!640%2C640/0/default",
+                  "width": 640
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/il49yakrsfgezwjgpk249jibyzm77k3izdrck6l8/full/!800%2C800/0/default",
+                  "height": 800,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/il49yakrsfgezwjgpk249jibyzm77k3izdrck6l8/full/!800%2C800/0/default",
+                  "width": 800
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/il49yakrsfgezwjgpk249jibyzm77k3izdrck6l8/full/!60%2C60/0/default",
+                  "height": 60,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/il49yakrsfgezwjgpk249jibyzm77k3izdrck6l8/full/!60%2C60/0/default",
+                  "width": 60
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/il49yakrsfgezwjgpk249jibyzm77k3izdrck6l8/full/!250%2C250/0/default",
+                  "height": 250,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/il49yakrsfgezwjgpk249jibyzm77k3izdrck6l8/full/!250%2C250/0/default",
+                  "width": 250
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/il49yakrsfgezwjgpk249jibyzm77k3izdrck6l8/full/!200%2C200/0/default",
+                  "height": 200,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/il49yakrsfgezwjgpk249jibyzm77k3izdrck6l8/full/!200%2C200/0/default",
+                  "width": 200
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/il49yakrsfgezwjgpk249jibyzm77k3izdrck6l8/full/!100%2C100/0/default",
+                  "height": 100,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/il49yakrsfgezwjgpk249jibyzm77k3izdrck6l8/full/!100%2C100/0/default",
+                  "width": 100
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/il49yakrsfgezwjgpk249jibyzm77k3izdrck6l8/full/!500%2C500/0/default",
+                  "height": 500,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/il49yakrsfgezwjgpk249jibyzm77k3izdrck6l8/full/!500%2C500/0/default",
+                  "width": 500
+                }
+              ],
+              "requiredAssets": [],
+              "sameAs": [],
+              "seoDescription": "Christ The Lord Album Cover",
+              "seoDescriptionAiGenerated": false,
+              "seoTitle": "No Title",
+              "seoTitleAiGenerated": false,
+              "shareableDescription": "Christ The Lord Album Cover",
+              "shareableTitle": "No Title",
+              "title": "No Title"
+            },
+            "title": "Christ the Lord",
+            "translator": []
+          },
+          "$id": "00000198-19da-d591-a79a-bddac0fe0001",
+          "$model": "assetPurpose",
+          "$rootId": "00000198-19da-d591-a79a-bddac0fe0001",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         }
@@ -16814,5 +17149,5 @@
   ],
   "limit": 500,
   "offset": 0,
-  "total": 200
+  "total": 201
 }

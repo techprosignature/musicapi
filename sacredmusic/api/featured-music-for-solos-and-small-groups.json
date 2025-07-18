@@ -10363,9 +10363,63 @@
         }
       ],
       "assets": []
+    },
+    {
+      "title": "Come unto Jesus",
+      "subtitle": "for Voice, Violin or Flute, and Piano",
+      "slug": "come-unto-jesus-edgeworth",
+      "bookSlug": "featured-music-for-solos-and-small-groups",
+      "songNumber": "",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Orson Pratt Huish"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Katherine Wright"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        },
+        {
+          "name": "Violin"
+        },
+        {
+          "name": "Flute"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Jesus Christ",
+        "comfort",
+        "faith",
+        "grace",
+        "guidance",
+        "love",
+        "peace",
+        "prayer",
+        "repentance"
+      ],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": []
     }
   ],
   "limit": 500,
   "offset": 0,
-  "total": 170
+  "total": 171
 }

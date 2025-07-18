@@ -187,9 +187,9 @@
             "title": "Christ the Lord",
             "translator": []
           },
-          "$id": "00000197-f594-d591-a797-fd94d6760000",
+          "$id": "00000198-19da-d591-a79a-bddac0fe0000",
           "$model": "assetPurpose",
-          "$rootId": "00000197-f594-d591-a797-fd94d6760000",
+          "$rootId": "00000198-19da-d591-a79a-bddac0fe0000",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -327,9 +327,9 @@
             "title": "Christ the Lord",
             "translator": []
           },
-          "$id": "00000197-f594-d591-a797-fd94d6760001",
+          "$id": "00000198-19da-d591-a79a-bddac0fe0001",
           "$model": "assetPurpose",
-          "$rootId": "00000197-f594-d591-a797-fd94d6760001",
+          "$rootId": "00000198-19da-d591-a79a-bddac0fe0001",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         }
@@ -426,7 +426,7 @@
               "Jesus Christ",
               "youth"
             ],
-            "$lastUpdatedDate": "Mon Jun 23 13:45:58 EDT 2025",
+            "$lastUpdatedDate": "Thu Jul 17 18:53:46 EDT 2025",
             "locatorIds": [],
             "lyricist": [],
             "noindex": false,
@@ -596,7 +596,7 @@
               "Jesus Christ",
               "youth"
             ],
-            "$lastUpdatedDate": "Mon Jun 23 13:45:58 EDT 2025",
+            "$lastUpdatedDate": "Thu Jul 17 18:53:47 EDT 2025",
             "locatorIds": [],
             "lyricist": [],
             "noindex": false,

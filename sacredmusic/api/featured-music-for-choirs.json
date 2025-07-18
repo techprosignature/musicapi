@@ -3038,8 +3038,7 @@
         "love",
         "peace",
         "prayer",
-        "repentance",
-        "trials"
+        "repentance"
       ],
       "voicings": [
         {
@@ -30842,9 +30841,194 @@
           "$publishStatus": "PUBLISHED"
         }
       ]
+    },
+    {
+      "title": "He Was Wounded",
+      "subtitle": "SATB with optional Violin, Cello, Trumpet and French Horn",
+      "slug": "he-was-wounded-farnworth",
+      "bookSlug": "featured-music-for-choirs",
+      "songNumber": "",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Ross Farnworth"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Ross Farnworth"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Violin"
+        },
+        {
+          "name": "Cello"
+        },
+        {
+          "name": "Trumpet"
+        },
+        {
+          "name": "French Horn"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Atonement of Jesus Christ",
+        "Jesus Christ"
+      ],
+      "voicings": [
+        {
+          "name": "SATB"
+        }
+      ],
+      "assets": []
+    },
+    {
+      "title": "Calvary is Far Away",
+      "subtitle": "SATB",
+      "slug": "calvary-is-far-away-pace",
+      "bookSlug": "featured-music-for-choirs",
+      "songNumber": "",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Mark R. Fotheringham"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Kevin G. Pace"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Atonement of Jesus Christ",
+        "resurrection",
+        "reverence"
+      ],
+      "voicings": [],
+      "assets": []
+    },
+    {
+      "title": "Away in a Manger",
+      "subtitle": "SATB and piano",
+      "slug": "away-in-a-manger-boren",
+      "bookSlug": "featured-music-for-choirs",
+      "songNumber": "",
+      "arrangers": [
+        {
+          "personName": "Sherrie Manwill Boren"
+        }
+      ],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Anon."
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Anon."
+        },
+        {
+          "personName": "Charles H. Gabriel"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Christmas",
+        "Jesus Christ",
+        "comfort",
+        "eternal life",
+        "joy",
+        "love",
+        "praise",
+        "prayer",
+        "worship"
+      ],
+      "voicings": [
+        {
+          "name": "SATB"
+        }
+      ],
+      "assets": []
+    },
+    {
+      "title": "The Promised Hour",
+      "subtitle": "SATB div., piano",
+      "slug": "the-promised-hour-wright",
+      "bookSlug": "featured-music-for-choirs",
+      "songNumber": "",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Sally DeFord"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Katherine Wright"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Jesus Christ",
+        "Millennium",
+        "Second Coming"
+      ],
+      "voicings": [
+        {
+          "name": "SATB"
+        }
+      ],
+      "assets": []
     }
   ],
   "limit": 500,
   "offset": 0,
-  "total": 410
+  "total": 412
 }

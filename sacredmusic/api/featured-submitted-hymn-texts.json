@@ -2881,9 +2881,66 @@
       ],
       "voicings": [],
       "assets": []
+    },
+    {
+      "title": "Father, God of All I See",
+      "slug": "father-god-of-all-i-see-fotheringham",
+      "bookSlug": "featured-submitted-hymn-texts",
+      "songNumber": "",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Mark R. Fotheringham"
+        }
+      ],
+      "composers": [],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Atonement of Jesus Christ",
+        "Jesus Christ",
+        "gratitude",
+        "plan of salvation",
+        "reverence"
+      ],
+      "voicings": [],
+      "assets": []
+    },
+    {
+      "title": "Armed with the Power of God",
+      "slug": "armed-with-the-power-of-god-larsen",
+      "bookSlug": "featured-submitted-hymn-texts",
+      "songNumber": "",
+      "arrangers": [],
+      "artists": [],
+      "authors": [],
+      "composers": [],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Heavenly Father",
+        "covenants"
+      ],
+      "voicings": [],
+      "assets": []
     }
   ],
   "limit": 500,
   "offset": 0,
-  "total": 94
+  "total": 96
 }

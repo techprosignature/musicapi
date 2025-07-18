@@ -21474,7 +21474,7 @@
             "keywords": [
               "Music"
             ],
-            "$lastUpdatedDate": "Wed Jul 09 16:04:59 EDT 2025",
+            "$lastUpdatedDate": "Thu Jul 17 19:25:00 EDT 2025",
             "locatorIds": [],
             "lyricist": [],
             "noindex": false,
@@ -23441,7 +23441,7 @@
               "Children",
               "Songs"
             ],
-            "$lastUpdatedDate": "Wed Jul 09 14:37:08 EDT 2025",
+            "$lastUpdatedDate": "Thu Jul 17 18:52:13 EDT 2025",
             "locatorIds": [],
             "lyricist": [],
             "noindex": false,
@@ -41520,9 +41520,9 @@
             "title": "I’m a Pioneer Too",
             "translator": []
           },
-          "$id": "00000197-60b9-dc97-addf-ebfb80f60000",
+          "$id": "00000197-84e9-d52b-a5f7-fced62fc0000",
           "$model": "assetPurpose",
-          "$rootId": "00000197-60b9-dc97-addf-ebfb80f60000",
+          "$rootId": "00000197-84e9-d52b-a5f7-fced62fc0000",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -41569,9 +41569,9 @@
             "title": "I’m a Pioneer Too",
             "translator": []
           },
-          "$id": "00000197-60b9-dc97-addf-ebfb80f60001",
+          "$id": "00000197-84e9-d52b-a5f7-fced62fc0001",
           "$model": "assetPurpose",
-          "$rootId": "00000197-60b9-dc97-addf-ebfb80f60001",
+          "$rootId": "00000197-84e9-d52b-a5f7-fced62fc0001",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -41596,7 +41596,7 @@
               "sacrifice",
               "discipleship"
             ],
-            "$lastUpdatedDate": "Wed Jul 09 14:38:10 EDT 2025",
+            "$lastUpdatedDate": "Thu Jul 17 18:52:43 EDT 2025",
             "locatorIds": [],
             "lyricist": [],
             "noindex": false,
@@ -41633,7 +41633,7 @@
               "ipCode": "0 - IRI Owned",
               "isPartOf": [],
               "keywords": [],
-              "$lastUpdatedDate": "Wed Jul 09 14:38:35 EDT 2025",
+              "$lastUpdatedDate": "Thu Jul 17 18:53:04 EDT 2025",
               "locatorIds": [],
               "noindex": false,
               "$id": "0000018d-f618-d9c6-af9d-fe9d440a0000",
@@ -41712,9 +41712,9 @@
             "title": "I’m a Pioneer Too",
             "translator": []
           },
-          "$id": "00000197-60b9-dc97-addf-ebfb80f60002",
+          "$id": "00000197-84e9-d52b-a5f7-fced62fc0002",
           "$model": "assetPurpose",
-          "$rootId": "00000197-60b9-dc97-addf-ebfb80f60002",
+          "$rootId": "00000197-84e9-d52b-a5f7-fced62fc0002",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         }
@@ -42793,9 +42793,9 @@
             "title": "Because",
             "translator": []
           },
-          "$id": "00000197-60b9-dc97-addf-ebfb81ea0000",
+          "$id": "00000197-84e9-d52b-a5f7-fced63bd0000",
           "$model": "assetPurpose",
-          "$rootId": "00000197-60b9-dc97-addf-ebfb81ea0000",
+          "$rootId": "00000197-84e9-d52b-a5f7-fced63bd0000",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -42842,9 +42842,9 @@
             "title": "Because",
             "translator": []
           },
-          "$id": "00000197-60b9-dc97-addf-ebfb81ea0001",
+          "$id": "00000197-84e9-d52b-a5f7-fced63bd0001",
           "$model": "assetPurpose",
-          "$rootId": "00000197-60b9-dc97-addf-ebfb81ea0001",
+          "$rootId": "00000197-84e9-d52b-a5f7-fced63bd0001",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -42873,7 +42873,7 @@
               "Jesus Christ",
               "Second Coming"
             ],
-            "$lastUpdatedDate": "Wed Jul 09 14:38:10 EDT 2025",
+            "$lastUpdatedDate": "Thu Jul 17 18:52:44 EDT 2025",
             "locatorIds": [],
             "lyricist": [],
             "noindex": false,
@@ -42910,7 +42910,7 @@
               "ipCode": "0 - IRI Owned",
               "isPartOf": [],
               "keywords": [],
-              "$lastUpdatedDate": "Wed Jul 09 14:38:35 EDT 2025",
+              "$lastUpdatedDate": "Thu Jul 17 18:53:04 EDT 2025",
               "locatorIds": [],
               "noindex": false,
               "$id": "0000018d-f618-d9c6-af9d-fe9d440a0000",
@@ -42989,9 +42989,9 @@
             "title": "Because",
             "translator": []
           },
-          "$id": "00000197-60b9-dc97-addf-ebfb81ea0002",
+          "$id": "00000197-84e9-d52b-a5f7-fced63bd0002",
           "$model": "assetPurpose",
-          "$rootId": "00000197-60b9-dc97-addf-ebfb81ea0002",
+          "$rootId": "00000197-84e9-d52b-a5f7-fced63bd0002",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         }
@@ -43776,9 +43776,212 @@
           "$publishStatus": "PUBLISHED"
         }
       ]
+    },
+    {
+      "title": "I Believe That Jesus Loves Me",
+      "slug": "i-believe-that-jesus-loves-me-2025",
+      "bookSlug": "music-from-the-friend",
+      "bookSectionTitle": "2025",
+      "songNumber": "",
+      "songDate": "2025-08-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Larry Pearson"
+        },
+        {
+          "personName": "Marie Pearson Tarbet"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Larry Pearson"
+        },
+        {
+          "personName": "Marie Pearson Tarbet"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Jesus Christ",
+        "children",
+        "love"
+      ],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": [
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_VOCAL_CHILDREN",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "14an7k2ptf2k30q8cgf9hgm9d1hmwqdldedr93ir",
+            "attributes": {},
+            "composer": [],
+            "description": "“I Believe that Jesus Loves Me” audio from the 2022 Music Submissions contest.",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/14/an/14an7k2ptf2k30q8cgf9hgm9d1hmwqdldedr93ir/i_believe_that_jesus_loves_me_tarbet.mp3",
+            "duration": 214000,
+            "ipCode": "9 - IRI licensed",
+            "isPartOf": [],
+            "keywords": [
+              "music"
+            ],
+            "$lastUpdatedDate": "Wed Jul 02 16:47:02 EDT 2025",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "00000193-30c6-da53-a5bf-3def479e0000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "00000193-30c6-da53-a5bf-3def479e0000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "“I Believe that Jesus Loves Me” audio from the 2022 Music Submissions contest.",
+            "publicDownload": [],
+            "$publishDate": "Fri Nov 15 12:02:01 EST 2024",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "“I Believe that Jesus Loves Me” audio from the 2022 Music Submissions contest.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "I Believe that Jesus Loves Me",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "“I Believe that Jesus Loves Me” audio from the 2022 Music Submissions contest.",
+            "shareableTitle": "I Believe that Jesus Loves Me",
+            "thumbnail": {
+              "annotatedFields": {},
+              "assetID": "4af047c91cb611ed8e44eeeeac1e5dcde1734669",
+              "attributes": {},
+              "description": "The sun rising or setting over a mountain.",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/1280,/0/default",
+              "focalPoint": {
+                "x": "50.00%",
+                "y": "50.00%"
+              },
+              "ipCode": "1 - Not IRI Owned",
+              "isPartOf": [],
+              "keywords": [
+                "mountains",
+                "Sunbursts",
+                "Sunlight",
+                "hills",
+                "Sunrises",
+                "Sun rays",
+                "Sunsets"
+              ],
+              "$lastUpdatedDate": "Wed Jul 02 17:39:11 EDT 2025",
+              "locatorIds": [],
+              "noindex": false,
+              "$id": "00000184-0ed7-d3a5-ab95-1fffdab00000",
+              "$lang": "eng",
+              "$model": "image",
+              "$rootId": "00000184-0ed7-d3a5-ab95-1fffdab00000",
+              "$site": "music",
+              "products": [],
+              "publicAltText": "The sun rising or setting over a mountain.",
+              "publicDownload": [],
+              "$publishDate": "Tue Oct 25 07:12:18 EDT 2022",
+              "$publishStatus": "PUBLISHED",
+              "related": [],
+              "renditions": [
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!320%2C320/0/default",
+                  "height": 320,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!320%2C320/0/default",
+                  "width": 320
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!640%2C640/0/default",
+                  "height": 640,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!640%2C640/0/default",
+                  "width": 640
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!800%2C800/0/default",
+                  "height": 800,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!800%2C800/0/default",
+                  "width": 800
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!1280%2C1280/0/default",
+                  "height": 1280,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!1280%2C1280/0/default",
+                  "width": 1280
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!60%2C60/0/default",
+                  "height": 60,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!60%2C60/0/default",
+                  "width": 60
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!250%2C250/0/default",
+                  "height": 250,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!250%2C250/0/default",
+                  "width": 250
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!200%2C200/0/default",
+                  "height": 200,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!200%2C200/0/default",
+                  "width": 200
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!100%2C100/0/default",
+                  "height": 100,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!100%2C100/0/default",
+                  "width": 100
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!500%2C500/0/default",
+                  "height": 500,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4af047c91cb611ed8e44eeeeac1e5dcde1734669/full/!500%2C500/0/default",
+                  "width": 500
+                }
+              ],
+              "requiredAssets": [],
+              "sameAs": [],
+              "seoDescription": "The sun rising or setting over a mountain.",
+              "seoDescriptionAiGenerated": false,
+              "seoTitle": "No Title",
+              "seoTitleAiGenerated": false,
+              "shareableDescription": "The sun rising or setting over a mountain.",
+              "shareableTitle": "No Title",
+              "title": "No Title"
+            },
+            "title": "I Believe that Jesus Loves Me",
+            "translator": []
+          },
+          "$id": "00000198-19da-d591-a79a-bddadeeb0000",
+          "$model": "assetPurpose",
+          "$rootId": "00000198-19da-d591-a79a-bddadeeb0000",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
     }
   ],
   "limit": 500,
   "offset": 0,
-  "total": 351
+  "total": 352
 }
