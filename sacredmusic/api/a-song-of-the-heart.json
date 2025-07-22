@@ -3901,7 +3901,7 @@
               "Songs",
               "Hymns"
             ],
-            "$lastUpdatedDate": "Fri Feb 07 17:29:33 EST 2025",
+            "$lastUpdatedDate": "Mon Jul 21 20:59:55 EDT 2025",
             "locatorIds": [],
             "lyricist": [],
             "noindex": false,
@@ -3941,7 +3941,7 @@
               "keywords": [
                 "Children's Songbook"
               ],
-              "$lastUpdatedDate": "Mon Jul 14 14:24:05 EDT 2025",
+              "$lastUpdatedDate": "Mon Jul 21 20:47:47 EDT 2025",
               "locatorIds": [],
               "noindex": false,
               "$id": "0000017a-108d-dcbd-a77b-dddde23f0000",
@@ -4010,11 +4010,11 @@
               "sameAs": [],
               "seoDescription": "Cover art for the Children's Songbook.",
               "seoDescriptionAiGenerated": false,
-              "seoTitle": "No Title",
+              "seoTitle": "Children's Songbook",
               "seoTitleAiGenerated": false,
               "shareableDescription": "Cover art for the Children's Songbook.",
-              "shareableTitle": "No Title",
-              "title": "No Title"
+              "shareableTitle": "Children's Songbook",
+              "title": "Children’s Songbook"
             },
             "title": "Hum Your Favorite Hymn",
             "translator": []
