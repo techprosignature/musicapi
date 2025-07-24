@@ -8933,9 +8933,70 @@
           "$publishStatus": "PUBLISHED"
         }
       ]
+    },
+    {
+      "title": "Adam-ondi-Ahman",
+      "subtitle": "hymn",
+      "slug": "adam-ondi-ahman-vance",
+      "bookSlug": "featured-submitted-hymns",
+      "songNumber": "",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "William W. Phelps"
+        },
+        {
+          "personName": "Michael M. Vance"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Michael M. Vance"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        },
+        {
+          "name": "Organ"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Heavenly Father",
+        "Jesus Christ",
+        "Joseph Smith",
+        "Second Coming",
+        "Zion",
+        "baptism",
+        "faith",
+        "family",
+        "missionary work",
+        "peace",
+        "plan of salvation",
+        "praise",
+        "priesthood",
+        "scriptures",
+        "temples",
+        "worship"
+      ],
+      "voicings": [
+        {
+          "name": "SATB"
+        }
+      ],
+      "assets": []
     }
   ],
   "limit": 500,
   "offset": 0,
-  "total": 121
+  "total": 122
 }
