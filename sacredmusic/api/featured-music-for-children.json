@@ -20933,9 +20933,9 @@
             "title": "I’m a Pioneer Too",
             "translator": []
           },
-          "$id": "00000197-84e9-d52b-a5f7-fced62fc0000",
+          "$id": "00000198-8ab1-d02f-abd8-bbf7e7b90000",
           "$model": "assetPurpose",
-          "$rootId": "00000197-84e9-d52b-a5f7-fced62fc0000",
+          "$rootId": "00000198-8ab1-d02f-abd8-bbf7e7b90000",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -20982,9 +20982,9 @@
             "title": "I’m a Pioneer Too",
             "translator": []
           },
-          "$id": "00000197-84e9-d52b-a5f7-fced62fc0001",
+          "$id": "00000198-8ab1-d02f-abd8-bbf7e7b90001",
           "$model": "assetPurpose",
-          "$rootId": "00000197-84e9-d52b-a5f7-fced62fc0001",
+          "$rootId": "00000198-8ab1-d02f-abd8-bbf7e7b90001",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -21125,9 +21125,9 @@
             "title": "I’m a Pioneer Too",
             "translator": []
           },
-          "$id": "00000197-84e9-d52b-a5f7-fced62fc0002",
+          "$id": "00000198-8ab1-d02f-abd8-bbf7e7b90002",
           "$model": "assetPurpose",
-          "$rootId": "00000197-84e9-d52b-a5f7-fced62fc0002",
+          "$rootId": "00000198-8ab1-d02f-abd8-bbf7e7b90002",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         }
@@ -25826,7 +25826,7 @@
               "ipCode": "0 - IRI Owned",
               "isPartOf": [],
               "keywords": [],
-              "$lastUpdatedDate": "Sat Apr 19 10:30:57 EDT 2025",
+              "$lastUpdatedDate": "Fri Aug 08 15:10:18 EDT 2025",
               "locatorIds": [],
               "noindex": false,
               "$id": "00000193-9999-d3ab-a7bf-bfbfd8860000",

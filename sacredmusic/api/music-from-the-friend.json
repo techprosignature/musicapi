@@ -43273,7 +43273,7 @@
               "ipCode": "0 - IRI Owned",
               "isPartOf": [],
               "keywords": [],
-              "$lastUpdatedDate": "Sat Apr 19 10:30:57 EDT 2025",
+              "$lastUpdatedDate": "Fri Aug 08 15:10:18 EDT 2025",
               "locatorIds": [],
               "noindex": false,
               "$id": "00000193-9999-d3ab-a7bf-bfbfd8860000",
@@ -43548,7 +43548,7 @@
               },
               "isPartOf": [],
               "keywords": [],
-              "$lastUpdatedDate": "Wed Jul 23 09:10:28 EDT 2025",
+              "$lastUpdatedDate": "Fri Aug 08 15:10:06 EDT 2025",
               "locatorIds": [],
               "noindex": false,
               "$id": "00000195-71e0-da66-a1dd-71fba1f30000",
@@ -43687,7 +43687,7 @@
               },
               "isPartOf": [],
               "keywords": [],
-              "$lastUpdatedDate": "Wed Jul 23 09:10:28 EDT 2025",
+              "$lastUpdatedDate": "Fri Aug 08 15:10:06 EDT 2025",
               "locatorIds": [],
               "noindex": false,
               "$id": "00000195-71e0-da66-a1dd-71fba1f30000",
@@ -43979,6 +43979,26 @@
           "$publishStatus": "PUBLISHED"
         }
       ]
+    },
+    {
+      "title": "Somewhere a Baby Sleeps",
+      "slug": "somewhere-a-baby-sleeps-simplified",
+      "bookSlug": "music-from-the-friend",
+      "bookSectionTitle": "2025",
+      "songNumber": "",
+      "songDate": "2025-12-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [],
+      "composers": [],
+      "instrumentations": [],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [],
+      "assets": []
     }
   ],
   "limit": 500,

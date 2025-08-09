@@ -2889,7 +2889,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": false,
+      "videoAvailable": true,
       "tags": [
         "Holy Ghost",
         "children",
@@ -3034,9 +3034,9 @@
             "title": "Think a Sacred Song",
             "translator": []
           },
-          "$id": "00000196-c6e2-d455-a9f6-deeef9180000",
+          "$id": "00000198-8ab1-d02f-abd8-bbf7c5c60000",
           "$model": "assetPurpose",
-          "$rootId": "00000196-c6e2-d455-a9f6-deeef9180000",
+          "$rootId": "00000198-8ab1-d02f-abd8-bbf7c5c60000",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -3172,9 +3172,9 @@
             "title": "Think a Sacred Song",
             "translator": []
           },
-          "$id": "00000196-c6e2-d455-a9f6-deeef9180001",
+          "$id": "00000198-8ab1-d02f-abd8-bbf7c5c60001",
           "$model": "assetPurpose",
-          "$rootId": "00000196-c6e2-d455-a9f6-deeef9180001",
+          "$rootId": "00000198-8ab1-d02f-abd8-bbf7c5c60001",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -3317,9 +3317,9 @@
             "title": "Think a Sacred Song",
             "translator": []
           },
-          "$id": "00000196-c6e2-d455-a9f6-deeef9180002",
+          "$id": "00000198-8ab1-d02f-abd8-bbf7c5c60002",
           "$model": "assetPurpose",
-          "$rootId": "00000196-c6e2-d455-a9f6-deeef9180002",
+          "$rootId": "00000198-8ab1-d02f-abd8-bbf7c5c60002",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         }
@@ -15118,9 +15118,9 @@
             "title": "I’m a Pioneer Too",
             "translator": []
           },
-          "$id": "00000197-84e9-d52b-a5f7-fced62fc0000",
+          "$id": "00000198-8ab1-d02f-abd8-bbf7e7b90000",
           "$model": "assetPurpose",
-          "$rootId": "00000197-84e9-d52b-a5f7-fced62fc0000",
+          "$rootId": "00000198-8ab1-d02f-abd8-bbf7e7b90000",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -15167,9 +15167,9 @@
             "title": "I’m a Pioneer Too",
             "translator": []
           },
-          "$id": "00000197-84e9-d52b-a5f7-fced62fc0001",
+          "$id": "00000198-8ab1-d02f-abd8-bbf7e7b90001",
           "$model": "assetPurpose",
-          "$rootId": "00000197-84e9-d52b-a5f7-fced62fc0001",
+          "$rootId": "00000198-8ab1-d02f-abd8-bbf7e7b90001",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -15310,9 +15310,9 @@
             "title": "I’m a Pioneer Too",
             "translator": []
           },
-          "$id": "00000197-84e9-d52b-a5f7-fced62fc0002",
+          "$id": "00000198-8ab1-d02f-abd8-bbf7e7b90002",
           "$model": "assetPurpose",
-          "$rootId": "00000197-84e9-d52b-a5f7-fced62fc0002",
+          "$rootId": "00000198-8ab1-d02f-abd8-bbf7e7b90002",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         }
