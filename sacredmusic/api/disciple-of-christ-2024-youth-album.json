@@ -4160,7 +4160,7 @@
               "ipCode": "1 - Not IRI Owned",
               "isPartOf": [],
               "keywords": [],
-              "$lastUpdatedDate": "Tue Nov 26 20:40:44 EST 2024",
+              "$lastUpdatedDate": "Thu Aug 14 19:40:09 EDT 2025",
               "locatorIds": [],
               "noindex": false,
               "$id": "0000018b-cec7-d5f5-a1db-eef71fae0000",
@@ -4323,7 +4323,7 @@
               "ipCode": "1 - Not IRI Owned",
               "isPartOf": [],
               "keywords": [],
-              "$lastUpdatedDate": "Tue Nov 26 20:40:44 EST 2024",
+              "$lastUpdatedDate": "Thu Aug 14 19:40:09 EDT 2025",
               "locatorIds": [],
               "noindex": false,
               "$id": "0000018b-cec7-d5f5-a1db-eef71fae0000",
@@ -5791,9 +5791,9 @@
             "title": "Lift Me Up with Your Light",
             "translator": []
           },
-          "$id": "00000198-8ab1-d02f-abd8-bbf7c6650000",
+          "$id": "00000198-a974-dacd-a1dc-ebf4bb4a0000",
           "$model": "assetPurpose",
-          "$rootId": "00000198-8ab1-d02f-abd8-bbf7c6650000",
+          "$rootId": "00000198-a974-dacd-a1dc-ebf4bb4a0000",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -5944,9 +5944,9 @@
             "title": "Lift Me Up with Your Light",
             "translator": []
           },
-          "$id": "00000198-8ab1-d02f-abd8-bbf7c6650001",
+          "$id": "00000198-a974-dacd-a1dc-ebf4bb4a0001",
           "$model": "assetPurpose",
-          "$rootId": "00000198-8ab1-d02f-abd8-bbf7c6650001",
+          "$rootId": "00000198-a974-dacd-a1dc-ebf4bb4a0001",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         }
@@ -6167,9 +6167,9 @@
             "title": "Light the Way",
             "translator": []
           },
-          "$id": "00000198-8ab1-d02f-abd8-bbf7c6300000",
+          "$id": "00000198-a974-dacd-a1dc-ebf4bb1d0000",
           "$model": "assetPurpose",
-          "$rootId": "00000198-8ab1-d02f-abd8-bbf7c6300000",
+          "$rootId": "00000198-a974-dacd-a1dc-ebf4bb1d0000",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -6327,9 +6327,9 @@
             "title": "Light the Way",
             "translator": []
           },
-          "$id": "00000198-8ab1-d02f-abd8-bbf7c6300001",
+          "$id": "00000198-a974-dacd-a1dc-ebf4bb1d0001",
           "$model": "assetPurpose",
-          "$rootId": "00000198-8ab1-d02f-abd8-bbf7c6300001",
+          "$rootId": "00000198-a974-dacd-a1dc-ebf4bb1d0001",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         }
@@ -6543,9 +6543,9 @@
             "title": "No Apologies",
             "translator": []
           },
-          "$id": "00000198-8ab1-d02f-abd8-bbf7c5fd0000",
+          "$id": "00000198-a974-dacd-a1dc-ebf4bae30000",
           "$model": "assetPurpose",
-          "$rootId": "00000198-8ab1-d02f-abd8-bbf7c5fd0000",
+          "$rootId": "00000198-a974-dacd-a1dc-ebf4bae30000",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -6705,9 +6705,9 @@
             "title": "No Apologies",
             "translator": []
           },
-          "$id": "00000198-8ab1-d02f-abd8-bbf7c5fd0001",
+          "$id": "00000198-a974-dacd-a1dc-ebf4bae30001",
           "$model": "assetPurpose",
-          "$rootId": "00000198-8ab1-d02f-abd8-bbf7c5fd0001",
+          "$rootId": "00000198-a974-dacd-a1dc-ebf4bae30001",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         }
@@ -7116,9 +7116,9 @@
             "title": "Get to Zion",
             "translator": []
           },
-          "$id": "00000198-8ab1-d02f-abd8-bbf7c7340000",
+          "$id": "00000198-a974-dacd-a1dc-ebf4bc140000",
           "$model": "assetPurpose",
-          "$rootId": "00000198-8ab1-d02f-abd8-bbf7c7340000",
+          "$rootId": "00000198-a974-dacd-a1dc-ebf4bc140000",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -7263,9 +7263,9 @@
             "title": "Get to Zion",
             "translator": []
           },
-          "$id": "00000198-8ab1-d02f-abd8-bbf7c7340001",
+          "$id": "00000198-a974-dacd-a1dc-ebf4bc140001",
           "$model": "assetPurpose",
-          "$rootId": "00000198-8ab1-d02f-abd8-bbf7c7340001",
+          "$rootId": "00000198-a974-dacd-a1dc-ebf4bc140001",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         }
@@ -7458,9 +7458,9 @@
             "title": "Christ the Lord",
             "translator": []
           },
-          "$id": "00000198-8ab1-d02f-abd8-bbf7c7d20000",
+          "$id": "00000198-a974-dacd-a1dc-ebf4bd450000",
           "$model": "assetPurpose",
-          "$rootId": "00000198-8ab1-d02f-abd8-bbf7c7d20000",
+          "$rootId": "00000198-a974-dacd-a1dc-ebf4bd450000",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -7598,9 +7598,9 @@
             "title": "Christ the Lord",
             "translator": []
           },
-          "$id": "00000198-8ab1-d02f-abd8-bbf7c7d20001",
+          "$id": "00000198-a974-dacd-a1dc-ebf4bd450001",
           "$model": "assetPurpose",
-          "$rootId": "00000198-8ab1-d02f-abd8-bbf7c7d20001",
+          "$rootId": "00000198-a974-dacd-a1dc-ebf4bd450001",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         }
