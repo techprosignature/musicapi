@@ -1296,9 +1296,9 @@
             "title": "Let Easter Anthems Ring",
             "translator": []
           },
-          "$id": "00000196-c6e3-d455-a9f6-deef731f0000",
+          "$id": "00000199-0baf-d289-ad9b-abbf41340000",
           "$model": "assetPurpose",
-          "$rootId": "00000196-c6e3-d455-a9f6-deef731f0000",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf41340000",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -1434,9 +1434,9 @@
             "title": "Let Easter Anthems Ring",
             "translator": []
           },
-          "$id": "00000196-c6e3-d455-a9f6-deef73200000",
+          "$id": "00000199-0baf-d289-ad9b-abbf41340001",
           "$model": "assetPurpose",
-          "$rootId": "00000196-c6e3-d455-a9f6-deef73200000",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf41340001",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -1577,9 +1577,9 @@
             "title": "Let Easter Anthems Ring",
             "translator": []
           },
-          "$id": "00000196-c6e3-d455-a9f6-deef73200001",
+          "$id": "00000199-0baf-d289-ad9b-abbf41340002",
           "$model": "assetPurpose",
-          "$rootId": "00000196-c6e3-d455-a9f6-deef73200001",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf41340002",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         }
@@ -1698,7 +1698,7 @@
               "ipCode": "0 - IRI Owned",
               "isPartOf": [],
               "keywords": [],
-              "$lastUpdatedDate": "Fri Aug 29 16:35:50 EDT 2025",
+              "$lastUpdatedDate": "Tue Sep 02 19:55:06 EDT 2025",
               "locatorIds": [],
               "noindex": false,
               "$id": "00000191-b8bc-dcf9-a193-b9bfa88b0000",
@@ -1776,9 +1776,9 @@
             "title": "Doubt Not",
             "translator": []
           },
-          "$id": "00000198-a974-dacd-a1dc-ebf4bcaf0000",
+          "$id": "00000199-0baf-d289-ad9b-abbf294d0000",
           "$model": "assetPurpose",
-          "$rootId": "00000198-a974-dacd-a1dc-ebf4bcaf0000",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf294d0000",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -1840,7 +1840,7 @@
               "ipCode": "0 - IRI Owned",
               "isPartOf": [],
               "keywords": [],
-              "$lastUpdatedDate": "Fri Aug 29 16:35:50 EDT 2025",
+              "$lastUpdatedDate": "Tue Sep 02 19:55:06 EDT 2025",
               "locatorIds": [],
               "noindex": false,
               "$id": "00000191-b8bc-dcf9-a193-b9bfa88b0000",
@@ -1918,9 +1918,9 @@
             "title": "Doubt Not",
             "translator": []
           },
-          "$id": "00000198-a974-dacd-a1dc-ebf4bcaf0001",
+          "$id": "00000199-0baf-d289-ad9b-abbf294d0001",
           "$model": "assetPurpose",
-          "$rootId": "00000198-a974-dacd-a1dc-ebf4bcaf0001",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf294d0001",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         }
@@ -7078,9 +7078,9 @@
             "title": "Were You There?",
             "translator": []
           },
-          "$id": "00000196-c6e3-d455-a9f6-deef753e0000",
+          "$id": "00000199-0baf-d289-ad9b-abbf44330000",
           "$model": "assetPurpose",
-          "$rootId": "00000196-c6e3-d455-a9f6-deef753e0000",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf44330000",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -7216,9 +7216,9 @@
             "title": "Were You There?",
             "translator": []
           },
-          "$id": "00000196-c6e3-d455-a9f6-deef753e0001",
+          "$id": "00000199-0baf-d289-ad9b-abbf44330001",
           "$model": "assetPurpose",
-          "$rootId": "00000196-c6e3-d455-a9f6-deef753e0001",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf44330001",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -7360,9 +7360,9 @@
             "title": "Were You There?",
             "translator": []
           },
-          "$id": "00000196-c6e3-d455-a9f6-deef753e0002",
+          "$id": "00000199-0baf-d289-ad9b-abbf44330002",
           "$model": "assetPurpose",
-          "$rootId": "00000196-c6e3-d455-a9f6-deef753e0002",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf44330002",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         }
@@ -12376,7 +12376,7 @@
               "ipCode": "0 - IRI Owned",
               "isPartOf": [],
               "keywords": [],
-              "$lastUpdatedDate": "Fri Aug 29 16:35:50 EDT 2025",
+              "$lastUpdatedDate": "Tue Sep 02 19:55:06 EDT 2025",
               "locatorIds": [],
               "noindex": false,
               "$id": "00000191-b8bc-dcf9-a193-b9bfa88b0000",
@@ -12454,9 +12454,9 @@
             "title": "Fear Not",
             "translator": []
           },
-          "$id": "00000198-a974-dacd-a1dc-ebf4bc650000",
+          "$id": "00000199-0baf-d289-ad9b-abbf28fc0000",
           "$model": "assetPurpose",
-          "$rootId": "00000198-a974-dacd-a1dc-ebf4bc650000",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf28fc0000",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -12518,7 +12518,7 @@
               "ipCode": "0 - IRI Owned",
               "isPartOf": [],
               "keywords": [],
-              "$lastUpdatedDate": "Fri Aug 29 16:35:50 EDT 2025",
+              "$lastUpdatedDate": "Tue Sep 02 19:55:06 EDT 2025",
               "locatorIds": [],
               "noindex": false,
               "$id": "00000191-b8bc-dcf9-a193-b9bfa88b0000",
@@ -12596,9 +12596,9 @@
             "title": "Fear Not",
             "translator": []
           },
-          "$id": "00000198-a974-dacd-a1dc-ebf4bc650001",
+          "$id": "00000199-0baf-d289-ad9b-abbf28fc0001",
           "$model": "assetPurpose",
-          "$rootId": "00000198-a974-dacd-a1dc-ebf4bc650001",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf28fc0001",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         }

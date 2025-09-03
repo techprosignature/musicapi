@@ -186,9 +186,9 @@
             "title": "Come, Thou Fount of Every Blessing",
             "translator": []
           },
-          "$id": "00000196-c6e2-d455-a9f6-deeeac8b0000",
+          "$id": "00000199-0baf-d289-ad9b-abbf26670000",
           "$model": "assetPurpose",
-          "$rootId": "00000196-c6e2-d455-a9f6-deeeac8b0000",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf26670000",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -324,9 +324,9 @@
             "title": "Come, Thou Fount of Every Blessing",
             "translator": []
           },
-          "$id": "00000196-c6e2-d455-a9f6-deeeac8b0001",
+          "$id": "00000199-0baf-d289-ad9b-abbf26670001",
           "$model": "assetPurpose",
-          "$rootId": "00000196-c6e2-d455-a9f6-deeeac8b0001",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf26670001",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -476,9 +476,9 @@
             "title": "Come, Thou Fount of Every Blessing",
             "translator": []
           },
-          "$id": "00000196-c6e2-d455-a9f6-deeeac8b0002",
+          "$id": "00000199-0baf-d289-ad9b-abbf26670002",
           "$model": "assetPurpose",
-          "$rootId": "00000196-c6e2-d455-a9f6-deeeac8b0002",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf26670002",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -628,9 +628,9 @@
             "title": "Come, Thou Fount of Every Blessing",
             "translator": []
           },
-          "$id": "00000196-c6e2-d455-a9f6-deeeac8b0003",
+          "$id": "00000199-0baf-d289-ad9b-abbf26670003",
           "$model": "assetPurpose",
-          "$rootId": "00000196-c6e2-d455-a9f6-deeeac8b0003",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf26670003",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         }
@@ -5254,7 +5254,7 @@
             "duration": 128000,
             "isPartOf": [],
             "keywords": [],
-            "$lastUpdatedDate": "Fri Aug 29 18:57:04 EDT 2025",
+            "$lastUpdatedDate": "Mon Sep 01 18:56:06 EDT 2025",
             "locatorIds": [],
             "lyricist": [],
             "noindex": false,
@@ -6069,7 +6069,7 @@
             "duration": 66000,
             "isPartOf": [],
             "keywords": [],
-            "$lastUpdatedDate": "Fri Aug 29 18:56:06 EDT 2025",
+            "$lastUpdatedDate": "Mon Sep 01 18:56:24 EDT 2025",
             "locatorIds": [],
             "lyricist": [],
             "noindex": false,
@@ -6207,7 +6207,7 @@
             "duration": 68000,
             "isPartOf": [],
             "keywords": [],
-            "$lastUpdatedDate": "Fri Aug 29 18:56:06 EDT 2025",
+            "$lastUpdatedDate": "Mon Sep 01 18:56:23 EDT 2025",
             "locatorIds": [],
             "lyricist": [],
             "noindex": false,
@@ -8447,7 +8447,7 @@
             "duration": 150000,
             "isPartOf": [],
             "keywords": [],
-            "$lastUpdatedDate": "Fri Aug 29 18:56:18 EDT 2025",
+            "$lastUpdatedDate": "Mon Sep 01 18:55:44 EDT 2025",
             "locatorIds": [],
             "lyricist": [],
             "noindex": false,
@@ -8585,7 +8585,7 @@
             "duration": 152000,
             "isPartOf": [],
             "keywords": [],
-            "$lastUpdatedDate": "Fri Aug 29 18:56:17 EDT 2025",
+            "$lastUpdatedDate": "Mon Sep 01 18:55:44 EDT 2025",
             "locatorIds": [],
             "lyricist": [],
             "noindex": false,
@@ -9422,9 +9422,9 @@
             "title": "To Love like Thee",
             "translator": []
           },
-          "$id": "00000196-c6e3-d455-a9f6-deef74ac0000",
+          "$id": "00000199-0baf-d289-ad9b-abbf43580000",
           "$model": "assetPurpose",
-          "$rootId": "00000196-c6e3-d455-a9f6-deef74ac0000",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf43580000",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -9560,9 +9560,9 @@
             "title": "To Love like Thee",
             "translator": []
           },
-          "$id": "00000196-c6e3-d455-a9f6-deef74ac0001",
+          "$id": "00000199-0baf-d289-ad9b-abbf43580001",
           "$model": "assetPurpose",
-          "$rootId": "00000196-c6e3-d455-a9f6-deef74ac0001",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf43580001",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -9706,9 +9706,9 @@
             "title": "To Love like Thee",
             "translator": []
           },
-          "$id": "00000196-c6e3-d455-a9f6-deef74ac0002",
+          "$id": "00000199-0baf-d289-ad9b-abbf43580002",
           "$model": "assetPurpose",
-          "$rootId": "00000196-c6e3-d455-a9f6-deef74ac0002",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf43580002",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         }
@@ -9806,9 +9806,9 @@
             "title": "Softly and Tenderly Jesus Is Calling",
             "translator": []
           },
-          "$id": "00000196-c6e3-d455-a9f6-deef73840000",
+          "$id": "00000199-0baf-d289-ad9b-abbf41990000",
           "$model": "assetPurpose",
-          "$rootId": "00000196-c6e3-d455-a9f6-deef73840000",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf41990000",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -9944,9 +9944,9 @@
             "title": "Softly and Tenderly Jesus Is Calling",
             "translator": []
           },
-          "$id": "00000196-c6e3-d455-a9f6-deef73840001",
+          "$id": "00000199-0baf-d289-ad9b-abbf41990001",
           "$model": "assetPurpose",
-          "$rootId": "00000196-c6e3-d455-a9f6-deef73840001",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf41990001",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -10090,9 +10090,9 @@
             "title": "Softly and Tenderly Jesus Is Calling",
             "translator": []
           },
-          "$id": "00000196-c6e3-d455-a9f6-deef73840002",
+          "$id": "00000199-0baf-d289-ad9b-abbf41990002",
           "$model": "assetPurpose",
-          "$rootId": "00000196-c6e3-d455-a9f6-deef73840002",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf41990002",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         }
@@ -10195,9 +10195,9 @@
             "title": "I Know That My Savior Loves Me",
             "translator": []
           },
-          "$id": "00000196-c6e3-d455-a9f6-deef75880000",
+          "$id": "00000199-0baf-d289-ad9b-abbf44970000",
           "$model": "assetPurpose",
-          "$rootId": "00000196-c6e3-d455-a9f6-deef75880000",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf44970000",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -10333,9 +10333,9 @@
             "title": "I Know That My Savior Loves Me",
             "translator": []
           },
-          "$id": "00000196-c6e3-d455-a9f6-deef75880001",
+          "$id": "00000199-0baf-d289-ad9b-abbf44970001",
           "$model": "assetPurpose",
-          "$rootId": "00000196-c6e3-d455-a9f6-deef75880001",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf44970001",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -10481,9 +10481,9 @@
             "title": "I Know That My Savior Loves Me",
             "translator": []
           },
-          "$id": "00000196-c6e3-d455-a9f6-deef75880002",
+          "$id": "00000199-0baf-d289-ad9b-abbf44970002",
           "$model": "assetPurpose",
-          "$rootId": "00000196-c6e3-d455-a9f6-deef75880002",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf44970002",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         }
@@ -10672,9 +10672,9 @@
             "title": "Faith in Every Footstep",
             "translator": []
           },
-          "$id": "00000196-c6e3-d455-a9f6-deef76150000",
+          "$id": "00000199-0baf-d289-ad9b-abbf45920000",
           "$model": "assetPurpose",
-          "$rootId": "00000196-c6e3-d455-a9f6-deef76150000",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf45920000",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -10810,9 +10810,9 @@
             "title": "Faith in Every Footstep",
             "translator": []
           },
-          "$id": "00000196-c6e3-d455-a9f6-deef76150001",
+          "$id": "00000199-0baf-d289-ad9b-abbf45920001",
           "$model": "assetPurpose",
-          "$rootId": "00000196-c6e3-d455-a9f6-deef76150001",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf45920001",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -10956,9 +10956,9 @@
             "title": "Faith in Every Footstep",
             "translator": []
           },
-          "$id": "00000196-c6e3-d455-a9f6-deef76150002",
+          "$id": "00000199-0baf-d289-ad9b-abbf45920002",
           "$model": "assetPurpose",
-          "$rootId": "00000196-c6e3-d455-a9f6-deef76150002",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf45920002",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         }
@@ -11058,9 +11058,9 @@
             "title": "Standing on the Promises",
             "translator": []
           },
-          "$id": "00000196-c6e3-d455-a9f6-deef73cd0000",
+          "$id": "00000199-0baf-d289-ad9b-abbf41ff0000",
           "$model": "assetPurpose",
-          "$rootId": "00000196-c6e3-d455-a9f6-deef73cd0000",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf41ff0000",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -11196,9 +11196,9 @@
             "title": "Standing on the Promises",
             "translator": []
           },
-          "$id": "00000196-c6e3-d455-a9f6-deef73cd0001",
+          "$id": "00000199-0baf-d289-ad9b-abbf41ff0001",
           "$model": "assetPurpose",
-          "$rootId": "00000196-c6e3-d455-a9f6-deef73cd0001",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf41ff0001",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -11343,9 +11343,9 @@
             "title": "Standing on the Promises",
             "translator": []
           },
-          "$id": "00000196-c6e3-d455-a9f6-deef73cd0002",
+          "$id": "00000199-0baf-d289-ad9b-abbf41ff0002",
           "$model": "assetPurpose",
-          "$rootId": "00000196-c6e3-d455-a9f6-deef73cd0002",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf41ff0002",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         }
@@ -11443,9 +11443,9 @@
             "title": "I Have Faith in the Lord Jesus Christ",
             "translator": []
           },
-          "$id": "00000196-c6e3-d455-a9f6-deef76610000",
+          "$id": "00000199-0baf-d289-ad9b-abbf45ea0000",
           "$model": "assetPurpose",
-          "$rootId": "00000196-c6e3-d455-a9f6-deef76610000",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf45ea0000",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -11581,9 +11581,9 @@
             "title": "I Have Faith in the Lord Jesus Christ",
             "translator": []
           },
-          "$id": "00000196-c6e3-d455-a9f6-deef76610001",
+          "$id": "00000199-0baf-d289-ad9b-abbf45ea0001",
           "$model": "assetPurpose",
-          "$rootId": "00000196-c6e3-d455-a9f6-deef76610001",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf45ea0001",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -11727,9 +11727,9 @@
             "title": "I Have Faith in the Lord Jesus Christ",
             "translator": []
           },
-          "$id": "00000196-c6e3-d455-a9f6-deef76610002",
+          "$id": "00000199-0baf-d289-ad9b-abbf45ea0002",
           "$model": "assetPurpose",
-          "$rootId": "00000196-c6e3-d455-a9f6-deef76610002",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf45ea0002",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         }
@@ -11828,9 +11828,9 @@
             "title": "Take My Heart and Let It Be Consecrated",
             "translator": []
           },
-          "$id": "00000196-c6e3-d455-a9f6-deef74180000",
+          "$id": "00000199-0baf-d289-ad9b-abbf42790000",
           "$model": "assetPurpose",
-          "$rootId": "00000196-c6e3-d455-a9f6-deef74180000",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf42790000",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -11966,9 +11966,9 @@
             "title": "Take My Heart and Let It Be Consecrated",
             "translator": []
           },
-          "$id": "00000196-c6e3-d455-a9f6-deef74180001",
+          "$id": "00000199-0baf-d289-ad9b-abbf42790001",
           "$model": "assetPurpose",
-          "$rootId": "00000196-c6e3-d455-a9f6-deef74180001",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf42790001",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -12112,9 +12112,9 @@
             "title": "Take My Heart and Let It Be Consecrated",
             "translator": []
           },
-          "$id": "00000196-c6e3-d455-a9f6-deef74180002",
+          "$id": "00000199-0baf-d289-ad9b-abbf42790002",
           "$model": "assetPurpose",
-          "$rootId": "00000196-c6e3-d455-a9f6-deef74180002",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf42790002",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         }
@@ -12217,9 +12217,9 @@
             "title": "Holy Places",
             "translator": []
           },
-          "$id": "00000196-c6e3-d455-a9f6-deef72930000",
+          "$id": "00000199-0baf-d289-ad9b-abbf40410000",
           "$model": "assetPurpose",
-          "$rootId": "00000196-c6e3-d455-a9f6-deef72930000",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf40410000",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -12355,9 +12355,9 @@
             "title": "Holy Places",
             "translator": []
           },
-          "$id": "00000196-c6e3-d455-a9f6-deef72930001",
+          "$id": "00000199-0baf-d289-ad9b-abbf40410001",
           "$model": "assetPurpose",
-          "$rootId": "00000196-c6e3-d455-a9f6-deef72930001",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf40410001",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -12502,9 +12502,9 @@
             "title": "Holy Places",
             "translator": []
           },
-          "$id": "00000196-c6e3-d455-a9f6-deef72930002",
+          "$id": "00000199-0baf-d289-ad9b-abbf40410002",
           "$model": "assetPurpose",
-          "$rootId": "00000196-c6e3-d455-a9f6-deef72930002",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf40410002",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         }
@@ -12606,9 +12606,9 @@
             "title": "Welcome Home",
             "translator": []
           },
-          "$id": "00000196-c6e3-d455-a9f6-deef74f80000",
+          "$id": "00000199-0baf-d289-ad9b-abbf43bd0000",
           "$model": "assetPurpose",
-          "$rootId": "00000196-c6e3-d455-a9f6-deef74f80000",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf43bd0000",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -12744,9 +12744,9 @@
             "title": "Welcome Home",
             "translator": []
           },
-          "$id": "00000196-c6e3-d455-a9f6-deef74f80001",
+          "$id": "00000199-0baf-d289-ad9b-abbf43bd0001",
           "$model": "assetPurpose",
-          "$rootId": "00000196-c6e3-d455-a9f6-deef74f80001",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf43bd0001",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -12892,9 +12892,9 @@
             "title": "Welcome Home",
             "translator": []
           },
-          "$id": "00000196-c6e3-d455-a9f6-deef74f80002",
+          "$id": "00000199-0baf-d289-ad9b-abbf43bd0002",
           "$model": "assetPurpose",
-          "$rootId": "00000196-c6e3-d455-a9f6-deef74f80002",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf43bd0002",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         }
@@ -12984,9 +12984,9 @@
             "title": "This Little Light of Mine",
             "translator": []
           },
-          "$id": "00000196-c6e3-d455-a9f6-deef74640000",
+          "$id": "00000199-0baf-d289-ad9b-abbf42f10000",
           "$model": "assetPurpose",
-          "$rootId": "00000196-c6e3-d455-a9f6-deef74640000",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf42f10000",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -13122,9 +13122,9 @@
             "title": "This Little Light of Mine",
             "translator": []
           },
-          "$id": "00000196-c6e3-d455-a9f6-deef74640001",
+          "$id": "00000199-0baf-d289-ad9b-abbf42f10001",
           "$model": "assetPurpose",
-          "$rootId": "00000196-c6e3-d455-a9f6-deef74640001",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf42f10001",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -13267,9 +13267,9 @@
             "title": "This Little Light of Mine",
             "translator": []
           },
-          "$id": "00000196-c6e3-d455-a9f6-deef74640002",
+          "$id": "00000199-0baf-d289-ad9b-abbf42f10002",
           "$model": "assetPurpose",
-          "$rootId": "00000196-c6e3-d455-a9f6-deef74640002",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf42f10002",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         }
@@ -13368,9 +13368,9 @@
             "title": "I Can’t Count Them All",
             "translator": []
           },
-          "$id": "00000197-18e2-d1c6-a9d7-dfff686d0000",
+          "$id": "00000199-0baf-d289-ad9b-abbf40c70000",
           "$model": "assetPurpose",
-          "$rootId": "00000197-18e2-d1c6-a9d7-dfff686d0000",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf40c70000",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -13506,9 +13506,9 @@
             "title": "I Can’t Count Them All",
             "translator": []
           },
-          "$id": "00000197-18e2-d1c6-a9d7-dfff686d0001",
+          "$id": "00000199-0baf-d289-ad9b-abbf40c70001",
           "$model": "assetPurpose",
-          "$rootId": "00000197-18e2-d1c6-a9d7-dfff686d0001",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf40c70001",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -13652,9 +13652,9 @@
             "title": "I Can’t Count Them All",
             "translator": []
           },
-          "$id": "00000197-18e2-d1c6-a9d7-dfff686d0002",
+          "$id": "00000199-0baf-d289-ad9b-abbf40c70002",
           "$model": "assetPurpose",
-          "$rootId": "00000197-18e2-d1c6-a9d7-dfff686d0002",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf40c70002",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         }
@@ -13752,9 +13752,9 @@
             "title": "Close as a Quiet Prayer",
             "translator": []
           },
-          "$id": "00000196-c6e3-d455-a9f6-deef76ae0000",
+          "$id": "00000199-0baf-d289-ad9b-abbf464f0000",
           "$model": "assetPurpose",
-          "$rootId": "00000196-c6e3-d455-a9f6-deef76ae0000",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf464f0000",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -13890,9 +13890,9 @@
             "title": "Close as a Quiet Prayer",
             "translator": []
           },
-          "$id": "00000196-c6e3-d455-a9f6-deef76ae0001",
+          "$id": "00000199-0baf-d289-ad9b-abbf464f0001",
           "$model": "assetPurpose",
-          "$rootId": "00000196-c6e3-d455-a9f6-deef76ae0001",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf464f0001",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -14036,9 +14036,9 @@
             "title": "Close as a Quiet Prayer",
             "translator": []
           },
-          "$id": "00000196-c6e3-d455-a9f6-deef76ae0002",
+          "$id": "00000199-0baf-d289-ad9b-abbf464f0002",
           "$model": "assetPurpose",
-          "$rootId": "00000196-c6e3-d455-a9f6-deef76ae0002",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf464f0002",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         }
@@ -14139,9 +14139,9 @@
             "title": "Come, Hear the Word the Lord Has Spoken",
             "translator": []
           },
-          "$id": "00000196-c6e3-d455-a9f6-deef724b0000",
+          "$id": "00000199-0baf-d289-ad9b-abbf3fe60000",
           "$model": "assetPurpose",
-          "$rootId": "00000196-c6e3-d455-a9f6-deef724b0000",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf3fe60000",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -14277,9 +14277,9 @@
             "title": "Come, Hear the Word the Lord Has Spoken",
             "translator": []
           },
-          "$id": "00000196-c6e3-d455-a9f6-deef724b0001",
+          "$id": "00000199-0baf-d289-ad9b-abbf3fe60001",
           "$model": "assetPurpose",
-          "$rootId": "00000196-c6e3-d455-a9f6-deef724b0001",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf3fe60001",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -14423,9 +14423,9 @@
             "title": "Come, Hear the Word the Lord Has Spoken",
             "translator": []
           },
-          "$id": "00000196-c6e3-d455-a9f6-deef724b0002",
+          "$id": "00000199-0baf-d289-ad9b-abbf3fe60002",
           "$model": "assetPurpose",
-          "$rootId": "00000196-c6e3-d455-a9f6-deef724b0002",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf3fe60002",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         }
@@ -15403,9 +15403,9 @@
             "title": "As I Keep the Sabbath Day",
             "translator": []
           },
-          "$id": "00000197-84e9-d52b-a5f7-fced633e0000",
+          "$id": "00000199-0baf-d289-ad9b-abbf5ce60000",
           "$model": "assetPurpose",
-          "$rootId": "00000197-84e9-d52b-a5f7-fced633e0000",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf5ce60000",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -15452,9 +15452,9 @@
             "title": "As I Keep the Sabbath Day",
             "translator": []
           },
-          "$id": "00000197-84e9-d52b-a5f7-fced633e0001",
+          "$id": "00000199-0baf-d289-ad9b-abbf5ce60001",
           "$model": "assetPurpose",
-          "$rootId": "00000197-84e9-d52b-a5f7-fced633e0001",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf5ce60001",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -15599,9 +15599,9 @@
             "title": "As I Keep the Sabbath Day",
             "translator": []
           },
-          "$id": "00000197-84e9-d52b-a5f7-fced633e0002",
+          "$id": "00000199-0baf-d289-ad9b-abbf5ce60002",
           "$model": "assetPurpose",
-          "$rootId": "00000197-84e9-d52b-a5f7-fced633e0002",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf5ce60002",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         }
@@ -19830,9 +19830,9 @@
             "title": "Let Easter Anthems Ring",
             "translator": []
           },
-          "$id": "00000196-c6e3-d455-a9f6-deef731f0000",
+          "$id": "00000199-0baf-d289-ad9b-abbf41340000",
           "$model": "assetPurpose",
-          "$rootId": "00000196-c6e3-d455-a9f6-deef731f0000",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf41340000",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -19968,9 +19968,9 @@
             "title": "Let Easter Anthems Ring",
             "translator": []
           },
-          "$id": "00000196-c6e3-d455-a9f6-deef73200000",
+          "$id": "00000199-0baf-d289-ad9b-abbf41340001",
           "$model": "assetPurpose",
-          "$rootId": "00000196-c6e3-d455-a9f6-deef73200000",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf41340001",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -20111,9 +20111,9 @@
             "title": "Let Easter Anthems Ring",
             "translator": []
           },
-          "$id": "00000196-c6e3-d455-a9f6-deef73200001",
+          "$id": "00000199-0baf-d289-ad9b-abbf41340002",
           "$model": "assetPurpose",
-          "$rootId": "00000196-c6e3-d455-a9f6-deef73200001",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf41340002",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         }
@@ -20201,9 +20201,9 @@
             "title": "Were You There?",
             "translator": []
           },
-          "$id": "00000196-c6e3-d455-a9f6-deef753e0000",
+          "$id": "00000199-0baf-d289-ad9b-abbf44330000",
           "$model": "assetPurpose",
-          "$rootId": "00000196-c6e3-d455-a9f6-deef753e0000",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf44330000",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -20339,9 +20339,9 @@
             "title": "Were You There?",
             "translator": []
           },
-          "$id": "00000196-c6e3-d455-a9f6-deef753e0001",
+          "$id": "00000199-0baf-d289-ad9b-abbf44330001",
           "$model": "assetPurpose",
-          "$rootId": "00000196-c6e3-d455-a9f6-deef753e0001",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf44330001",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         },
@@ -20483,9 +20483,9 @@
             "title": "Were You There?",
             "translator": []
           },
-          "$id": "00000196-c6e3-d455-a9f6-deef753e0002",
+          "$id": "00000199-0baf-d289-ad9b-abbf44330002",
           "$model": "assetPurpose",
-          "$rootId": "00000196-c6e3-d455-a9f6-deef753e0002",
+          "$rootId": "00000199-0baf-d289-ad9b-abbf44330002",
           "$site": "music",
           "$publishStatus": "PUBLISHED"
         }
