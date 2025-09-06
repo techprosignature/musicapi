@@ -5484,9 +5484,314 @@
           "$publishStatus": "PUBLISHED"
         }
       ]
+    },
+    {
+      "title": "He Won’t Let Me Down",
+      "slug": "he-wont-let-me-down-2025",
+      "bookSlug": "look-unto-christ-2025-youth-album",
+      "bookSectionTitle": "2025 Singles",
+      "songNumber": "11",
+      "songDate": "2025-09-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Jack Nelson"
+        }
+      ],
+      "authors": [],
+      "composers": [],
+      "instrumentations": [],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [],
+      "assets": [
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "6hkjfifa3zrak6eendxbbn21inhnv8bg94wt95ek",
+            "attributes": {},
+            "composer": [],
+            "description": "Jack Nelson sings “He Won’t Let Me Down\" from the 2026 Youth Album. English.",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/6h/kj/6hkjfifa3zrak6eendxbbn21inhnv8bg94wt95ek/he_wont_let_me_down_instrumental_2026.mp3",
+            "duration": 184000,
+            "ipCode": "0 - IRI Owned",
+            "isPartOf": [],
+            "keywords": [
+              "music",
+              "Youth Music",
+              "youth"
+            ],
+            "$lastUpdatedDate": "Thu Jul 31 14:56:35 EDT 2025",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "00000198-61d7-df53-a19a-7fd7e5780000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "00000198-61d7-df53-a19a-7fd7e5780000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "Jack Nelson sings “He Won’t Let Me Down\" from the 2026 Youth Album. English.",
+            "publicDownload": [],
+            "$publishDate": "Thu Jul 31 14:56:35 EDT 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Jack Nelson sings “He Won’t Let Me Down\" from the 2026 Youth Album. English.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "He Won’t Let Me Down (Instrumental)",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Jack Nelson sings “He Won’t Let Me Down\" from the 2026 Youth Album. English.",
+            "shareableTitle": "He Won’t Let Me Down (Instrumental)",
+            "thumbnail": {
+              "annotatedFields": {},
+              "assetID": "4d0mivyqxxxlcz00mnx5vdhbv47gz290bg3awqev",
+              "attributes": {},
+              "description": "Album Cover for Strive To Be Single “He Won’t Let Me Down”",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4d0mivyqxxxlcz00mnx5vdhbv47gz290bg3awqev/full/800,/0/default",
+              "focalPoint": {
+                "x": "50.00%",
+                "y": "50.00%"
+              },
+              "isPartOf": [],
+              "keywords": [],
+              "$lastUpdatedDate": "Thu Jul 31 14:56:34 EDT 2025",
+              "locatorIds": [],
+              "noindex": false,
+              "$id": "00000198-61d7-df53-a19a-7fd7e4690000",
+              "$lang": "eng",
+              "$model": "image",
+              "$rootId": "00000198-61d7-df53-a19a-7fd7e4690000",
+              "$site": "music",
+              "products": [],
+              "publicAltText": "Album Cover for Strive To Be Single \"He Won't Let Me Down\"",
+              "publicDownload": [],
+              "$publishDate": "Thu Jul 31 14:56:35 EDT 2025",
+              "$publishStatus": "PUBLISHED",
+              "related": [],
+              "renditions": [
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4d0mivyqxxxlcz00mnx5vdhbv47gz290bg3awqev/full/!320%2C427/0/default",
+                  "height": 427,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4d0mivyqxxxlcz00mnx5vdhbv47gz290bg3awqev/full/!320%2C427/0/default",
+                  "width": 320
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4d0mivyqxxxlcz00mnx5vdhbv47gz290bg3awqev/full/!640%2C854/0/default",
+                  "height": 854,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4d0mivyqxxxlcz00mnx5vdhbv47gz290bg3awqev/full/!640%2C854/0/default",
+                  "width": 640
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4d0mivyqxxxlcz00mnx5vdhbv47gz290bg3awqev/full/!800%2C1067/0/default",
+                  "height": 1067,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4d0mivyqxxxlcz00mnx5vdhbv47gz290bg3awqev/full/!800%2C1067/0/default",
+                  "width": 800
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4d0mivyqxxxlcz00mnx5vdhbv47gz290bg3awqev/full/!60%2C80/0/default",
+                  "height": 80,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4d0mivyqxxxlcz00mnx5vdhbv47gz290bg3awqev/full/!60%2C80/0/default",
+                  "width": 60
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4d0mivyqxxxlcz00mnx5vdhbv47gz290bg3awqev/full/!250%2C333/0/default",
+                  "height": 333,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4d0mivyqxxxlcz00mnx5vdhbv47gz290bg3awqev/full/!250%2C333/0/default",
+                  "width": 250
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4d0mivyqxxxlcz00mnx5vdhbv47gz290bg3awqev/full/!200%2C267/0/default",
+                  "height": 267,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4d0mivyqxxxlcz00mnx5vdhbv47gz290bg3awqev/full/!200%2C267/0/default",
+                  "width": 200
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4d0mivyqxxxlcz00mnx5vdhbv47gz290bg3awqev/full/!100%2C133/0/default",
+                  "height": 133,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4d0mivyqxxxlcz00mnx5vdhbv47gz290bg3awqev/full/!100%2C133/0/default",
+                  "width": 100
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4d0mivyqxxxlcz00mnx5vdhbv47gz290bg3awqev/full/!500%2C667/0/default",
+                  "height": 667,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4d0mivyqxxxlcz00mnx5vdhbv47gz290bg3awqev/full/!500%2C667/0/default",
+                  "width": 500
+                }
+              ],
+              "requiredAssets": [],
+              "sameAs": [],
+              "seoDescription": "Album Cover for Strive To Be Single \"He Won't Let Me Down\"",
+              "seoDescriptionAiGenerated": false,
+              "seoTitle": "No Title",
+              "seoTitleAiGenerated": false,
+              "shareableDescription": "Album Cover for Strive To Be Single \"He Won't Let Me Down\"",
+              "shareableTitle": "No Title",
+              "title": "No Title"
+            },
+            "title": "He Won’t Let Me Down (Instrumental)",
+            "translator": []
+          },
+          "$id": "00000199-1ac6-dfff-abb9-bbfe1b630000",
+          "$model": "assetPurpose",
+          "$rootId": "00000199-1ac6-dfff-abb9-bbfe1b630000",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        },
+        {
+          "annotatedFields": {},
+          "assetType": "AUDIO_VOCAL",
+          "attributes": {},
+          "locatorIds": [],
+          "mediaObject": {
+            "annotatedFields": {},
+            "arranger": [],
+            "assetID": "zw2xtaoklbb1r0ilsejmw4fhk6ekqm89xk76dvst",
+            "attributes": {},
+            "composer": [],
+            "description": "Jack Nelson sings “He Won’t Let Me Down\" from the 2026 Youth Album. English.",
+            "distributionUrl": "https://assets.churchofjesuschrist.org/zw/2x/zw2xtaoklbb1r0ilsejmw4fhk6ekqm89xk76dvst/he_wont_let_me_down_2026.mp3",
+            "duration": 184000,
+            "ipCode": "0 - IRI Owned",
+            "isPartOf": [],
+            "keywords": [
+              "music",
+              "Youth Music",
+              "youth"
+            ],
+            "$lastUpdatedDate": "Thu Jul 31 14:56:36 EDT 2025",
+            "locatorIds": [],
+            "lyricist": [],
+            "noindex": false,
+            "$id": "00000198-61d7-df53-a19a-7fd7e7bd0000",
+            "$lang": "eng",
+            "$model": "audio",
+            "$rootId": "00000198-61d7-df53-a19a-7fd7e7bd0000",
+            "$site": "music",
+            "performer": [],
+            "products": [],
+            "publicAltText": "Jack Nelson sings “He Won’t Let Me Down\" from the 2026 Youth Album. English.",
+            "publicDownload": [],
+            "$publishDate": "Thu Jul 31 14:56:36 EDT 2025",
+            "$publishStatus": "PUBLISHED",
+            "related": [],
+            "requiredAssets": [],
+            "sameAs": [],
+            "seoDescription": "Jack Nelson sings “He Won’t Let Me Down\" from the 2026 Youth Album. English.",
+            "seoDescriptionAiGenerated": false,
+            "seoTitle": "He Won’t Let Me Down",
+            "seoTitleAiGenerated": false,
+            "shareableDescription": "Jack Nelson sings “He Won’t Let Me Down\" from the 2026 Youth Album. English.",
+            "shareableTitle": "He Won’t Let Me Down",
+            "thumbnail": {
+              "annotatedFields": {},
+              "assetID": "4d0mivyqxxxlcz00mnx5vdhbv47gz290bg3awqev",
+              "attributes": {},
+              "description": "Album Cover for Strive To Be Single “He Won’t Let Me Down”",
+              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4d0mivyqxxxlcz00mnx5vdhbv47gz290bg3awqev/full/800,/0/default",
+              "focalPoint": {
+                "x": "50.00%",
+                "y": "50.00%"
+              },
+              "isPartOf": [],
+              "keywords": [],
+              "$lastUpdatedDate": "Thu Jul 31 14:56:34 EDT 2025",
+              "locatorIds": [],
+              "noindex": false,
+              "$id": "00000198-61d7-df53-a19a-7fd7e4690000",
+              "$lang": "eng",
+              "$model": "image",
+              "$rootId": "00000198-61d7-df53-a19a-7fd7e4690000",
+              "$site": "music",
+              "products": [],
+              "publicAltText": "Album Cover for Strive To Be Single \"He Won't Let Me Down\"",
+              "publicDownload": [],
+              "$publishDate": "Thu Jul 31 14:56:35 EDT 2025",
+              "$publishStatus": "PUBLISHED",
+              "related": [],
+              "renditions": [
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4d0mivyqxxxlcz00mnx5vdhbv47gz290bg3awqev/full/!320%2C427/0/default",
+                  "height": 427,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4d0mivyqxxxlcz00mnx5vdhbv47gz290bg3awqev/full/!320%2C427/0/default",
+                  "width": 320
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4d0mivyqxxxlcz00mnx5vdhbv47gz290bg3awqev/full/!640%2C854/0/default",
+                  "height": 854,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4d0mivyqxxxlcz00mnx5vdhbv47gz290bg3awqev/full/!640%2C854/0/default",
+                  "width": 640
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4d0mivyqxxxlcz00mnx5vdhbv47gz290bg3awqev/full/!800%2C1067/0/default",
+                  "height": 1067,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4d0mivyqxxxlcz00mnx5vdhbv47gz290bg3awqev/full/!800%2C1067/0/default",
+                  "width": 800
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4d0mivyqxxxlcz00mnx5vdhbv47gz290bg3awqev/full/!60%2C80/0/default",
+                  "height": 80,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4d0mivyqxxxlcz00mnx5vdhbv47gz290bg3awqev/full/!60%2C80/0/default",
+                  "width": 60
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4d0mivyqxxxlcz00mnx5vdhbv47gz290bg3awqev/full/!250%2C333/0/default",
+                  "height": 333,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4d0mivyqxxxlcz00mnx5vdhbv47gz290bg3awqev/full/!250%2C333/0/default",
+                  "width": 250
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4d0mivyqxxxlcz00mnx5vdhbv47gz290bg3awqev/full/!200%2C267/0/default",
+                  "height": 267,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4d0mivyqxxxlcz00mnx5vdhbv47gz290bg3awqev/full/!200%2C267/0/default",
+                  "width": 200
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4d0mivyqxxxlcz00mnx5vdhbv47gz290bg3awqev/full/!100%2C133/0/default",
+                  "height": 133,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4d0mivyqxxxlcz00mnx5vdhbv47gz290bg3awqev/full/!100%2C133/0/default",
+                  "width": 100
+                },
+                {
+                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4d0mivyqxxxlcz00mnx5vdhbv47gz290bg3awqev/full/!500%2C667/0/default",
+                  "height": 667,
+                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4d0mivyqxxxlcz00mnx5vdhbv47gz290bg3awqev/full/!500%2C667/0/default",
+                  "width": 500
+                }
+              ],
+              "requiredAssets": [],
+              "sameAs": [],
+              "seoDescription": "Album Cover for Strive To Be Single \"He Won't Let Me Down\"",
+              "seoDescriptionAiGenerated": false,
+              "seoTitle": "No Title",
+              "seoTitleAiGenerated": false,
+              "shareableDescription": "Album Cover for Strive To Be Single \"He Won't Let Me Down\"",
+              "shareableTitle": "No Title",
+              "title": "No Title"
+            },
+            "title": "He Won’t Let Me Down",
+            "translator": []
+          },
+          "$id": "00000199-1ac6-dfff-abb9-bbfe1b630001",
+          "$model": "assetPurpose",
+          "$rootId": "00000199-1ac6-dfff-abb9-bbfe1b630001",
+          "$site": "music",
+          "$publishStatus": "PUBLISHED"
+        }
+      ]
     }
   ],
   "limit": 500,
   "offset": 0,
-  "total": 17
+  "total": 19
 }
