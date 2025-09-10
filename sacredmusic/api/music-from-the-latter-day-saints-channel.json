@@ -134,163 +134,80 @@
       "voicings": [],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "c713f5298fb2114fb8d0fe1abbab1b60e6f8a1b7",
-            "attributes": {},
-            "composer": [],
-            "description": "“Have I Done Any Good?” from Music from the Latter-day Saints Channel (English, 2012-07-09).",
-            "distributionUrl": "https://broadcast2.lds.org/mormon-channel/2012-07-0010-have-i-done-any-good-alex-boye-carmen-rasmusen-herbert-256k-eng.mp3",
-            "duration": 226000,
-            "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Mon Sep 18 13:55:07 EDT 2023",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "0000017e-dfb7-dbd3-a7ff-dff7dc560000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "0000017e-dfb7-dbd3-a7ff-dff7dc560000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“Have I Done Any Good?” from Music from the Latter-day Saints Channel (English, 2012-07-09).",
-            "publicDownload": [
-              "PUBLIC"
-            ],
-            "$publishDate": "Wed Feb 09 13:21:15 EST 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“Have I Done Any Good?” from Music from the Latter-day Saints Channel (English, 2012-07-09).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "Have I Done Any Good?",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“Have I Done Any Good?” from Music from the Latter-day Saints Channel (English, 2012-07-09).",
-            "shareableTitle": "Have I Done Any Good?",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "3699b782102c94cae969a75ffe20a596b05f2e1c",
-              "attributes": {},
-              "description": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
-              "distributionUrl": "https://churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/320,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
+          "distributionUrl": "https://broadcast2.lds.org/mormon-channel/2012-07-0010-have-i-done-any-good-alex-boye-carmen-rasmusen-herbert-256k-eng.mp3",
+          "duration": 226000,
+          "lang": "eng",
+          "title": "Have I Done Any Good?",
+          "description": "“Have I Done Any Good?” from Music from the Latter-day Saints Channel (English, 2012-07-09).",
+          "seoDescription": "“Have I Done Any Good?” from Music from the Latter-day Saints Channel (English, 2012-07-09).",
+          "seoTitle": "Have I Done Any Good?",
+          "shareableTitle": "Have I Done Any Good?",
+          "thumbnail": {
+            "description": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
+            "distributionUrl": "https://churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/320,/0/default",
+            "seoDescription": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
+            "seoTitle": "Android Latter-day Saints Channel app",
+            "shareableTitle": "Android Latter-day Saints Channel app",
+            "title": "Android Latter-day Saints Channel app",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
               },
-              "ipCode": "0 - IRI Owned",
-              "isPartOf": [],
-              "keywords": [
-                "apps"
-              ],
-              "$lastUpdatedDate": "Mon Sep 18 13:55:12 EDT 2023",
-              "locatorIds": [],
-              "noindex": false,
-              "$owningSite": "inspiration",
-              "$id": "00000171-ae49-d7a7-a57d-efff121c0000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "00000171-ae49-d7a7-a57d-efff121c0000",
-              "$site": "music",
-              "products": [],
-              "publicAltText": "Latter-day Saints Channel icon for Android devices.",
-              "publicDownload": [],
-              "$publishDate": "Fri Apr 24 18:22:36 EDT 2020",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!320%2C320/0/default",
-                  "height": 320,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!320%2C320/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!640%2C640/0/default",
-                  "height": 640,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!640%2C640/0/default",
-                  "width": 640
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!800%2C800/0/default",
-                  "height": 800,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!800%2C800/0/default",
-                  "width": 800
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1280%2C1280/0/default",
-                  "height": 1280,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1280%2C1280/0/default",
-                  "width": 1280
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1600%2C1600/0/default",
-                  "height": 1600,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1600%2C1600/0/default",
-                  "width": 1600
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1920%2C1920/0/default",
-                  "height": 1920,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1920%2C1920/0/default",
-                  "width": 1920
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!60%2C60/0/default",
-                  "height": 60,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!60%2C60/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!250%2C250/0/default",
-                  "height": 250,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!250%2C250/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!200%2C200/0/default",
-                  "height": 200,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!200%2C200/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!100%2C100/0/default",
-                  "height": 100,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!100%2C100/0/default",
-                  "width": 100
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!500%2C500/0/default",
-                  "height": 500,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!500%2C500/0/default",
-                  "width": 500
-                }
-              ],
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "Android Latter-day Saints Channel app",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
-              "shareableTitle": "Android Latter-day Saints Channel app",
-              "title": "Android Latter-day Saints Channel app"
-            },
-            "title": "Have I Done Any Good?",
-            "translator": []
-          },
-          "$id": "00000196-c6d9-d455-a9f6-deddb0c50000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6d9-d455-a9f6-deddb0c50000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
         }
       ]
     },
@@ -377,163 +294,80 @@
       "voicings": [],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "0f5da16be37762f78679c59b21781549df631ae0",
-            "attributes": {},
-            "composer": [],
-            "description": "“See You On the Other Side” from Music from the Latter-day Saints Channel (English, 2013-01-07).",
-            "distributionUrl": "https://broadcast2.lds.org/mormon-channel/2013-01-see-you-on-the-other-side-shaun-canon-eng.mp3",
-            "duration": 193000,
-            "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Mon Sep 18 13:55:05 EDT 2023",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "0000017e-dfb7-dbd3-a7ff-dff7dab20000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "0000017e-dfb7-dbd3-a7ff-dff7dab20000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“See You On the Other Side” from Music from the Latter-day Saints Channel (English, 2013-01-07).",
-            "publicDownload": [
-              "PUBLIC"
-            ],
-            "$publishDate": "Wed Feb 09 13:21:15 EST 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“See You On the Other Side” from Music from the Latter-day Saints Channel (English, 2013-01-07).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "See You On the Other Side",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“See You On the Other Side” from Music from the Latter-day Saints Channel (English, 2013-01-07).",
-            "shareableTitle": "See You On the Other Side",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "3699b782102c94cae969a75ffe20a596b05f2e1c",
-              "attributes": {},
-              "description": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
-              "distributionUrl": "https://churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/320,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
+          "distributionUrl": "https://broadcast2.lds.org/mormon-channel/2013-01-see-you-on-the-other-side-shaun-canon-eng.mp3",
+          "duration": 193000,
+          "lang": "eng",
+          "title": "See You On the Other Side",
+          "description": "“See You On the Other Side” from Music from the Latter-day Saints Channel (English, 2013-01-07).",
+          "seoDescription": "“See You On the Other Side” from Music from the Latter-day Saints Channel (English, 2013-01-07).",
+          "seoTitle": "See You On the Other Side",
+          "shareableTitle": "See You On the Other Side",
+          "thumbnail": {
+            "description": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
+            "distributionUrl": "https://churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/320,/0/default",
+            "seoDescription": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
+            "seoTitle": "Android Latter-day Saints Channel app",
+            "shareableTitle": "Android Latter-day Saints Channel app",
+            "title": "Android Latter-day Saints Channel app",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
               },
-              "ipCode": "0 - IRI Owned",
-              "isPartOf": [],
-              "keywords": [
-                "apps"
-              ],
-              "$lastUpdatedDate": "Mon Sep 18 13:55:12 EDT 2023",
-              "locatorIds": [],
-              "noindex": false,
-              "$owningSite": "inspiration",
-              "$id": "00000171-ae49-d7a7-a57d-efff121c0000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "00000171-ae49-d7a7-a57d-efff121c0000",
-              "$site": "music",
-              "products": [],
-              "publicAltText": "Latter-day Saints Channel icon for Android devices.",
-              "publicDownload": [],
-              "$publishDate": "Fri Apr 24 18:22:36 EDT 2020",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!320%2C320/0/default",
-                  "height": 320,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!320%2C320/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!640%2C640/0/default",
-                  "height": 640,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!640%2C640/0/default",
-                  "width": 640
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!800%2C800/0/default",
-                  "height": 800,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!800%2C800/0/default",
-                  "width": 800
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1280%2C1280/0/default",
-                  "height": 1280,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1280%2C1280/0/default",
-                  "width": 1280
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1600%2C1600/0/default",
-                  "height": 1600,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1600%2C1600/0/default",
-                  "width": 1600
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1920%2C1920/0/default",
-                  "height": 1920,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1920%2C1920/0/default",
-                  "width": 1920
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!60%2C60/0/default",
-                  "height": 60,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!60%2C60/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!250%2C250/0/default",
-                  "height": 250,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!250%2C250/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!200%2C200/0/default",
-                  "height": 200,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!200%2C200/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!100%2C100/0/default",
-                  "height": 100,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!100%2C100/0/default",
-                  "width": 100
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!500%2C500/0/default",
-                  "height": 500,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!500%2C500/0/default",
-                  "width": 500
-                }
-              ],
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "Android Latter-day Saints Channel app",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
-              "shareableTitle": "Android Latter-day Saints Channel app",
-              "title": "Android Latter-day Saints Channel app"
-            },
-            "title": "See You On the Other Side",
-            "translator": []
-          },
-          "$id": "00000196-c6d9-d455-a9f6-deddb10d0000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6d9-d455-a9f6-deddb10d0000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
         }
       ]
     },
@@ -574,163 +408,80 @@
       "voicings": [],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "2ab09963c65589b77d7b3e66cb15521b5da1d099",
-            "attributes": {},
-            "composer": [],
-            "description": "La antorcha",
-            "distributionUrl": "https://broadcast2.lds.org/mormon-channel/2013-01-la-antorcha-shaun-canon-spa.mp3",
-            "duration": 221000,
-            "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Mon Sep 18 13:55:05 EDT 2023",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "0000017e-dfb7-dbd3-a7ff-dff7d9c80000",
-            "$lang": "spa",
-            "$model": "audio",
-            "$rootId": "0000017e-dfb7-dbd3-a7ff-dff7d9c80000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“La antorcha” (Spanish) from Music from the Latter-day Saints Channel (English, 2013-05-29).",
-            "publicDownload": [
-              "PUBLIC"
-            ],
-            "$publishDate": "Wed Feb 09 13:21:15 EST 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "La antorcha",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "La antorcha",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "La antorcha",
-            "shareableTitle": "La antorcha",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "3699b782102c94cae969a75ffe20a596b05f2e1c",
-              "attributes": {},
-              "description": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
-              "distributionUrl": "https://churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/320,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
+          "distributionUrl": "https://broadcast2.lds.org/mormon-channel/2013-01-la-antorcha-shaun-canon-spa.mp3",
+          "duration": 221000,
+          "lang": "spa",
+          "title": "La antorcha",
+          "description": "La antorcha",
+          "seoDescription": "La antorcha",
+          "seoTitle": "La antorcha",
+          "shareableTitle": "La antorcha",
+          "thumbnail": {
+            "description": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
+            "distributionUrl": "https://churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/320,/0/default",
+            "seoDescription": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
+            "seoTitle": "Android Latter-day Saints Channel app",
+            "shareableTitle": "Android Latter-day Saints Channel app",
+            "title": "Android Latter-day Saints Channel app",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
               },
-              "ipCode": "0 - IRI Owned",
-              "isPartOf": [],
-              "keywords": [
-                "apps"
-              ],
-              "$lastUpdatedDate": "Mon Sep 18 13:55:12 EDT 2023",
-              "locatorIds": [],
-              "noindex": false,
-              "$owningSite": "inspiration",
-              "$id": "00000171-ae49-d7a7-a57d-efff121c0000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "00000171-ae49-d7a7-a57d-efff121c0000",
-              "$site": "music",
-              "products": [],
-              "publicAltText": "Latter-day Saints Channel icon for Android devices.",
-              "publicDownload": [],
-              "$publishDate": "Fri Apr 24 18:22:36 EDT 2020",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!320%2C320/0/default",
-                  "height": 320,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!320%2C320/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!640%2C640/0/default",
-                  "height": 640,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!640%2C640/0/default",
-                  "width": 640
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!800%2C800/0/default",
-                  "height": 800,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!800%2C800/0/default",
-                  "width": 800
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1280%2C1280/0/default",
-                  "height": 1280,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1280%2C1280/0/default",
-                  "width": 1280
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1600%2C1600/0/default",
-                  "height": 1600,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1600%2C1600/0/default",
-                  "width": 1600
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1920%2C1920/0/default",
-                  "height": 1920,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1920%2C1920/0/default",
-                  "width": 1920
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!60%2C60/0/default",
-                  "height": 60,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!60%2C60/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!250%2C250/0/default",
-                  "height": 250,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!250%2C250/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!200%2C200/0/default",
-                  "height": 200,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!200%2C200/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!100%2C100/0/default",
-                  "height": 100,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!100%2C100/0/default",
-                  "width": 100
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!500%2C500/0/default",
-                  "height": 500,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!500%2C500/0/default",
-                  "width": 500
-                }
-              ],
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "Android Latter-day Saints Channel app",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
-              "shareableTitle": "Android Latter-day Saints Channel app",
-              "title": "Android Latter-day Saints Channel app"
-            },
-            "title": "La antorcha",
-            "translator": []
-          },
-          "$id": "00000196-c6d9-d455-a9f6-deddb1290000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6d9-d455-a9f6-deddb1290000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
         }
       ]
     },
@@ -826,163 +577,80 @@
       "voicings": [],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "7ddaed31f3f7b01857288294c7e0afdc915bd0cc",
-            "attributes": {},
-            "composer": [],
-            "description": "“Something Divine” from Music from the Latter-day Saints Channel (English, 2014-11-05).",
-            "distributionUrl": "https://assets.churchofjesuschrist.org/7d/da/7ddaed31f3f7b01857288294c7e0afdc915bd0cc/something_divine.mp3",
-            "duration": 240000,
-            "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Mon Sep 18 13:55:01 EDT 2023",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "0000017e-dfb7-dbd3-a7ff-dff7d5f30000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "0000017e-dfb7-dbd3-a7ff-dff7d5f30000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“Something Divine” from Music from the Latter-day Saints Channel (English, 2014-11-05).",
-            "publicDownload": [
-              "PUBLIC"
-            ],
-            "$publishDate": "Wed Feb 09 13:21:14 EST 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“Something Divine” from Music from the Latter-day Saints Channel (English, 2014-11-05).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "Something Divine",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“Something Divine” from Music from the Latter-day Saints Channel (English, 2014-11-05).",
-            "shareableTitle": "Something Divine",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "3699b782102c94cae969a75ffe20a596b05f2e1c",
-              "attributes": {},
-              "description": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
-              "distributionUrl": "https://churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/320,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
+          "distributionUrl": "https://assets.churchofjesuschrist.org/7d/da/7ddaed31f3f7b01857288294c7e0afdc915bd0cc/something_divine.mp3",
+          "duration": 240000,
+          "lang": "eng",
+          "title": "Something Divine",
+          "description": "“Something Divine” from Music from the Latter-day Saints Channel (English, 2014-11-05).",
+          "seoDescription": "“Something Divine” from Music from the Latter-day Saints Channel (English, 2014-11-05).",
+          "seoTitle": "Something Divine",
+          "shareableTitle": "Something Divine",
+          "thumbnail": {
+            "description": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
+            "distributionUrl": "https://churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/320,/0/default",
+            "seoDescription": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
+            "seoTitle": "Android Latter-day Saints Channel app",
+            "shareableTitle": "Android Latter-day Saints Channel app",
+            "title": "Android Latter-day Saints Channel app",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
               },
-              "ipCode": "0 - IRI Owned",
-              "isPartOf": [],
-              "keywords": [
-                "apps"
-              ],
-              "$lastUpdatedDate": "Mon Sep 18 13:55:12 EDT 2023",
-              "locatorIds": [],
-              "noindex": false,
-              "$owningSite": "inspiration",
-              "$id": "00000171-ae49-d7a7-a57d-efff121c0000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "00000171-ae49-d7a7-a57d-efff121c0000",
-              "$site": "music",
-              "products": [],
-              "publicAltText": "Latter-day Saints Channel icon for Android devices.",
-              "publicDownload": [],
-              "$publishDate": "Fri Apr 24 18:22:36 EDT 2020",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!320%2C320/0/default",
-                  "height": 320,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!320%2C320/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!640%2C640/0/default",
-                  "height": 640,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!640%2C640/0/default",
-                  "width": 640
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!800%2C800/0/default",
-                  "height": 800,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!800%2C800/0/default",
-                  "width": 800
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1280%2C1280/0/default",
-                  "height": 1280,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1280%2C1280/0/default",
-                  "width": 1280
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1600%2C1600/0/default",
-                  "height": 1600,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1600%2C1600/0/default",
-                  "width": 1600
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1920%2C1920/0/default",
-                  "height": 1920,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1920%2C1920/0/default",
-                  "width": 1920
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!60%2C60/0/default",
-                  "height": 60,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!60%2C60/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!250%2C250/0/default",
-                  "height": 250,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!250%2C250/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!200%2C200/0/default",
-                  "height": 200,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!200%2C200/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!100%2C100/0/default",
-                  "height": 100,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!100%2C100/0/default",
-                  "width": 100
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!500%2C500/0/default",
-                  "height": 500,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!500%2C500/0/default",
-                  "width": 500
-                }
-              ],
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "Android Latter-day Saints Channel app",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
-              "shareableTitle": "Android Latter-day Saints Channel app",
-              "title": "Android Latter-day Saints Channel app"
-            },
-            "title": "Something Divine",
-            "translator": []
-          },
-          "$id": "00000196-c6d9-d455-a9f6-deddb14f0000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6d9-d455-a9f6-deddb14f0000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
         }
       ]
     },
@@ -1026,163 +694,80 @@
       "voicings": [],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "a911e2243707a9a35435e1338a4df9ef0934e601",
-            "attributes": {},
-            "composer": [],
-            "description": "“O Holy Night” from Music from the Latter-day Saints Channel (English, 2014-12-10).",
-            "distributionUrl": "https://assets.churchofjesuschrist.org/a9/11/a911e2243707a9a35435e1338a4df9ef0934e601/o_holy_night.mp3",
-            "duration": 189000,
-            "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Mon Sep 18 13:55:03 EDT 2023",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "0000017e-dfb7-dbd3-a7ff-dff7d81c0000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "0000017e-dfb7-dbd3-a7ff-dff7d81c0000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“O Holy Night” from Music from the Latter-day Saints Channel (English, 2014-12-10).",
-            "publicDownload": [
-              "PUBLIC"
-            ],
-            "$publishDate": "Wed Feb 09 13:21:14 EST 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“O Holy Night” from Music from the Latter-day Saints Channel (English, 2014-12-10).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "O Holy Night",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“O Holy Night” from Music from the Latter-day Saints Channel (English, 2014-12-10).",
-            "shareableTitle": "O Holy Night",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "3699b782102c94cae969a75ffe20a596b05f2e1c",
-              "attributes": {},
-              "description": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
-              "distributionUrl": "https://churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/320,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
+          "distributionUrl": "https://assets.churchofjesuschrist.org/a9/11/a911e2243707a9a35435e1338a4df9ef0934e601/o_holy_night.mp3",
+          "duration": 189000,
+          "lang": "eng",
+          "title": "O Holy Night",
+          "description": "“O Holy Night” from Music from the Latter-day Saints Channel (English, 2014-12-10).",
+          "seoDescription": "“O Holy Night” from Music from the Latter-day Saints Channel (English, 2014-12-10).",
+          "seoTitle": "O Holy Night",
+          "shareableTitle": "O Holy Night",
+          "thumbnail": {
+            "description": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
+            "distributionUrl": "https://churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/320,/0/default",
+            "seoDescription": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
+            "seoTitle": "Android Latter-day Saints Channel app",
+            "shareableTitle": "Android Latter-day Saints Channel app",
+            "title": "Android Latter-day Saints Channel app",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
               },
-              "ipCode": "0 - IRI Owned",
-              "isPartOf": [],
-              "keywords": [
-                "apps"
-              ],
-              "$lastUpdatedDate": "Mon Sep 18 13:55:12 EDT 2023",
-              "locatorIds": [],
-              "noindex": false,
-              "$owningSite": "inspiration",
-              "$id": "00000171-ae49-d7a7-a57d-efff121c0000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "00000171-ae49-d7a7-a57d-efff121c0000",
-              "$site": "music",
-              "products": [],
-              "publicAltText": "Latter-day Saints Channel icon for Android devices.",
-              "publicDownload": [],
-              "$publishDate": "Fri Apr 24 18:22:36 EDT 2020",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!320%2C320/0/default",
-                  "height": 320,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!320%2C320/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!640%2C640/0/default",
-                  "height": 640,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!640%2C640/0/default",
-                  "width": 640
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!800%2C800/0/default",
-                  "height": 800,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!800%2C800/0/default",
-                  "width": 800
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1280%2C1280/0/default",
-                  "height": 1280,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1280%2C1280/0/default",
-                  "width": 1280
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1600%2C1600/0/default",
-                  "height": 1600,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1600%2C1600/0/default",
-                  "width": 1600
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1920%2C1920/0/default",
-                  "height": 1920,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1920%2C1920/0/default",
-                  "width": 1920
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!60%2C60/0/default",
-                  "height": 60,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!60%2C60/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!250%2C250/0/default",
-                  "height": 250,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!250%2C250/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!200%2C200/0/default",
-                  "height": 200,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!200%2C200/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!100%2C100/0/default",
-                  "height": 100,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!100%2C100/0/default",
-                  "width": 100
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!500%2C500/0/default",
-                  "height": 500,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!500%2C500/0/default",
-                  "width": 500
-                }
-              ],
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "Android Latter-day Saints Channel app",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
-              "shareableTitle": "Android Latter-day Saints Channel app",
-              "title": "Android Latter-day Saints Channel app"
-            },
-            "title": "O Holy Night",
-            "translator": []
-          },
-          "$id": "00000196-c6d9-d455-a9f6-deddb1740000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6d9-d455-a9f6-deddb1740000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
         }
       ]
     },
@@ -1235,163 +820,80 @@
       "voicings": [],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "7058cfe886d121917c831b4378cda4281a19fff8",
-            "attributes": {},
-            "composer": [],
-            "description": "“The First Noel” from Music from the Latter-day Saints Channel (English, 2014-12-20).",
-            "distributionUrl": "https://assets.churchofjesuschrist.org/70/58/7058cfe886d121917c831b4378cda4281a19fff8/the_first_noel.mp3",
-            "duration": 138000,
-            "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Mon Sep 18 13:55:04 EDT 2023",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "0000017a-63eb-dc61-a7fb-7bfb0b080000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "0000017a-63eb-dc61-a7fb-7bfb0b080000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“The First Noel” from Music from the Latter-day Saints Channel (English, 2014-12-20).",
-            "publicDownload": [
-              "PUBLIC"
-            ],
-            "$publishDate": "Thu Jul 01 17:13:06 EDT 2021",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“The First Noel” from Music from the Latter-day Saints Channel (English, 2014-12-20).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "The First Noel",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“The First Noel” from Music from the Latter-day Saints Channel (English, 2014-12-20).",
-            "shareableTitle": "The First Noel",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "3699b782102c94cae969a75ffe20a596b05f2e1c",
-              "attributes": {},
-              "description": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
-              "distributionUrl": "https://churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/320,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
+          "distributionUrl": "https://assets.churchofjesuschrist.org/70/58/7058cfe886d121917c831b4378cda4281a19fff8/the_first_noel.mp3",
+          "duration": 138000,
+          "lang": "eng",
+          "title": "The First Noel",
+          "description": "“The First Noel” from Music from the Latter-day Saints Channel (English, 2014-12-20).",
+          "seoDescription": "“The First Noel” from Music from the Latter-day Saints Channel (English, 2014-12-20).",
+          "seoTitle": "The First Noel",
+          "shareableTitle": "The First Noel",
+          "thumbnail": {
+            "description": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
+            "distributionUrl": "https://churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/320,/0/default",
+            "seoDescription": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
+            "seoTitle": "Android Latter-day Saints Channel app",
+            "shareableTitle": "Android Latter-day Saints Channel app",
+            "title": "Android Latter-day Saints Channel app",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
               },
-              "ipCode": "0 - IRI Owned",
-              "isPartOf": [],
-              "keywords": [
-                "apps"
-              ],
-              "$lastUpdatedDate": "Mon Sep 18 13:55:12 EDT 2023",
-              "locatorIds": [],
-              "noindex": false,
-              "$owningSite": "inspiration",
-              "$id": "00000171-ae49-d7a7-a57d-efff121c0000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "00000171-ae49-d7a7-a57d-efff121c0000",
-              "$site": "music",
-              "products": [],
-              "publicAltText": "Latter-day Saints Channel icon for Android devices.",
-              "publicDownload": [],
-              "$publishDate": "Fri Apr 24 18:22:36 EDT 2020",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!320%2C320/0/default",
-                  "height": 320,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!320%2C320/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!640%2C640/0/default",
-                  "height": 640,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!640%2C640/0/default",
-                  "width": 640
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!800%2C800/0/default",
-                  "height": 800,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!800%2C800/0/default",
-                  "width": 800
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1280%2C1280/0/default",
-                  "height": 1280,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1280%2C1280/0/default",
-                  "width": 1280
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1600%2C1600/0/default",
-                  "height": 1600,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1600%2C1600/0/default",
-                  "width": 1600
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1920%2C1920/0/default",
-                  "height": 1920,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1920%2C1920/0/default",
-                  "width": 1920
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!60%2C60/0/default",
-                  "height": 60,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!60%2C60/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!250%2C250/0/default",
-                  "height": 250,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!250%2C250/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!200%2C200/0/default",
-                  "height": 200,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!200%2C200/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!100%2C100/0/default",
-                  "height": 100,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!100%2C100/0/default",
-                  "width": 100
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!500%2C500/0/default",
-                  "height": 500,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!500%2C500/0/default",
-                  "width": 500
-                }
-              ],
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "Android Latter-day Saints Channel app",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
-              "shareableTitle": "Android Latter-day Saints Channel app",
-              "title": "Android Latter-day Saints Channel app"
-            },
-            "title": "The First Noel",
-            "translator": []
-          },
-          "$id": "00000196-c6d9-d455-a9f6-deddb1a30000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6d9-d455-a9f6-deddb1a30000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
         }
       ]
     },
@@ -1441,163 +943,80 @@
       "voicings": [],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "7c470dfdcac139a9222664413702eff47daa6ab5",
-            "attributes": {},
-            "composer": [],
-            "description": "“I’m Trying to Be Like Jesus” from Music from the Latter-day Saints Channel (English, 2015-04-10).",
-            "distributionUrl": "https://assets.churchofjesuschrist.org/7c/47/7c470dfdcac139a9222664413702eff47daa6ab5/im_trying_to_be_like_jesus.mp3",
-            "duration": 169000,
-            "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Mon Sep 18 13:55:06 EDT 2023",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "0000017e-dfb7-dbd3-a7ff-dff7db7f0000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "0000017e-dfb7-dbd3-a7ff-dff7db7f0000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“I’m Trying to Be Like Jesus” from Music from the Latter-day Saints Channel (English, 2015-04-10).",
-            "publicDownload": [
-              "PUBLIC"
-            ],
-            "$publishDate": "Wed Feb 09 13:21:15 EST 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“I’m Trying to Be Like Jesus” from Music from the Latter-day Saints Channel (English, 2015-04-10).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "I’m Trying to Be Like Jesus",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“I’m Trying to Be Like Jesus” from Music from the Latter-day Saints Channel (English, 2015-04-10).",
-            "shareableTitle": "I’m Trying to Be Like Jesus",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "3699b782102c94cae969a75ffe20a596b05f2e1c",
-              "attributes": {},
-              "description": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
-              "distributionUrl": "https://churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/320,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
+          "distributionUrl": "https://assets.churchofjesuschrist.org/7c/47/7c470dfdcac139a9222664413702eff47daa6ab5/im_trying_to_be_like_jesus.mp3",
+          "duration": 169000,
+          "lang": "eng",
+          "title": "I’m Trying to Be Like Jesus",
+          "description": "“I’m Trying to Be Like Jesus” from Music from the Latter-day Saints Channel (English, 2015-04-10).",
+          "seoDescription": "“I’m Trying to Be Like Jesus” from Music from the Latter-day Saints Channel (English, 2015-04-10).",
+          "seoTitle": "I’m Trying to Be Like Jesus",
+          "shareableTitle": "I’m Trying to Be Like Jesus",
+          "thumbnail": {
+            "description": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
+            "distributionUrl": "https://churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/320,/0/default",
+            "seoDescription": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
+            "seoTitle": "Android Latter-day Saints Channel app",
+            "shareableTitle": "Android Latter-day Saints Channel app",
+            "title": "Android Latter-day Saints Channel app",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
               },
-              "ipCode": "0 - IRI Owned",
-              "isPartOf": [],
-              "keywords": [
-                "apps"
-              ],
-              "$lastUpdatedDate": "Mon Sep 18 13:55:12 EDT 2023",
-              "locatorIds": [],
-              "noindex": false,
-              "$owningSite": "inspiration",
-              "$id": "00000171-ae49-d7a7-a57d-efff121c0000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "00000171-ae49-d7a7-a57d-efff121c0000",
-              "$site": "music",
-              "products": [],
-              "publicAltText": "Latter-day Saints Channel icon for Android devices.",
-              "publicDownload": [],
-              "$publishDate": "Fri Apr 24 18:22:36 EDT 2020",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!320%2C320/0/default",
-                  "height": 320,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!320%2C320/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!640%2C640/0/default",
-                  "height": 640,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!640%2C640/0/default",
-                  "width": 640
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!800%2C800/0/default",
-                  "height": 800,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!800%2C800/0/default",
-                  "width": 800
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1280%2C1280/0/default",
-                  "height": 1280,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1280%2C1280/0/default",
-                  "width": 1280
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1600%2C1600/0/default",
-                  "height": 1600,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1600%2C1600/0/default",
-                  "width": 1600
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1920%2C1920/0/default",
-                  "height": 1920,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1920%2C1920/0/default",
-                  "width": 1920
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!60%2C60/0/default",
-                  "height": 60,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!60%2C60/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!250%2C250/0/default",
-                  "height": 250,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!250%2C250/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!200%2C200/0/default",
-                  "height": 200,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!200%2C200/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!100%2C100/0/default",
-                  "height": 100,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!100%2C100/0/default",
-                  "width": 100
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!500%2C500/0/default",
-                  "height": 500,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!500%2C500/0/default",
-                  "width": 500
-                }
-              ],
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "Android Latter-day Saints Channel app",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
-              "shareableTitle": "Android Latter-day Saints Channel app",
-              "title": "Android Latter-day Saints Channel app"
-            },
-            "title": "I’m Trying to Be Like Jesus",
-            "translator": []
-          },
-          "$id": "00000196-c6d9-d455-a9f6-deddb1c80000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6d9-d455-a9f6-deddb1c80000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
         }
       ]
     },
@@ -1643,163 +1062,80 @@
       "voicings": [],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "e22ecd7346f99a96e4674906fbf9435654103ffd",
-            "attributes": {},
-            "composer": [],
-            "description": "“Love Is Spoken Here” from Music from the Latter-day Saints Channel (English, 2015-07-28).",
-            "distributionUrl": "https://assets.churchofjesuschrist.org/e2/2e/e22ecd7346f99a96e4674906fbf9435654103ffd/love_is_spoken_here.mp3",
-            "duration": 244000,
-            "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Mon Sep 18 13:55:02 EDT 2023",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "0000017e-dfb7-dbd3-a7ff-dff7d7450000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "0000017e-dfb7-dbd3-a7ff-dff7d7450000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“Love Is Spoken Here” from Music from the Latter-day Saints Channel (English, 2015-07-28).",
-            "publicDownload": [
-              "PUBLIC"
-            ],
-            "$publishDate": "Wed Feb 09 13:21:14 EST 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“Love Is Spoken Here” from Music from the Latter-day Saints Channel (English, 2015-07-28).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "Love Is Spoken Here",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“Love Is Spoken Here” from Music from the Latter-day Saints Channel (English, 2015-07-28).",
-            "shareableTitle": "Love Is Spoken Here",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "3699b782102c94cae969a75ffe20a596b05f2e1c",
-              "attributes": {},
-              "description": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
-              "distributionUrl": "https://churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/320,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
+          "distributionUrl": "https://assets.churchofjesuschrist.org/e2/2e/e22ecd7346f99a96e4674906fbf9435654103ffd/love_is_spoken_here.mp3",
+          "duration": 244000,
+          "lang": "eng",
+          "title": "Love Is Spoken Here",
+          "description": "“Love Is Spoken Here” from Music from the Latter-day Saints Channel (English, 2015-07-28).",
+          "seoDescription": "“Love Is Spoken Here” from Music from the Latter-day Saints Channel (English, 2015-07-28).",
+          "seoTitle": "Love Is Spoken Here",
+          "shareableTitle": "Love Is Spoken Here",
+          "thumbnail": {
+            "description": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
+            "distributionUrl": "https://churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/320,/0/default",
+            "seoDescription": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
+            "seoTitle": "Android Latter-day Saints Channel app",
+            "shareableTitle": "Android Latter-day Saints Channel app",
+            "title": "Android Latter-day Saints Channel app",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
               },
-              "ipCode": "0 - IRI Owned",
-              "isPartOf": [],
-              "keywords": [
-                "apps"
-              ],
-              "$lastUpdatedDate": "Mon Sep 18 13:55:12 EDT 2023",
-              "locatorIds": [],
-              "noindex": false,
-              "$owningSite": "inspiration",
-              "$id": "00000171-ae49-d7a7-a57d-efff121c0000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "00000171-ae49-d7a7-a57d-efff121c0000",
-              "$site": "music",
-              "products": [],
-              "publicAltText": "Latter-day Saints Channel icon for Android devices.",
-              "publicDownload": [],
-              "$publishDate": "Fri Apr 24 18:22:36 EDT 2020",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!320%2C320/0/default",
-                  "height": 320,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!320%2C320/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!640%2C640/0/default",
-                  "height": 640,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!640%2C640/0/default",
-                  "width": 640
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!800%2C800/0/default",
-                  "height": 800,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!800%2C800/0/default",
-                  "width": 800
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1280%2C1280/0/default",
-                  "height": 1280,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1280%2C1280/0/default",
-                  "width": 1280
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1600%2C1600/0/default",
-                  "height": 1600,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1600%2C1600/0/default",
-                  "width": 1600
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1920%2C1920/0/default",
-                  "height": 1920,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1920%2C1920/0/default",
-                  "width": 1920
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!60%2C60/0/default",
-                  "height": 60,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!60%2C60/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!250%2C250/0/default",
-                  "height": 250,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!250%2C250/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!200%2C200/0/default",
-                  "height": 200,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!200%2C200/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!100%2C100/0/default",
-                  "height": 100,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!100%2C100/0/default",
-                  "width": 100
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!500%2C500/0/default",
-                  "height": 500,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!500%2C500/0/default",
-                  "width": 500
-                }
-              ],
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "Android Latter-day Saints Channel app",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
-              "shareableTitle": "Android Latter-day Saints Channel app",
-              "title": "Android Latter-day Saints Channel app"
-            },
-            "title": "Love Is Spoken Here",
-            "translator": []
-          },
-          "$id": "00000196-c6d9-d455-a9f6-deddb1ee0000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6d9-d455-a9f6-deddb1ee0000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
         }
       ]
     },
@@ -1848,163 +1184,80 @@
       "voicings": [],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "5377827806198b10fec6c87dd094408fc95be913",
-            "attributes": {},
-            "composer": [],
-            "description": "“Nearer, My God, to Thee” from Music from the Latter-day Saints Channel (English, 2015-11-18).",
-            "distributionUrl": "https://assets.churchofjesuschrist.org/53/77/5377827806198b10fec6c87dd094408fc95be913/nearer_my_god_to_thee.mp3",
-            "duration": 238000,
-            "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Mon Sep 18 13:55:08 EDT 2023",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "0000017e-dfb7-dbd3-a7ff-dff7dd200000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "0000017e-dfb7-dbd3-a7ff-dff7dd200000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“Nearer, My God, to Thee” from Music from the Latter-day Saints Channel (English, 2015-11-18).",
-            "publicDownload": [
-              "PUBLIC"
-            ],
-            "$publishDate": "Wed Feb 09 13:21:15 EST 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“Nearer, My God, to Thee” from Music from the Latter-day Saints Channel (English, 2015-11-18).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "Nearer, My God, to Thee",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“Nearer, My God, to Thee” from Music from the Latter-day Saints Channel (English, 2015-11-18).",
-            "shareableTitle": "Nearer, My God, to Thee",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "3699b782102c94cae969a75ffe20a596b05f2e1c",
-              "attributes": {},
-              "description": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
-              "distributionUrl": "https://churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/320,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
+          "distributionUrl": "https://assets.churchofjesuschrist.org/53/77/5377827806198b10fec6c87dd094408fc95be913/nearer_my_god_to_thee.mp3",
+          "duration": 238000,
+          "lang": "eng",
+          "title": "Nearer, My God, to Thee",
+          "description": "“Nearer, My God, to Thee” from Music from the Latter-day Saints Channel (English, 2015-11-18).",
+          "seoDescription": "“Nearer, My God, to Thee” from Music from the Latter-day Saints Channel (English, 2015-11-18).",
+          "seoTitle": "Nearer, My God, to Thee",
+          "shareableTitle": "Nearer, My God, to Thee",
+          "thumbnail": {
+            "description": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
+            "distributionUrl": "https://churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/320,/0/default",
+            "seoDescription": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
+            "seoTitle": "Android Latter-day Saints Channel app",
+            "shareableTitle": "Android Latter-day Saints Channel app",
+            "title": "Android Latter-day Saints Channel app",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
               },
-              "ipCode": "0 - IRI Owned",
-              "isPartOf": [],
-              "keywords": [
-                "apps"
-              ],
-              "$lastUpdatedDate": "Mon Sep 18 13:55:12 EDT 2023",
-              "locatorIds": [],
-              "noindex": false,
-              "$owningSite": "inspiration",
-              "$id": "00000171-ae49-d7a7-a57d-efff121c0000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "00000171-ae49-d7a7-a57d-efff121c0000",
-              "$site": "music",
-              "products": [],
-              "publicAltText": "Latter-day Saints Channel icon for Android devices.",
-              "publicDownload": [],
-              "$publishDate": "Fri Apr 24 18:22:36 EDT 2020",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!320%2C320/0/default",
-                  "height": 320,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!320%2C320/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!640%2C640/0/default",
-                  "height": 640,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!640%2C640/0/default",
-                  "width": 640
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!800%2C800/0/default",
-                  "height": 800,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!800%2C800/0/default",
-                  "width": 800
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1280%2C1280/0/default",
-                  "height": 1280,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1280%2C1280/0/default",
-                  "width": 1280
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1600%2C1600/0/default",
-                  "height": 1600,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1600%2C1600/0/default",
-                  "width": 1600
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1920%2C1920/0/default",
-                  "height": 1920,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1920%2C1920/0/default",
-                  "width": 1920
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!60%2C60/0/default",
-                  "height": 60,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!60%2C60/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!250%2C250/0/default",
-                  "height": 250,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!250%2C250/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!200%2C200/0/default",
-                  "height": 200,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!200%2C200/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!100%2C100/0/default",
-                  "height": 100,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!100%2C100/0/default",
-                  "width": 100
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!500%2C500/0/default",
-                  "height": 500,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!500%2C500/0/default",
-                  "width": 500
-                }
-              ],
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "Android Latter-day Saints Channel app",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
-              "shareableTitle": "Android Latter-day Saints Channel app",
-              "title": "Android Latter-day Saints Channel app"
-            },
-            "title": "Nearer, My God, to Thee",
-            "translator": []
-          },
-          "$id": "00000196-c6d9-d455-a9f6-deddb2310000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6d9-d455-a9f6-deddb2310000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
         }
       ]
     },
@@ -2054,163 +1307,80 @@
       "voicings": [],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "aad5cef6c0fdf48f290e2fa7f568e7d6636481b6",
-            "attributes": {},
-            "composer": [],
-            "description": "Más cerca, Dios, de ti",
-            "distributionUrl": "https://assets.churchofjesuschrist.org/aa/d5/aad5cef6c0fdf48f290e2fa7f568e7d6636481b6/mas_cerca_dios_de_ti.mp3",
-            "duration": 208000,
-            "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Mon Sep 18 13:55:10 EDT 2023",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "0000017e-dfb7-dbd3-a7ff-dff7deff0000",
-            "$lang": "spa",
-            "$model": "audio",
-            "$rootId": "0000017e-dfb7-dbd3-a7ff-dff7deff0000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“Más cerca, Dios, de ti” (Spanish) from Music from the Latter-day Saints Channel (English, 2015-11-30).",
-            "publicDownload": [
-              "PUBLIC"
-            ],
-            "$publishDate": "Wed Feb 09 13:21:16 EST 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "Más cerca, Dios, de ti",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "Más cerca, Dios, de ti",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "Más cerca, Dios, de ti",
-            "shareableTitle": "Más cerca, Dios, de ti",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "3699b782102c94cae969a75ffe20a596b05f2e1c",
-              "attributes": {},
-              "description": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
-              "distributionUrl": "https://churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/320,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
+          "distributionUrl": "https://assets.churchofjesuschrist.org/aa/d5/aad5cef6c0fdf48f290e2fa7f568e7d6636481b6/mas_cerca_dios_de_ti.mp3",
+          "duration": 208000,
+          "lang": "spa",
+          "title": "Más cerca, Dios, de ti",
+          "description": "Más cerca, Dios, de ti",
+          "seoDescription": "Más cerca, Dios, de ti",
+          "seoTitle": "Más cerca, Dios, de ti",
+          "shareableTitle": "Más cerca, Dios, de ti",
+          "thumbnail": {
+            "description": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
+            "distributionUrl": "https://churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/320,/0/default",
+            "seoDescription": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
+            "seoTitle": "Android Latter-day Saints Channel app",
+            "shareableTitle": "Android Latter-day Saints Channel app",
+            "title": "Android Latter-day Saints Channel app",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
               },
-              "ipCode": "0 - IRI Owned",
-              "isPartOf": [],
-              "keywords": [
-                "apps"
-              ],
-              "$lastUpdatedDate": "Mon Sep 18 13:55:12 EDT 2023",
-              "locatorIds": [],
-              "noindex": false,
-              "$owningSite": "inspiration",
-              "$id": "00000171-ae49-d7a7-a57d-efff121c0000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "00000171-ae49-d7a7-a57d-efff121c0000",
-              "$site": "music",
-              "products": [],
-              "publicAltText": "Latter-day Saints Channel icon for Android devices.",
-              "publicDownload": [],
-              "$publishDate": "Fri Apr 24 18:22:36 EDT 2020",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!320%2C320/0/default",
-                  "height": 320,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!320%2C320/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!640%2C640/0/default",
-                  "height": 640,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!640%2C640/0/default",
-                  "width": 640
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!800%2C800/0/default",
-                  "height": 800,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!800%2C800/0/default",
-                  "width": 800
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1280%2C1280/0/default",
-                  "height": 1280,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1280%2C1280/0/default",
-                  "width": 1280
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1600%2C1600/0/default",
-                  "height": 1600,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1600%2C1600/0/default",
-                  "width": 1600
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1920%2C1920/0/default",
-                  "height": 1920,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1920%2C1920/0/default",
-                  "width": 1920
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!60%2C60/0/default",
-                  "height": 60,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!60%2C60/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!250%2C250/0/default",
-                  "height": 250,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!250%2C250/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!200%2C200/0/default",
-                  "height": 200,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!200%2C200/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!100%2C100/0/default",
-                  "height": 100,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!100%2C100/0/default",
-                  "width": 100
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!500%2C500/0/default",
-                  "height": 500,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!500%2C500/0/default",
-                  "width": 500
-                }
-              ],
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "Android Latter-day Saints Channel app",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
-              "shareableTitle": "Android Latter-day Saints Channel app",
-              "title": "Android Latter-day Saints Channel app"
-            },
-            "title": "Más cerca, Dios, de ti",
-            "translator": []
-          },
-          "$id": "00000196-c6d9-d455-a9f6-deddb2590000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6d9-d455-a9f6-deddb2590000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
         }
       ]
     },
@@ -2259,163 +1429,80 @@
       "voicings": [],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "c3c6a8604de68c9f892ad6a870b62a2b9ca554a4",
-            "attributes": {},
-            "composer": [],
-            "description": "“Be Still, My Soul” from Music from the Latter-day Saints Channel (English, 2016-04-08).",
-            "distributionUrl": "https://assets.churchofjesuschrist.org/c3/c6/c3c6a8604de68c9f892ad6a870b62a2b9ca554a4/be_still_my_soul.mp3",
-            "duration": 233000,
-            "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Mon Sep 18 13:55:09 EDT 2023",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "0000017e-dfb7-dbd3-a7ff-dff7ddea0000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "0000017e-dfb7-dbd3-a7ff-dff7ddea0000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“Be Still, My Soul” from Music from the Latter-day Saints Channel (English, 2016-04-08).",
-            "publicDownload": [
-              "PUBLIC"
-            ],
-            "$publishDate": "Wed Feb 09 13:21:16 EST 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“Be Still, My Soul” from Music from the Latter-day Saints Channel (English, 2016-04-08).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "Be Still, My Soul",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“Be Still, My Soul” from Music from the Latter-day Saints Channel (English, 2016-04-08).",
-            "shareableTitle": "Be Still, My Soul",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "3699b782102c94cae969a75ffe20a596b05f2e1c",
-              "attributes": {},
-              "description": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
-              "distributionUrl": "https://churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/320,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
+          "distributionUrl": "https://assets.churchofjesuschrist.org/c3/c6/c3c6a8604de68c9f892ad6a870b62a2b9ca554a4/be_still_my_soul.mp3",
+          "duration": 233000,
+          "lang": "eng",
+          "title": "Be Still, My Soul",
+          "description": "“Be Still, My Soul” from Music from the Latter-day Saints Channel (English, 2016-04-08).",
+          "seoDescription": "“Be Still, My Soul” from Music from the Latter-day Saints Channel (English, 2016-04-08).",
+          "seoTitle": "Be Still, My Soul",
+          "shareableTitle": "Be Still, My Soul",
+          "thumbnail": {
+            "description": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
+            "distributionUrl": "https://churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/320,/0/default",
+            "seoDescription": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
+            "seoTitle": "Android Latter-day Saints Channel app",
+            "shareableTitle": "Android Latter-day Saints Channel app",
+            "title": "Android Latter-day Saints Channel app",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
               },
-              "ipCode": "0 - IRI Owned",
-              "isPartOf": [],
-              "keywords": [
-                "apps"
-              ],
-              "$lastUpdatedDate": "Mon Sep 18 13:55:12 EDT 2023",
-              "locatorIds": [],
-              "noindex": false,
-              "$owningSite": "inspiration",
-              "$id": "00000171-ae49-d7a7-a57d-efff121c0000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "00000171-ae49-d7a7-a57d-efff121c0000",
-              "$site": "music",
-              "products": [],
-              "publicAltText": "Latter-day Saints Channel icon for Android devices.",
-              "publicDownload": [],
-              "$publishDate": "Fri Apr 24 18:22:36 EDT 2020",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!320%2C320/0/default",
-                  "height": 320,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!320%2C320/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!640%2C640/0/default",
-                  "height": 640,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!640%2C640/0/default",
-                  "width": 640
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!800%2C800/0/default",
-                  "height": 800,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!800%2C800/0/default",
-                  "width": 800
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1280%2C1280/0/default",
-                  "height": 1280,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1280%2C1280/0/default",
-                  "width": 1280
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1600%2C1600/0/default",
-                  "height": 1600,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1600%2C1600/0/default",
-                  "width": 1600
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1920%2C1920/0/default",
-                  "height": 1920,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1920%2C1920/0/default",
-                  "width": 1920
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!60%2C60/0/default",
-                  "height": 60,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!60%2C60/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!250%2C250/0/default",
-                  "height": 250,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!250%2C250/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!200%2C200/0/default",
-                  "height": 200,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!200%2C200/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!100%2C100/0/default",
-                  "height": 100,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!100%2C100/0/default",
-                  "width": 100
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!500%2C500/0/default",
-                  "height": 500,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!500%2C500/0/default",
-                  "width": 500
-                }
-              ],
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "Android Latter-day Saints Channel app",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
-              "shareableTitle": "Android Latter-day Saints Channel app",
-              "title": "Android Latter-day Saints Channel app"
-            },
-            "title": "Be Still, My Soul",
-            "translator": []
-          },
-          "$id": "00000196-c6d9-d455-a9f6-deddb2830000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6d9-d455-a9f6-deddb2830000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
         }
       ]
     },
@@ -2589,163 +1676,80 @@
       "voicings": [],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "4e23c6831343f6e1f8cca744621d20e0d39379af",
-            "attributes": {},
-            "composer": [],
-            "description": "“I Am Here” from Music from the Latter-day Saints Channel (English, 2016-10-20).",
-            "distributionUrl": "https://assets.churchofjesuschrist.org/4e/23/4e23c6831343f6e1f8cca744621d20e0d39379af/i_am_here.mp3",
-            "duration": 205000,
-            "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Mon Sep 18 13:55:11 EDT 2023",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "0000017a-1ba9-d65f-a97a-fbbfdd480000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "0000017a-1ba9-d65f-a97a-fbbfdd480000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“I Am Here” from Music from the Latter-day Saints Channel (English, 2016-10-20).",
-            "publicDownload": [
-              "PUBLIC"
-            ],
-            "$publishDate": "Thu Jun 17 16:29:14 EDT 2021",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“I Am Here” from Music from the Latter-day Saints Channel (English, 2016-10-20).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "I Am Here",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“I Am Here” from Music from the Latter-day Saints Channel (English, 2016-10-20).",
-            "shareableTitle": "I Am Here",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "3699b782102c94cae969a75ffe20a596b05f2e1c",
-              "attributes": {},
-              "description": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
-              "distributionUrl": "https://churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/320,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
+          "distributionUrl": "https://assets.churchofjesuschrist.org/4e/23/4e23c6831343f6e1f8cca744621d20e0d39379af/i_am_here.mp3",
+          "duration": 205000,
+          "lang": "eng",
+          "title": "I Am Here",
+          "description": "“I Am Here” from Music from the Latter-day Saints Channel (English, 2016-10-20).",
+          "seoDescription": "“I Am Here” from Music from the Latter-day Saints Channel (English, 2016-10-20).",
+          "seoTitle": "I Am Here",
+          "shareableTitle": "I Am Here",
+          "thumbnail": {
+            "description": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
+            "distributionUrl": "https://churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/320,/0/default",
+            "seoDescription": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
+            "seoTitle": "Android Latter-day Saints Channel app",
+            "shareableTitle": "Android Latter-day Saints Channel app",
+            "title": "Android Latter-day Saints Channel app",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
               },
-              "ipCode": "0 - IRI Owned",
-              "isPartOf": [],
-              "keywords": [
-                "apps"
-              ],
-              "$lastUpdatedDate": "Mon Sep 18 13:55:12 EDT 2023",
-              "locatorIds": [],
-              "noindex": false,
-              "$owningSite": "inspiration",
-              "$id": "00000171-ae49-d7a7-a57d-efff121c0000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "00000171-ae49-d7a7-a57d-efff121c0000",
-              "$site": "music",
-              "products": [],
-              "publicAltText": "Latter-day Saints Channel icon for Android devices.",
-              "publicDownload": [],
-              "$publishDate": "Fri Apr 24 18:22:36 EDT 2020",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!320%2C320/0/default",
-                  "height": 320,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!320%2C320/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!640%2C640/0/default",
-                  "height": 640,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!640%2C640/0/default",
-                  "width": 640
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!800%2C800/0/default",
-                  "height": 800,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!800%2C800/0/default",
-                  "width": 800
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1280%2C1280/0/default",
-                  "height": 1280,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1280%2C1280/0/default",
-                  "width": 1280
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1600%2C1600/0/default",
-                  "height": 1600,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1600%2C1600/0/default",
-                  "width": 1600
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1920%2C1920/0/default",
-                  "height": 1920,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1920%2C1920/0/default",
-                  "width": 1920
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!60%2C60/0/default",
-                  "height": 60,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!60%2C60/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!250%2C250/0/default",
-                  "height": 250,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!250%2C250/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!200%2C200/0/default",
-                  "height": 200,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!200%2C200/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!100%2C100/0/default",
-                  "height": 100,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!100%2C100/0/default",
-                  "width": 100
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!500%2C500/0/default",
-                  "height": 500,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!500%2C500/0/default",
-                  "width": 500
-                }
-              ],
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "Android Latter-day Saints Channel app",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "The app icon is white on a blue background of the Angel Moroni with his trumpet - Listen to Latter-day Saints Channel, the Church’s 24-hour-a-day audio station featuring gospel-oriented programs, music, and interviews, as well as scriptures, general conference, and Church magazines.",
-              "shareableTitle": "Android Latter-day Saints Channel app",
-              "title": "Android Latter-day Saints Channel app"
-            },
-            "title": "I Am Here",
-            "translator": []
-          },
-          "$id": "00000196-c6d9-d455-a9f6-deddb2e60000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6d9-d455-a9f6-deddb2e60000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3699b782102c94cae969a75ffe20a596b05f2e1c/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
         }
       ]
     },

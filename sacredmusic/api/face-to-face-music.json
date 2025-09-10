@@ -667,176 +667,80 @@
       "voicings": [],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "041d769ac5195ce95256a10dc2abf3d8f4e7eb5b",
-            "attributes": {},
-            "composer": [],
-            "description": "“Rock of Ages” from Face to Face Music (English, 2016-03-08).",
-            "distributionUrl": "https://assets.churchofjesuschrist.org/04/1d/041d769ac5195ce95256a10dc2abf3d8f4e7eb5b/rock_of_ages.mp3",
-            "duration": 185000,
-            "ipCode": "9 - IRI licensed",
-            "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Thu Aug 21 19:37:59 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000183-4370-db0c-a5e3-47f83b540000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000183-4370-db0c-a5e3-47f83b540000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "&ldquo;Rock of Ages&rdquo; from Face to Face Music (English, 2016-03-08).",
-            "publicDownload": [],
-            "$publishDate": "Thu Sep 15 19:16:12 EDT 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "reqCreditLine": "false",
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“Rock of Ages” from Face to Face Music (English, 2016-03-08).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "Rock of Ages",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“Rock of Ages” from Face to Face Music (English, 2016-03-08).",
-            "shareableTitle": "Rock of Ages",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "6356f85f5ee73a63568cb562920b1403c30623a3",
-              "attributes": {},
-              "description": "Young woman listening to music on an ipod.",
-              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/1920,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
+          "distributionUrl": "https://assets.churchofjesuschrist.org/04/1d/041d769ac5195ce95256a10dc2abf3d8f4e7eb5b/rock_of_ages.mp3",
+          "duration": 185000,
+          "lang": "eng",
+          "title": "Rock of Ages",
+          "description": "“Rock of Ages” from Face to Face Music (English, 2016-03-08).",
+          "seoDescription": "“Rock of Ages” from Face to Face Music (English, 2016-03-08).",
+          "seoTitle": "Rock of Ages",
+          "shareableTitle": "Rock of Ages",
+          "thumbnail": {
+            "description": "Young woman listening to music on an ipod.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/1920,/0/default",
+            "seoDescription": "Young woman listening to music on an ipod.",
+            "seoTitle": "Youth Section Home Page LDS.ORG-Music download",
+            "shareableTitle": "Youth Section Home Page LDS.ORG-Music download",
+            "title": "Youth Section Home Page LDS.ORG-Music download",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
               },
-              "ipCode": "0 - IRI Owned",
-              "isPartOf": [],
-              "keywords": [
-                "Casey, robert",
-                "Portraits",
-                "Youth",
-                "Ipod (digital music player)",
-                "Earphones",
-                "Ipods",
-                "Headphones",
-                "Listening",
-                "Technology",
-                "Headsets",
-                "Music",
-                "Young women",
-                "Teenagers",
-                "Faces"
-              ],
-              "$lastUpdatedDate": "Thu Aug 21 19:38:04 EDT 2025",
-              "locatorIds": [],
-              "noindex": false,
-              "$id": "0000017a-10ab-de86-a97a-35ef5b100000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "0000017a-10ab-de86-a97a-35ef5b100000",
-              "$site": "music",
-              "products": [],
-              "publicAltText": "Photo of a young woman with long red hair listening to music on an ipod with headphones.",
-              "publicDownload": [],
-              "$publishDate": "Tue Jun 15 13:15:03 EDT 2021",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!320%2C320/0/default",
-                  "height": 320,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!320%2C320/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!640%2C640/0/default",
-                  "height": 640,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!640%2C640/0/default",
-                  "width": 640
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!800%2C800/0/default",
-                  "height": 800,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!800%2C800/0/default",
-                  "width": 800
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!1280%2C1280/0/default",
-                  "height": 1280,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!1280%2C1280/0/default",
-                  "width": 1280
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!1600%2C1600/0/default",
-                  "height": 1600,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!1600%2C1600/0/default",
-                  "width": 1600
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!1920%2C1920/0/default",
-                  "height": 1920,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!1920%2C1920/0/default",
-                  "width": 1920
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!60%2C60/0/default",
-                  "height": 60,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!60%2C60/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!250%2C250/0/default",
-                  "height": 250,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!250%2C250/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!200%2C200/0/default",
-                  "height": 200,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!200%2C200/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!100%2C100/0/default",
-                  "height": 100,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!100%2C100/0/default",
-                  "width": 100
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!500%2C500/0/default",
-                  "height": 500,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!500%2C500/0/default",
-                  "width": 500
-                }
-              ],
-              "reqCreditLine": "false",
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "Young woman listening to music on an ipod.",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "Youth Section Home Page LDS.ORG-Music download",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "Young woman listening to music on an ipod.",
-              "shareableTitle": "Youth Section Home Page LDS.ORG-Music download",
-              "title": "Youth Section Home Page LDS.ORG-Music download"
-            },
-            "title": "Rock of Ages",
-            "translator": []
-          },
-          "$id": "00000196-c6d9-d455-a9f6-dedda8d00000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6d9-d455-a9f6-dedda8d00000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
         }
       ]
     },
@@ -917,176 +821,80 @@
       "voicings": [],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "6ea6ec7e214e4384d02df5e372541710feb4acc4",
-            "attributes": {},
-            "composer": [],
-            "description": "“Where Can I Turn for Peace?” from Face to Face Music (English, 2016-03-08).",
-            "distributionUrl": "https://assets.churchofjesuschrist.org/6e/a6/6ea6ec7e214e4384d02df5e372541710feb4acc4/where_can_i_turn_for_peace.mp3",
-            "duration": 254000,
-            "ipCode": "9 - IRI licensed",
-            "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Thu Aug 21 19:38:01 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000183-4370-db0c-a5e3-47f849660000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000183-4370-db0c-a5e3-47f849660000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“Where Can I Turn for Peace?” from Face to Face Music (English, 2016-03-08).",
-            "publicDownload": [],
-            "$publishDate": "Thu Sep 15 19:16:15 EDT 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "reqCreditLine": "false",
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“Where Can I Turn for Peace?” from Face to Face Music (English, 2016-03-08).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "Where Can I Turn for Peace?",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“Where Can I Turn for Peace?” from Face to Face Music (English, 2016-03-08).",
-            "shareableTitle": "Where Can I Turn for Peace?",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "6356f85f5ee73a63568cb562920b1403c30623a3",
-              "attributes": {},
-              "description": "Young woman listening to music on an ipod.",
-              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/1920,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
+          "distributionUrl": "https://assets.churchofjesuschrist.org/6e/a6/6ea6ec7e214e4384d02df5e372541710feb4acc4/where_can_i_turn_for_peace.mp3",
+          "duration": 254000,
+          "lang": "eng",
+          "title": "Where Can I Turn for Peace?",
+          "description": "“Where Can I Turn for Peace?” from Face to Face Music (English, 2016-03-08).",
+          "seoDescription": "“Where Can I Turn for Peace?” from Face to Face Music (English, 2016-03-08).",
+          "seoTitle": "Where Can I Turn for Peace?",
+          "shareableTitle": "Where Can I Turn for Peace?",
+          "thumbnail": {
+            "description": "Young woman listening to music on an ipod.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/1920,/0/default",
+            "seoDescription": "Young woman listening to music on an ipod.",
+            "seoTitle": "Youth Section Home Page LDS.ORG-Music download",
+            "shareableTitle": "Youth Section Home Page LDS.ORG-Music download",
+            "title": "Youth Section Home Page LDS.ORG-Music download",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
               },
-              "ipCode": "0 - IRI Owned",
-              "isPartOf": [],
-              "keywords": [
-                "Casey, robert",
-                "Portraits",
-                "Youth",
-                "Ipod (digital music player)",
-                "Earphones",
-                "Ipods",
-                "Headphones",
-                "Listening",
-                "Technology",
-                "Headsets",
-                "Music",
-                "Young women",
-                "Teenagers",
-                "Faces"
-              ],
-              "$lastUpdatedDate": "Thu Aug 21 19:38:04 EDT 2025",
-              "locatorIds": [],
-              "noindex": false,
-              "$id": "0000017a-10ab-de86-a97a-35ef5b100000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "0000017a-10ab-de86-a97a-35ef5b100000",
-              "$site": "music",
-              "products": [],
-              "publicAltText": "Photo of a young woman with long red hair listening to music on an ipod with headphones.",
-              "publicDownload": [],
-              "$publishDate": "Tue Jun 15 13:15:03 EDT 2021",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!320%2C320/0/default",
-                  "height": 320,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!320%2C320/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!640%2C640/0/default",
-                  "height": 640,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!640%2C640/0/default",
-                  "width": 640
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!800%2C800/0/default",
-                  "height": 800,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!800%2C800/0/default",
-                  "width": 800
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!1280%2C1280/0/default",
-                  "height": 1280,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!1280%2C1280/0/default",
-                  "width": 1280
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!1600%2C1600/0/default",
-                  "height": 1600,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!1600%2C1600/0/default",
-                  "width": 1600
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!1920%2C1920/0/default",
-                  "height": 1920,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!1920%2C1920/0/default",
-                  "width": 1920
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!60%2C60/0/default",
-                  "height": 60,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!60%2C60/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!250%2C250/0/default",
-                  "height": 250,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!250%2C250/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!200%2C200/0/default",
-                  "height": 200,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!200%2C200/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!100%2C100/0/default",
-                  "height": 100,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!100%2C100/0/default",
-                  "width": 100
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!500%2C500/0/default",
-                  "height": 500,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!500%2C500/0/default",
-                  "width": 500
-                }
-              ],
-              "reqCreditLine": "false",
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "Young woman listening to music on an ipod.",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "Youth Section Home Page LDS.ORG-Music download",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "Young woman listening to music on an ipod.",
-              "shareableTitle": "Youth Section Home Page LDS.ORG-Music download",
-              "title": "Youth Section Home Page LDS.ORG-Music download"
-            },
-            "title": "Where Can I Turn for Peace?",
-            "translator": []
-          },
-          "$id": "00000196-c6d9-d455-a9f6-dedda9280000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6d9-d455-a9f6-dedda9280000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
         }
       ]
     },
@@ -1163,176 +971,80 @@
       "voicings": [],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "c5f920907576cee4cff98bf7afb7904450c4bc07",
-            "attributes": {},
-            "composer": [],
-            "description": "“I Know That My Redeemer Lives” from Face to Face Music (English, 2016-03-08).",
-            "distributionUrl": "https://assets.churchofjesuschrist.org/c5/f9/c5f920907576cee4cff98bf7afb7904450c4bc07/i_know_that_my_redeemer_lives.mp3",
-            "duration": 304000,
-            "ipCode": "1 - Not IRI Owned",
-            "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Thu Aug 21 19:38:01 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000183-4370-db0c-a5e3-47f84b630000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000183-4370-db0c-a5e3-47f84b630000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "&ldquo;I Know That My Redeemer Lives&rdquo; from Face to Face Music (English, 2016-03-08).",
-            "publicDownload": [],
-            "$publishDate": "Thu Sep 15 19:16:16 EDT 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "reqCreditLine": "false",
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“I Know That My Redeemer Lives” from Face to Face Music (English, 2016-03-08).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "I Know That My Redeemer Lives",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“I Know That My Redeemer Lives” from Face to Face Music (English, 2016-03-08).",
-            "shareableTitle": "I Know That My Redeemer Lives",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "6356f85f5ee73a63568cb562920b1403c30623a3",
-              "attributes": {},
-              "description": "Young woman listening to music on an ipod.",
-              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/1920,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
+          "distributionUrl": "https://assets.churchofjesuschrist.org/c5/f9/c5f920907576cee4cff98bf7afb7904450c4bc07/i_know_that_my_redeemer_lives.mp3",
+          "duration": 304000,
+          "lang": "eng",
+          "title": "I Know That My Redeemer Lives",
+          "description": "“I Know That My Redeemer Lives” from Face to Face Music (English, 2016-03-08).",
+          "seoDescription": "“I Know That My Redeemer Lives” from Face to Face Music (English, 2016-03-08).",
+          "seoTitle": "I Know That My Redeemer Lives",
+          "shareableTitle": "I Know That My Redeemer Lives",
+          "thumbnail": {
+            "description": "Young woman listening to music on an ipod.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/1920,/0/default",
+            "seoDescription": "Young woman listening to music on an ipod.",
+            "seoTitle": "Youth Section Home Page LDS.ORG-Music download",
+            "shareableTitle": "Youth Section Home Page LDS.ORG-Music download",
+            "title": "Youth Section Home Page LDS.ORG-Music download",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
               },
-              "ipCode": "0 - IRI Owned",
-              "isPartOf": [],
-              "keywords": [
-                "Casey, robert",
-                "Portraits",
-                "Youth",
-                "Ipod (digital music player)",
-                "Earphones",
-                "Ipods",
-                "Headphones",
-                "Listening",
-                "Technology",
-                "Headsets",
-                "Music",
-                "Young women",
-                "Teenagers",
-                "Faces"
-              ],
-              "$lastUpdatedDate": "Thu Aug 21 19:38:04 EDT 2025",
-              "locatorIds": [],
-              "noindex": false,
-              "$id": "0000017a-10ab-de86-a97a-35ef5b100000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "0000017a-10ab-de86-a97a-35ef5b100000",
-              "$site": "music",
-              "products": [],
-              "publicAltText": "Photo of a young woman with long red hair listening to music on an ipod with headphones.",
-              "publicDownload": [],
-              "$publishDate": "Tue Jun 15 13:15:03 EDT 2021",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!320%2C320/0/default",
-                  "height": 320,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!320%2C320/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!640%2C640/0/default",
-                  "height": 640,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!640%2C640/0/default",
-                  "width": 640
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!800%2C800/0/default",
-                  "height": 800,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!800%2C800/0/default",
-                  "width": 800
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!1280%2C1280/0/default",
-                  "height": 1280,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!1280%2C1280/0/default",
-                  "width": 1280
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!1600%2C1600/0/default",
-                  "height": 1600,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!1600%2C1600/0/default",
-                  "width": 1600
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!1920%2C1920/0/default",
-                  "height": 1920,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!1920%2C1920/0/default",
-                  "width": 1920
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!60%2C60/0/default",
-                  "height": 60,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!60%2C60/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!250%2C250/0/default",
-                  "height": 250,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!250%2C250/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!200%2C200/0/default",
-                  "height": 200,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!200%2C200/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!100%2C100/0/default",
-                  "height": 100,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!100%2C100/0/default",
-                  "width": 100
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!500%2C500/0/default",
-                  "height": 500,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!500%2C500/0/default",
-                  "width": 500
-                }
-              ],
-              "reqCreditLine": "false",
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "Young woman listening to music on an ipod.",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "Youth Section Home Page LDS.ORG-Music download",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "Young woman listening to music on an ipod.",
-              "shareableTitle": "Youth Section Home Page LDS.ORG-Music download",
-              "title": "Youth Section Home Page LDS.ORG-Music download"
-            },
-            "title": "I Know That My Redeemer Lives",
-            "translator": []
-          },
-          "$id": "00000196-c6d9-d455-a9f6-dedda8f20000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6d9-d455-a9f6-dedda8f20000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
         }
       ]
     },
@@ -1422,175 +1134,80 @@
       "voicings": [],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "1eb5163743a235f0066414322ba8e6aba03367bd",
-            "attributes": {},
-            "composer": [],
-            "description": "“We Thank Thee, O God, for a Prophet” from Face to Face Music (English, 2017-03-04).",
-            "distributionUrl": "https://assets.churchofjesuschrist.org/1e/b5/1eb5163743a235f0066414322ba8e6aba03367bd/we_thank_thee_o_god_for_a_prophet.mp3",
-            "duration": 186000,
-            "ipCode": "0 - IRI Owned",
-            "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Thu Aug 21 19:38:02 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000183-4370-db0c-a5e3-47f851380000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000183-4370-db0c-a5e3-47f851380000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“We Thank Thee, O God, for a Prophet” from Face to Face Music (English, 2017-03-04).",
-            "publicDownload": [],
-            "$publishDate": "Thu Sep 15 19:16:17 EDT 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“We Thank Thee, O God, for a Prophet” from Face to Face Music (English, 2017-03-04).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "We Thank Thee, O God, for a Prophet",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“We Thank Thee, O God, for a Prophet” from Face to Face Music (English, 2017-03-04).",
-            "shareableTitle": "We Thank Thee, O God, for a Prophet",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "6356f85f5ee73a63568cb562920b1403c30623a3",
-              "attributes": {},
-              "description": "Young woman listening to music on an ipod.",
-              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/1920,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
+          "distributionUrl": "https://assets.churchofjesuschrist.org/1e/b5/1eb5163743a235f0066414322ba8e6aba03367bd/we_thank_thee_o_god_for_a_prophet.mp3",
+          "duration": 186000,
+          "lang": "eng",
+          "title": "We Thank Thee, O God, for a Prophet",
+          "description": "“We Thank Thee, O God, for a Prophet” from Face to Face Music (English, 2017-03-04).",
+          "seoDescription": "“We Thank Thee, O God, for a Prophet” from Face to Face Music (English, 2017-03-04).",
+          "seoTitle": "We Thank Thee, O God, for a Prophet",
+          "shareableTitle": "We Thank Thee, O God, for a Prophet",
+          "thumbnail": {
+            "description": "Young woman listening to music on an ipod.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/1920,/0/default",
+            "seoDescription": "Young woman listening to music on an ipod.",
+            "seoTitle": "Youth Section Home Page LDS.ORG-Music download",
+            "shareableTitle": "Youth Section Home Page LDS.ORG-Music download",
+            "title": "Youth Section Home Page LDS.ORG-Music download",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
               },
-              "ipCode": "0 - IRI Owned",
-              "isPartOf": [],
-              "keywords": [
-                "Casey, robert",
-                "Portraits",
-                "Youth",
-                "Ipod (digital music player)",
-                "Earphones",
-                "Ipods",
-                "Headphones",
-                "Listening",
-                "Technology",
-                "Headsets",
-                "Music",
-                "Young women",
-                "Teenagers",
-                "Faces"
-              ],
-              "$lastUpdatedDate": "Thu Aug 21 19:38:04 EDT 2025",
-              "locatorIds": [],
-              "noindex": false,
-              "$id": "0000017a-10ab-de86-a97a-35ef5b100000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "0000017a-10ab-de86-a97a-35ef5b100000",
-              "$site": "music",
-              "products": [],
-              "publicAltText": "Photo of a young woman with long red hair listening to music on an ipod with headphones.",
-              "publicDownload": [],
-              "$publishDate": "Tue Jun 15 13:15:03 EDT 2021",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!320%2C320/0/default",
-                  "height": 320,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!320%2C320/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!640%2C640/0/default",
-                  "height": 640,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!640%2C640/0/default",
-                  "width": 640
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!800%2C800/0/default",
-                  "height": 800,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!800%2C800/0/default",
-                  "width": 800
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!1280%2C1280/0/default",
-                  "height": 1280,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!1280%2C1280/0/default",
-                  "width": 1280
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!1600%2C1600/0/default",
-                  "height": 1600,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!1600%2C1600/0/default",
-                  "width": 1600
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!1920%2C1920/0/default",
-                  "height": 1920,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!1920%2C1920/0/default",
-                  "width": 1920
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!60%2C60/0/default",
-                  "height": 60,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!60%2C60/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!250%2C250/0/default",
-                  "height": 250,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!250%2C250/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!200%2C200/0/default",
-                  "height": 200,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!200%2C200/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!100%2C100/0/default",
-                  "height": 100,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!100%2C100/0/default",
-                  "width": 100
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!500%2C500/0/default",
-                  "height": 500,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!500%2C500/0/default",
-                  "width": 500
-                }
-              ],
-              "reqCreditLine": "false",
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "Young woman listening to music on an ipod.",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "Youth Section Home Page LDS.ORG-Music download",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "Young woman listening to music on an ipod.",
-              "shareableTitle": "Youth Section Home Page LDS.ORG-Music download",
-              "title": "Youth Section Home Page LDS.ORG-Music download"
-            },
-            "title": "We Thank Thee, O God, for a Prophet",
-            "translator": []
-          },
-          "$id": "00000196-c6d9-d455-a9f6-deddaa280000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6d9-d455-a9f6-deddaa280000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
         }
       ]
     },
@@ -1669,175 +1286,80 @@
       "voicings": [],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "b7f7899a0bf06dae43c8d835ca668bd3434ea85e",
-            "attributes": {},
-            "composer": [],
-            "description": "“Thy Will Be Done” from Face to Face Music (English, 2017-03-04).",
-            "distributionUrl": "https://assets.churchofjesuschrist.org/b7/f7/b7f7899a0bf06dae43c8d835ca668bd3434ea85e/thy_will_be_done.mp3",
-            "duration": 174000,
-            "ipCode": "0 - IRI Owned",
-            "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Thu Aug 21 19:38:01 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000183-4370-db0c-a5e3-47f84d580000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000183-4370-db0c-a5e3-47f84d580000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“Thy Will Be Done” from Face to Face Music (English, 2017-03-04).",
-            "publicDownload": [],
-            "$publishDate": "Thu Sep 15 19:16:16 EDT 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“Thy Will Be Done” from Face to Face Music (English, 2017-03-04).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "Thy Will Be Done",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“Thy Will Be Done” from Face to Face Music (English, 2017-03-04).",
-            "shareableTitle": "Thy Will Be Done",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "6356f85f5ee73a63568cb562920b1403c30623a3",
-              "attributes": {},
-              "description": "Young woman listening to music on an ipod.",
-              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/1920,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
+          "distributionUrl": "https://assets.churchofjesuschrist.org/b7/f7/b7f7899a0bf06dae43c8d835ca668bd3434ea85e/thy_will_be_done.mp3",
+          "duration": 174000,
+          "lang": "eng",
+          "title": "Thy Will Be Done",
+          "description": "“Thy Will Be Done” from Face to Face Music (English, 2017-03-04).",
+          "seoDescription": "“Thy Will Be Done” from Face to Face Music (English, 2017-03-04).",
+          "seoTitle": "Thy Will Be Done",
+          "shareableTitle": "Thy Will Be Done",
+          "thumbnail": {
+            "description": "Young woman listening to music on an ipod.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/1920,/0/default",
+            "seoDescription": "Young woman listening to music on an ipod.",
+            "seoTitle": "Youth Section Home Page LDS.ORG-Music download",
+            "shareableTitle": "Youth Section Home Page LDS.ORG-Music download",
+            "title": "Youth Section Home Page LDS.ORG-Music download",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
               },
-              "ipCode": "0 - IRI Owned",
-              "isPartOf": [],
-              "keywords": [
-                "Casey, robert",
-                "Portraits",
-                "Youth",
-                "Ipod (digital music player)",
-                "Earphones",
-                "Ipods",
-                "Headphones",
-                "Listening",
-                "Technology",
-                "Headsets",
-                "Music",
-                "Young women",
-                "Teenagers",
-                "Faces"
-              ],
-              "$lastUpdatedDate": "Thu Aug 21 19:38:04 EDT 2025",
-              "locatorIds": [],
-              "noindex": false,
-              "$id": "0000017a-10ab-de86-a97a-35ef5b100000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "0000017a-10ab-de86-a97a-35ef5b100000",
-              "$site": "music",
-              "products": [],
-              "publicAltText": "Photo of a young woman with long red hair listening to music on an ipod with headphones.",
-              "publicDownload": [],
-              "$publishDate": "Tue Jun 15 13:15:03 EDT 2021",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!320%2C320/0/default",
-                  "height": 320,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!320%2C320/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!640%2C640/0/default",
-                  "height": 640,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!640%2C640/0/default",
-                  "width": 640
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!800%2C800/0/default",
-                  "height": 800,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!800%2C800/0/default",
-                  "width": 800
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!1280%2C1280/0/default",
-                  "height": 1280,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!1280%2C1280/0/default",
-                  "width": 1280
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!1600%2C1600/0/default",
-                  "height": 1600,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!1600%2C1600/0/default",
-                  "width": 1600
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!1920%2C1920/0/default",
-                  "height": 1920,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!1920%2C1920/0/default",
-                  "width": 1920
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!60%2C60/0/default",
-                  "height": 60,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!60%2C60/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!250%2C250/0/default",
-                  "height": 250,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!250%2C250/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!200%2C200/0/default",
-                  "height": 200,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!200%2C200/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!100%2C100/0/default",
-                  "height": 100,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!100%2C100/0/default",
-                  "width": 100
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!500%2C500/0/default",
-                  "height": 500,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!500%2C500/0/default",
-                  "width": 500
-                }
-              ],
-              "reqCreditLine": "false",
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "Young woman listening to music on an ipod.",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "Youth Section Home Page LDS.ORG-Music download",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "Young woman listening to music on an ipod.",
-              "shareableTitle": "Youth Section Home Page LDS.ORG-Music download",
-              "title": "Youth Section Home Page LDS.ORG-Music download"
-            },
-            "title": "Thy Will Be Done",
-            "translator": []
-          },
-          "$id": "00000196-c6d9-d455-a9f6-dedda9fd0000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6d9-d455-a9f6-dedda9fd0000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6356f85f5ee73a63568cb562920b1403c30623a3/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
         }
       ]
     },
@@ -2586,144 +2108,65 @@
       "voicings": [],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "6c71f6acd2c7aa63fe53d4a9047a04c7f05ec58a",
-            "attributes": {},
-            "composer": [],
-            "description": "“The Morning Breaks” from Face to Face Music (English, 2018-09-09).",
-            "distributionUrl": "https://assets.churchofjesuschrist.org/6c/71/6c71f6acd2c7aa63fe53d4a9047a04c7f05ec58a/the_morning_breaks.mp3",
-            "duration": 190000,
-            "isPartOf": [],
-            "keywords": [
-              "music"
-            ],
-            "$lastUpdatedDate": "Tue Aug 05 19:41:20 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "0000017a-628c-d68c-a17e-e7ed03f90000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "0000017a-628c-d68c-a17e-e7ed03f90000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“The Morning Breaks” from Face to Face Music (English, 2018-09-09).",
-            "publicDownload": [],
-            "$publishDate": "Thu Jul 01 10:49:41 EDT 2021",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“The Morning Breaks” from Face to Face Music (English, 2018-09-09).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "The Morning Breaks",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“The Morning Breaks” from Face to Face Music (English, 2018-09-09).",
-            "shareableTitle": "The Morning Breaks",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a",
-              "attributes": {},
-              "description": "Conlon Bonner and Yaphet Bustos, a Latter-day Saint duet, sings, “Hark, All Ye Nations!” during the Face to Face for Young Adults broadcast with Elder Ronald A. Rasband, of the Quorum of the Twelve Apostles, and his wife, Melanie, on Sunday, September 13, 2020, on the set of ancient Jerusalem in Goshen, Utah.",
-              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/800,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
+          "distributionUrl": "https://assets.churchofjesuschrist.org/6c/71/6c71f6acd2c7aa63fe53d4a9047a04c7f05ec58a/the_morning_breaks.mp3",
+          "duration": 190000,
+          "lang": "eng",
+          "title": "The Morning Breaks",
+          "description": "“The Morning Breaks” from Face to Face Music (English, 2018-09-09).",
+          "seoDescription": "“The Morning Breaks” from Face to Face Music (English, 2018-09-09).",
+          "seoTitle": "The Morning Breaks",
+          "shareableTitle": "The Morning Breaks",
+          "thumbnail": {
+            "description": "Conlon Bonner and Yaphet Bustos, a Latter-day Saint duet, sings, “Hark, All Ye Nations!” during the Face to Face for Young Adults broadcast with Elder Ronald A. Rasband, of the Quorum of the Twelve Apostles, and his wife, Melanie, on Sunday, September 13, 2020, on the set of ancient Jerusalem in Goshen, Utah.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/800,/0/default",
+            "seoDescription": "Conlon Bonner and Yaphet Bustos, a Latter-day Saint duet, sings, \"Hark, All Ye Nations!” during the Face to Face for Young Adults broadcast with Elder Ronald A. Rasband, of the Quorum of the Twelve Apostles, and his wife, Melanie, on Sunday, September 13, 2020, on the set of ancient Jerusalem in Goshen, Utah.",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!320%2C321/0/default",
+                "width": 320,
+                "height": 321
               },
-              "ipCode": "1 - Not IRI Owned",
-              "isPartOf": [],
-              "keywords": [
-                "Ronald A. Rasband"
-              ],
-              "$lastUpdatedDate": "Mon Aug 18 20:18:49 EDT 2025",
-              "locatorIds": [],
-              "noindex": false,
-              "$id": "00000184-0ee6-d3a5-ab95-1ffed7f80000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "00000184-0ee6-d3a5-ab95-1ffed7f80000",
-              "$site": "music",
-              "products": [],
-              "publicAltText": "Conlon Bonner and Yaphet Bustos, a Latter-day Saint duet, sings, \"Hark, All Ye Nations!” during the Face to Face for Young Adults broadcast with Elder Ronald A. Rasband, of the Quorum of the Twelve Apostles, and his wife, Melanie, on Sunday, September 13, 2020, on the set of ancient Jerusalem in Goshen, Utah.",
-              "publicDownload": [],
-              "$publishDate": "Tue Oct 25 07:28:40 EDT 2022",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!320%2C321/0/default",
-                  "height": 321,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!320%2C321/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!640%2C642/0/default",
-                  "height": 642,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!640%2C642/0/default",
-                  "width": 640
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!800%2C803/0/default",
-                  "height": 803,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!800%2C803/0/default",
-                  "width": 800
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!60%2C60/0/default",
-                  "height": 60,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!60%2C60/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!250%2C251/0/default",
-                  "height": 251,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!250%2C251/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!200%2C201/0/default",
-                  "height": 201,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!200%2C201/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!100%2C100/0/default",
-                  "height": 100,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!100%2C100/0/default",
-                  "width": 100
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!500%2C502/0/default",
-                  "height": 502,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!500%2C502/0/default",
-                  "width": 500
-                }
-              ],
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "Conlon Bonner and Yaphet Bustos, a Latter-day Saint duet, sings, \"Hark, All Ye Nations!” during the Face to Face for Young Adults broadcast with Elder Ronald A. Rasband, of the Quorum of the Twelve Apostles, and his wife, Melanie, on Sunday, September 13, 2020, on the set of ancient Jerusalem in Goshen, Utah.",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "No Title",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "Conlon Bonner and Yaphet Bustos, a Latter-day Saint duet, sings, \"Hark, All Ye Nations!” during the Face to Face for Young Adults broadcast with Elder Ronald A. Rasband, of the Quorum of the Twelve Apostles, and his wife, Melanie, on Sunday, September 13, 2020, on the set of ancient Jerusalem in Goshen, Utah.",
-              "shareableTitle": "No Title",
-              "title": "No Title"
-            },
-            "title": "The Morning Breaks",
-            "translator": []
-          },
-          "$id": "00000196-c6dc-d455-a9f6-dedc24870000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6dc-d455-a9f6-dedc24870000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!640%2C642/0/default",
+                "width": 640,
+                "height": 642
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!800%2C803/0/default",
+                "width": 800,
+                "height": 803
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!250%2C251/0/default",
+                "width": 250,
+                "height": 251
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!200%2C201/0/default",
+                "width": 200,
+                "height": 201
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!500%2C502/0/default",
+                "width": 500,
+                "height": 502
+              }
+            ]
+          }
         }
       ]
     },
@@ -2995,150 +2438,70 @@
       ],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "58ebf9f9403bf46ba3dc0af4f0c049ef97f787f1",
-            "attributes": {},
-            "composer": [],
-            "description": "“I Will Walk with Jesus” (Live) from Additional Songs for Children (English, 2019-11-15).",
-            "distributionUrl": "https://assets.churchofjesuschrist.org/58/eb/58ebf9f9403bf46ba3dc0af4f0c049ef97f787f1/i_will_walk_with_jesus.mp3",
-            "duration": 226000,
-            "ipCode": "1 - Not IRI Owned",
-            "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Fri Nov 01 21:18:01 EDT 2024",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000184-0ee6-d3a5-ab95-1ffef8700000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000184-0ee6-d3a5-ab95-1ffef8700000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“I Will Walk with Jesus” (Live) from Additional Songs for Children (English, 2019-11-15).",
-            "publicDownload": [],
-            "$publishDate": "Tue Oct 25 07:28:48 EDT 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“I Will Walk with Jesus” (Live) from Additional Songs for Children (English, 2019-11-15).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "I Will Walk with Jesus",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“I Will Walk with Jesus” (Live) from Additional Songs for Children (English, 2019-11-15).",
-            "shareableTitle": "I Will Walk with Jesus",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "7acbd321fb315aa8d91fa10e1bf058342be4e829",
-              "attributes": {},
-              "description": "Cover art for the Children’s Songbook.",
-              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7acbd321fb315aa8d91fa10e1bf058342be4e829/full/1280,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
+          "distributionUrl": "https://assets.churchofjesuschrist.org/58/eb/58ebf9f9403bf46ba3dc0af4f0c049ef97f787f1/i_will_walk_with_jesus.mp3",
+          "duration": 226000,
+          "lang": "eng",
+          "title": "I Will Walk with Jesus",
+          "description": "“I Will Walk with Jesus” (Live) from Additional Songs for Children (English, 2019-11-15).",
+          "seoDescription": "“I Will Walk with Jesus” (Live) from Additional Songs for Children (English, 2019-11-15).",
+          "seoTitle": "I Will Walk with Jesus",
+          "shareableTitle": "I Will Walk with Jesus",
+          "thumbnail": {
+            "description": "Cover art for the Children’s Songbook.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7acbd321fb315aa8d91fa10e1bf058342be4e829/full/1280,/0/default",
+            "seoDescription": "Cover art for the Children's Songbook.",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7acbd321fb315aa8d91fa10e1bf058342be4e829/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
               },
-              "ipCode": "0 - IRI Owned",
-              "isPartOf": [],
-              "keywords": [
-                "Children's Songbook"
-              ],
-              "$lastUpdatedDate": "Sun Jun 15 02:23:58 EDT 2025",
-              "locatorIds": [],
-              "noindex": false,
-              "$id": "00000184-0ee7-d3a5-ab95-1fff59b20000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "00000184-0ee7-d3a5-ab95-1fff59b20000",
-              "$site": "music",
-              "products": [],
-              "publicAltText": "A drawing of a smiling woman in a pink dress holds a book and a young child in her arms. She is leading the singing of seven kids of varying genders and ethnicities.",
-              "publicDownload": [],
-              "$publishDate": "Tue Oct 25 07:29:13 EDT 2022",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7acbd321fb315aa8d91fa10e1bf058342be4e829/full/!320%2C320/0/default",
-                  "height": 320,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/7acbd321fb315aa8d91fa10e1bf058342be4e829/full/!320%2C320/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7acbd321fb315aa8d91fa10e1bf058342be4e829/full/!640%2C640/0/default",
-                  "height": 640,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/7acbd321fb315aa8d91fa10e1bf058342be4e829/full/!640%2C640/0/default",
-                  "width": 640
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7acbd321fb315aa8d91fa10e1bf058342be4e829/full/!800%2C800/0/default",
-                  "height": 800,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/7acbd321fb315aa8d91fa10e1bf058342be4e829/full/!800%2C800/0/default",
-                  "width": 800
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7acbd321fb315aa8d91fa10e1bf058342be4e829/full/!1280%2C1280/0/default",
-                  "height": 1280,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/7acbd321fb315aa8d91fa10e1bf058342be4e829/full/!1280%2C1280/0/default",
-                  "width": 1280
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7acbd321fb315aa8d91fa10e1bf058342be4e829/full/!60%2C60/0/default",
-                  "height": 60,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/7acbd321fb315aa8d91fa10e1bf058342be4e829/full/!60%2C60/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7acbd321fb315aa8d91fa10e1bf058342be4e829/full/!250%2C250/0/default",
-                  "height": 250,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/7acbd321fb315aa8d91fa10e1bf058342be4e829/full/!250%2C250/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7acbd321fb315aa8d91fa10e1bf058342be4e829/full/!200%2C200/0/default",
-                  "height": 200,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/7acbd321fb315aa8d91fa10e1bf058342be4e829/full/!200%2C200/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7acbd321fb315aa8d91fa10e1bf058342be4e829/full/!100%2C100/0/default",
-                  "height": 100,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/7acbd321fb315aa8d91fa10e1bf058342be4e829/full/!100%2C100/0/default",
-                  "width": 100
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7acbd321fb315aa8d91fa10e1bf058342be4e829/full/!500%2C500/0/default",
-                  "height": 500,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/7acbd321fb315aa8d91fa10e1bf058342be4e829/full/!500%2C500/0/default",
-                  "width": 500
-                }
-              ],
-              "reqCreditLine": "false",
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "Cover art for the Children's Songbook.",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "No Title",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "Cover art for the Children's Songbook.",
-              "shareableTitle": "No Title",
-              "title": "No Title"
-            },
-            "title": "I Will Walk with Jesus",
-            "translator": []
-          },
-          "$id": "00000196-c6db-d455-a9f6-dedfbb0f0000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6db-d455-a9f6-dedfbb0f0000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7acbd321fb315aa8d91fa10e1bf058342be4e829/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7acbd321fb315aa8d91fa10e1bf058342be4e829/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7acbd321fb315aa8d91fa10e1bf058342be4e829/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7acbd321fb315aa8d91fa10e1bf058342be4e829/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7acbd321fb315aa8d91fa10e1bf058342be4e829/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7acbd321fb315aa8d91fa10e1bf058342be4e829/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7acbd321fb315aa8d91fa10e1bf058342be4e829/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7acbd321fb315aa8d91fa10e1bf058342be4e829/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
         }
       ]
     },
@@ -3219,57 +2582,24 @@
       ],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "1a5e092d37093c25461a9f1bbf61737fa243c6df",
-            "attributes": {},
-            "composer": [],
-            "description": "“Come, Ye Children of the Lord” from Face to Face Music (English, 2020-02-23).",
-            "distributionUrl": "https://assets.churchofjesuschrist.org/1a/5e/1a5e092d37093c25461a9f1bbf61737fa243c6df/come_ye_childrens_of_the_lord_face_to_face_oaks_eng.mp3",
-            "duration": 173000,
-            "isPartOf": [],
-            "keywords": [
-              "music",
-              "youth"
-            ],
-            "$lastUpdatedDate": "Thu Dec 01 07:36:06 EST 2022",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "0000017a-6289-dc61-a7fb-7af988c30000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "0000017a-6289-dc61-a7fb-7af988c30000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“Come, Ye Children of the Lord” from Face to Face Music (English, 2020-02-23).",
-            "publicDownload": [],
-            "$publishDate": "Thu Jul 01 10:46:58 EDT 2021",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "reqCreditLine": "false",
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“Come, Ye Children of the Lord” from Face to Face Music (English, 2020-02-23).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "Come, Ye Children of the Lord",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“Come, Ye Children of the Lord” from Face to Face Music (English, 2020-02-23).",
-            "shareableTitle": "Come, Ye Children of the Lord",
-            "title": "Come, Ye Children of the Lord",
-            "translator": []
-          },
-          "$id": "00000196-c6db-d455-a9f6-dedfd2230000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6db-d455-a9f6-dedfd2230000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+          "distributionUrl": "https://assets.churchofjesuschrist.org/1a/5e/1a5e092d37093c25461a9f1bbf61737fa243c6df/come_ye_childrens_of_the_lord_face_to_face_oaks_eng.mp3",
+          "duration": 173000,
+          "lang": "eng",
+          "title": "Come, Ye Children of the Lord",
+          "description": "“Come, Ye Children of the Lord” from Face to Face Music (English, 2020-02-23).",
+          "seoDescription": "“Come, Ye Children of the Lord” from Face to Face Music (English, 2020-02-23).",
+          "seoTitle": "Come, Ye Children of the Lord",
+          "shareableTitle": "Come, Ye Children of the Lord",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
         }
       ]
     },
@@ -3367,145 +2697,65 @@
       ],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "d3d51b1c6a5cc0d8ea3cb903a0fef3f34f09dbd6",
-            "attributes": {},
-            "composer": [],
-            "description": "This segment is from the Face to Face Broadcast with Elder and Sister Rasband on September 13th, 2020. Allie Policky, Aubrey Taylor, Avry Spencer, Conlon Bonner, Ellie Hughes, Jonathan Meyers, Savannah Porter, and Yaphet Bustos sing “Awake and Arise,” accompanied by CJ Madsen (piano), Karen Ferry (violin), and Charles Ferry (cello).",
-            "distributionUrl": "https://assets.churchofjesuschrist.org/d3/d5/d3d51b1c6a5cc0d8ea3cb903a0fef3f34f09dbd6/rasband_awake_arise.mp3",
-            "duration": 240000,
-            "ipCode": "0 - IRI Owned",
-            "isPartOf": [],
-            "keywords": [
-              "Events",
-              "Ronald A. Rasband"
-            ],
-            "$lastUpdatedDate": "Tue Aug 05 19:41:20 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "0000017a-628a-dc61-a7fb-7afa52660000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "0000017a-628a-dc61-a7fb-7afa52660000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicDownload": [],
-            "$publishDate": "Thu Jul 01 10:47:50 EDT 2021",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "This segment is from the Face to Face Broadcast with Elder and Sister Rasband on September 13th, 2020. Allie Policky, Aubrey Taylor, Avry Spencer, Conlon Bonner, Ellie Hughes, Jonathan Meyers, Savannah Porter, and Yaphet Bustos sing “Awake and Arise,” accompanied by CJ Madsen (piano), Karen Ferry (violin), and Charles Ferry (cello).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "Awake and Arise",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "This segment is from the Face to Face Broadcast with Elder and Sister Rasband on September 13th, 2020. Allie Policky, Aubrey Taylor, Avry Spencer, Conlon Bonner, Ellie Hughes, Jonathan Meyers, Savannah Porter, and Yaphet Bustos sing “Awake and Arise,” accompanied by CJ Madsen (piano), Karen Ferry (violin), and Charles Ferry (cello).",
-            "shareableTitle": "Awake and Arise",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a",
-              "attributes": {},
-              "description": "Conlon Bonner and Yaphet Bustos, a Latter-day Saint duet, sings, “Hark, All Ye Nations!” during the Face to Face for Young Adults broadcast with Elder Ronald A. Rasband, of the Quorum of the Twelve Apostles, and his wife, Melanie, on Sunday, September 13, 2020, on the set of ancient Jerusalem in Goshen, Utah.",
-              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/800,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
+          "distributionUrl": "https://assets.churchofjesuschrist.org/d3/d5/d3d51b1c6a5cc0d8ea3cb903a0fef3f34f09dbd6/rasband_awake_arise.mp3",
+          "duration": 240000,
+          "lang": "eng",
+          "title": "Awake and Arise",
+          "description": "This segment is from the Face to Face Broadcast with Elder and Sister Rasband on September 13th, 2020. Allie Policky, Aubrey Taylor, Avry Spencer, Conlon Bonner, Ellie Hughes, Jonathan Meyers, Savannah Porter, and Yaphet Bustos sing “Awake and Arise,” accompanied by CJ Madsen (piano), Karen Ferry (violin), and Charles Ferry (cello).",
+          "seoDescription": "This segment is from the Face to Face Broadcast with Elder and Sister Rasband on September 13th, 2020. Allie Policky, Aubrey Taylor, Avry Spencer, Conlon Bonner, Ellie Hughes, Jonathan Meyers, Savannah Porter, and Yaphet Bustos sing “Awake and Arise,” accompanied by CJ Madsen (piano), Karen Ferry (violin), and Charles Ferry (cello).",
+          "seoTitle": "Awake and Arise",
+          "shareableTitle": "Awake and Arise",
+          "thumbnail": {
+            "description": "Conlon Bonner and Yaphet Bustos, a Latter-day Saint duet, sings, “Hark, All Ye Nations!” during the Face to Face for Young Adults broadcast with Elder Ronald A. Rasband, of the Quorum of the Twelve Apostles, and his wife, Melanie, on Sunday, September 13, 2020, on the set of ancient Jerusalem in Goshen, Utah.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/800,/0/default",
+            "seoDescription": "Conlon Bonner and Yaphet Bustos, a Latter-day Saint duet, sings, \"Hark, All Ye Nations!” during the Face to Face for Young Adults broadcast with Elder Ronald A. Rasband, of the Quorum of the Twelve Apostles, and his wife, Melanie, on Sunday, September 13, 2020, on the set of ancient Jerusalem in Goshen, Utah.",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!320%2C321/0/default",
+                "width": 320,
+                "height": 321
               },
-              "ipCode": "1 - Not IRI Owned",
-              "isPartOf": [],
-              "keywords": [
-                "Ronald A. Rasband"
-              ],
-              "$lastUpdatedDate": "Mon Aug 18 20:18:49 EDT 2025",
-              "locatorIds": [],
-              "noindex": false,
-              "$id": "00000184-0ee6-d3a5-ab95-1ffed7f80000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "00000184-0ee6-d3a5-ab95-1ffed7f80000",
-              "$site": "music",
-              "products": [],
-              "publicAltText": "Conlon Bonner and Yaphet Bustos, a Latter-day Saint duet, sings, \"Hark, All Ye Nations!” during the Face to Face for Young Adults broadcast with Elder Ronald A. Rasband, of the Quorum of the Twelve Apostles, and his wife, Melanie, on Sunday, September 13, 2020, on the set of ancient Jerusalem in Goshen, Utah.",
-              "publicDownload": [],
-              "$publishDate": "Tue Oct 25 07:28:40 EDT 2022",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!320%2C321/0/default",
-                  "height": 321,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!320%2C321/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!640%2C642/0/default",
-                  "height": 642,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!640%2C642/0/default",
-                  "width": 640
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!800%2C803/0/default",
-                  "height": 803,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!800%2C803/0/default",
-                  "width": 800
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!60%2C60/0/default",
-                  "height": 60,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!60%2C60/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!250%2C251/0/default",
-                  "height": 251,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!250%2C251/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!200%2C201/0/default",
-                  "height": 201,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!200%2C201/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!100%2C100/0/default",
-                  "height": 100,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!100%2C100/0/default",
-                  "width": 100
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!500%2C502/0/default",
-                  "height": 502,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!500%2C502/0/default",
-                  "width": 500
-                }
-              ],
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "Conlon Bonner and Yaphet Bustos, a Latter-day Saint duet, sings, \"Hark, All Ye Nations!” during the Face to Face for Young Adults broadcast with Elder Ronald A. Rasband, of the Quorum of the Twelve Apostles, and his wife, Melanie, on Sunday, September 13, 2020, on the set of ancient Jerusalem in Goshen, Utah.",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "No Title",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "Conlon Bonner and Yaphet Bustos, a Latter-day Saint duet, sings, \"Hark, All Ye Nations!” during the Face to Face for Young Adults broadcast with Elder Ronald A. Rasband, of the Quorum of the Twelve Apostles, and his wife, Melanie, on Sunday, September 13, 2020, on the set of ancient Jerusalem in Goshen, Utah.",
-              "shareableTitle": "No Title",
-              "title": "No Title"
-            },
-            "title": "Awake and Arise",
-            "translator": []
-          },
-          "$id": "00000196-c6dc-d455-a9f6-dedc29680000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6dc-d455-a9f6-dedc29680000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!640%2C642/0/default",
+                "width": 640,
+                "height": 642
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!800%2C803/0/default",
+                "width": 800,
+                "height": 803
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!250%2C251/0/default",
+                "width": 250,
+                "height": 251
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!200%2C201/0/default",
+                "width": 200,
+                "height": 201
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!500%2C502/0/default",
+                "width": 500,
+                "height": 502
+              }
+            ]
+          }
         }
       ]
     },
@@ -3577,145 +2827,65 @@
       "voicings": [],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "2f42a3fe0ac56dc8c6eacad62addc31fcbbeae7f",
-            "attributes": {},
-            "composer": [],
-            "description": "This segment is from the Face to Face Broadcast with Elder and Sister Rasband on September 13th, 2020. Conlon Bonner and Yaphet Bustos sing “Hark, All Ye Nations!” accompanied by CJ Madsen (piano) and Charles Ferry (cello).",
-            "distributionUrl": "https://assets.churchofjesuschrist.org/2f/42/2f42a3fe0ac56dc8c6eacad62addc31fcbbeae7f/hark_all_ye_nations_rasband.mp3",
-            "duration": 160000,
-            "ipCode": "0 - IRI Owned",
-            "isPartOf": [],
-            "keywords": [
-              "Events",
-              "Ronald A. Rasband"
-            ],
-            "$lastUpdatedDate": "Tue Aug 05 19:41:21 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "0000017a-628b-d68c-a17e-e7ef5b810000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "0000017a-628b-d68c-a17e-e7ef5b810000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicDownload": [],
-            "$publishDate": "Thu Jul 01 10:48:57 EDT 2021",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "This segment is from the Face to Face Broadcast with Elder and Sister Rasband on September 13th, 2020. Conlon Bonner and Yaphet Bustos sing “Hark, All Ye Nations!” accompanied by CJ Madsen (piano) and Charles Ferry (cello).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "Hark, All Ye Nations!",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "This segment is from the Face to Face Broadcast with Elder and Sister Rasband on September 13th, 2020. Conlon Bonner and Yaphet Bustos sing “Hark, All Ye Nations!” accompanied by CJ Madsen (piano) and Charles Ferry (cello).",
-            "shareableTitle": "Hark, All Ye Nations!",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a",
-              "attributes": {},
-              "description": "Conlon Bonner and Yaphet Bustos, a Latter-day Saint duet, sings, “Hark, All Ye Nations!” during the Face to Face for Young Adults broadcast with Elder Ronald A. Rasband, of the Quorum of the Twelve Apostles, and his wife, Melanie, on Sunday, September 13, 2020, on the set of ancient Jerusalem in Goshen, Utah.",
-              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/800,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
+          "distributionUrl": "https://assets.churchofjesuschrist.org/2f/42/2f42a3fe0ac56dc8c6eacad62addc31fcbbeae7f/hark_all_ye_nations_rasband.mp3",
+          "duration": 160000,
+          "lang": "eng",
+          "title": "Hark, All Ye Nations!",
+          "description": "This segment is from the Face to Face Broadcast with Elder and Sister Rasband on September 13th, 2020. Conlon Bonner and Yaphet Bustos sing “Hark, All Ye Nations!” accompanied by CJ Madsen (piano) and Charles Ferry (cello).",
+          "seoDescription": "This segment is from the Face to Face Broadcast with Elder and Sister Rasband on September 13th, 2020. Conlon Bonner and Yaphet Bustos sing “Hark, All Ye Nations!” accompanied by CJ Madsen (piano) and Charles Ferry (cello).",
+          "seoTitle": "Hark, All Ye Nations!",
+          "shareableTitle": "Hark, All Ye Nations!",
+          "thumbnail": {
+            "description": "Conlon Bonner and Yaphet Bustos, a Latter-day Saint duet, sings, “Hark, All Ye Nations!” during the Face to Face for Young Adults broadcast with Elder Ronald A. Rasband, of the Quorum of the Twelve Apostles, and his wife, Melanie, on Sunday, September 13, 2020, on the set of ancient Jerusalem in Goshen, Utah.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/800,/0/default",
+            "seoDescription": "Conlon Bonner and Yaphet Bustos, a Latter-day Saint duet, sings, \"Hark, All Ye Nations!” during the Face to Face for Young Adults broadcast with Elder Ronald A. Rasband, of the Quorum of the Twelve Apostles, and his wife, Melanie, on Sunday, September 13, 2020, on the set of ancient Jerusalem in Goshen, Utah.",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!320%2C321/0/default",
+                "width": 320,
+                "height": 321
               },
-              "ipCode": "1 - Not IRI Owned",
-              "isPartOf": [],
-              "keywords": [
-                "Ronald A. Rasband"
-              ],
-              "$lastUpdatedDate": "Mon Aug 18 20:18:49 EDT 2025",
-              "locatorIds": [],
-              "noindex": false,
-              "$id": "00000184-0ee6-d3a5-ab95-1ffed7f80000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "00000184-0ee6-d3a5-ab95-1ffed7f80000",
-              "$site": "music",
-              "products": [],
-              "publicAltText": "Conlon Bonner and Yaphet Bustos, a Latter-day Saint duet, sings, \"Hark, All Ye Nations!” during the Face to Face for Young Adults broadcast with Elder Ronald A. Rasband, of the Quorum of the Twelve Apostles, and his wife, Melanie, on Sunday, September 13, 2020, on the set of ancient Jerusalem in Goshen, Utah.",
-              "publicDownload": [],
-              "$publishDate": "Tue Oct 25 07:28:40 EDT 2022",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!320%2C321/0/default",
-                  "height": 321,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!320%2C321/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!640%2C642/0/default",
-                  "height": 642,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!640%2C642/0/default",
-                  "width": 640
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!800%2C803/0/default",
-                  "height": 803,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!800%2C803/0/default",
-                  "width": 800
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!60%2C60/0/default",
-                  "height": 60,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!60%2C60/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!250%2C251/0/default",
-                  "height": 251,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!250%2C251/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!200%2C201/0/default",
-                  "height": 201,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!200%2C201/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!100%2C100/0/default",
-                  "height": 100,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!100%2C100/0/default",
-                  "width": 100
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!500%2C502/0/default",
-                  "height": 502,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!500%2C502/0/default",
-                  "width": 500
-                }
-              ],
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "Conlon Bonner and Yaphet Bustos, a Latter-day Saint duet, sings, \"Hark, All Ye Nations!” during the Face to Face for Young Adults broadcast with Elder Ronald A. Rasband, of the Quorum of the Twelve Apostles, and his wife, Melanie, on Sunday, September 13, 2020, on the set of ancient Jerusalem in Goshen, Utah.",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "No Title",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "Conlon Bonner and Yaphet Bustos, a Latter-day Saint duet, sings, \"Hark, All Ye Nations!” during the Face to Face for Young Adults broadcast with Elder Ronald A. Rasband, of the Quorum of the Twelve Apostles, and his wife, Melanie, on Sunday, September 13, 2020, on the set of ancient Jerusalem in Goshen, Utah.",
-              "shareableTitle": "No Title",
-              "title": "No Title"
-            },
-            "title": "Hark, All Ye Nations!",
-            "translator": []
-          },
-          "$id": "00000196-c6dc-d455-a9f6-dedc29b80000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6dc-d455-a9f6-dedc29b80000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!640%2C642/0/default",
+                "width": 640,
+                "height": 642
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!800%2C803/0/default",
+                "width": 800,
+                "height": 803
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!250%2C251/0/default",
+                "width": 250,
+                "height": 251
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!200%2C201/0/default",
+                "width": 200,
+                "height": 201
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!500%2C502/0/default",
+                "width": 500,
+                "height": 502
+              }
+            ]
+          }
         }
       ]
     },
@@ -3803,157 +2973,80 @@
       ],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "161e079b32dc11ec8ef9eeeeac1e99aad6b09341",
-            "attributes": {},
-            "composer": [],
-            "description": "This segment is from the Face to Face Broadcast with Elder and Sister Rasband on September 13th, 2020.",
-            "distributionUrl": "https://media2.ldscdn.org/assets/youth/face-to-face-with-elder-and-sister-rasband/2020-09-1061-joseph-smiths-first-prayer-256k-eng.mp3",
-            "duration": 266568,
-            "isPartOf": [],
-            "keywords": [
-              "Face to Face"
-            ],
-            "$lastUpdatedDate": "Mon Aug 25 23:37:12 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "0000017d-cb7f-df99-ad7d-cfff930c0000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "0000017d-cb7f-df99-ad7d-cfff930c0000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicDownload": [],
-            "$publishDate": "Fri Dec 17 22:04:35 EST 2021",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "This segment is from the Face to Face Broadcast with Elder and Sister Rasband on September 13th, 2020.",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "Joseph Smith's First Prayer",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "This segment is from the Face to Face Broadcast with Elder and Sister Rasband on September 13th, 2020.",
-            "shareableTitle": "Joseph Smith's First Prayer",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "381005597026be6a9db789ae60d687c35b286c7a",
-              "attributes": {},
-              "description": "2020-09-1061-joseph-smiths-first-prayer-1920x1080-thumb-master.jpg",
-              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/381005597026be6a9db789ae60d687c35b286c7a/full/1920,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/face-to-face-with-elder-and-sister-rasband/2020-09-1061-joseph-smiths-first-prayer-256k-eng.mp3",
+          "duration": 266568,
+          "lang": "eng",
+          "title": "Joseph Smith's First Prayer",
+          "description": "This segment is from the Face to Face Broadcast with Elder and Sister Rasband on September 13th, 2020.",
+          "seoDescription": "This segment is from the Face to Face Broadcast with Elder and Sister Rasband on September 13th, 2020.",
+          "seoTitle": "Joseph Smith's First Prayer",
+          "shareableTitle": "Joseph Smith's First Prayer",
+          "thumbnail": {
+            "description": "2020-09-1061-joseph-smiths-first-prayer-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/381005597026be6a9db789ae60d687c35b286c7a/full/1920,/0/default",
+            "seoDescription": "2020-09-1061-joseph-smiths-first-prayer-1920x1080-thumb-master.jpg",
+            "seoTitle": "2020-09-1061-joseph-smiths-first-prayer-1920x1080-thumb-master.jpg",
+            "shareableTitle": "2020-09-1061-joseph-smiths-first-prayer-1920x1080-thumb-master.jpg",
+            "title": "2020-09-1061-joseph-smiths-first-prayer-1920x1080-thumb-master.jpg",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/381005597026be6a9db789ae60d687c35b286c7a/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
               },
-              "isPartOf": [],
-              "keywords": [],
-              "$lastUpdatedDate": "Mon Aug 25 23:37:12 EDT 2025",
-              "locatorIds": [],
-              "noindex": false,
-              "$id": "00000175-6c14-db9a-a1f5-7f7e8b200000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "00000175-6c14-db9a-a1f5-7f7e8b200000",
-              "$site": "music",
-              "products": [],
-              "publicDownload": [],
-              "$publishDate": "Tue Oct 27 18:01:26 EDT 2020",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/381005597026be6a9db789ae60d687c35b286c7a/full/!320%2C180/0/default",
-                  "height": 180,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/381005597026be6a9db789ae60d687c35b286c7a/full/!320%2C180/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/381005597026be6a9db789ae60d687c35b286c7a/full/!640%2C360/0/default",
-                  "height": 360,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/381005597026be6a9db789ae60d687c35b286c7a/full/!640%2C360/0/default",
-                  "width": 640
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/381005597026be6a9db789ae60d687c35b286c7a/full/!800%2C450/0/default",
-                  "height": 450,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/381005597026be6a9db789ae60d687c35b286c7a/full/!800%2C450/0/default",
-                  "width": 800
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/381005597026be6a9db789ae60d687c35b286c7a/full/!1280%2C720/0/default",
-                  "height": 720,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/381005597026be6a9db789ae60d687c35b286c7a/full/!1280%2C720/0/default",
-                  "width": 1280
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/381005597026be6a9db789ae60d687c35b286c7a/full/!1600%2C900/0/default",
-                  "height": 900,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/381005597026be6a9db789ae60d687c35b286c7a/full/!1600%2C900/0/default",
-                  "width": 1600
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/381005597026be6a9db789ae60d687c35b286c7a/full/!1920%2C1080/0/default",
-                  "height": 1080,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/381005597026be6a9db789ae60d687c35b286c7a/full/!1920%2C1080/0/default",
-                  "width": 1920
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/381005597026be6a9db789ae60d687c35b286c7a/full/!60%2C34/0/default",
-                  "height": 34,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/381005597026be6a9db789ae60d687c35b286c7a/full/!60%2C34/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/381005597026be6a9db789ae60d687c35b286c7a/full/!250%2C141/0/default",
-                  "height": 141,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/381005597026be6a9db789ae60d687c35b286c7a/full/!250%2C141/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/381005597026be6a9db789ae60d687c35b286c7a/full/!200%2C113/0/default",
-                  "height": 113,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/381005597026be6a9db789ae60d687c35b286c7a/full/!200%2C113/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/381005597026be6a9db789ae60d687c35b286c7a/full/!100%2C56/0/default",
-                  "height": 56,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/381005597026be6a9db789ae60d687c35b286c7a/full/!100%2C56/0/default",
-                  "width": 100
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/381005597026be6a9db789ae60d687c35b286c7a/full/!500%2C281/0/default",
-                  "height": 281,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/381005597026be6a9db789ae60d687c35b286c7a/full/!500%2C281/0/default",
-                  "width": 500
-                }
-              ],
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "2020-09-1061-joseph-smiths-first-prayer-1920x1080-thumb-master.jpg",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "2020-09-1061-joseph-smiths-first-prayer-1920x1080-thumb-master.jpg",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "2020-09-1061-joseph-smiths-first-prayer-1920x1080-thumb-master.jpg",
-              "shareableTitle": "2020-09-1061-joseph-smiths-first-prayer-1920x1080-thumb-master.jpg",
-              "title": "2020-09-1061-joseph-smiths-first-prayer-1920x1080-thumb-master.jpg"
-            },
-            "title": "Joseph Smith's First Prayer",
-            "translator": []
-          },
-          "$id": "00000196-c6dc-d455-a9f6-dedc2a020000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6dc-d455-a9f6-dedc2a020000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/381005597026be6a9db789ae60d687c35b286c7a/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/381005597026be6a9db789ae60d687c35b286c7a/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/381005597026be6a9db789ae60d687c35b286c7a/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/381005597026be6a9db789ae60d687c35b286c7a/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/381005597026be6a9db789ae60d687c35b286c7a/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/381005597026be6a9db789ae60d687c35b286c7a/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/381005597026be6a9db789ae60d687c35b286c7a/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/381005597026be6a9db789ae60d687c35b286c7a/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/381005597026be6a9db789ae60d687c35b286c7a/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/381005597026be6a9db789ae60d687c35b286c7a/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
         }
       ]
     },
@@ -4035,145 +3128,65 @@
       ],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "1f6a4a3fd771210b068b00ff96e09ae02d7d0f82",
-            "attributes": {},
-            "composer": [],
-            "description": "This segment is from the Face to Face Broadcast with Elder and Sister Rasband on September 13th, 2020. Ellie Hughes and Yaphet Bustos sing “Come Thou Fount,” accompanied by CJ Madsen (piano) and Karen Ferry (violin).",
-            "distributionUrl": "https://assets.churchofjesuschrist.org/1f/6a/1f6a4a3fd771210b068b00ff96e09ae02d7d0f82/come_fount_blessing_rasband.mp3",
-            "duration": 225000,
-            "ipCode": "0 - IRI Owned",
-            "isPartOf": [],
-            "keywords": [
-              "Events",
-              "Ronald A. Rasband"
-            ],
-            "$lastUpdatedDate": "Tue Aug 05 19:41:21 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "0000017a-10c6-d0ed-a1fe-10e649880000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "0000017a-10c6-d0ed-a1fe-10e649880000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicDownload": [],
-            "$publishDate": "Tue Jun 15 13:44:28 EDT 2021",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "This segment is from the Face to Face Broadcast with Elder and Sister Rasband on September 13th, 2020. Ellie Hughes and Yaphet Bustos sing “Come Thou Fount,” accompanied by CJ Madsen (piano) and Karen Ferry (violin).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "Come, Thou Fount of Every Blessing",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "This segment is from the Face to Face Broadcast with Elder and Sister Rasband on September 13th, 2020. Ellie Hughes and Yaphet Bustos sing “Come Thou Fount,” accompanied by CJ Madsen (piano) and Karen Ferry (violin).",
-            "shareableTitle": "Come, Thou Fount of Every Blessing",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a",
-              "attributes": {},
-              "description": "Conlon Bonner and Yaphet Bustos, a Latter-day Saint duet, sings, “Hark, All Ye Nations!” during the Face to Face for Young Adults broadcast with Elder Ronald A. Rasband, of the Quorum of the Twelve Apostles, and his wife, Melanie, on Sunday, September 13, 2020, on the set of ancient Jerusalem in Goshen, Utah.",
-              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/800,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
+          "distributionUrl": "https://assets.churchofjesuschrist.org/1f/6a/1f6a4a3fd771210b068b00ff96e09ae02d7d0f82/come_fount_blessing_rasband.mp3",
+          "duration": 225000,
+          "lang": "eng",
+          "title": "Come, Thou Fount of Every Blessing",
+          "description": "This segment is from the Face to Face Broadcast with Elder and Sister Rasband on September 13th, 2020. Ellie Hughes and Yaphet Bustos sing “Come Thou Fount,” accompanied by CJ Madsen (piano) and Karen Ferry (violin).",
+          "seoDescription": "This segment is from the Face to Face Broadcast with Elder and Sister Rasband on September 13th, 2020. Ellie Hughes and Yaphet Bustos sing “Come Thou Fount,” accompanied by CJ Madsen (piano) and Karen Ferry (violin).",
+          "seoTitle": "Come, Thou Fount of Every Blessing",
+          "shareableTitle": "Come, Thou Fount of Every Blessing",
+          "thumbnail": {
+            "description": "Conlon Bonner and Yaphet Bustos, a Latter-day Saint duet, sings, “Hark, All Ye Nations!” during the Face to Face for Young Adults broadcast with Elder Ronald A. Rasband, of the Quorum of the Twelve Apostles, and his wife, Melanie, on Sunday, September 13, 2020, on the set of ancient Jerusalem in Goshen, Utah.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/800,/0/default",
+            "seoDescription": "Conlon Bonner and Yaphet Bustos, a Latter-day Saint duet, sings, \"Hark, All Ye Nations!” during the Face to Face for Young Adults broadcast with Elder Ronald A. Rasband, of the Quorum of the Twelve Apostles, and his wife, Melanie, on Sunday, September 13, 2020, on the set of ancient Jerusalem in Goshen, Utah.",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!320%2C321/0/default",
+                "width": 320,
+                "height": 321
               },
-              "ipCode": "1 - Not IRI Owned",
-              "isPartOf": [],
-              "keywords": [
-                "Ronald A. Rasband"
-              ],
-              "$lastUpdatedDate": "Mon Aug 18 20:18:49 EDT 2025",
-              "locatorIds": [],
-              "noindex": false,
-              "$id": "00000184-0ee6-d3a5-ab95-1ffed7f80000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "00000184-0ee6-d3a5-ab95-1ffed7f80000",
-              "$site": "music",
-              "products": [],
-              "publicAltText": "Conlon Bonner and Yaphet Bustos, a Latter-day Saint duet, sings, \"Hark, All Ye Nations!” during the Face to Face for Young Adults broadcast with Elder Ronald A. Rasband, of the Quorum of the Twelve Apostles, and his wife, Melanie, on Sunday, September 13, 2020, on the set of ancient Jerusalem in Goshen, Utah.",
-              "publicDownload": [],
-              "$publishDate": "Tue Oct 25 07:28:40 EDT 2022",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!320%2C321/0/default",
-                  "height": 321,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!320%2C321/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!640%2C642/0/default",
-                  "height": 642,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!640%2C642/0/default",
-                  "width": 640
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!800%2C803/0/default",
-                  "height": 803,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!800%2C803/0/default",
-                  "width": 800
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!60%2C60/0/default",
-                  "height": 60,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!60%2C60/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!250%2C251/0/default",
-                  "height": 251,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!250%2C251/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!200%2C201/0/default",
-                  "height": 201,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!200%2C201/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!100%2C100/0/default",
-                  "height": 100,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!100%2C100/0/default",
-                  "width": 100
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!500%2C502/0/default",
-                  "height": 502,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!500%2C502/0/default",
-                  "width": 500
-                }
-              ],
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "Conlon Bonner and Yaphet Bustos, a Latter-day Saint duet, sings, \"Hark, All Ye Nations!” during the Face to Face for Young Adults broadcast with Elder Ronald A. Rasband, of the Quorum of the Twelve Apostles, and his wife, Melanie, on Sunday, September 13, 2020, on the set of ancient Jerusalem in Goshen, Utah.",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "No Title",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "Conlon Bonner and Yaphet Bustos, a Latter-day Saint duet, sings, \"Hark, All Ye Nations!” during the Face to Face for Young Adults broadcast with Elder Ronald A. Rasband, of the Quorum of the Twelve Apostles, and his wife, Melanie, on Sunday, September 13, 2020, on the set of ancient Jerusalem in Goshen, Utah.",
-              "shareableTitle": "No Title",
-              "title": "No Title"
-            },
-            "title": "Come, Thou Fount of Every Blessing",
-            "translator": []
-          },
-          "$id": "00000196-c6dc-d455-a9f6-dedc2a3b0000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6dc-d455-a9f6-dedc2a3b0000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!640%2C642/0/default",
+                "width": 640,
+                "height": 642
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!800%2C803/0/default",
+                "width": 800,
+                "height": 803
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!250%2C251/0/default",
+                "width": 250,
+                "height": 251
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!200%2C201/0/default",
+                "width": 200,
+                "height": 201
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!500%2C502/0/default",
+                "width": 500,
+                "height": 502
+              }
+            ]
+          }
         }
       ]
     },
@@ -4248,147 +3261,70 @@
       ],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "db5f226a16c3a8b9fa76592bb675b584493379df",
-            "attributes": {},
-            "composer": [],
-            "description": "Performance of Redeemer of Israel at the Face to Face with the Young Woman's Presidency: Celebrating 150 years of Young Women.",
-            "distributionUrl": "https://assets.churchofjesuschrist.org/db/5f/db5f226a16c3a8b9fa76592bb675b584493379df/redeemer_of_israel_young_women_f2f.mp3",
-            "duration": 187000,
-            "ipCode": "0 - IRI Owned",
-            "isPartOf": [],
-            "keywords": [
-              "young women",
-              "music"
-            ],
-            "$lastUpdatedDate": "Sun Oct 13 07:31:39 EDT 2024",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "0000017a-628c-dc61-a7fb-7afc8fb30000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "0000017a-628c-dc61-a7fb-7afc8fb30000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicDownload": [],
-            "$publishDate": "Thu Jul 01 10:50:16 EDT 2021",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
+          "distributionUrl": "https://assets.churchofjesuschrist.org/db/5f/db5f226a16c3a8b9fa76592bb675b584493379df/redeemer_of_israel_young_women_f2f.mp3",
+          "duration": 187000,
+          "lang": "eng",
+          "title": "Redeemer of Israel",
+          "description": "Performance of Redeemer of Israel at the Face to Face with the Young Woman's Presidency: Celebrating 150 years of Young Women.",
+          "seoDescription": "Performance of Redeemer of Israel at the Face to Face with the Young Woman's Presidency: Celebrating 150 years of Young Women.",
+          "seoTitle": "Redeemer of Israel",
+          "shareableTitle": "Redeemer of Israel",
+          "thumbnail": {
+            "description": "Performance of Redeemer of Israel at the Face to Face with the Young Woman’s Presidency: Celebrating 150 years of Young Women.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fc373c071eeacf8566cb67782626987d7875d68/full/1280,/0/default",
             "seoDescription": "Performance of Redeemer of Israel at the Face to Face with the Young Woman's Presidency: Celebrating 150 years of Young Women.",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "Redeemer of Israel",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "Performance of Redeemer of Israel at the Face to Face with the Young Woman's Presidency: Celebrating 150 years of Young Women.",
-            "shareableTitle": "Redeemer of Israel",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "4fc373c071eeacf8566cb67782626987d7875d68",
-              "attributes": {},
-              "description": "Performance of Redeemer of Israel at the Face to Face with the Young Woman’s Presidency: Celebrating 150 years of Young Women.",
-              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fc373c071eeacf8566cb67782626987d7875d68/full/1280,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fc373c071eeacf8566cb67782626987d7875d68/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
               },
-              "isPartOf": [],
-              "keywords": [],
-              "$lastUpdatedDate": "Sun Oct 13 07:31:38 EDT 2024",
-              "locatorIds": [],
-              "noindex": false,
-              "$id": "00000184-41e5-d6e6-a59e-73f778280000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "00000184-41e5-d6e6-a59e-73f778280000",
-              "$site": "music",
-              "products": [],
-              "publicDownload": [],
-              "$publishDate": "Fri Nov 04 05:07:48 EDT 2022",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fc373c071eeacf8566cb67782626987d7875d68/full/!320%2C180/0/default",
-                  "height": 180,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fc373c071eeacf8566cb67782626987d7875d68/full/!320%2C180/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fc373c071eeacf8566cb67782626987d7875d68/full/!640%2C360/0/default",
-                  "height": 360,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fc373c071eeacf8566cb67782626987d7875d68/full/!640%2C360/0/default",
-                  "width": 640
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fc373c071eeacf8566cb67782626987d7875d68/full/!800%2C450/0/default",
-                  "height": 450,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fc373c071eeacf8566cb67782626987d7875d68/full/!800%2C450/0/default",
-                  "width": 800
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fc373c071eeacf8566cb67782626987d7875d68/full/!1280%2C720/0/default",
-                  "height": 720,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fc373c071eeacf8566cb67782626987d7875d68/full/!1280%2C720/0/default",
-                  "width": 1280
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fc373c071eeacf8566cb67782626987d7875d68/full/!60%2C34/0/default",
-                  "height": 34,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fc373c071eeacf8566cb67782626987d7875d68/full/!60%2C34/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fc373c071eeacf8566cb67782626987d7875d68/full/!250%2C141/0/default",
-                  "height": 141,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fc373c071eeacf8566cb67782626987d7875d68/full/!250%2C141/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fc373c071eeacf8566cb67782626987d7875d68/full/!200%2C113/0/default",
-                  "height": 113,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fc373c071eeacf8566cb67782626987d7875d68/full/!200%2C113/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fc373c071eeacf8566cb67782626987d7875d68/full/!100%2C56/0/default",
-                  "height": 56,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fc373c071eeacf8566cb67782626987d7875d68/full/!100%2C56/0/default",
-                  "width": 100
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fc373c071eeacf8566cb67782626987d7875d68/full/!500%2C281/0/default",
-                  "height": 281,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/4fc373c071eeacf8566cb67782626987d7875d68/full/!500%2C281/0/default",
-                  "width": 500
-                }
-              ],
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "Performance of Redeemer of Israel at the Face to Face with the Young Woman's Presidency: Celebrating 150 years of Young Women.",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "No Title",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "Performance of Redeemer of Israel at the Face to Face with the Young Woman's Presidency: Celebrating 150 years of Young Women.",
-              "shareableTitle": "No Title",
-              "title": "No Title"
-            },
-            "title": "Redeemer of Israel",
-            "translator": []
-          },
-          "$id": "00000196-c6dc-d455-a9f6-dedc35fa0000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6dc-d455-a9f6-dedc35fa0000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fc373c071eeacf8566cb67782626987d7875d68/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fc373c071eeacf8566cb67782626987d7875d68/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fc373c071eeacf8566cb67782626987d7875d68/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fc373c071eeacf8566cb67782626987d7875d68/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fc373c071eeacf8566cb67782626987d7875d68/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fc373c071eeacf8566cb67782626987d7875d68/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fc373c071eeacf8566cb67782626987d7875d68/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fc373c071eeacf8566cb67782626987d7875d68/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
         }
       ]
     },
@@ -4456,147 +3392,70 @@
       ],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "2a9492ed1330da727e6ac56b572a621452b4e607",
-            "attributes": {},
-            "composer": [],
-            "description": "Performance of A Great Work at the at the Face to Face with the Young Woman's Presidency: Celebrating 150 years of Young Women.",
-            "distributionUrl": "https://assets.churchofjesuschrist.org/2a/94/2a9492ed1330da727e6ac56b572a621452b4e607/a_great_work_young_women_f2f.mp3",
-            "duration": 321000,
-            "ipCode": "0 - IRI Owned",
-            "isPartOf": [],
-            "keywords": [
-              "young women",
-              "music"
-            ],
-            "$lastUpdatedDate": "Sun Oct 13 04:04:30 EDT 2024",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000184-40b0-d6e6-a59e-73f794d80000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000184-40b0-d6e6-a59e-73f794d80000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicDownload": [],
-            "$publishDate": "Thu Nov 03 23:30:25 EDT 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
+          "distributionUrl": "https://assets.churchofjesuschrist.org/2a/94/2a9492ed1330da727e6ac56b572a621452b4e607/a_great_work_young_women_f2f.mp3",
+          "duration": 321000,
+          "lang": "eng",
+          "title": "A Great Work",
+          "description": "Performance of A Great Work at the at the Face to Face with the Young Woman's Presidency: Celebrating 150 years of Young Women.",
+          "seoDescription": "Performance of A Great Work at the at the Face to Face with the Young Woman's Presidency: Celebrating 150 years of Young Women.",
+          "seoTitle": "A Great Work",
+          "shareableTitle": "A Great Work",
+          "thumbnail": {
+            "description": "Performance of A Great Work at the at the Face to Face with the Young Woman’s Presidency: Celebrating 150 years of Young Women.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/fc3cc624dc7dea364557a35423c505963cd18c0e/full/1280,/0/default",
             "seoDescription": "Performance of A Great Work at the at the Face to Face with the Young Woman's Presidency: Celebrating 150 years of Young Women.",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "A Great Work",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "Performance of A Great Work at the at the Face to Face with the Young Woman's Presidency: Celebrating 150 years of Young Women.",
-            "shareableTitle": "A Great Work",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "fc3cc624dc7dea364557a35423c505963cd18c0e",
-              "attributes": {},
-              "description": "Performance of A Great Work at the at the Face to Face with the Young Woman’s Presidency: Celebrating 150 years of Young Women.",
-              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/fc3cc624dc7dea364557a35423c505963cd18c0e/full/1280,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/fc3cc624dc7dea364557a35423c505963cd18c0e/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
               },
-              "isPartOf": [],
-              "keywords": [],
-              "$lastUpdatedDate": "Sun Oct 13 04:04:29 EDT 2024",
-              "locatorIds": [],
-              "noindex": false,
-              "$id": "00000184-41e5-d6e6-a59e-73f77e8e0000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "00000184-41e5-d6e6-a59e-73f77e8e0000",
-              "$site": "music",
-              "products": [],
-              "publicDownload": [],
-              "$publishDate": "Fri Nov 04 05:07:50 EDT 2022",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/fc3cc624dc7dea364557a35423c505963cd18c0e/full/!320%2C180/0/default",
-                  "height": 180,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/fc3cc624dc7dea364557a35423c505963cd18c0e/full/!320%2C180/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/fc3cc624dc7dea364557a35423c505963cd18c0e/full/!640%2C360/0/default",
-                  "height": 360,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/fc3cc624dc7dea364557a35423c505963cd18c0e/full/!640%2C360/0/default",
-                  "width": 640
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/fc3cc624dc7dea364557a35423c505963cd18c0e/full/!800%2C450/0/default",
-                  "height": 450,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/fc3cc624dc7dea364557a35423c505963cd18c0e/full/!800%2C450/0/default",
-                  "width": 800
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/fc3cc624dc7dea364557a35423c505963cd18c0e/full/!1280%2C720/0/default",
-                  "height": 720,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/fc3cc624dc7dea364557a35423c505963cd18c0e/full/!1280%2C720/0/default",
-                  "width": 1280
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/fc3cc624dc7dea364557a35423c505963cd18c0e/full/!60%2C34/0/default",
-                  "height": 34,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/fc3cc624dc7dea364557a35423c505963cd18c0e/full/!60%2C34/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/fc3cc624dc7dea364557a35423c505963cd18c0e/full/!250%2C141/0/default",
-                  "height": 141,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/fc3cc624dc7dea364557a35423c505963cd18c0e/full/!250%2C141/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/fc3cc624dc7dea364557a35423c505963cd18c0e/full/!200%2C113/0/default",
-                  "height": 113,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/fc3cc624dc7dea364557a35423c505963cd18c0e/full/!200%2C113/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/fc3cc624dc7dea364557a35423c505963cd18c0e/full/!100%2C56/0/default",
-                  "height": 56,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/fc3cc624dc7dea364557a35423c505963cd18c0e/full/!100%2C56/0/default",
-                  "width": 100
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/fc3cc624dc7dea364557a35423c505963cd18c0e/full/!500%2C281/0/default",
-                  "height": 281,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/fc3cc624dc7dea364557a35423c505963cd18c0e/full/!500%2C281/0/default",
-                  "width": 500
-                }
-              ],
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "Performance of A Great Work at the at the Face to Face with the Young Woman's Presidency: Celebrating 150 years of Young Women.",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "No Title",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "Performance of A Great Work at the at the Face to Face with the Young Woman's Presidency: Celebrating 150 years of Young Women.",
-              "shareableTitle": "No Title",
-              "title": "No Title"
-            },
-            "title": "A Great Work",
-            "translator": []
-          },
-          "$id": "00000196-c6dc-d455-a9f6-dedc36200000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6dc-d455-a9f6-dedc36200000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/fc3cc624dc7dea364557a35423c505963cd18c0e/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/fc3cc624dc7dea364557a35423c505963cd18c0e/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/fc3cc624dc7dea364557a35423c505963cd18c0e/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/fc3cc624dc7dea364557a35423c505963cd18c0e/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/fc3cc624dc7dea364557a35423c505963cd18c0e/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/fc3cc624dc7dea364557a35423c505963cd18c0e/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/fc3cc624dc7dea364557a35423c505963cd18c0e/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/fc3cc624dc7dea364557a35423c505963cd18c0e/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
         }
       ]
     },
@@ -4661,148 +3520,70 @@
       "voicings": [],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "a72b24f5a03c4eba5a4cfd2c4e2d80b3f04c1dc4",
-            "attributes": {},
-            "composer": [],
-            "description": "Performance of I Will at the at the Face to Face with the Young Woman's Presidency: Celebrating 150 years of Young Women.",
-            "distributionUrl": "https://assets.churchofjesuschrist.org/a7/2b/a72b24f5a03c4eba5a4cfd2c4e2d80b3f04c1dc4/i_will_young_women_f2f.mp3",
-            "duration": 230000,
-            "ipCode": "1 - Not IRI Owned",
-            "isPartOf": [],
-            "keywords": [
-              "young women",
-              "music"
-            ],
-            "$lastUpdatedDate": "Sun Oct 13 04:01:51 EDT 2024",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000184-40b0-d6e6-a59e-73f798ac0000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000184-40b0-d6e6-a59e-73f798ac0000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicDownload": [],
-            "$publishDate": "Thu Nov 03 23:30:26 EDT 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "reqCreditLine": "false",
-            "requiredAssets": [],
-            "sameAs": [],
+          "distributionUrl": "https://assets.churchofjesuschrist.org/a7/2b/a72b24f5a03c4eba5a4cfd2c4e2d80b3f04c1dc4/i_will_young_women_f2f.mp3",
+          "duration": 230000,
+          "lang": "eng",
+          "title": "I Will",
+          "description": "Performance of I Will at the at the Face to Face with the Young Woman's Presidency: Celebrating 150 years of Young Women.",
+          "seoDescription": "Performance of I Will at the at the Face to Face with the Young Woman's Presidency: Celebrating 150 years of Young Women.",
+          "seoTitle": "I Will",
+          "shareableTitle": "I Will",
+          "thumbnail": {
+            "description": "Performance of I Will at the at the Face to Face with the Young Woman’s Presidency: Celebrating 150 years of Young Women.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/77da0c144861f1fc1f9615287a44473438485462/full/1280,/0/default",
             "seoDescription": "Performance of I Will at the at the Face to Face with the Young Woman's Presidency: Celebrating 150 years of Young Women.",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "I Will",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "Performance of I Will at the at the Face to Face with the Young Woman's Presidency: Celebrating 150 years of Young Women.",
-            "shareableTitle": "I Will",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "77da0c144861f1fc1f9615287a44473438485462",
-              "attributes": {},
-              "description": "Performance of I Will at the at the Face to Face with the Young Woman’s Presidency: Celebrating 150 years of Young Women.",
-              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/77da0c144861f1fc1f9615287a44473438485462/full/1280,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/77da0c144861f1fc1f9615287a44473438485462/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
               },
-              "isPartOf": [],
-              "keywords": [],
-              "$lastUpdatedDate": "Sun Oct 13 04:01:51 EDT 2024",
-              "locatorIds": [],
-              "noindex": false,
-              "$id": "00000184-41e5-d6e6-a59e-73f784d60000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "00000184-41e5-d6e6-a59e-73f784d60000",
-              "$site": "music",
-              "products": [],
-              "publicDownload": [],
-              "$publishDate": "Fri Nov 04 05:07:51 EDT 2022",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/77da0c144861f1fc1f9615287a44473438485462/full/!320%2C180/0/default",
-                  "height": 180,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/77da0c144861f1fc1f9615287a44473438485462/full/!320%2C180/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/77da0c144861f1fc1f9615287a44473438485462/full/!640%2C360/0/default",
-                  "height": 360,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/77da0c144861f1fc1f9615287a44473438485462/full/!640%2C360/0/default",
-                  "width": 640
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/77da0c144861f1fc1f9615287a44473438485462/full/!800%2C450/0/default",
-                  "height": 450,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/77da0c144861f1fc1f9615287a44473438485462/full/!800%2C450/0/default",
-                  "width": 800
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/77da0c144861f1fc1f9615287a44473438485462/full/!1280%2C720/0/default",
-                  "height": 720,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/77da0c144861f1fc1f9615287a44473438485462/full/!1280%2C720/0/default",
-                  "width": 1280
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/77da0c144861f1fc1f9615287a44473438485462/full/!60%2C34/0/default",
-                  "height": 34,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/77da0c144861f1fc1f9615287a44473438485462/full/!60%2C34/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/77da0c144861f1fc1f9615287a44473438485462/full/!250%2C141/0/default",
-                  "height": 141,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/77da0c144861f1fc1f9615287a44473438485462/full/!250%2C141/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/77da0c144861f1fc1f9615287a44473438485462/full/!200%2C113/0/default",
-                  "height": 113,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/77da0c144861f1fc1f9615287a44473438485462/full/!200%2C113/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/77da0c144861f1fc1f9615287a44473438485462/full/!100%2C56/0/default",
-                  "height": 56,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/77da0c144861f1fc1f9615287a44473438485462/full/!100%2C56/0/default",
-                  "width": 100
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/77da0c144861f1fc1f9615287a44473438485462/full/!500%2C281/0/default",
-                  "height": 281,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/77da0c144861f1fc1f9615287a44473438485462/full/!500%2C281/0/default",
-                  "width": 500
-                }
-              ],
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "Performance of I Will at the at the Face to Face with the Young Woman's Presidency: Celebrating 150 years of Young Women.",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "No Title",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "Performance of I Will at the at the Face to Face with the Young Woman's Presidency: Celebrating 150 years of Young Women.",
-              "shareableTitle": "No Title",
-              "title": "No Title"
-            },
-            "title": "I Will",
-            "translator": []
-          },
-          "$id": "00000196-c6dc-d455-a9f6-dedc36450000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6dc-d455-a9f6-dedc36450000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/77da0c144861f1fc1f9615287a44473438485462/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/77da0c144861f1fc1f9615287a44473438485462/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/77da0c144861f1fc1f9615287a44473438485462/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/77da0c144861f1fc1f9615287a44473438485462/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/77da0c144861f1fc1f9615287a44473438485462/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/77da0c144861f1fc1f9615287a44473438485462/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/77da0c144861f1fc1f9615287a44473438485462/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/77da0c144861f1fc1f9615287a44473438485462/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
         }
       ]
     },
@@ -4957,148 +3738,70 @@
       ],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "7a93f0fba4e57c64fd7b2abd4dc7e89a16cdcc93",
-            "attributes": {},
-            "composer": [],
-            "description": "Performance of Lord, I Would Follow Thee at the at the Face to Face with the Young Woman's Presidency: Celebrating 150 years of Young Women.",
-            "distributionUrl": "https://assets.churchofjesuschrist.org/7a/93/7a93f0fba4e57c64fd7b2abd4dc7e89a16cdcc93/lord_i_would_follow_thee_yw_f2f.mp3",
-            "duration": 226000,
-            "ipCode": "1 - Not IRI Owned",
-            "isPartOf": [],
-            "keywords": [
-              "young women",
-              "music"
-            ],
-            "$lastUpdatedDate": "Sun Oct 13 08:30:32 EDT 2024",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000184-40b0-d6e6-a59e-73f79c0c0000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000184-40b0-d6e6-a59e-73f79c0c0000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicDownload": [],
-            "$publishDate": "Thu Nov 03 23:30:26 EDT 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "reqCreditLine": "false",
-            "requiredAssets": [],
-            "sameAs": [],
+          "distributionUrl": "https://assets.churchofjesuschrist.org/7a/93/7a93f0fba4e57c64fd7b2abd4dc7e89a16cdcc93/lord_i_would_follow_thee_yw_f2f.mp3",
+          "duration": 226000,
+          "lang": "eng",
+          "title": "Lord, I Would Follow Thee",
+          "description": "Performance of Lord, I Would Follow Thee at the at the Face to Face with the Young Woman's Presidency: Celebrating 150 years of Young Women.",
+          "seoDescription": "Performance of Lord, I Would Follow Thee at the at the Face to Face with the Young Woman's Presidency: Celebrating 150 years of Young Women.",
+          "seoTitle": "Lord, I Would Follow Thee",
+          "shareableTitle": "Lord, I Would Follow Thee",
+          "thumbnail": {
+            "description": "Performance of Lord, I Would Follow Thee at the at the Face to Face with the Young Woman’s Presidency: Celebrating 150 years of Young Women.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3b86b54351ef9553fe5dae2ae29df43116b2641f/full/1280,/0/default",
             "seoDescription": "Performance of Lord, I Would Follow Thee at the at the Face to Face with the Young Woman's Presidency: Celebrating 150 years of Young Women.",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "Lord, I Would Follow Thee",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "Performance of Lord, I Would Follow Thee at the at the Face to Face with the Young Woman's Presidency: Celebrating 150 years of Young Women.",
-            "shareableTitle": "Lord, I Would Follow Thee",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "3b86b54351ef9553fe5dae2ae29df43116b2641f",
-              "attributes": {},
-              "description": "Performance of Lord, I Would Follow Thee at the at the Face to Face with the Young Woman’s Presidency: Celebrating 150 years of Young Women.",
-              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3b86b54351ef9553fe5dae2ae29df43116b2641f/full/1280,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3b86b54351ef9553fe5dae2ae29df43116b2641f/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
               },
-              "isPartOf": [],
-              "keywords": [],
-              "$lastUpdatedDate": "Sun Oct 13 08:30:32 EDT 2024",
-              "locatorIds": [],
-              "noindex": false,
-              "$id": "00000184-41e5-d6e6-a59e-73f791c00000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "00000184-41e5-d6e6-a59e-73f791c00000",
-              "$site": "music",
-              "products": [],
-              "publicDownload": [],
-              "$publishDate": "Fri Nov 04 05:07:54 EDT 2022",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3b86b54351ef9553fe5dae2ae29df43116b2641f/full/!320%2C180/0/default",
-                  "height": 180,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3b86b54351ef9553fe5dae2ae29df43116b2641f/full/!320%2C180/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3b86b54351ef9553fe5dae2ae29df43116b2641f/full/!640%2C360/0/default",
-                  "height": 360,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3b86b54351ef9553fe5dae2ae29df43116b2641f/full/!640%2C360/0/default",
-                  "width": 640
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3b86b54351ef9553fe5dae2ae29df43116b2641f/full/!800%2C450/0/default",
-                  "height": 450,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3b86b54351ef9553fe5dae2ae29df43116b2641f/full/!800%2C450/0/default",
-                  "width": 800
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3b86b54351ef9553fe5dae2ae29df43116b2641f/full/!1280%2C720/0/default",
-                  "height": 720,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3b86b54351ef9553fe5dae2ae29df43116b2641f/full/!1280%2C720/0/default",
-                  "width": 1280
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3b86b54351ef9553fe5dae2ae29df43116b2641f/full/!60%2C34/0/default",
-                  "height": 34,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3b86b54351ef9553fe5dae2ae29df43116b2641f/full/!60%2C34/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3b86b54351ef9553fe5dae2ae29df43116b2641f/full/!250%2C141/0/default",
-                  "height": 141,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3b86b54351ef9553fe5dae2ae29df43116b2641f/full/!250%2C141/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3b86b54351ef9553fe5dae2ae29df43116b2641f/full/!200%2C113/0/default",
-                  "height": 113,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3b86b54351ef9553fe5dae2ae29df43116b2641f/full/!200%2C113/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3b86b54351ef9553fe5dae2ae29df43116b2641f/full/!100%2C56/0/default",
-                  "height": 56,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3b86b54351ef9553fe5dae2ae29df43116b2641f/full/!100%2C56/0/default",
-                  "width": 100
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3b86b54351ef9553fe5dae2ae29df43116b2641f/full/!500%2C281/0/default",
-                  "height": 281,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/3b86b54351ef9553fe5dae2ae29df43116b2641f/full/!500%2C281/0/default",
-                  "width": 500
-                }
-              ],
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "Performance of Lord, I Would Follow Thee at the at the Face to Face with the Young Woman's Presidency: Celebrating 150 years of Young Women.",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "No Title",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "Performance of Lord, I Would Follow Thee at the at the Face to Face with the Young Woman's Presidency: Celebrating 150 years of Young Women.",
-              "shareableTitle": "No Title",
-              "title": "No Title"
-            },
-            "title": "Lord, I Would Follow Thee",
-            "translator": []
-          },
-          "$id": "00000196-c6dc-d455-a9f6-dedc36880000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6dc-d455-a9f6-dedc36880000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3b86b54351ef9553fe5dae2ae29df43116b2641f/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3b86b54351ef9553fe5dae2ae29df43116b2641f/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3b86b54351ef9553fe5dae2ae29df43116b2641f/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3b86b54351ef9553fe5dae2ae29df43116b2641f/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3b86b54351ef9553fe5dae2ae29df43116b2641f/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3b86b54351ef9553fe5dae2ae29df43116b2641f/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3b86b54351ef9553fe5dae2ae29df43116b2641f/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3b86b54351ef9553fe5dae2ae29df43116b2641f/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
         }
       ]
     }

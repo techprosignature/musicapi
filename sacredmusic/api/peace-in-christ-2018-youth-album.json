@@ -47,179 +47,70 @@
       "voicings": [],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_ACCOMPANIMENT",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "e6d7de87d6878dc2148e3fb70550af888649f29c",
-            "attributes": {},
-            "composer": [],
-            "description": "“Peace in Christ” (Female Version) from 2018 Youth Album (English, 2018-01-01).",
-            "distributionUrl": "https://assets.churchofjesuschrist.org/e6/d7/e6d7de87d6878dc2148e3fb70550af888649f29c/peace_in_christ.mp3",
-            "duration": 214000,
-            "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Fri Aug 01 20:17:07 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000184-0ee1-d3a5-ab95-1ffb6fe70000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000184-0ee1-d3a5-ab95-1ffb6fe70000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "&ldquo;Peace in Christ&rdquo; (Female Version) from 2018 Youth Album (English, 2018-01-01).",
-            "publicDownload": [
-              "PUBLIC"
-            ],
-            "$publishDate": "Tue Oct 25 07:22:46 EDT 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“Peace in Christ” (Female Version) from 2018 Youth Album (English, 2018-01-01).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "Peace in Christ",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“Peace in Christ” (Female Version) from 2018 Youth Album (English, 2018-01-01).",
-            "shareableTitle": "Peace in Christ",
-            "title": "Peace in Christ",
-            "translator": []
-          },
-          "$id": "00000196-c6da-d455-a9f6-dede7a920000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6da-d455-a9f6-dede7a920000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+          "distributionUrl": "https://assets.churchofjesuschrist.org/e6/d7/e6d7de87d6878dc2148e3fb70550af888649f29c/peace_in_christ.mp3",
+          "duration": 214000,
+          "lang": "eng",
+          "title": "Peace in Christ",
+          "description": "“Peace in Christ” (Female Version) from 2018 Youth Album (English, 2018-01-01).",
+          "seoDescription": "“Peace in Christ” (Female Version) from 2018 Youth Album (English, 2018-01-01).",
+          "seoTitle": "Peace in Christ",
+          "shareableTitle": "Peace in Christ",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
         },
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "c8144cc8d39208e2c5085002a7ce36f4fc1311e2",
-            "attributes": {},
-            "composer": [],
-            "description": "“Peace in Christ” (Female Version) from 2018 Youth Album (English, 2018-01-01).",
-            "distributionUrl": "https://assets.churchofjesuschrist.org/c8/14/c8144cc8d39208e2c5085002a7ce36f4fc1311e2/2018_mutual_music_peace_in_christ.mp3",
-            "duration": 216000,
-            "ipCode": "9 - IRI licensed",
-            "isPartOf": [],
-            "keywords": [
-              "music",
-              "Audio",
-              "youth"
-            ],
-            "$lastUpdatedDate": "Fri Aug 01 20:19:31 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "0000017a-200d-d072-abfb-231d0bce0000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "0000017a-200d-d072-abfb-231d0bce0000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "&ldquo;Peace in Christ&rdquo; (Female Version) from 2018 Youth Album (English, 2018-01-01).",
-            "publicDownload": [],
-            "$publishDate": "Fri Jun 18 12:56:03 EDT 2021",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "reqCreditLine": "false",
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“Peace in Christ” (Female Version) from 2018 Youth Album (English, 2018-01-01).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "Peace in Christ",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“Peace in Christ” (Female Version) from 2018 Youth Album (English, 2018-01-01).",
-            "shareableTitle": "Peace in Christ",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "5ac1d5da4b74ec6e731b8117a3615fe53f347539",
-              "attributes": {},
-              "description": "2020 Mutual Theme Music Album",
-              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
+          "distributionUrl": "https://assets.churchofjesuschrist.org/c8/14/c8144cc8d39208e2c5085002a7ce36f4fc1311e2/2018_mutual_music_peace_in_christ.mp3",
+          "duration": 216000,
+          "lang": "eng",
+          "title": "Peace in Christ",
+          "description": "“Peace in Christ” (Female Version) from 2018 Youth Album (English, 2018-01-01).",
+          "seoDescription": "“Peace in Christ” (Female Version) from 2018 Youth Album (English, 2018-01-01).",
+          "seoTitle": "Peace in Christ",
+          "shareableTitle": "Peace in Christ",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "2020 Mutual Theme Music Album",
+            "shareableTitle": "2020 Mutual Theme Music Album",
+            "title": "2020 Mutual Theme Music Album",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
               },
-              "ipCode": "0 - IRI Owned",
-              "isPartOf": [],
-              "keywords": [],
-              "$lastUpdatedDate": "Fri Aug 01 20:22:58 EDT 2025",
-              "locatorIds": [],
-              "noindex": false,
-              "$id": "0000016e-f22e-d642-a77f-f72e2e080000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "0000016e-f22e-d642-a77f-f72e2e080000",
-              "$site": "music",
-              "products": [],
-              "publicAltText": "Three abstract medium blue, light blue, and white rectangles decreasing in size and centered on a dark blue background.",
-              "publicDownload": [],
-              "$publishDate": "Tue Dec 10 18:39:03 EST 2019",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                  "height": 320,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                  "height": 60,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                  "height": 250,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                  "height": 200,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                  "height": 100,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                  "width": 100
-                }
-              ],
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "2020 Mutual Theme Music Album",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "2020 Mutual Theme Music Album",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "2020 Mutual Theme Music Album",
-              "shareableTitle": "2020 Mutual Theme Music Album",
-              "title": "2020 Mutual Theme Music Album"
-            },
-            "title": "Peace in Christ",
-            "translator": []
-          },
-          "$id": "00000196-c6da-d455-a9f6-dede7a920001",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6da-d455-a9f6-dede7a920001",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
         }
       ]
     },
@@ -270,179 +161,70 @@
       "voicings": [],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_ACCOMPANIMENT",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "6805dc77766edb8509511e8b4be693c319b80efd",
-            "attributes": {},
-            "composer": [],
-            "description": "“The Unknown” from 2018 Youth Album (English, 2018-01-01).",
-            "distributionUrl": "https://assets.churchofjesuschrist.org/68/05/6805dc77766edb8509511e8b4be693c319b80efd/the_unknown.mp3",
-            "duration": 214000,
-            "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Fri Aug 01 20:17:07 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000184-0ee1-d3a5-ab95-1ffb71b60000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000184-0ee1-d3a5-ab95-1ffb71b60000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“The Unknown” from 2018 Youth Album (English, 2018-01-01).",
-            "publicDownload": [
-              "PUBLIC"
-            ],
-            "$publishDate": "Tue Oct 25 07:22:46 EDT 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“The Unknown” from 2018 Youth Album (English, 2018-01-01).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "The Unknown",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“The Unknown” from 2018 Youth Album (English, 2018-01-01).",
-            "shareableTitle": "The Unknown",
-            "title": "The Unknown",
-            "translator": []
-          },
-          "$id": "00000196-c6da-d455-a9f6-dede7ad20000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6da-d455-a9f6-dede7ad20000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+          "distributionUrl": "https://assets.churchofjesuschrist.org/68/05/6805dc77766edb8509511e8b4be693c319b80efd/the_unknown.mp3",
+          "duration": 214000,
+          "lang": "eng",
+          "title": "The Unknown",
+          "description": "“The Unknown” from 2018 Youth Album (English, 2018-01-01).",
+          "seoDescription": "“The Unknown” from 2018 Youth Album (English, 2018-01-01).",
+          "seoTitle": "The Unknown",
+          "shareableTitle": "The Unknown",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
         },
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "f41634595a0dab9a35ae81ea59539fd77f5a36bb",
-            "attributes": {},
-            "composer": [],
-            "description": "“The Unknown” from 2018 Youth Album (English, 2018-01-01).",
-            "distributionUrl": "https://assets.churchofjesuschrist.org/f4/16/f41634595a0dab9a35ae81ea59539fd77f5a36bb/2018_mutual_music_the_unknown.mp3",
-            "duration": 215000,
-            "ipCode": "9 - IRI licensed",
-            "isPartOf": [],
-            "keywords": [
-              "music",
-              "Audio",
-              "youth"
-            ],
-            "$lastUpdatedDate": "Fri Aug 01 20:19:29 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000184-0ee4-d3a5-ab95-1ffec4dd0000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000184-0ee4-d3a5-ab95-1ffec4dd0000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“The Unknown” from 2018 Youth Album (English, 2018-01-01).",
-            "publicDownload": [],
-            "$publishDate": "Tue Oct 25 07:26:24 EDT 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "reqCreditLine": "false",
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“The Unknown” from 2018 Youth Album (English, 2018-01-01).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "The Unknown",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“The Unknown” from 2018 Youth Album (English, 2018-01-01).",
-            "shareableTitle": "The Unknown",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "5ac1d5da4b74ec6e731b8117a3615fe53f347539",
-              "attributes": {},
-              "description": "2020 Mutual Theme Music Album",
-              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
+          "distributionUrl": "https://assets.churchofjesuschrist.org/f4/16/f41634595a0dab9a35ae81ea59539fd77f5a36bb/2018_mutual_music_the_unknown.mp3",
+          "duration": 215000,
+          "lang": "eng",
+          "title": "The Unknown",
+          "description": "“The Unknown” from 2018 Youth Album (English, 2018-01-01).",
+          "seoDescription": "“The Unknown” from 2018 Youth Album (English, 2018-01-01).",
+          "seoTitle": "The Unknown",
+          "shareableTitle": "The Unknown",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "2020 Mutual Theme Music Album",
+            "shareableTitle": "2020 Mutual Theme Music Album",
+            "title": "2020 Mutual Theme Music Album",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
               },
-              "ipCode": "0 - IRI Owned",
-              "isPartOf": [],
-              "keywords": [],
-              "$lastUpdatedDate": "Fri Aug 01 20:22:58 EDT 2025",
-              "locatorIds": [],
-              "noindex": false,
-              "$id": "0000016e-f22e-d642-a77f-f72e2e080000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "0000016e-f22e-d642-a77f-f72e2e080000",
-              "$site": "music",
-              "products": [],
-              "publicAltText": "Three abstract medium blue, light blue, and white rectangles decreasing in size and centered on a dark blue background.",
-              "publicDownload": [],
-              "$publishDate": "Tue Dec 10 18:39:03 EST 2019",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                  "height": 320,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                  "height": 60,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                  "height": 250,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                  "height": 200,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                  "height": 100,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                  "width": 100
-                }
-              ],
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "2020 Mutual Theme Music Album",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "2020 Mutual Theme Music Album",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "2020 Mutual Theme Music Album",
-              "shareableTitle": "2020 Mutual Theme Music Album",
-              "title": "2020 Mutual Theme Music Album"
-            },
-            "title": "The Unknown",
-            "translator": []
-          },
-          "$id": "00000196-c6da-d455-a9f6-dede7ad20001",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6da-d455-a9f6-dede7ad20001",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
         }
       ]
     },
@@ -493,179 +275,70 @@
       "voicings": [],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_ACCOMPANIMENT",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "5795705e124d235a9510c92febce926449f9f22c",
-            "attributes": {},
-            "composer": [],
-            "description": "“Change” from 2018 Youth Album (English, 2018-01-01).",
-            "distributionUrl": "https://assets.churchofjesuschrist.org/57/95/5795705e124d235a9510c92febce926449f9f22c/change.mp3",
-            "duration": 207000,
-            "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Fri Aug 01 20:17:06 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000184-0ee1-d3a5-ab95-1ffb6c440000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000184-0ee1-d3a5-ab95-1ffb6c440000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“Change” from 2018 Youth Album (English, 2018-01-01).",
-            "publicDownload": [
-              "PUBLIC"
-            ],
-            "$publishDate": "Tue Oct 25 07:22:45 EDT 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“Change” from 2018 Youth Album (English, 2018-01-01).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "Change",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“Change” from 2018 Youth Album (English, 2018-01-01).",
-            "shareableTitle": "Change",
-            "title": "Change",
-            "translator": []
-          },
-          "$id": "00000196-c6da-d455-a9f6-dede7b120000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6da-d455-a9f6-dede7b120000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+          "distributionUrl": "https://assets.churchofjesuschrist.org/57/95/5795705e124d235a9510c92febce926449f9f22c/change.mp3",
+          "duration": 207000,
+          "lang": "eng",
+          "title": "Change",
+          "description": "“Change” from 2018 Youth Album (English, 2018-01-01).",
+          "seoDescription": "“Change” from 2018 Youth Album (English, 2018-01-01).",
+          "seoTitle": "Change",
+          "shareableTitle": "Change",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
         },
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "843190070c0be7bb19cddafcefa0c36ab43fdf4e",
-            "attributes": {},
-            "composer": [],
-            "description": "“Change” from 2018 Youth Album (English, 2018-01-01).",
-            "distributionUrl": "https://assets.churchofjesuschrist.org/84/31/843190070c0be7bb19cddafcefa0c36ab43fdf4e/2018_mutual_music_change.mp3",
-            "duration": 208000,
-            "ipCode": "9 - IRI licensed",
-            "isPartOf": [],
-            "keywords": [
-              "music",
-              "Audio",
-              "youth"
-            ],
-            "$lastUpdatedDate": "Fri Aug 01 20:19:31 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000184-0ee4-d3a5-ab95-1ffecc2e0000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000184-0ee4-d3a5-ab95-1ffecc2e0000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“Change” from 2018 Youth Album (English, 2018-01-01).",
-            "publicDownload": [],
-            "$publishDate": "Tue Oct 25 07:26:26 EDT 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "reqCreditLine": "false",
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“Change” from 2018 Youth Album (English, 2018-01-01).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "Change",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“Change” from 2018 Youth Album (English, 2018-01-01).",
-            "shareableTitle": "Change",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "5ac1d5da4b74ec6e731b8117a3615fe53f347539",
-              "attributes": {},
-              "description": "2020 Mutual Theme Music Album",
-              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
+          "distributionUrl": "https://assets.churchofjesuschrist.org/84/31/843190070c0be7bb19cddafcefa0c36ab43fdf4e/2018_mutual_music_change.mp3",
+          "duration": 208000,
+          "lang": "eng",
+          "title": "Change",
+          "description": "“Change” from 2018 Youth Album (English, 2018-01-01).",
+          "seoDescription": "“Change” from 2018 Youth Album (English, 2018-01-01).",
+          "seoTitle": "Change",
+          "shareableTitle": "Change",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "2020 Mutual Theme Music Album",
+            "shareableTitle": "2020 Mutual Theme Music Album",
+            "title": "2020 Mutual Theme Music Album",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
               },
-              "ipCode": "0 - IRI Owned",
-              "isPartOf": [],
-              "keywords": [],
-              "$lastUpdatedDate": "Fri Aug 01 20:22:58 EDT 2025",
-              "locatorIds": [],
-              "noindex": false,
-              "$id": "0000016e-f22e-d642-a77f-f72e2e080000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "0000016e-f22e-d642-a77f-f72e2e080000",
-              "$site": "music",
-              "products": [],
-              "publicAltText": "Three abstract medium blue, light blue, and white rectangles decreasing in size and centered on a dark blue background.",
-              "publicDownload": [],
-              "$publishDate": "Tue Dec 10 18:39:03 EST 2019",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                  "height": 320,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                  "height": 60,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                  "height": 250,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                  "height": 200,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                  "height": 100,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                  "width": 100
-                }
-              ],
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "2020 Mutual Theme Music Album",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "2020 Mutual Theme Music Album",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "2020 Mutual Theme Music Album",
-              "shareableTitle": "2020 Mutual Theme Music Album",
-              "title": "2020 Mutual Theme Music Album"
-            },
-            "title": "Change",
-            "translator": []
-          },
-          "$id": "00000196-c6da-d455-a9f6-dede7b120001",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6da-d455-a9f6-dede7b120001",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
         }
       ]
     },
@@ -717,179 +390,70 @@
       "voicings": [],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_ACCOMPANIMENT",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "fc9655ce3a984c310a4e899917862fbd54f5433e",
-            "attributes": {},
-            "composer": [],
-            "description": "“The Body of Christ” from 2018 Youth Album (English, 2018-01-01).",
-            "distributionUrl": "https://assets.churchofjesuschrist.org/fc/96/fc9655ce3a984c310a4e899917862fbd54f5433e/the_body_of_christ.mp3",
-            "duration": 168000,
-            "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Fri Aug 01 20:17:06 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000184-0ee1-d3a5-ab95-1ffb6a820000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000184-0ee1-d3a5-ab95-1ffb6a820000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“The Body of Christ” from 2018 Youth Album (English, 2018-01-01).",
-            "publicDownload": [
-              "PUBLIC"
-            ],
-            "$publishDate": "Tue Oct 25 07:22:44 EDT 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“The Body of Christ” from 2018 Youth Album (English, 2018-01-01).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "The Body of Christ",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“The Body of Christ” from 2018 Youth Album (English, 2018-01-01).",
-            "shareableTitle": "The Body of Christ",
-            "title": "The Body of Christ",
-            "translator": []
-          },
-          "$id": "00000196-c6da-d455-a9f6-dede7b560000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6da-d455-a9f6-dede7b560000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+          "distributionUrl": "https://assets.churchofjesuschrist.org/fc/96/fc9655ce3a984c310a4e899917862fbd54f5433e/the_body_of_christ.mp3",
+          "duration": 168000,
+          "lang": "eng",
+          "title": "The Body of Christ",
+          "description": "“The Body of Christ” from 2018 Youth Album (English, 2018-01-01).",
+          "seoDescription": "“The Body of Christ” from 2018 Youth Album (English, 2018-01-01).",
+          "seoTitle": "The Body of Christ",
+          "shareableTitle": "The Body of Christ",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
         },
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "40988590bcbfbc75580e50d6ee892efb5b5913d1",
-            "attributes": {},
-            "composer": [],
-            "description": "“The Body of Christ” from 2018 Youth Album (English, 2018-01-01).",
-            "distributionUrl": "https://assets.churchofjesuschrist.org/40/98/40988590bcbfbc75580e50d6ee892efb5b5913d1/2018_mutual_music_body_of_christ.mp3",
-            "duration": 168000,
-            "ipCode": "9 - IRI licensed",
-            "isPartOf": [],
-            "keywords": [
-              "music",
-              "Audio",
-              "youth"
-            ],
-            "$lastUpdatedDate": "Fri Aug 01 20:19:27 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000184-0ee4-d3a5-ab95-1ffebd3d0000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000184-0ee4-d3a5-ab95-1ffebd3d0000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“The Body of Christ” from 2018 Youth Album (English, 2018-01-01).",
-            "publicDownload": [],
-            "$publishDate": "Tue Oct 25 07:26:22 EDT 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "reqCreditLine": "false",
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“The Body of Christ” from 2018 Youth Album (English, 2018-01-01).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "The Body of Christ",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“The Body of Christ” from 2018 Youth Album (English, 2018-01-01).",
-            "shareableTitle": "The Body of Christ",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "5ac1d5da4b74ec6e731b8117a3615fe53f347539",
-              "attributes": {},
-              "description": "2020 Mutual Theme Music Album",
-              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
+          "distributionUrl": "https://assets.churchofjesuschrist.org/40/98/40988590bcbfbc75580e50d6ee892efb5b5913d1/2018_mutual_music_body_of_christ.mp3",
+          "duration": 168000,
+          "lang": "eng",
+          "title": "The Body of Christ",
+          "description": "“The Body of Christ” from 2018 Youth Album (English, 2018-01-01).",
+          "seoDescription": "“The Body of Christ” from 2018 Youth Album (English, 2018-01-01).",
+          "seoTitle": "The Body of Christ",
+          "shareableTitle": "The Body of Christ",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "2020 Mutual Theme Music Album",
+            "shareableTitle": "2020 Mutual Theme Music Album",
+            "title": "2020 Mutual Theme Music Album",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
               },
-              "ipCode": "0 - IRI Owned",
-              "isPartOf": [],
-              "keywords": [],
-              "$lastUpdatedDate": "Fri Aug 01 20:22:58 EDT 2025",
-              "locatorIds": [],
-              "noindex": false,
-              "$id": "0000016e-f22e-d642-a77f-f72e2e080000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "0000016e-f22e-d642-a77f-f72e2e080000",
-              "$site": "music",
-              "products": [],
-              "publicAltText": "Three abstract medium blue, light blue, and white rectangles decreasing in size and centered on a dark blue background.",
-              "publicDownload": [],
-              "$publishDate": "Tue Dec 10 18:39:03 EST 2019",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                  "height": 320,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                  "height": 60,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                  "height": 250,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                  "height": 200,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                  "height": 100,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                  "width": 100
-                }
-              ],
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "2020 Mutual Theme Music Album",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "2020 Mutual Theme Music Album",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "2020 Mutual Theme Music Album",
-              "shareableTitle": "2020 Mutual Theme Music Album",
-              "title": "2020 Mutual Theme Music Album"
-            },
-            "title": "The Body of Christ",
-            "translator": []
-          },
-          "$id": "00000196-c6da-d455-a9f6-dede7b560001",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6da-d455-a9f6-dede7b560001",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
         }
       ]
     },
@@ -950,179 +514,70 @@
       "voicings": [],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_ACCOMPANIMENT",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "fe045a92641c6322e092d57517a99e259b903fc5",
-            "attributes": {},
-            "composer": [],
-            "description": "“Big or Small” from 2018 Youth Album (English, 2018-01-01).",
-            "distributionUrl": "https://assets.churchofjesuschrist.org/fe/04/fe045a92641c6322e092d57517a99e259b903fc5/big_or_small.mp3",
-            "duration": 165000,
-            "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Fri Aug 01 20:17:06 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000184-0ee1-d3a5-ab95-1ffb6e1f0000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000184-0ee1-d3a5-ab95-1ffb6e1f0000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "&ldquo;Big or Small&rdquo; from 2018 Youth Album (English, 2018-01-01).",
-            "publicDownload": [
-              "PUBLIC"
-            ],
-            "$publishDate": "Tue Oct 25 07:22:45 EDT 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“Big or Small” from 2018 Youth Album (English, 2018-01-01).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "Big or Small",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“Big or Small” from 2018 Youth Album (English, 2018-01-01).",
-            "shareableTitle": "Big or Small",
-            "title": "Big or Small",
-            "translator": []
-          },
-          "$id": "00000196-c6da-d455-a9f6-dede7b940000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6da-d455-a9f6-dede7b940000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+          "distributionUrl": "https://assets.churchofjesuschrist.org/fe/04/fe045a92641c6322e092d57517a99e259b903fc5/big_or_small.mp3",
+          "duration": 165000,
+          "lang": "eng",
+          "title": "Big or Small",
+          "description": "“Big or Small” from 2018 Youth Album (English, 2018-01-01).",
+          "seoDescription": "“Big or Small” from 2018 Youth Album (English, 2018-01-01).",
+          "seoTitle": "Big or Small",
+          "shareableTitle": "Big or Small",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
         },
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "e89956a7e988e2526faff6ba2c959f415e1b3392",
-            "attributes": {},
-            "composer": [],
-            "description": "“Big or Small” from 2018 Youth Album (English, 2018-01-01).",
-            "distributionUrl": "https://assets.churchofjesuschrist.org/e8/99/e89956a7e988e2526faff6ba2c959f415e1b3392/2018_mutual_music_big_or_small.mp3",
-            "duration": 166000,
-            "ipCode": "9 - IRI licensed",
-            "isPartOf": [],
-            "keywords": [
-              "music",
-              "Audio",
-              "youth"
-            ],
-            "$lastUpdatedDate": "Fri Aug 01 20:19:28 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000184-0ee4-d3a5-ab95-1ffec13f0000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000184-0ee4-d3a5-ab95-1ffec13f0000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "&ldquo;Big or Small&rdquo; from 2018 Youth Album (English, 2018-01-01).",
-            "publicDownload": [],
-            "$publishDate": "Tue Oct 25 07:26:23 EDT 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "reqCreditLine": "false",
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“Big or Small” from 2018 Youth Album (English, 2018-01-01).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "Big or Small",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“Big or Small” from 2018 Youth Album (English, 2018-01-01).",
-            "shareableTitle": "Big or Small",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "5ac1d5da4b74ec6e731b8117a3615fe53f347539",
-              "attributes": {},
-              "description": "2020 Mutual Theme Music Album",
-              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
+          "distributionUrl": "https://assets.churchofjesuschrist.org/e8/99/e89956a7e988e2526faff6ba2c959f415e1b3392/2018_mutual_music_big_or_small.mp3",
+          "duration": 166000,
+          "lang": "eng",
+          "title": "Big or Small",
+          "description": "“Big or Small” from 2018 Youth Album (English, 2018-01-01).",
+          "seoDescription": "“Big or Small” from 2018 Youth Album (English, 2018-01-01).",
+          "seoTitle": "Big or Small",
+          "shareableTitle": "Big or Small",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "2020 Mutual Theme Music Album",
+            "shareableTitle": "2020 Mutual Theme Music Album",
+            "title": "2020 Mutual Theme Music Album",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
               },
-              "ipCode": "0 - IRI Owned",
-              "isPartOf": [],
-              "keywords": [],
-              "$lastUpdatedDate": "Fri Aug 01 20:22:58 EDT 2025",
-              "locatorIds": [],
-              "noindex": false,
-              "$id": "0000016e-f22e-d642-a77f-f72e2e080000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "0000016e-f22e-d642-a77f-f72e2e080000",
-              "$site": "music",
-              "products": [],
-              "publicAltText": "Three abstract medium blue, light blue, and white rectangles decreasing in size and centered on a dark blue background.",
-              "publicDownload": [],
-              "$publishDate": "Tue Dec 10 18:39:03 EST 2019",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                  "height": 320,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                  "height": 60,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                  "height": 250,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                  "height": 200,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                  "height": 100,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                  "width": 100
-                }
-              ],
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "2020 Mutual Theme Music Album",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "2020 Mutual Theme Music Album",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "2020 Mutual Theme Music Album",
-              "shareableTitle": "2020 Mutual Theme Music Album",
-              "title": "2020 Mutual Theme Music Album"
-            },
-            "title": "Big or Small",
-            "translator": []
-          },
-          "$id": "00000196-c6da-d455-a9f6-dede7b940001",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6da-d455-a9f6-dede7b940001",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
         }
       ]
     },
@@ -1174,179 +629,70 @@
       "voicings": [],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_ACCOMPANIMENT",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "7837dd6f9092a52c41155dd8de3453e887a9421e",
-            "attributes": {},
-            "composer": [],
-            "description": "“Hear It from You” from 2018 Youth Album (English, 2018-01-01).",
-            "distributionUrl": "https://assets.churchofjesuschrist.org/78/37/7837dd6f9092a52c41155dd8de3453e887a9421e/hear_it_from_you.mp3",
-            "duration": 204000,
-            "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Fri Aug 01 20:17:07 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000184-0ee1-d3a5-ab95-1ffb73830000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000184-0ee1-d3a5-ab95-1ffb73830000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“Hear It from You” from 2018 Youth Album (English, 2018-01-01).",
-            "publicDownload": [
-              "PUBLIC"
-            ],
-            "$publishDate": "Tue Oct 25 07:22:47 EDT 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“Hear It from You” from 2018 Youth Album (English, 2018-01-01).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "Hear It from You",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“Hear It from You” from 2018 Youth Album (English, 2018-01-01).",
-            "shareableTitle": "Hear It from You",
-            "title": "Hear It from You",
-            "translator": []
-          },
-          "$id": "00000196-c6da-d455-a9f6-dede7bd50000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6da-d455-a9f6-dede7bd50000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+          "distributionUrl": "https://assets.churchofjesuschrist.org/78/37/7837dd6f9092a52c41155dd8de3453e887a9421e/hear_it_from_you.mp3",
+          "duration": 204000,
+          "lang": "eng",
+          "title": "Hear It from You",
+          "description": "“Hear It from You” from 2018 Youth Album (English, 2018-01-01).",
+          "seoDescription": "“Hear It from You” from 2018 Youth Album (English, 2018-01-01).",
+          "seoTitle": "Hear It from You",
+          "shareableTitle": "Hear It from You",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
         },
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "7e0926d0a71e7c8f35702584f3d93705413e914b",
-            "attributes": {},
-            "composer": [],
-            "description": "“Hear It from You” from 2018 Youth Album (English, 2018-01-01).",
-            "distributionUrl": "https://assets.churchofjesuschrist.org/7e/09/7e0926d0a71e7c8f35702584f3d93705413e914b/2018_mutual_music_hear_it_from_you.mp3",
-            "duration": 205000,
-            "ipCode": "9 - IRI licensed",
-            "isPartOf": [],
-            "keywords": [
-              "music",
-              "Audio",
-              "youth"
-            ],
-            "$lastUpdatedDate": "Fri Aug 01 20:19:29 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000184-0ee4-d3a5-ab95-1ffec3020000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000184-0ee4-d3a5-ab95-1ffec3020000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“Hear It from You” from 2018 Youth Album (English, 2018-01-01).",
-            "publicDownload": [],
-            "$publishDate": "Tue Oct 25 07:26:23 EDT 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "reqCreditLine": "false",
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“Hear It from You” from 2018 Youth Album (English, 2018-01-01).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "Hear It from You",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“Hear It from You” from 2018 Youth Album (English, 2018-01-01).",
-            "shareableTitle": "Hear It from You",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "5ac1d5da4b74ec6e731b8117a3615fe53f347539",
-              "attributes": {},
-              "description": "2020 Mutual Theme Music Album",
-              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
+          "distributionUrl": "https://assets.churchofjesuschrist.org/7e/09/7e0926d0a71e7c8f35702584f3d93705413e914b/2018_mutual_music_hear_it_from_you.mp3",
+          "duration": 205000,
+          "lang": "eng",
+          "title": "Hear It from You",
+          "description": "“Hear It from You” from 2018 Youth Album (English, 2018-01-01).",
+          "seoDescription": "“Hear It from You” from 2018 Youth Album (English, 2018-01-01).",
+          "seoTitle": "Hear It from You",
+          "shareableTitle": "Hear It from You",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "2020 Mutual Theme Music Album",
+            "shareableTitle": "2020 Mutual Theme Music Album",
+            "title": "2020 Mutual Theme Music Album",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
               },
-              "ipCode": "0 - IRI Owned",
-              "isPartOf": [],
-              "keywords": [],
-              "$lastUpdatedDate": "Fri Aug 01 20:22:58 EDT 2025",
-              "locatorIds": [],
-              "noindex": false,
-              "$id": "0000016e-f22e-d642-a77f-f72e2e080000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "0000016e-f22e-d642-a77f-f72e2e080000",
-              "$site": "music",
-              "products": [],
-              "publicAltText": "Three abstract medium blue, light blue, and white rectangles decreasing in size and centered on a dark blue background.",
-              "publicDownload": [],
-              "$publishDate": "Tue Dec 10 18:39:03 EST 2019",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                  "height": 320,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                  "height": 60,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                  "height": 250,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                  "height": 200,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                  "height": 100,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                  "width": 100
-                }
-              ],
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "2020 Mutual Theme Music Album",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "2020 Mutual Theme Music Album",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "2020 Mutual Theme Music Album",
-              "shareableTitle": "2020 Mutual Theme Music Album",
-              "title": "2020 Mutual Theme Music Album"
-            },
-            "title": "Hear It from You",
-            "translator": []
-          },
-          "$id": "00000196-c6da-d455-a9f6-dede7bd50001",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6da-d455-a9f6-dede7bd50001",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
         }
       ]
     },
@@ -1397,179 +743,70 @@
       "voicings": [],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_ACCOMPANIMENT",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "e6951e137149951d77a5bcd34fd4e04ac3447edc",
-            "attributes": {},
-            "composer": [],
-            "description": "“He Taught Us to Love” from 2018 Youth Album (English, 2018-01-01).",
-            "distributionUrl": "https://assets.churchofjesuschrist.org/e6/95/e6951e137149951d77a5bcd34fd4e04ac3447edc/he_taught_us_to_love.mp3",
-            "duration": 221000,
-            "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Fri Aug 01 20:17:34 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000184-0ee1-d3a5-ab95-1ffb810b0000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000184-0ee1-d3a5-ab95-1ffb810b0000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“He Taught Us to Love” from 2018 Youth Album (English, 2018-01-01).",
-            "publicDownload": [
-              "PUBLIC"
-            ],
-            "$publishDate": "Tue Oct 25 07:22:50 EDT 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“He Taught Us to Love” from 2018 Youth Album (English, 2018-01-01).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "He Taught Us to Love",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“He Taught Us to Love” from 2018 Youth Album (English, 2018-01-01).",
-            "shareableTitle": "He Taught Us to Love",
-            "title": "He Taught Us to Love",
-            "translator": []
-          },
-          "$id": "00000196-c6da-d455-a9f6-dede7c150000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6da-d455-a9f6-dede7c150000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+          "distributionUrl": "https://assets.churchofjesuschrist.org/e6/95/e6951e137149951d77a5bcd34fd4e04ac3447edc/he_taught_us_to_love.mp3",
+          "duration": 221000,
+          "lang": "eng",
+          "title": "He Taught Us to Love",
+          "description": "“He Taught Us to Love” from 2018 Youth Album (English, 2018-01-01).",
+          "seoDescription": "“He Taught Us to Love” from 2018 Youth Album (English, 2018-01-01).",
+          "seoTitle": "He Taught Us to Love",
+          "shareableTitle": "He Taught Us to Love",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
         },
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "5ac23d77af58c9d33ea97997bc5c98b024c6e5c2",
-            "attributes": {},
-            "composer": [],
-            "description": "“He Taught Us to Love” from 2018 Youth Album (English, 2018-01-01).",
-            "distributionUrl": "https://assets.churchofjesuschrist.org/5a/c2/5ac23d77af58c9d33ea97997bc5c98b024c6e5c2/2018_mutual_music_he_taught_us_to_love.mp3",
-            "duration": 222000,
-            "ipCode": "9 - IRI licensed",
-            "isPartOf": [],
-            "keywords": [
-              "music",
-              "Audio",
-              "youth"
-            ],
-            "$lastUpdatedDate": "Fri Aug 01 20:19:30 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000184-0ee4-d3a5-ab95-1ffec8860000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000184-0ee4-d3a5-ab95-1ffec8860000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“He Taught Us to Love” from 2018 Youth Album (English, 2018-01-01).",
-            "publicDownload": [],
-            "$publishDate": "Tue Oct 25 07:26:25 EDT 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "reqCreditLine": "false",
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“He Taught Us to Love” from 2018 Youth Album (English, 2018-01-01).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "He Taught Us to Love",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“He Taught Us to Love” from 2018 Youth Album (English, 2018-01-01).",
-            "shareableTitle": "He Taught Us to Love",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "5ac1d5da4b74ec6e731b8117a3615fe53f347539",
-              "attributes": {},
-              "description": "2020 Mutual Theme Music Album",
-              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
+          "distributionUrl": "https://assets.churchofjesuschrist.org/5a/c2/5ac23d77af58c9d33ea97997bc5c98b024c6e5c2/2018_mutual_music_he_taught_us_to_love.mp3",
+          "duration": 222000,
+          "lang": "eng",
+          "title": "He Taught Us to Love",
+          "description": "“He Taught Us to Love” from 2018 Youth Album (English, 2018-01-01).",
+          "seoDescription": "“He Taught Us to Love” from 2018 Youth Album (English, 2018-01-01).",
+          "seoTitle": "He Taught Us to Love",
+          "shareableTitle": "He Taught Us to Love",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "2020 Mutual Theme Music Album",
+            "shareableTitle": "2020 Mutual Theme Music Album",
+            "title": "2020 Mutual Theme Music Album",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
               },
-              "ipCode": "0 - IRI Owned",
-              "isPartOf": [],
-              "keywords": [],
-              "$lastUpdatedDate": "Fri Aug 01 20:22:58 EDT 2025",
-              "locatorIds": [],
-              "noindex": false,
-              "$id": "0000016e-f22e-d642-a77f-f72e2e080000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "0000016e-f22e-d642-a77f-f72e2e080000",
-              "$site": "music",
-              "products": [],
-              "publicAltText": "Three abstract medium blue, light blue, and white rectangles decreasing in size and centered on a dark blue background.",
-              "publicDownload": [],
-              "$publishDate": "Tue Dec 10 18:39:03 EST 2019",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                  "height": 320,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                  "height": 60,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                  "height": 250,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                  "height": 200,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                  "height": 100,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                  "width": 100
-                }
-              ],
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "2020 Mutual Theme Music Album",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "2020 Mutual Theme Music Album",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "2020 Mutual Theme Music Album",
-              "shareableTitle": "2020 Mutual Theme Music Album",
-              "title": "2020 Mutual Theme Music Album"
-            },
-            "title": "He Taught Us to Love",
-            "translator": []
-          },
-          "$id": "00000196-c6da-d455-a9f6-dede7c150001",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6da-d455-a9f6-dede7c150001",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
         }
       ]
     },
@@ -1623,180 +860,70 @@
       "voicings": [],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_ACCOMPANIMENT",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "94d3524b568b6177bba0808cd936215c16fb6cad",
-            "attributes": {},
-            "composer": [],
-            "description": "“I Will Follow Him” from 2018 Youth Album (English, 2018-01-01).",
-            "distributionUrl": "https://assets.churchofjesuschrist.org/94/d3/94d3524b568b6177bba0808cd936215c16fb6cad/i_will_follow_him.mp3",
-            "duration": 164000,
-            "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Fri Aug 01 20:17:35 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000184-0ee1-d3a5-ab95-1ffb9a7d0000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000184-0ee1-d3a5-ab95-1ffb9a7d0000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“I Will Follow Him” from 2018 Youth Album (English, 2018-01-01).",
-            "publicDownload": [
-              "PUBLIC"
-            ],
-            "$publishDate": "Tue Oct 25 07:22:57 EDT 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“I Will Follow Him” from 2018 Youth Album (English, 2018-01-01).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "I Will Follow Him",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“I Will Follow Him” from 2018 Youth Album (English, 2018-01-01).",
-            "shareableTitle": "I Will Follow Him",
-            "title": "I Will Follow Him",
-            "translator": []
-          },
-          "$id": "00000196-c6da-d455-a9f6-dede7c580000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6da-d455-a9f6-dede7c580000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+          "distributionUrl": "https://assets.churchofjesuschrist.org/94/d3/94d3524b568b6177bba0808cd936215c16fb6cad/i_will_follow_him.mp3",
+          "duration": 164000,
+          "lang": "eng",
+          "title": "I Will Follow Him",
+          "description": "“I Will Follow Him” from 2018 Youth Album (English, 2018-01-01).",
+          "seoDescription": "“I Will Follow Him” from 2018 Youth Album (English, 2018-01-01).",
+          "seoTitle": "I Will Follow Him",
+          "shareableTitle": "I Will Follow Him",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
         },
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "717780e17d342c31a152306388e6e89fb07404e1",
-            "attributes": {},
-            "composer": [],
-            "description": "“I Will Follow Him” from 2018 Youth Album (English, 2018-01-01).",
-            "distributionUrl": "https://assets.churchofjesuschrist.org/71/77/717780e17d342c31a152306388e6e89fb07404e1/2018_mutual_music_i_will_follow_him.mp3",
-            "duration": 165000,
-            "ipCode": "9 - IRI licensed",
-            "isPartOf": [],
-            "keywords": [
-              "music",
-              "Audio",
-              "youth"
-            ],
-            "$lastUpdatedDate": "Fri Aug 01 20:19:27 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$owningSite": "gospel-living",
-            "$id": "00000172-7b53-d735-a372-7f7f7fee0000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000172-7b53-d735-a372-7f7f7fee0000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“I Will Follow Him” from 2018 Youth Album (English, 2018-01-01).",
-            "publicDownload": [],
-            "$publishDate": "Wed Jun 03 13:56:09 EDT 2020",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "reqCreditLine": "false",
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“I Will Follow Him” from 2018 Youth Album (English, 2018-01-01).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "I Will Follow Him",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“I Will Follow Him” from 2018 Youth Album (English, 2018-01-01).",
-            "shareableTitle": "I Will Follow Him",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "5ac1d5da4b74ec6e731b8117a3615fe53f347539",
-              "attributes": {},
-              "description": "2020 Mutual Theme Music Album",
-              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
+          "distributionUrl": "https://assets.churchofjesuschrist.org/71/77/717780e17d342c31a152306388e6e89fb07404e1/2018_mutual_music_i_will_follow_him.mp3",
+          "duration": 165000,
+          "lang": "eng",
+          "title": "I Will Follow Him",
+          "description": "“I Will Follow Him” from 2018 Youth Album (English, 2018-01-01).",
+          "seoDescription": "“I Will Follow Him” from 2018 Youth Album (English, 2018-01-01).",
+          "seoTitle": "I Will Follow Him",
+          "shareableTitle": "I Will Follow Him",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "2020 Mutual Theme Music Album",
+            "shareableTitle": "2020 Mutual Theme Music Album",
+            "title": "2020 Mutual Theme Music Album",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
               },
-              "ipCode": "0 - IRI Owned",
-              "isPartOf": [],
-              "keywords": [],
-              "$lastUpdatedDate": "Fri Aug 01 20:22:58 EDT 2025",
-              "locatorIds": [],
-              "noindex": false,
-              "$id": "0000016e-f22e-d642-a77f-f72e2e080000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "0000016e-f22e-d642-a77f-f72e2e080000",
-              "$site": "music",
-              "products": [],
-              "publicAltText": "Three abstract medium blue, light blue, and white rectangles decreasing in size and centered on a dark blue background.",
-              "publicDownload": [],
-              "$publishDate": "Tue Dec 10 18:39:03 EST 2019",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                  "height": 320,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                  "height": 60,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                  "height": 250,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                  "height": 200,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                  "height": 100,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                  "width": 100
-                }
-              ],
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "2020 Mutual Theme Music Album",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "2020 Mutual Theme Music Album",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "2020 Mutual Theme Music Album",
-              "shareableTitle": "2020 Mutual Theme Music Album",
-              "title": "2020 Mutual Theme Music Album"
-            },
-            "title": "I Will Follow Him",
-            "translator": []
-          },
-          "$id": "00000196-c6da-d455-a9f6-dede7c580001",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6da-d455-a9f6-dede7c580001",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
         }
       ]
     },
@@ -1852,179 +979,70 @@
       "voicings": [],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_ACCOMPANIMENT",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "c87df682311eec4f840c475035b201ee75e32301",
-            "attributes": {},
-            "composer": [],
-            "description": "“Empty” from 2018 Youth Album (English, 2018-01-01).",
-            "distributionUrl": "https://assets.churchofjesuschrist.org/c8/7d/c87df682311eec4f840c475035b201ee75e32301/empty.mp3",
-            "duration": 222000,
-            "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Fri Aug 01 20:17:33 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000184-0ee1-d3a5-ab95-1ffb7d650000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000184-0ee1-d3a5-ab95-1ffb7d650000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“Empty” from 2018 Youth Album (English, 2018-01-01).",
-            "publicDownload": [
-              "PUBLIC"
-            ],
-            "$publishDate": "Tue Oct 25 07:22:49 EDT 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“Empty” from 2018 Youth Album (English, 2018-01-01).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "Empty",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“Empty” from 2018 Youth Album (English, 2018-01-01).",
-            "shareableTitle": "Empty",
-            "title": "Empty",
-            "translator": []
-          },
-          "$id": "00000196-c6da-d455-a9f6-dede7c990000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6da-d455-a9f6-dede7c990000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+          "distributionUrl": "https://assets.churchofjesuschrist.org/c8/7d/c87df682311eec4f840c475035b201ee75e32301/empty.mp3",
+          "duration": 222000,
+          "lang": "eng",
+          "title": "Empty",
+          "description": "“Empty” from 2018 Youth Album (English, 2018-01-01).",
+          "seoDescription": "“Empty” from 2018 Youth Album (English, 2018-01-01).",
+          "seoTitle": "Empty",
+          "shareableTitle": "Empty",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
         },
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "d76778e0c6fac536816331d211155ba78f9747e6",
-            "attributes": {},
-            "composer": [],
-            "description": "“Empty” from 2018 Youth Album (English, 2018-01-01).",
-            "distributionUrl": "https://assets.churchofjesuschrist.org/d7/67/d76778e0c6fac536816331d211155ba78f9747e6/2018_mutual_music_empty.mp3",
-            "duration": 223000,
-            "ipCode": "9 - IRI licensed",
-            "isPartOf": [],
-            "keywords": [
-              "music",
-              "Audio",
-              "youth"
-            ],
-            "$lastUpdatedDate": "Fri Aug 01 20:19:30 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000184-0ee4-d3a5-ab95-1ffeca6a0000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000184-0ee4-d3a5-ab95-1ffeca6a0000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“Empty” from 2018 Youth Album (English, 2018-01-01).",
-            "publicDownload": [],
-            "$publishDate": "Tue Oct 25 07:26:25 EDT 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "reqCreditLine": "false",
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“Empty” from 2018 Youth Album (English, 2018-01-01).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "Empty",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“Empty” from 2018 Youth Album (English, 2018-01-01).",
-            "shareableTitle": "Empty",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "5ac1d5da4b74ec6e731b8117a3615fe53f347539",
-              "attributes": {},
-              "description": "2020 Mutual Theme Music Album",
-              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
+          "distributionUrl": "https://assets.churchofjesuschrist.org/d7/67/d76778e0c6fac536816331d211155ba78f9747e6/2018_mutual_music_empty.mp3",
+          "duration": 223000,
+          "lang": "eng",
+          "title": "Empty",
+          "description": "“Empty” from 2018 Youth Album (English, 2018-01-01).",
+          "seoDescription": "“Empty” from 2018 Youth Album (English, 2018-01-01).",
+          "seoTitle": "Empty",
+          "shareableTitle": "Empty",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "2020 Mutual Theme Music Album",
+            "shareableTitle": "2020 Mutual Theme Music Album",
+            "title": "2020 Mutual Theme Music Album",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
               },
-              "ipCode": "0 - IRI Owned",
-              "isPartOf": [],
-              "keywords": [],
-              "$lastUpdatedDate": "Fri Aug 01 20:22:58 EDT 2025",
-              "locatorIds": [],
-              "noindex": false,
-              "$id": "0000016e-f22e-d642-a77f-f72e2e080000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "0000016e-f22e-d642-a77f-f72e2e080000",
-              "$site": "music",
-              "products": [],
-              "publicAltText": "Three abstract medium blue, light blue, and white rectangles decreasing in size and centered on a dark blue background.",
-              "publicDownload": [],
-              "$publishDate": "Tue Dec 10 18:39:03 EST 2019",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                  "height": 320,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                  "height": 60,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                  "height": 250,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                  "height": 200,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                  "height": 100,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                  "width": 100
-                }
-              ],
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "2020 Mutual Theme Music Album",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "2020 Mutual Theme Music Album",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "2020 Mutual Theme Music Album",
-              "shareableTitle": "2020 Mutual Theme Music Album",
-              "title": "2020 Mutual Theme Music Album"
-            },
-            "title": "Empty",
-            "translator": []
-          },
-          "$id": "00000196-c6da-d455-a9f6-dede7c990001",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6da-d455-a9f6-dede7c990001",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
         }
       ]
     },
@@ -2074,180 +1092,70 @@
       "voicings": [],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_ACCOMPANIMENT",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "ee1cc6c1b9e50309527e20fd7c96be874fff939f",
-            "attributes": {},
-            "composer": [],
-            "description": "“Like a Child” from 2018 Youth Album (English, 2018-01-01).",
-            "distributionUrl": "https://assets.churchofjesuschrist.org/ee/1c/ee1cc6c1b9e50309527e20fd7c96be874fff939f/like_a_child.mp3",
-            "duration": 203000,
-            "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Fri Aug 01 20:17:32 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000184-0ee1-d3a5-ab95-1ffb796a0000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000184-0ee1-d3a5-ab95-1ffb796a0000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“Like a Child” from 2018 Youth Album (English, 2018-01-01).",
-            "publicDownload": [
-              "PUBLIC"
-            ],
-            "$publishDate": "Tue Oct 25 07:22:48 EDT 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“Like a Child” from 2018 Youth Album (English, 2018-01-01).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "Like a Child",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“Like a Child” from 2018 Youth Album (English, 2018-01-01).",
-            "shareableTitle": "Like a Child",
-            "title": "Like a Child",
-            "translator": []
-          },
-          "$id": "00000196-c6da-d455-a9f6-dede7ccf0000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6da-d455-a9f6-dede7ccf0000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+          "distributionUrl": "https://assets.churchofjesuschrist.org/ee/1c/ee1cc6c1b9e50309527e20fd7c96be874fff939f/like_a_child.mp3",
+          "duration": 203000,
+          "lang": "eng",
+          "title": "Like a Child",
+          "description": "“Like a Child” from 2018 Youth Album (English, 2018-01-01).",
+          "seoDescription": "“Like a Child” from 2018 Youth Album (English, 2018-01-01).",
+          "seoTitle": "Like a Child",
+          "shareableTitle": "Like a Child",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
         },
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "5da61df35790acd93207999b569c3797a81c25f5",
-            "attributes": {},
-            "composer": [],
-            "description": "“Like a Child” from 2018 Youth Album (English, 2018-01-01).",
-            "distributionUrl": "https://assets.churchofjesuschrist.org/5d/a6/5da61df35790acd93207999b569c3797a81c25f5/2018_mutual_music_like_a_child.mp3",
-            "duration": 204000,
-            "ipCode": "9 - IRI licensed",
-            "isPartOf": [],
-            "keywords": [
-              "music",
-              "Audio",
-              "youth"
-            ],
-            "$lastUpdatedDate": "Fri Aug 01 20:19:31 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$owningSite": "gospel-living",
-            "$id": "00000173-0b10-dfde-a17f-6f911dfb0000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000173-0b10-dfde-a17f-6f911dfb0000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“Like a Child” from 2018 Youth Album (English, 2018-01-01).",
-            "publicDownload": [],
-            "$publishDate": "Wed Jul 01 11:47:52 EDT 2020",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "reqCreditLine": "false",
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“Like a Child” from 2018 Youth Album (English, 2018-01-01).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "Like a Child",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“Like a Child” from 2018 Youth Album (English, 2018-01-01).",
-            "shareableTitle": "Like a Child",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "5ac1d5da4b74ec6e731b8117a3615fe53f347539",
-              "attributes": {},
-              "description": "2020 Mutual Theme Music Album",
-              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
+          "distributionUrl": "https://assets.churchofjesuschrist.org/5d/a6/5da61df35790acd93207999b569c3797a81c25f5/2018_mutual_music_like_a_child.mp3",
+          "duration": 204000,
+          "lang": "eng",
+          "title": "Like a Child",
+          "description": "“Like a Child” from 2018 Youth Album (English, 2018-01-01).",
+          "seoDescription": "“Like a Child” from 2018 Youth Album (English, 2018-01-01).",
+          "seoTitle": "Like a Child",
+          "shareableTitle": "Like a Child",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "2020 Mutual Theme Music Album",
+            "shareableTitle": "2020 Mutual Theme Music Album",
+            "title": "2020 Mutual Theme Music Album",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
               },
-              "ipCode": "0 - IRI Owned",
-              "isPartOf": [],
-              "keywords": [],
-              "$lastUpdatedDate": "Fri Aug 01 20:22:58 EDT 2025",
-              "locatorIds": [],
-              "noindex": false,
-              "$id": "0000016e-f22e-d642-a77f-f72e2e080000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "0000016e-f22e-d642-a77f-f72e2e080000",
-              "$site": "music",
-              "products": [],
-              "publicAltText": "Three abstract medium blue, light blue, and white rectangles decreasing in size and centered on a dark blue background.",
-              "publicDownload": [],
-              "$publishDate": "Tue Dec 10 18:39:03 EST 2019",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                  "height": 320,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                  "height": 60,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                  "height": 250,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                  "height": 200,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                  "height": 100,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                  "width": 100
-                }
-              ],
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "2020 Mutual Theme Music Album",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "2020 Mutual Theme Music Album",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "2020 Mutual Theme Music Album",
-              "shareableTitle": "2020 Mutual Theme Music Album",
-              "title": "2020 Mutual Theme Music Album"
-            },
-            "title": "Like a Child",
-            "translator": []
-          },
-          "$id": "00000196-c6da-d455-a9f6-dede7ccf0001",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6da-d455-a9f6-dede7ccf0001",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
         }
       ]
     },
@@ -2298,180 +1206,70 @@
       "voicings": [],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_ACCOMPANIMENT",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "e851f097d7629e08e51e30eba4635e0f6a528ca3",
-            "attributes": {},
-            "composer": [],
-            "description": "“Strong” from 2018 Youth Album (English, 2018-01-01).",
-            "distributionUrl": "https://assets.churchofjesuschrist.org/e8/51/e851f097d7629e08e51e30eba4635e0f6a528ca3/strong.mp3",
-            "duration": 186000,
-            "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Fri Aug 01 20:17:32 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000184-0ee1-d3a5-ab95-1ffb77690000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000184-0ee1-d3a5-ab95-1ffb77690000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“Strong” from 2018 Youth Album (English, 2018-01-01).",
-            "publicDownload": [
-              "PUBLIC"
-            ],
-            "$publishDate": "Tue Oct 25 07:22:48 EDT 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“Strong” from 2018 Youth Album (English, 2018-01-01).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "Strong",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“Strong” from 2018 Youth Album (English, 2018-01-01).",
-            "shareableTitle": "Strong",
-            "title": "Strong",
-            "translator": []
-          },
-          "$id": "00000196-c6da-d455-a9f6-dede7d0a0000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6da-d455-a9f6-dede7d0a0000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+          "distributionUrl": "https://assets.churchofjesuschrist.org/e8/51/e851f097d7629e08e51e30eba4635e0f6a528ca3/strong.mp3",
+          "duration": 186000,
+          "lang": "eng",
+          "title": "Strong",
+          "description": "“Strong” from 2018 Youth Album (English, 2018-01-01).",
+          "seoDescription": "“Strong” from 2018 Youth Album (English, 2018-01-01).",
+          "seoTitle": "Strong",
+          "shareableTitle": "Strong",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
         },
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "ef00b0f63ac75371fc12c294321a62fd0eacb866",
-            "attributes": {},
-            "composer": [],
-            "description": "“Strong” from 2018 Youth Album (English, 2018-01-01).",
-            "distributionUrl": "https://assets.churchofjesuschrist.org/ef/00/ef00b0f63ac75371fc12c294321a62fd0eacb866/2018_mutual_music_strong.mp3",
-            "duration": 187000,
-            "ipCode": "9 - IRI licensed",
-            "isPartOf": [],
-            "keywords": [
-              "music",
-              "Audio",
-              "youth"
-            ],
-            "$lastUpdatedDate": "Fri Aug 01 20:19:28 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$owningSite": "gospel-living",
-            "$id": "00000174-0a6c-d7fc-abff-3b6d8a490000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000174-0a6c-d7fc-abff-3b6d8a490000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“Strong” from 2018 Youth Album (English, 2018-01-01).",
-            "publicDownload": [],
-            "$publishDate": "Thu Aug 20 01:51:59 EDT 2020",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "reqCreditLine": "false",
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“Strong” from 2018 Youth Album (English, 2018-01-01).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "Strong",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“Strong” from 2018 Youth Album (English, 2018-01-01).",
-            "shareableTitle": "Strong",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "5ac1d5da4b74ec6e731b8117a3615fe53f347539",
-              "attributes": {},
-              "description": "2020 Mutual Theme Music Album",
-              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
+          "distributionUrl": "https://assets.churchofjesuschrist.org/ef/00/ef00b0f63ac75371fc12c294321a62fd0eacb866/2018_mutual_music_strong.mp3",
+          "duration": 187000,
+          "lang": "eng",
+          "title": "Strong",
+          "description": "“Strong” from 2018 Youth Album (English, 2018-01-01).",
+          "seoDescription": "“Strong” from 2018 Youth Album (English, 2018-01-01).",
+          "seoTitle": "Strong",
+          "shareableTitle": "Strong",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "2020 Mutual Theme Music Album",
+            "shareableTitle": "2020 Mutual Theme Music Album",
+            "title": "2020 Mutual Theme Music Album",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
               },
-              "ipCode": "0 - IRI Owned",
-              "isPartOf": [],
-              "keywords": [],
-              "$lastUpdatedDate": "Fri Aug 01 20:22:58 EDT 2025",
-              "locatorIds": [],
-              "noindex": false,
-              "$id": "0000016e-f22e-d642-a77f-f72e2e080000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "0000016e-f22e-d642-a77f-f72e2e080000",
-              "$site": "music",
-              "products": [],
-              "publicAltText": "Three abstract medium blue, light blue, and white rectangles decreasing in size and centered on a dark blue background.",
-              "publicDownload": [],
-              "$publishDate": "Tue Dec 10 18:39:03 EST 2019",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                  "height": 320,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                  "height": 60,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                  "height": 250,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                  "height": 200,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                  "height": 100,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                  "width": 100
-                }
-              ],
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "2020 Mutual Theme Music Album",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "2020 Mutual Theme Music Album",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "2020 Mutual Theme Music Album",
-              "shareableTitle": "2020 Mutual Theme Music Album",
-              "title": "2020 Mutual Theme Music Album"
-            },
-            "title": "Strong",
-            "translator": []
-          },
-          "$id": "00000196-c6da-d455-a9f6-dede7d0a0001",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6da-d455-a9f6-dede7d0a0001",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
         }
       ]
     },
@@ -2523,179 +1321,70 @@
       "voicings": [],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_ACCOMPANIMENT",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "cd10866aef2a3874138d7d7498274bf3c9aa98a4",
-            "attributes": {},
-            "composer": [],
-            "description": "“Peace in Christ” (Male Version) from 2018 Youth Album (English, 2018-01-01).",
-            "distributionUrl": "https://assets.churchofjesuschrist.org/cd/10/cd10866aef2a3874138d7d7498274bf3c9aa98a4/peace_in_christ.mp3",
-            "duration": 218000,
-            "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Fri Aug 01 20:17:32 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000184-0ee1-d3a5-ab95-1ffb7b680000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000184-0ee1-d3a5-ab95-1ffb7b680000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“Peace in Christ” (Male Version) from 2018 Youth Album (English, 2018-01-01).",
-            "publicDownload": [
-              "PUBLIC"
-            ],
-            "$publishDate": "Tue Oct 25 07:22:49 EDT 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“Peace in Christ” (Male Version) from 2018 Youth Album (English, 2018-01-01).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "Peace in Christ",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“Peace in Christ” (Male Version) from 2018 Youth Album (English, 2018-01-01).",
-            "shareableTitle": "Peace in Christ",
-            "title": "Peace in Christ",
-            "translator": []
-          },
-          "$id": "00000196-c6da-d455-a9f6-dede7d490000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6da-d455-a9f6-dede7d490000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+          "distributionUrl": "https://assets.churchofjesuschrist.org/cd/10/cd10866aef2a3874138d7d7498274bf3c9aa98a4/peace_in_christ.mp3",
+          "duration": 218000,
+          "lang": "eng",
+          "title": "Peace in Christ",
+          "description": "“Peace in Christ” (Male Version) from 2018 Youth Album (English, 2018-01-01).",
+          "seoDescription": "“Peace in Christ” (Male Version) from 2018 Youth Album (English, 2018-01-01).",
+          "seoTitle": "Peace in Christ",
+          "shareableTitle": "Peace in Christ",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
         },
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "896c47f7ce54f1734857ba02323c31ec2d81488e",
-            "attributes": {},
-            "composer": [],
-            "description": "“Peace in Christ” (Male Version) from 2018 Youth Album (English, 2018-01-01).",
-            "distributionUrl": "https://assets.churchofjesuschrist.org/89/6c/896c47f7ce54f1734857ba02323c31ec2d81488e/2018_mutual_music_peace_in_christ_male.mp3",
-            "duration": 219000,
-            "ipCode": "9 - IRI licensed",
-            "isPartOf": [],
-            "keywords": [
-              "music",
-              "Audio",
-              "youth"
-            ],
-            "$lastUpdatedDate": "Fri Aug 01 20:19:30 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000184-0ee4-d3a5-ab95-1ffec6b10000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000184-0ee4-d3a5-ab95-1ffec6b10000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“Peace in Christ” (Male Version) from 2018 Youth Album (English, 2018-01-01).",
-            "publicDownload": [],
-            "$publishDate": "Tue Oct 25 07:26:24 EDT 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "reqCreditLine": "false",
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“Peace in Christ” (Male Version) from 2018 Youth Album (English, 2018-01-01).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "Peace in Christ",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“Peace in Christ” (Male Version) from 2018 Youth Album (English, 2018-01-01).",
-            "shareableTitle": "Peace in Christ",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "5ac1d5da4b74ec6e731b8117a3615fe53f347539",
-              "attributes": {},
-              "description": "2020 Mutual Theme Music Album",
-              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
+          "distributionUrl": "https://assets.churchofjesuschrist.org/89/6c/896c47f7ce54f1734857ba02323c31ec2d81488e/2018_mutual_music_peace_in_christ_male.mp3",
+          "duration": 219000,
+          "lang": "eng",
+          "title": "Peace in Christ",
+          "description": "“Peace in Christ” (Male Version) from 2018 Youth Album (English, 2018-01-01).",
+          "seoDescription": "“Peace in Christ” (Male Version) from 2018 Youth Album (English, 2018-01-01).",
+          "seoTitle": "Peace in Christ",
+          "shareableTitle": "Peace in Christ",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "2020 Mutual Theme Music Album",
+            "shareableTitle": "2020 Mutual Theme Music Album",
+            "title": "2020 Mutual Theme Music Album",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
               },
-              "ipCode": "0 - IRI Owned",
-              "isPartOf": [],
-              "keywords": [],
-              "$lastUpdatedDate": "Fri Aug 01 20:22:58 EDT 2025",
-              "locatorIds": [],
-              "noindex": false,
-              "$id": "0000016e-f22e-d642-a77f-f72e2e080000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "0000016e-f22e-d642-a77f-f72e2e080000",
-              "$site": "music",
-              "products": [],
-              "publicAltText": "Three abstract medium blue, light blue, and white rectangles decreasing in size and centered on a dark blue background.",
-              "publicDownload": [],
-              "$publishDate": "Tue Dec 10 18:39:03 EST 2019",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                  "height": 320,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                  "height": 60,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                  "height": 250,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                  "height": 200,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                  "height": 100,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                  "width": 100
-                }
-              ],
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "2020 Mutual Theme Music Album",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "2020 Mutual Theme Music Album",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "2020 Mutual Theme Music Album",
-              "shareableTitle": "2020 Mutual Theme Music Album",
-              "title": "2020 Mutual Theme Music Album"
-            },
-            "title": "Peace in Christ",
-            "translator": []
-          },
-          "$id": "00000196-c6da-d455-a9f6-dede7d490001",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6da-d455-a9f6-dede7d490001",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
         }
       ]
     }

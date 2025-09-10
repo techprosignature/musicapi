@@ -44,175 +44,70 @@
       "voicings": [],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_ACCOMPANIMENT",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "b2027a6590e741703361bb46b03ee9205b4f182c",
-            "attributes": {},
-            "composer": [],
-            "description": "“Embark” from 2015 Youth Album (English, 2015-01-01).",
-            "distributionUrl": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-101-embark-minus-track-256k-eng.mp3",
-            "duration": 204000,
-            "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Fri Aug 01 20:16:03 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000184-0ee0-d3a5-ab95-1ffa8d440000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000184-0ee0-d3a5-ab95-1ffa8d440000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“Embark” from 2015 Youth Album (English, 2015-01-01).",
-            "publicDownload": [
-              "PUBLIC"
-            ],
-            "$publishDate": "Tue Oct 25 07:21:48 EDT 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“Embark” from 2015 Youth Album (English, 2015-01-01).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "Embark",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“Embark” from 2015 Youth Album (English, 2015-01-01).",
-            "shareableTitle": "Embark",
-            "title": "Embark",
-            "translator": []
-          },
-          "$id": "00000196-c6d8-d455-a9f6-dedcc8520000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6d8-d455-a9f6-dedcc8520000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-101-embark-minus-track-256k-eng.mp3",
+          "duration": 204000,
+          "lang": "eng",
+          "title": "Embark",
+          "description": "“Embark” from 2015 Youth Album (English, 2015-01-01).",
+          "seoDescription": "“Embark” from 2015 Youth Album (English, 2015-01-01).",
+          "seoTitle": "Embark",
+          "shareableTitle": "Embark",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
         },
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "d74ef6312e87362d71b914a1515e994dd2fdf0a6",
-            "attributes": {},
-            "composer": [],
-            "description": "“Embark” from 2015 Youth Album (English, 2015-01-01).",
-            "distributionUrl": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-001-embark-256k-eng.mp3",
-            "duration": 239000,
-            "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Fri Aug 01 20:22:02 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "0000017a-200a-dc58-a5ff-e03b3e1f0000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "0000017a-200a-dc58-a5ff-e03b3e1f0000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“Embark” from 2015 Youth Album (English, 2015-01-01).",
-            "publicDownload": [
-              "PUBLIC"
-            ],
-            "$publishDate": "Fri Jun 18 12:53:00 EDT 2021",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“Embark” from 2015 Youth Album (English, 2015-01-01).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "Embark",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“Embark” from 2015 Youth Album (English, 2015-01-01).",
-            "shareableTitle": "Embark",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "5ac1d5da4b74ec6e731b8117a3615fe53f347539",
-              "attributes": {},
-              "description": "2020 Mutual Theme Music Album",
-              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-001-embark-256k-eng.mp3",
+          "duration": 239000,
+          "lang": "eng",
+          "title": "Embark",
+          "description": "“Embark” from 2015 Youth Album (English, 2015-01-01).",
+          "seoDescription": "“Embark” from 2015 Youth Album (English, 2015-01-01).",
+          "seoTitle": "Embark",
+          "shareableTitle": "Embark",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "2020 Mutual Theme Music Album",
+            "shareableTitle": "2020 Mutual Theme Music Album",
+            "title": "2020 Mutual Theme Music Album",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
               },
-              "ipCode": "0 - IRI Owned",
-              "isPartOf": [],
-              "keywords": [],
-              "$lastUpdatedDate": "Fri Aug 01 20:22:58 EDT 2025",
-              "locatorIds": [],
-              "noindex": false,
-              "$id": "0000016e-f22e-d642-a77f-f72e2e080000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "0000016e-f22e-d642-a77f-f72e2e080000",
-              "$site": "music",
-              "products": [],
-              "publicAltText": "Three abstract medium blue, light blue, and white rectangles decreasing in size and centered on a dark blue background.",
-              "publicDownload": [],
-              "$publishDate": "Tue Dec 10 18:39:03 EST 2019",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                  "height": 320,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                  "height": 60,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                  "height": 250,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                  "height": 200,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                  "height": 100,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                  "width": 100
-                }
-              ],
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "2020 Mutual Theme Music Album",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "2020 Mutual Theme Music Album",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "2020 Mutual Theme Music Album",
-              "shareableTitle": "2020 Mutual Theme Music Album",
-              "title": "2020 Mutual Theme Music Album"
-            },
-            "title": "Embark",
-            "translator": []
-          },
-          "$id": "00000196-c6d8-d455-a9f6-dedcc8520001",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6d8-d455-a9f6-dedcc8520001",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
         }
       ]
     },
@@ -265,175 +160,70 @@
       "voicings": [],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_ACCOMPANIMENT",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "e2b498e61957552a182d40c6fa24a461affa204a",
-            "attributes": {},
-            "composer": [],
-            "description": "“Closer” from 2015 Youth Album (English, 2015-01-01).",
-            "distributionUrl": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-102-closer-minus-track-256k-eng.mp3",
-            "duration": 222000,
-            "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Fri Aug 01 20:16:02 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000184-0ee0-d3a5-ab95-1ffa8b790000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000184-0ee0-d3a5-ab95-1ffa8b790000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“Closer” from 2015 Youth Album (English, 2015-01-01).",
-            "publicDownload": [
-              "PUBLIC"
-            ],
-            "$publishDate": "Tue Oct 25 07:21:47 EDT 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“Closer” from 2015 Youth Album (English, 2015-01-01).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "Closer",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“Closer” from 2015 Youth Album (English, 2015-01-01).",
-            "shareableTitle": "Closer",
-            "title": "Closer",
-            "translator": []
-          },
-          "$id": "00000196-c6d8-d455-a9f6-dedcc8a90000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6d8-d455-a9f6-dedcc8a90000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-102-closer-minus-track-256k-eng.mp3",
+          "duration": 222000,
+          "lang": "eng",
+          "title": "Closer",
+          "description": "“Closer” from 2015 Youth Album (English, 2015-01-01).",
+          "seoDescription": "“Closer” from 2015 Youth Album (English, 2015-01-01).",
+          "seoTitle": "Closer",
+          "shareableTitle": "Closer",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
         },
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "d0869c2fe26f68e85acf17e0e1a8632f2819e60f",
-            "attributes": {},
-            "composer": [],
-            "description": "“Closer” from 2015 Youth Album (English, 2015-01-01).",
-            "distributionUrl": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-002-closer-256k-eng.mp3",
-            "duration": 222000,
-            "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Fri Aug 01 20:21:59 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000184-0ee5-d3a5-ab95-1fff57be0000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000184-0ee5-d3a5-ab95-1fff57be0000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“Closer” from 2015 Youth Album (English, 2015-01-01).",
-            "publicDownload": [
-              "PUBLIC"
-            ],
-            "$publishDate": "Tue Oct 25 07:27:02 EDT 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“Closer” from 2015 Youth Album (English, 2015-01-01).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "Closer",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“Closer” from 2015 Youth Album (English, 2015-01-01).",
-            "shareableTitle": "Closer",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "5ac1d5da4b74ec6e731b8117a3615fe53f347539",
-              "attributes": {},
-              "description": "2020 Mutual Theme Music Album",
-              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-002-closer-256k-eng.mp3",
+          "duration": 222000,
+          "lang": "eng",
+          "title": "Closer",
+          "description": "“Closer” from 2015 Youth Album (English, 2015-01-01).",
+          "seoDescription": "“Closer” from 2015 Youth Album (English, 2015-01-01).",
+          "seoTitle": "Closer",
+          "shareableTitle": "Closer",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "2020 Mutual Theme Music Album",
+            "shareableTitle": "2020 Mutual Theme Music Album",
+            "title": "2020 Mutual Theme Music Album",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
               },
-              "ipCode": "0 - IRI Owned",
-              "isPartOf": [],
-              "keywords": [],
-              "$lastUpdatedDate": "Fri Aug 01 20:22:58 EDT 2025",
-              "locatorIds": [],
-              "noindex": false,
-              "$id": "0000016e-f22e-d642-a77f-f72e2e080000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "0000016e-f22e-d642-a77f-f72e2e080000",
-              "$site": "music",
-              "products": [],
-              "publicAltText": "Three abstract medium blue, light blue, and white rectangles decreasing in size and centered on a dark blue background.",
-              "publicDownload": [],
-              "$publishDate": "Tue Dec 10 18:39:03 EST 2019",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                  "height": 320,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                  "height": 60,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                  "height": 250,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                  "height": 200,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                  "height": 100,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                  "width": 100
-                }
-              ],
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "2020 Mutual Theme Music Album",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "2020 Mutual Theme Music Album",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "2020 Mutual Theme Music Album",
-              "shareableTitle": "2020 Mutual Theme Music Album",
-              "title": "2020 Mutual Theme Music Album"
-            },
-            "title": "Closer",
-            "translator": []
-          },
-          "$id": "00000196-c6d8-d455-a9f6-dedcc8a90001",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6d8-d455-a9f6-dedcc8a90001",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
         }
       ]
     },
@@ -483,175 +273,70 @@
       "voicings": [],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_ACCOMPANIMENT",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "7effc988cd7aba545df8ed913c791848485ce3bc",
-            "attributes": {},
-            "composer": [],
-            "description": "“Show Them” from 2015 Youth Album (English, 2015-01-01).",
-            "distributionUrl": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-103-show-them-minus-track-256k-eng.mp3",
-            "duration": 206000,
-            "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Fri Aug 01 20:16:01 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000184-0ee0-d3a5-ab95-1ffa85ec0000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000184-0ee0-d3a5-ab95-1ffa85ec0000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“Show Them” from 2015 Youth Album (English, 2015-01-01).",
-            "publicDownload": [
-              "PUBLIC"
-            ],
-            "$publishDate": "Tue Oct 25 07:21:46 EDT 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“Show Them” from 2015 Youth Album (English, 2015-01-01).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "Show Them",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“Show Them” from 2015 Youth Album (English, 2015-01-01).",
-            "shareableTitle": "Show Them",
-            "title": "Show Them",
-            "translator": []
-          },
-          "$id": "00000196-c6d8-d455-a9f6-dedcc8eb0000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6d8-d455-a9f6-dedcc8eb0000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-103-show-them-minus-track-256k-eng.mp3",
+          "duration": 206000,
+          "lang": "eng",
+          "title": "Show Them",
+          "description": "“Show Them” from 2015 Youth Album (English, 2015-01-01).",
+          "seoDescription": "“Show Them” from 2015 Youth Album (English, 2015-01-01).",
+          "seoTitle": "Show Them",
+          "shareableTitle": "Show Them",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
         },
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "4b53c9a9d2099b64176dbc8e8db2564f14c58b8c",
-            "attributes": {},
-            "composer": [],
-            "description": "“Show Them” from 2015 Youth Album (English, 2015-01-01).",
-            "distributionUrl": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-003-show-them-256k-eng.mp3",
-            "duration": 206000,
-            "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Fri Aug 01 20:21:59 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000184-0ee5-d3a5-ab95-1fff55e10000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000184-0ee5-d3a5-ab95-1fff55e10000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“Show Them” from 2015 Youth Album (English, 2015-01-01).",
-            "publicDownload": [
-              "PUBLIC"
-            ],
-            "$publishDate": "Tue Oct 25 07:27:01 EDT 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“Show Them” from 2015 Youth Album (English, 2015-01-01).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "Show Them",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“Show Them” from 2015 Youth Album (English, 2015-01-01).",
-            "shareableTitle": "Show Them",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "5ac1d5da4b74ec6e731b8117a3615fe53f347539",
-              "attributes": {},
-              "description": "2020 Mutual Theme Music Album",
-              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-003-show-them-256k-eng.mp3",
+          "duration": 206000,
+          "lang": "eng",
+          "title": "Show Them",
+          "description": "“Show Them” from 2015 Youth Album (English, 2015-01-01).",
+          "seoDescription": "“Show Them” from 2015 Youth Album (English, 2015-01-01).",
+          "seoTitle": "Show Them",
+          "shareableTitle": "Show Them",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "2020 Mutual Theme Music Album",
+            "shareableTitle": "2020 Mutual Theme Music Album",
+            "title": "2020 Mutual Theme Music Album",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
               },
-              "ipCode": "0 - IRI Owned",
-              "isPartOf": [],
-              "keywords": [],
-              "$lastUpdatedDate": "Fri Aug 01 20:22:58 EDT 2025",
-              "locatorIds": [],
-              "noindex": false,
-              "$id": "0000016e-f22e-d642-a77f-f72e2e080000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "0000016e-f22e-d642-a77f-f72e2e080000",
-              "$site": "music",
-              "products": [],
-              "publicAltText": "Three abstract medium blue, light blue, and white rectangles decreasing in size and centered on a dark blue background.",
-              "publicDownload": [],
-              "$publishDate": "Tue Dec 10 18:39:03 EST 2019",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                  "height": 320,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                  "height": 60,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                  "height": 250,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                  "height": 200,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                  "height": 100,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                  "width": 100
-                }
-              ],
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "2020 Mutual Theme Music Album",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "2020 Mutual Theme Music Album",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "2020 Mutual Theme Music Album",
-              "shareableTitle": "2020 Mutual Theme Music Album",
-              "title": "2020 Mutual Theme Music Album"
-            },
-            "title": "Show Them",
-            "translator": []
-          },
-          "$id": "00000196-c6d8-d455-a9f6-dedcc8eb0001",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6d8-d455-a9f6-dedcc8eb0001",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
         }
       ]
     },
@@ -706,175 +391,70 @@
       "voicings": [],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_ACCOMPANIMENT",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "248ba3c4e08a8c4eadc471dda23623c0976af161",
-            "attributes": {},
-            "composer": [],
-            "description": "“Silent” from 2015 Youth Album (English, 2015-01-01).",
-            "distributionUrl": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-104-silent-minus-track-256k-eng.mp3",
-            "duration": 242000,
-            "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Fri Aug 01 20:16:02 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000184-0ee0-d3a5-ab95-1ffa899b0000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000184-0ee0-d3a5-ab95-1ffa899b0000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“Silent” from 2015 Youth Album (English, 2015-01-01).",
-            "publicDownload": [
-              "PUBLIC"
-            ],
-            "$publishDate": "Tue Oct 25 07:21:47 EDT 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“Silent” from 2015 Youth Album (English, 2015-01-01).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "Silent",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“Silent” from 2015 Youth Album (English, 2015-01-01).",
-            "shareableTitle": "Silent",
-            "title": "Silent",
-            "translator": []
-          },
-          "$id": "00000196-c6d8-d455-a9f6-dedcc92f0000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6d8-d455-a9f6-dedcc92f0000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-104-silent-minus-track-256k-eng.mp3",
+          "duration": 242000,
+          "lang": "eng",
+          "title": "Silent",
+          "description": "“Silent” from 2015 Youth Album (English, 2015-01-01).",
+          "seoDescription": "“Silent” from 2015 Youth Album (English, 2015-01-01).",
+          "seoTitle": "Silent",
+          "shareableTitle": "Silent",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
         },
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "f5dc0253b0ab2e19b884c8f5cc4f12c4349813f4",
-            "attributes": {},
-            "composer": [],
-            "description": "“Silent” from 2015 Youth Album (English, 2015-01-01).",
-            "distributionUrl": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-004-silent-256k-eng.mp3",
-            "duration": 242000,
-            "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Fri Aug 01 20:22:04 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000184-0ee5-d3a5-ab95-1fff5fe70000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000184-0ee5-d3a5-ab95-1fff5fe70000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“Silent” from 2015 Youth Album (English, 2015-01-01).",
-            "publicDownload": [
-              "PUBLIC"
-            ],
-            "$publishDate": "Tue Oct 25 07:27:04 EDT 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“Silent” from 2015 Youth Album (English, 2015-01-01).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "Silent",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“Silent” from 2015 Youth Album (English, 2015-01-01).",
-            "shareableTitle": "Silent",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "5ac1d5da4b74ec6e731b8117a3615fe53f347539",
-              "attributes": {},
-              "description": "2020 Mutual Theme Music Album",
-              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-004-silent-256k-eng.mp3",
+          "duration": 242000,
+          "lang": "eng",
+          "title": "Silent",
+          "description": "“Silent” from 2015 Youth Album (English, 2015-01-01).",
+          "seoDescription": "“Silent” from 2015 Youth Album (English, 2015-01-01).",
+          "seoTitle": "Silent",
+          "shareableTitle": "Silent",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "2020 Mutual Theme Music Album",
+            "shareableTitle": "2020 Mutual Theme Music Album",
+            "title": "2020 Mutual Theme Music Album",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
               },
-              "ipCode": "0 - IRI Owned",
-              "isPartOf": [],
-              "keywords": [],
-              "$lastUpdatedDate": "Fri Aug 01 20:22:58 EDT 2025",
-              "locatorIds": [],
-              "noindex": false,
-              "$id": "0000016e-f22e-d642-a77f-f72e2e080000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "0000016e-f22e-d642-a77f-f72e2e080000",
-              "$site": "music",
-              "products": [],
-              "publicAltText": "Three abstract medium blue, light blue, and white rectangles decreasing in size and centered on a dark blue background.",
-              "publicDownload": [],
-              "$publishDate": "Tue Dec 10 18:39:03 EST 2019",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                  "height": 320,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                  "height": 60,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                  "height": 250,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                  "height": 200,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                  "height": 100,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                  "width": 100
-                }
-              ],
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "2020 Mutual Theme Music Album",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "2020 Mutual Theme Music Album",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "2020 Mutual Theme Music Album",
-              "shareableTitle": "2020 Mutual Theme Music Album",
-              "title": "2020 Mutual Theme Music Album"
-            },
-            "title": "Silent",
-            "translator": []
-          },
-          "$id": "00000196-c6d8-d455-a9f6-dedcc92f0001",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6d8-d455-a9f6-dedcc92f0001",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
         }
       ]
     },
@@ -927,175 +507,70 @@
       "voicings": [],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_ACCOMPANIMENT",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "85dd3aac49fad66131979aebea7243d0a3e0fa19",
-            "attributes": {},
-            "composer": [],
-            "description": "“Fragile” from 2015 Youth Album (English, 2015-01-01).",
-            "distributionUrl": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-105-fragile-minus-track-256k-eng.mp3",
-            "duration": 213000,
-            "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Fri Aug 01 20:16:03 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000184-0ee0-d3a5-ab95-1ffa8f060000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000184-0ee0-d3a5-ab95-1ffa8f060000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“Fragile” from 2015 Youth Album (English, 2015-01-01).",
-            "publicDownload": [
-              "PUBLIC"
-            ],
-            "$publishDate": "Tue Oct 25 07:21:48 EDT 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“Fragile” from 2015 Youth Album (English, 2015-01-01).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "Fragile",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“Fragile” from 2015 Youth Album (English, 2015-01-01).",
-            "shareableTitle": "Fragile",
-            "title": "Fragile",
-            "translator": []
-          },
-          "$id": "00000196-c6d8-d455-a9f6-dedcc9790000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6d8-d455-a9f6-dedcc9790000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-105-fragile-minus-track-256k-eng.mp3",
+          "duration": 213000,
+          "lang": "eng",
+          "title": "Fragile",
+          "description": "“Fragile” from 2015 Youth Album (English, 2015-01-01).",
+          "seoDescription": "“Fragile” from 2015 Youth Album (English, 2015-01-01).",
+          "seoTitle": "Fragile",
+          "shareableTitle": "Fragile",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
         },
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "f41a29b5d945794e3c60d1091cd37e7d9321e6a0",
-            "attributes": {},
-            "composer": [],
-            "description": "“Fragile” from 2015 Youth Album (English, 2015-01-01).",
-            "distributionUrl": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-005-fragile-256k-eng.mp3",
-            "duration": 213000,
-            "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Fri Aug 01 20:21:58 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000184-0ee5-d3a5-ab95-1fff54150000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000184-0ee5-d3a5-ab95-1fff54150000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“Fragile” from 2015 Youth Album (English, 2015-01-01).",
-            "publicDownload": [
-              "PUBLIC"
-            ],
-            "$publishDate": "Tue Oct 25 07:27:01 EDT 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“Fragile” from 2015 Youth Album (English, 2015-01-01).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "Fragile",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“Fragile” from 2015 Youth Album (English, 2015-01-01).",
-            "shareableTitle": "Fragile",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "5ac1d5da4b74ec6e731b8117a3615fe53f347539",
-              "attributes": {},
-              "description": "2020 Mutual Theme Music Album",
-              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-005-fragile-256k-eng.mp3",
+          "duration": 213000,
+          "lang": "eng",
+          "title": "Fragile",
+          "description": "“Fragile” from 2015 Youth Album (English, 2015-01-01).",
+          "seoDescription": "“Fragile” from 2015 Youth Album (English, 2015-01-01).",
+          "seoTitle": "Fragile",
+          "shareableTitle": "Fragile",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "2020 Mutual Theme Music Album",
+            "shareableTitle": "2020 Mutual Theme Music Album",
+            "title": "2020 Mutual Theme Music Album",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
               },
-              "ipCode": "0 - IRI Owned",
-              "isPartOf": [],
-              "keywords": [],
-              "$lastUpdatedDate": "Fri Aug 01 20:22:58 EDT 2025",
-              "locatorIds": [],
-              "noindex": false,
-              "$id": "0000016e-f22e-d642-a77f-f72e2e080000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "0000016e-f22e-d642-a77f-f72e2e080000",
-              "$site": "music",
-              "products": [],
-              "publicAltText": "Three abstract medium blue, light blue, and white rectangles decreasing in size and centered on a dark blue background.",
-              "publicDownload": [],
-              "$publishDate": "Tue Dec 10 18:39:03 EST 2019",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                  "height": 320,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                  "height": 60,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                  "height": 250,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                  "height": 200,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                  "height": 100,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                  "width": 100
-                }
-              ],
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "2020 Mutual Theme Music Album",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "2020 Mutual Theme Music Album",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "2020 Mutual Theme Music Album",
-              "shareableTitle": "2020 Mutual Theme Music Album",
-              "title": "2020 Mutual Theme Music Album"
-            },
-            "title": "Fragile",
-            "translator": []
-          },
-          "$id": "00000196-c6d8-d455-a9f6-dedcc9790001",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6d8-d455-a9f6-dedcc9790001",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
         }
       ]
     },
@@ -1145,175 +620,70 @@
       "voicings": [],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_ACCOMPANIMENT",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "74e98e086e7860cb0f40b33b1ba54811836c883a",
-            "attributes": {},
-            "composer": [],
-            "description": "“This Life” from 2015 Youth Album (English, 2015-01-01).",
-            "distributionUrl": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-106-this-life-minus-track-256k-eng.mp3",
-            "duration": 228000,
-            "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Fri Aug 01 20:15:51 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000184-0ee0-d3a5-ab95-1ffa69010000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000184-0ee0-d3a5-ab95-1ffa69010000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“This Life” from 2015 Youth Album (English, 2015-01-01).",
-            "publicDownload": [
-              "PUBLIC"
-            ],
-            "$publishDate": "Tue Oct 25 07:21:38 EDT 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“This Life” from 2015 Youth Album (English, 2015-01-01).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "This Life",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“This Life” from 2015 Youth Album (English, 2015-01-01).",
-            "shareableTitle": "This Life",
-            "title": "This Life",
-            "translator": []
-          },
-          "$id": "00000196-c6d8-d455-a9f6-dedcc9bd0000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6d8-d455-a9f6-dedcc9bd0000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-106-this-life-minus-track-256k-eng.mp3",
+          "duration": 228000,
+          "lang": "eng",
+          "title": "This Life",
+          "description": "“This Life” from 2015 Youth Album (English, 2015-01-01).",
+          "seoDescription": "“This Life” from 2015 Youth Album (English, 2015-01-01).",
+          "seoTitle": "This Life",
+          "shareableTitle": "This Life",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
         },
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "81a23f9029bbb273e5501be4f7824adf64eb4c3e",
-            "attributes": {},
-            "composer": [],
-            "description": "“This Life” from 2015 Youth Album (English, 2015-01-01).",
-            "distributionUrl": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-006-this-life-256k-eng.mp3",
-            "duration": 228000,
-            "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Fri Aug 01 20:22:06 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000184-0ee5-d3a5-ab95-1fff67360000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000184-0ee5-d3a5-ab95-1fff67360000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“This Life” from 2015 Youth Album (English, 2015-01-01).",
-            "publicDownload": [
-              "PUBLIC"
-            ],
-            "$publishDate": "Tue Oct 25 07:27:06 EDT 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“This Life” from 2015 Youth Album (English, 2015-01-01).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "This Life",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“This Life” from 2015 Youth Album (English, 2015-01-01).",
-            "shareableTitle": "This Life",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "5ac1d5da4b74ec6e731b8117a3615fe53f347539",
-              "attributes": {},
-              "description": "2020 Mutual Theme Music Album",
-              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-006-this-life-256k-eng.mp3",
+          "duration": 228000,
+          "lang": "eng",
+          "title": "This Life",
+          "description": "“This Life” from 2015 Youth Album (English, 2015-01-01).",
+          "seoDescription": "“This Life” from 2015 Youth Album (English, 2015-01-01).",
+          "seoTitle": "This Life",
+          "shareableTitle": "This Life",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "2020 Mutual Theme Music Album",
+            "shareableTitle": "2020 Mutual Theme Music Album",
+            "title": "2020 Mutual Theme Music Album",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
               },
-              "ipCode": "0 - IRI Owned",
-              "isPartOf": [],
-              "keywords": [],
-              "$lastUpdatedDate": "Fri Aug 01 20:22:58 EDT 2025",
-              "locatorIds": [],
-              "noindex": false,
-              "$id": "0000016e-f22e-d642-a77f-f72e2e080000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "0000016e-f22e-d642-a77f-f72e2e080000",
-              "$site": "music",
-              "products": [],
-              "publicAltText": "Three abstract medium blue, light blue, and white rectangles decreasing in size and centered on a dark blue background.",
-              "publicDownload": [],
-              "$publishDate": "Tue Dec 10 18:39:03 EST 2019",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                  "height": 320,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                  "height": 60,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                  "height": 250,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                  "height": 200,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                  "height": 100,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                  "width": 100
-                }
-              ],
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "2020 Mutual Theme Music Album",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "2020 Mutual Theme Music Album",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "2020 Mutual Theme Music Album",
-              "shareableTitle": "2020 Mutual Theme Music Album",
-              "title": "2020 Mutual Theme Music Album"
-            },
-            "title": "This Life",
-            "translator": []
-          },
-          "$id": "00000196-c6d8-d455-a9f6-dedcc9bd0001",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6d8-d455-a9f6-dedcc9bd0001",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
         }
       ]
     },
@@ -1363,175 +733,70 @@
       "voicings": [],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_ACCOMPANIMENT",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "497ba2b49e40d8363ddb314e71cfec7a3fed5ddd",
-            "attributes": {},
-            "composer": [],
-            "description": "“Someone He Can Count On” from 2015 Youth Album (English, 2015-01-01).",
-            "distributionUrl": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-107-someone-he-can-count-on-minus-track-256k-eng.mp3",
-            "duration": 205000,
-            "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Fri Aug 01 20:15:50 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000184-0ee0-d3a5-ab95-1ffa6ece0000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000184-0ee0-d3a5-ab95-1ffa6ece0000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“Someone He Can Count On” from 2015 Youth Album (English, 2015-01-01).",
-            "publicDownload": [
-              "PUBLIC"
-            ],
-            "$publishDate": "Tue Oct 25 07:21:40 EDT 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“Someone He Can Count On” from 2015 Youth Album (English, 2015-01-01).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "Someone He Can Count On",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“Someone He Can Count On” from 2015 Youth Album (English, 2015-01-01).",
-            "shareableTitle": "Someone He Can Count On",
-            "title": "Someone He Can Count On",
-            "translator": []
-          },
-          "$id": "00000196-c6d8-d455-a9f6-dedcc9fe0000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6d8-d455-a9f6-dedcc9fe0000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-107-someone-he-can-count-on-minus-track-256k-eng.mp3",
+          "duration": 205000,
+          "lang": "eng",
+          "title": "Someone He Can Count On",
+          "description": "“Someone He Can Count On” from 2015 Youth Album (English, 2015-01-01).",
+          "seoDescription": "“Someone He Can Count On” from 2015 Youth Album (English, 2015-01-01).",
+          "seoTitle": "Someone He Can Count On",
+          "shareableTitle": "Someone He Can Count On",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
         },
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "3ff83dff0f651eeb7b9eb6c516700fd5ece48cf5",
-            "attributes": {},
-            "composer": [],
-            "description": "“Someone He Can Count On” from 2015 Youth Album (English, 2015-01-01).",
-            "distributionUrl": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-007-someone-he-can-count-on-256k-eng.mp3",
-            "duration": 205000,
-            "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Fri Aug 01 20:22:05 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000184-0ee5-d3a5-ab95-1fff61b30000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000184-0ee5-d3a5-ab95-1fff61b30000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“Someone He Can Count On” from 2015 Youth Album (English, 2015-01-01).",
-            "publicDownload": [
-              "PUBLIC"
-            ],
-            "$publishDate": "Tue Oct 25 07:27:04 EDT 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“Someone He Can Count On” from 2015 Youth Album (English, 2015-01-01).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "Someone He Can Count On",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“Someone He Can Count On” from 2015 Youth Album (English, 2015-01-01).",
-            "shareableTitle": "Someone He Can Count On",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "5ac1d5da4b74ec6e731b8117a3615fe53f347539",
-              "attributes": {},
-              "description": "2020 Mutual Theme Music Album",
-              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-007-someone-he-can-count-on-256k-eng.mp3",
+          "duration": 205000,
+          "lang": "eng",
+          "title": "Someone He Can Count On",
+          "description": "“Someone He Can Count On” from 2015 Youth Album (English, 2015-01-01).",
+          "seoDescription": "“Someone He Can Count On” from 2015 Youth Album (English, 2015-01-01).",
+          "seoTitle": "Someone He Can Count On",
+          "shareableTitle": "Someone He Can Count On",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "2020 Mutual Theme Music Album",
+            "shareableTitle": "2020 Mutual Theme Music Album",
+            "title": "2020 Mutual Theme Music Album",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
               },
-              "ipCode": "0 - IRI Owned",
-              "isPartOf": [],
-              "keywords": [],
-              "$lastUpdatedDate": "Fri Aug 01 20:22:58 EDT 2025",
-              "locatorIds": [],
-              "noindex": false,
-              "$id": "0000016e-f22e-d642-a77f-f72e2e080000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "0000016e-f22e-d642-a77f-f72e2e080000",
-              "$site": "music",
-              "products": [],
-              "publicAltText": "Three abstract medium blue, light blue, and white rectangles decreasing in size and centered on a dark blue background.",
-              "publicDownload": [],
-              "$publishDate": "Tue Dec 10 18:39:03 EST 2019",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                  "height": 320,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                  "height": 60,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                  "height": 250,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                  "height": 200,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                  "height": 100,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                  "width": 100
-                }
-              ],
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "2020 Mutual Theme Music Album",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "2020 Mutual Theme Music Album",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "2020 Mutual Theme Music Album",
-              "shareableTitle": "2020 Mutual Theme Music Album",
-              "title": "2020 Mutual Theme Music Album"
-            },
-            "title": "Someone He Can Count On",
-            "translator": []
-          },
-          "$id": "00000196-c6d8-d455-a9f6-dedcc9fe0001",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6d8-d455-a9f6-dedcc9fe0001",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
         }
       ]
     },
@@ -1589,175 +854,70 @@
       ],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_ACCOMPANIMENT",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "9003b85d84a8df26082dfe4e6cc4fef39a83622b",
-            "attributes": {},
-            "composer": [],
-            "description": "“Good to Be Alive” from 2015 Youth Album (English, 2015-01-01).",
-            "distributionUrl": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-108-good-to-be-alive-minus-track-256k-eng.mp3",
-            "duration": 200000,
-            "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Fri Aug 01 20:15:51 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000184-0ee0-d3a5-ab95-1ffa6c8a0000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000184-0ee0-d3a5-ab95-1ffa6c8a0000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“Good to Be Alive” from 2015 Youth Album (English, 2015-01-01).",
-            "publicDownload": [
-              "PUBLIC"
-            ],
-            "$publishDate": "Tue Oct 25 07:21:39 EDT 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“Good to Be Alive” from 2015 Youth Album (English, 2015-01-01).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "Good to Be Alive",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“Good to Be Alive” from 2015 Youth Album (English, 2015-01-01).",
-            "shareableTitle": "Good to Be Alive",
-            "title": "Good to Be Alive",
-            "translator": []
-          },
-          "$id": "00000196-c6d8-d455-a9f6-dedcca5a0000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6d8-d455-a9f6-dedcca5a0000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-108-good-to-be-alive-minus-track-256k-eng.mp3",
+          "duration": 200000,
+          "lang": "eng",
+          "title": "Good to Be Alive",
+          "description": "“Good to Be Alive” from 2015 Youth Album (English, 2015-01-01).",
+          "seoDescription": "“Good to Be Alive” from 2015 Youth Album (English, 2015-01-01).",
+          "seoTitle": "Good to Be Alive",
+          "shareableTitle": "Good to Be Alive",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
         },
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "edf83065153030f5546ff025090ce174fcde42a5",
-            "attributes": {},
-            "composer": [],
-            "description": "“Good to Be Alive” from 2015 Youth Album (English, 2015-01-01).",
-            "distributionUrl": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-008-good-to-be-alive-256k-eng.mp3",
-            "duration": 200000,
-            "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Fri Aug 01 20:22:05 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000184-0ee5-d3a5-ab95-1fff63aa0000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000184-0ee5-d3a5-ab95-1fff63aa0000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“Good to Be Alive” from 2015 Youth Album (English, 2015-01-01).",
-            "publicDownload": [
-              "PUBLIC"
-            ],
-            "$publishDate": "Tue Oct 25 07:27:05 EDT 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“Good to Be Alive” from 2015 Youth Album (English, 2015-01-01).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "Good to Be Alive",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“Good to Be Alive” from 2015 Youth Album (English, 2015-01-01).",
-            "shareableTitle": "Good to Be Alive",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "5ac1d5da4b74ec6e731b8117a3615fe53f347539",
-              "attributes": {},
-              "description": "2020 Mutual Theme Music Album",
-              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-008-good-to-be-alive-256k-eng.mp3",
+          "duration": 200000,
+          "lang": "eng",
+          "title": "Good to Be Alive",
+          "description": "“Good to Be Alive” from 2015 Youth Album (English, 2015-01-01).",
+          "seoDescription": "“Good to Be Alive” from 2015 Youth Album (English, 2015-01-01).",
+          "seoTitle": "Good to Be Alive",
+          "shareableTitle": "Good to Be Alive",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "2020 Mutual Theme Music Album",
+            "shareableTitle": "2020 Mutual Theme Music Album",
+            "title": "2020 Mutual Theme Music Album",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
               },
-              "ipCode": "0 - IRI Owned",
-              "isPartOf": [],
-              "keywords": [],
-              "$lastUpdatedDate": "Fri Aug 01 20:22:58 EDT 2025",
-              "locatorIds": [],
-              "noindex": false,
-              "$id": "0000016e-f22e-d642-a77f-f72e2e080000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "0000016e-f22e-d642-a77f-f72e2e080000",
-              "$site": "music",
-              "products": [],
-              "publicAltText": "Three abstract medium blue, light blue, and white rectangles decreasing in size and centered on a dark blue background.",
-              "publicDownload": [],
-              "$publishDate": "Tue Dec 10 18:39:03 EST 2019",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                  "height": 320,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                  "height": 60,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                  "height": 250,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                  "height": 200,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                  "height": 100,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                  "width": 100
-                }
-              ],
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "2020 Mutual Theme Music Album",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "2020 Mutual Theme Music Album",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "2020 Mutual Theme Music Album",
-              "shareableTitle": "2020 Mutual Theme Music Album",
-              "title": "2020 Mutual Theme Music Album"
-            },
-            "title": "Good to Be Alive",
-            "translator": []
-          },
-          "$id": "00000196-c6d8-d455-a9f6-dedcca5a0001",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6d8-d455-a9f6-dedcca5a0001",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
         }
       ]
     },
@@ -1807,175 +967,70 @@
       "voicings": [],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_ACCOMPANIMENT",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "49a63c89d8c923517ccf6d40c644463aefffeb88",
-            "attributes": {},
-            "composer": [],
-            "description": "“Inside Out” from 2015 Youth Album (English, 2015-01-01).",
-            "distributionUrl": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-109-inside-out-minus-track-256k-eng.mp3",
-            "duration": 239000,
-            "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Fri Aug 01 20:15:52 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000184-0ee0-d3a5-ab95-1ffa67440000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000184-0ee0-d3a5-ab95-1ffa67440000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“Inside Out” from 2015 Youth Album (English, 2015-01-01).",
-            "publicDownload": [
-              "PUBLIC"
-            ],
-            "$publishDate": "Tue Oct 25 07:21:38 EDT 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“Inside Out” from 2015 Youth Album (English, 2015-01-01).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "Inside Out",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“Inside Out” from 2015 Youth Album (English, 2015-01-01).",
-            "shareableTitle": "Inside Out",
-            "title": "Inside Out",
-            "translator": []
-          },
-          "$id": "00000196-c6d8-d455-a9f6-dedcca9b0000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6d8-d455-a9f6-dedcca9b0000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-109-inside-out-minus-track-256k-eng.mp3",
+          "duration": 239000,
+          "lang": "eng",
+          "title": "Inside Out",
+          "description": "“Inside Out” from 2015 Youth Album (English, 2015-01-01).",
+          "seoDescription": "“Inside Out” from 2015 Youth Album (English, 2015-01-01).",
+          "seoTitle": "Inside Out",
+          "shareableTitle": "Inside Out",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
         },
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "dc787cf1c6eab32a0309d59788b62853a0898f9f",
-            "attributes": {},
-            "composer": [],
-            "description": "“Inside Out” from 2015 Youth Album (English, 2015-01-01).",
-            "distributionUrl": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-009-inside-out-256k-eng.mp3",
-            "duration": 239000,
-            "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Fri Aug 01 20:22:14 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000184-0ee5-d3a5-ab95-1fff80e40000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000184-0ee5-d3a5-ab95-1fff80e40000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“Inside Out” from 2015 Youth Album (English, 2015-01-01).",
-            "publicDownload": [
-              "PUBLIC"
-            ],
-            "$publishDate": "Tue Oct 25 07:27:12 EDT 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“Inside Out” from 2015 Youth Album (English, 2015-01-01).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "Inside Out",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“Inside Out” from 2015 Youth Album (English, 2015-01-01).",
-            "shareableTitle": "Inside Out",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "5ac1d5da4b74ec6e731b8117a3615fe53f347539",
-              "attributes": {},
-              "description": "2020 Mutual Theme Music Album",
-              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-009-inside-out-256k-eng.mp3",
+          "duration": 239000,
+          "lang": "eng",
+          "title": "Inside Out",
+          "description": "“Inside Out” from 2015 Youth Album (English, 2015-01-01).",
+          "seoDescription": "“Inside Out” from 2015 Youth Album (English, 2015-01-01).",
+          "seoTitle": "Inside Out",
+          "shareableTitle": "Inside Out",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "2020 Mutual Theme Music Album",
+            "shareableTitle": "2020 Mutual Theme Music Album",
+            "title": "2020 Mutual Theme Music Album",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
               },
-              "ipCode": "0 - IRI Owned",
-              "isPartOf": [],
-              "keywords": [],
-              "$lastUpdatedDate": "Fri Aug 01 20:22:58 EDT 2025",
-              "locatorIds": [],
-              "noindex": false,
-              "$id": "0000016e-f22e-d642-a77f-f72e2e080000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "0000016e-f22e-d642-a77f-f72e2e080000",
-              "$site": "music",
-              "products": [],
-              "publicAltText": "Three abstract medium blue, light blue, and white rectangles decreasing in size and centered on a dark blue background.",
-              "publicDownload": [],
-              "$publishDate": "Tue Dec 10 18:39:03 EST 2019",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                  "height": 320,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                  "height": 60,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                  "height": 250,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                  "height": 200,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                  "height": 100,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                  "width": 100
-                }
-              ],
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "2020 Mutual Theme Music Album",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "2020 Mutual Theme Music Album",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "2020 Mutual Theme Music Album",
-              "shareableTitle": "2020 Mutual Theme Music Album",
-              "title": "2020 Mutual Theme Music Album"
-            },
-            "title": "Inside Out",
-            "translator": []
-          },
-          "$id": "00000196-c6d8-d455-a9f6-dedcca9b0001",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6d8-d455-a9f6-dedcca9b0001",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
         }
       ]
     },
@@ -2025,175 +1080,70 @@
       "voicings": [],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_ACCOMPANIMENT",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "784b0a7da77ce510df3cf60ac695b4c50cd21b90",
-            "attributes": {},
-            "composer": [],
-            "description": "“Only You” from 2015 Youth Album (English, 2015-01-01).",
-            "distributionUrl": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-110-only-you-minus-track-256k-eng.mp3",
-            "duration": 189000,
-            "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Fri Aug 01 20:15:51 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000184-0ee0-d3a5-ab95-1ffa6abd0000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000184-0ee0-d3a5-ab95-1ffa6abd0000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“Only You” from 2015 Youth Album (English, 2015-01-01).",
-            "publicDownload": [
-              "PUBLIC"
-            ],
-            "$publishDate": "Tue Oct 25 07:21:39 EDT 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“Only You” from 2015 Youth Album (English, 2015-01-01).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "Only You",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“Only You” from 2015 Youth Album (English, 2015-01-01).",
-            "shareableTitle": "Only You",
-            "title": "Only You",
-            "translator": []
-          },
-          "$id": "00000196-c6d8-d455-a9f6-dedccadc0000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6d8-d455-a9f6-dedccadc0000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-110-only-you-minus-track-256k-eng.mp3",
+          "duration": 189000,
+          "lang": "eng",
+          "title": "Only You",
+          "description": "“Only You” from 2015 Youth Album (English, 2015-01-01).",
+          "seoDescription": "“Only You” from 2015 Youth Album (English, 2015-01-01).",
+          "seoTitle": "Only You",
+          "shareableTitle": "Only You",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
         },
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "9214b7ba27a07ad231e9a3fd1f4baec6bd982b42",
-            "attributes": {},
-            "composer": [],
-            "description": "“Only You” from 2015 Youth Album (English, 2015-01-01).",
-            "distributionUrl": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-010-only-you-256k-eng.mp3",
-            "duration": 189000,
-            "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Fri Aug 01 20:22:16 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000184-0ee5-d3a5-ab95-1fff866b0000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000184-0ee5-d3a5-ab95-1fff866b0000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“Only You” from 2015 Youth Album (English, 2015-01-01).",
-            "publicDownload": [
-              "PUBLIC"
-            ],
-            "$publishDate": "Tue Oct 25 07:27:14 EDT 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“Only You” from 2015 Youth Album (English, 2015-01-01).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "Only You",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“Only You” from 2015 Youth Album (English, 2015-01-01).",
-            "shareableTitle": "Only You",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "5ac1d5da4b74ec6e731b8117a3615fe53f347539",
-              "attributes": {},
-              "description": "2020 Mutual Theme Music Album",
-              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-010-only-you-256k-eng.mp3",
+          "duration": 189000,
+          "lang": "eng",
+          "title": "Only You",
+          "description": "“Only You” from 2015 Youth Album (English, 2015-01-01).",
+          "seoDescription": "“Only You” from 2015 Youth Album (English, 2015-01-01).",
+          "seoTitle": "Only You",
+          "shareableTitle": "Only You",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "2020 Mutual Theme Music Album",
+            "shareableTitle": "2020 Mutual Theme Music Album",
+            "title": "2020 Mutual Theme Music Album",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
               },
-              "ipCode": "0 - IRI Owned",
-              "isPartOf": [],
-              "keywords": [],
-              "$lastUpdatedDate": "Fri Aug 01 20:22:58 EDT 2025",
-              "locatorIds": [],
-              "noindex": false,
-              "$id": "0000016e-f22e-d642-a77f-f72e2e080000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "0000016e-f22e-d642-a77f-f72e2e080000",
-              "$site": "music",
-              "products": [],
-              "publicAltText": "Three abstract medium blue, light blue, and white rectangles decreasing in size and centered on a dark blue background.",
-              "publicDownload": [],
-              "$publishDate": "Tue Dec 10 18:39:03 EST 2019",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                  "height": 320,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                  "height": 60,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                  "height": 250,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                  "height": 200,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                  "height": 100,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                  "width": 100
-                }
-              ],
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "2020 Mutual Theme Music Album",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "2020 Mutual Theme Music Album",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "2020 Mutual Theme Music Album",
-              "shareableTitle": "2020 Mutual Theme Music Album",
-              "title": "2020 Mutual Theme Music Album"
-            },
-            "title": "Only You",
-            "translator": []
-          },
-          "$id": "00000196-c6d8-d455-a9f6-dedccadc0001",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6d8-d455-a9f6-dedccadc0001",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
         }
       ]
     },
@@ -2247,175 +1197,70 @@
       "voicings": [],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_ACCOMPANIMENT",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "1162c2d87c4029a3a74fcbd49f5d9a59603e1409",
-            "attributes": {},
-            "composer": [],
-            "description": "“We’re Just People” from 2015 Youth Album (English, 2015-01-01).",
-            "distributionUrl": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-111-were-just-people-minus-track-256k-eng.mp3",
-            "duration": 195000,
-            "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Fri Aug 01 20:16:19 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000184-0ee0-d3a5-ab95-1ffabfc10000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000184-0ee0-d3a5-ab95-1ffabfc10000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“We’re Just People” from 2015 Youth Album (English, 2015-01-01).",
-            "publicDownload": [
-              "PUBLIC"
-            ],
-            "$publishDate": "Tue Oct 25 07:22:01 EDT 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“We’re Just People” from 2015 Youth Album (English, 2015-01-01).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "We’re Just People",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“We’re Just People” from 2015 Youth Album (English, 2015-01-01).",
-            "shareableTitle": "We’re Just People",
-            "title": "We’re Just People",
-            "translator": []
-          },
-          "$id": "00000196-c6d8-d455-a9f6-dedccb1b0000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6d8-d455-a9f6-dedccb1b0000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-111-were-just-people-minus-track-256k-eng.mp3",
+          "duration": 195000,
+          "lang": "eng",
+          "title": "We’re Just People",
+          "description": "“We’re Just People” from 2015 Youth Album (English, 2015-01-01).",
+          "seoDescription": "“We’re Just People” from 2015 Youth Album (English, 2015-01-01).",
+          "seoTitle": "We’re Just People",
+          "shareableTitle": "We’re Just People",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
         },
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "89cac9d1b1dbca9f2855d715e4a4b49aaa44953c",
-            "attributes": {},
-            "composer": [],
-            "description": "“We’re Just People” from 2015 Youth Album (English, 2015-01-01).",
-            "distributionUrl": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-011-were-just-people-256k-eng.mp3",
-            "duration": 195000,
-            "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Fri Aug 01 20:22:15 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000184-0ee5-d3a5-ab95-1fff82a30000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000184-0ee5-d3a5-ab95-1fff82a30000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“We’re Just People” from 2015 Youth Album (English, 2015-01-01).",
-            "publicDownload": [
-              "PUBLIC"
-            ],
-            "$publishDate": "Tue Oct 25 07:27:13 EDT 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“We’re Just People” from 2015 Youth Album (English, 2015-01-01).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "We’re Just People",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“We’re Just People” from 2015 Youth Album (English, 2015-01-01).",
-            "shareableTitle": "We’re Just People",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "5ac1d5da4b74ec6e731b8117a3615fe53f347539",
-              "attributes": {},
-              "description": "2020 Mutual Theme Music Album",
-              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-011-were-just-people-256k-eng.mp3",
+          "duration": 195000,
+          "lang": "eng",
+          "title": "We’re Just People",
+          "description": "“We’re Just People” from 2015 Youth Album (English, 2015-01-01).",
+          "seoDescription": "“We’re Just People” from 2015 Youth Album (English, 2015-01-01).",
+          "seoTitle": "We’re Just People",
+          "shareableTitle": "We’re Just People",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "2020 Mutual Theme Music Album",
+            "shareableTitle": "2020 Mutual Theme Music Album",
+            "title": "2020 Mutual Theme Music Album",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
               },
-              "ipCode": "0 - IRI Owned",
-              "isPartOf": [],
-              "keywords": [],
-              "$lastUpdatedDate": "Fri Aug 01 20:22:58 EDT 2025",
-              "locatorIds": [],
-              "noindex": false,
-              "$id": "0000016e-f22e-d642-a77f-f72e2e080000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "0000016e-f22e-d642-a77f-f72e2e080000",
-              "$site": "music",
-              "products": [],
-              "publicAltText": "Three abstract medium blue, light blue, and white rectangles decreasing in size and centered on a dark blue background.",
-              "publicDownload": [],
-              "$publishDate": "Tue Dec 10 18:39:03 EST 2019",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                  "height": 320,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                  "height": 60,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                  "height": 250,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                  "height": 200,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                  "height": 100,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                  "width": 100
-                }
-              ],
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "2020 Mutual Theme Music Album",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "2020 Mutual Theme Music Album",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "2020 Mutual Theme Music Album",
-              "shareableTitle": "2020 Mutual Theme Music Album",
-              "title": "2020 Mutual Theme Music Album"
-            },
-            "title": "We’re Just People",
-            "translator": []
-          },
-          "$id": "00000196-c6d8-d455-a9f6-dedccb1b0001",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6d8-d455-a9f6-dedccb1b0001",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
         }
       ]
     },
@@ -2465,175 +1310,70 @@
       "voicings": [],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_ACCOMPANIMENT",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "100aa67896795f6fc78308b31b5395d37c3eaa3d",
-            "attributes": {},
-            "composer": [],
-            "description": "“I Can Do All Things” from 2015 Youth Album (English, 2015-01-01).",
-            "distributionUrl": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-112-i-can-do-all-things-minus-track-256k-eng.mp3",
-            "duration": 197000,
-            "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Fri Aug 01 20:16:22 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000184-0ee0-d3a5-ab95-1ffac9400000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000184-0ee0-d3a5-ab95-1ffac9400000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“I Can Do All Things” from 2015 Youth Album (English, 2015-01-01).",
-            "publicDownload": [
-              "PUBLIC"
-            ],
-            "$publishDate": "Tue Oct 25 07:22:03 EDT 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“I Can Do All Things” from 2015 Youth Album (English, 2015-01-01).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "I Can Do All Things",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“I Can Do All Things” from 2015 Youth Album (English, 2015-01-01).",
-            "shareableTitle": "I Can Do All Things",
-            "title": "I Can Do All Things",
-            "translator": []
-          },
-          "$id": "00000196-c6d8-d455-a9f6-dedccb5e0000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6d8-d455-a9f6-dedccb5e0000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-112-i-can-do-all-things-minus-track-256k-eng.mp3",
+          "duration": 197000,
+          "lang": "eng",
+          "title": "I Can Do All Things",
+          "description": "“I Can Do All Things” from 2015 Youth Album (English, 2015-01-01).",
+          "seoDescription": "“I Can Do All Things” from 2015 Youth Album (English, 2015-01-01).",
+          "seoTitle": "I Can Do All Things",
+          "shareableTitle": "I Can Do All Things",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
         },
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "a2fc0a9c41e13147e87c942c1c6d55ebf1873a1b",
-            "attributes": {},
-            "composer": [],
-            "description": "“I Can Do All Things” from 2015 Youth Album (English, 2015-01-01).",
-            "distributionUrl": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-012-i-can-do-all-things-256k-eng.mp3",
-            "duration": 197000,
-            "isPartOf": [],
-            "keywords": [],
-            "$lastUpdatedDate": "Fri Aug 01 20:22:15 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000184-0ee5-d3a5-ab95-1fff846e0000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000184-0ee5-d3a5-ab95-1fff846e0000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“I Can Do All Things” from 2015 Youth Album (English, 2015-01-01).",
-            "publicDownload": [
-              "PUBLIC"
-            ],
-            "$publishDate": "Tue Oct 25 07:27:13 EDT 2022",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“I Can Do All Things” from 2015 Youth Album (English, 2015-01-01).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "I Can Do All Things",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“I Can Do All Things” from 2015 Youth Album (English, 2015-01-01).",
-            "shareableTitle": "I Can Do All Things",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "5ac1d5da4b74ec6e731b8117a3615fe53f347539",
-              "attributes": {},
-              "description": "2020 Mutual Theme Music Album",
-              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2015-youth-music-album/2015-01-012-i-can-do-all-things-256k-eng.mp3",
+          "duration": 197000,
+          "lang": "eng",
+          "title": "I Can Do All Things",
+          "description": "“I Can Do All Things” from 2015 Youth Album (English, 2015-01-01).",
+          "seoDescription": "“I Can Do All Things” from 2015 Youth Album (English, 2015-01-01).",
+          "seoTitle": "I Can Do All Things",
+          "shareableTitle": "I Can Do All Things",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "2020 Mutual Theme Music Album",
+            "shareableTitle": "2020 Mutual Theme Music Album",
+            "title": "2020 Mutual Theme Music Album",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
               },
-              "ipCode": "0 - IRI Owned",
-              "isPartOf": [],
-              "keywords": [],
-              "$lastUpdatedDate": "Fri Aug 01 20:22:58 EDT 2025",
-              "locatorIds": [],
-              "noindex": false,
-              "$id": "0000016e-f22e-d642-a77f-f72e2e080000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "0000016e-f22e-d642-a77f-f72e2e080000",
-              "$site": "music",
-              "products": [],
-              "publicAltText": "Three abstract medium blue, light blue, and white rectangles decreasing in size and centered on a dark blue background.",
-              "publicDownload": [],
-              "$publishDate": "Tue Dec 10 18:39:03 EST 2019",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                  "height": 320,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                  "height": 60,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                  "height": 250,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                  "height": 200,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                  "height": 100,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
-                  "width": 100
-                }
-              ],
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "2020 Mutual Theme Music Album",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "2020 Mutual Theme Music Album",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "2020 Mutual Theme Music Album",
-              "shareableTitle": "2020 Mutual Theme Music Album",
-              "title": "2020 Mutual Theme Music Album"
-            },
-            "title": "I Can Do All Things",
-            "translator": []
-          },
-          "$id": "00000196-c6d8-d455-a9f6-dedccb5e0001",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6d8-d455-a9f6-dedccb5e0001",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
         }
       ]
     },

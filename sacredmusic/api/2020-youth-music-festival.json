@@ -44,147 +44,65 @@
       "voicings": [],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "64be7a602e56d7056e992135bd890e15de91921c",
-            "attributes": {},
-            "composer": [],
-            "description": "“Praise to the Lord” from 2020 Youth Music Festival (English).",
-            "distributionUrl": "https://assets.churchofjesuschrist.org/64/be/64be7a602e56d7056e992135bd890e15de91921c/praise_to_the_lord.mp3",
-            "duration": 168000,
-            "isPartOf": [],
-            "keywords": [
-              "music"
-            ],
-            "$lastUpdatedDate": "Mon Jul 21 23:18:09 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000177-abeb-d6c5-af7f-abeb6d7f0000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000177-abeb-d6c5-af7f-abeb6d7f0000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“Praise to the Lord” from 2020 Youth Music Festival (English).",
-            "publicDownload": [],
-            "$publishDate": "Tue Feb 16 12:37:48 EST 2021",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“Praise to the Lord” from 2020 Youth Music Festival (English).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "Praise to the Lord",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“Praise to the Lord” from 2020 Youth Music Festival (English).",
-            "shareableTitle": "Praise to the Lord",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "030eda914828ac2413ae9f1e686aaacfad853b2f",
-              "attributes": {},
-              "description": "Cover art for the 2020 Youth Music Festival: Hear the Voice of the Lord",
-              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/800,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
+          "distributionUrl": "https://assets.churchofjesuschrist.org/64/be/64be7a602e56d7056e992135bd890e15de91921c/praise_to_the_lord.mp3",
+          "duration": 168000,
+          "lang": "eng",
+          "title": "Praise to the Lord",
+          "description": "“Praise to the Lord” from 2020 Youth Music Festival (English).",
+          "seoDescription": "“Praise to the Lord” from 2020 Youth Music Festival (English).",
+          "seoTitle": "Praise to the Lord",
+          "shareableTitle": "Praise to the Lord",
+          "thumbnail": {
+            "description": "Cover art for the 2020 Youth Music Festival: Hear the Voice of the Lord",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/800,/0/default",
+            "seoDescription": "Cover art for the 2020 Youth Music Festival: Hear the Voice of the Lord",
+            "seoTitle": "2020 Youth Concert (Virtual Only)",
+            "shareableTitle": "2020 Youth Concert (Virtual Only)",
+            "title": "2020 Youth Concert (Virtual Only)",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
               },
-              "ipCode": "0 - IRI Owned",
-              "isPartOf": [],
-              "keywords": [
-                "Festivals",
-                "Covers",
-                "Music",
-                "Youth"
-              ],
-              "$lastUpdatedDate": "Mon Jul 21 23:18:22 EDT 2025",
-              "locatorIds": [],
-              "noindex": false,
-              "$id": "00000184-0ed3-d3a5-ab95-1ffb1bec0000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "00000184-0ed3-d3a5-ab95-1ffb1bec0000",
-              "$site": "music",
-              "products": [],
-              "publicAltText": "A brightly colored illustration with various colored instruments and technology including a yellow harp, gold trumpet, purple cello, orange guitar,pink piano, blue amp, and purple speaker. They are scattered about a stylized green mountain landscape that has a blue river in the middle with a circular sun above which has the words, \"Hear the voice of the Lord\". The piano has the words \"Uplift and Edify\" where the brand name would normally be.",
-              "publicDownload": [],
-              "$publishDate": "Tue Oct 25 07:07:07 EDT 2022",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!320%2C320/0/default",
-                  "height": 320,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!320%2C320/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!640%2C640/0/default",
-                  "height": 640,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!640%2C640/0/default",
-                  "width": 640
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!800%2C800/0/default",
-                  "height": 800,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!800%2C800/0/default",
-                  "width": 800
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!60%2C60/0/default",
-                  "height": 60,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!60%2C60/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!250%2C250/0/default",
-                  "height": 250,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!250%2C250/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!200%2C200/0/default",
-                  "height": 200,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!200%2C200/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!100%2C100/0/default",
-                  "height": 100,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!100%2C100/0/default",
-                  "width": 100
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!500%2C500/0/default",
-                  "height": 500,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!500%2C500/0/default",
-                  "width": 500
-                }
-              ],
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "Cover art for the 2020 Youth Music Festival: Hear the Voice of the Lord",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "2020 Youth Concert (Virtual Only)",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "Cover art for the 2020 Youth Music Festival: Hear the Voice of the Lord",
-              "shareableTitle": "2020 Youth Concert (Virtual Only)",
-              "title": "2020 Youth Concert (Virtual Only)"
-            },
-            "title": "Praise to the Lord",
-            "translator": []
-          },
-          "$id": "00000196-c6dc-d455-a9f6-dedc2c6c0000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6dc-d455-a9f6-dedc2c6c0000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
         }
       ]
     },
@@ -231,153 +149,65 @@
       "voicings": [],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "b4bae5677c1d9b23a7a100bf7d3d330d9b28ba30",
-            "attributes": {},
-            "composer": [],
-            "description": "“Good Day” from 2020 Youth Music Festival (English).",
-            "distributionUrl": "https://assets.churchofjesuschrist.org/b4/ba/b4bae5677c1d9b23a7a100bf7d3d330d9b28ba30/good_day_music_festival.mp3",
-            "duration": 163000,
-            "isPartOf": [],
-            "keywords": [
-              "music"
-            ],
-            "$lastUpdatedDate": "Mon Jul 21 23:18:09 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000177-ac3e-d1fa-a77f-bfbfda570001",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000177-ac3e-d1fa-a77f-bfbfda570001",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“Good Day” from 2020 Youth Music Festival (English).",
-            "publicDownload": [],
-            "$publishDate": "Tue Feb 16 14:08:56 EST 2021",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“Good Day” from 2020 Youth Music Festival (English).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "Good Day",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“Good Day” from 2020 Youth Music Festival (English).",
-            "shareableTitle": "Good Day",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "030eda914828ac2413ae9f1e686aaacfad853b2f",
-              "attributes": {},
-              "description": "Cover art for the 2020 Youth Music Festival: Hear the Voice of the Lord",
-              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/800,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
-              },
-              "ipCode": "0 - IRI Owned",
-              "isPartOf": [],
-              "keywords": [
-                "Festivals",
-                "Covers",
-                "Music",
-                "Youth"
-              ],
-              "$lastUpdatedDate": "Mon Jul 21 23:18:22 EDT 2025",
-              "locatorIds": [],
-              "noindex": false,
-              "$id": "00000184-0ed3-d3a5-ab95-1ffb1bec0000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "00000184-0ed3-d3a5-ab95-1ffb1bec0000",
-              "$site": "music",
-              "products": [],
-              "publicAltText": "A brightly colored illustration with various colored instruments and technology including a yellow harp, gold trumpet, purple cello, orange guitar,pink piano, blue amp, and purple speaker. They are scattered about a stylized green mountain landscape that has a blue river in the middle with a circular sun above which has the words, \"Hear the voice of the Lord\". The piano has the words \"Uplift and Edify\" where the brand name would normally be.",
-              "publicDownload": [],
-              "$publishDate": "Tue Oct 25 07:07:07 EDT 2022",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!320%2C320/0/default",
-                  "height": 320,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!320%2C320/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!640%2C640/0/default",
-                  "height": 640,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!640%2C640/0/default",
-                  "width": 640
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!800%2C800/0/default",
-                  "height": 800,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!800%2C800/0/default",
-                  "width": 800
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!60%2C60/0/default",
-                  "height": 60,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!60%2C60/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!250%2C250/0/default",
-                  "height": 250,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!250%2C250/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!200%2C200/0/default",
-                  "height": 200,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!200%2C200/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!100%2C100/0/default",
-                  "height": 100,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!100%2C100/0/default",
-                  "width": 100
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!500%2C500/0/default",
-                  "height": 500,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!500%2C500/0/default",
-                  "width": 500
-                }
-              ],
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "Cover art for the 2020 Youth Music Festival: Hear the Voice of the Lord",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "2020 Youth Concert (Virtual Only)",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "Cover art for the 2020 Youth Music Festival: Hear the Voice of the Lord",
-              "shareableTitle": "2020 Youth Concert (Virtual Only)",
-              "title": "2020 Youth Concert (Virtual Only)"
-            },
-            "title": "Good Day",
-            "transcription": [
+          "distributionUrl": "https://assets.churchofjesuschrist.org/b4/ba/b4bae5677c1d9b23a7a100bf7d3d330d9b28ba30/good_day_music_festival.mp3",
+          "duration": 163000,
+          "lang": "eng",
+          "title": "Good Day",
+          "description": "“Good Day” from 2020 Youth Music Festival (English).",
+          "seoDescription": "“Good Day” from 2020 Youth Music Festival (English).",
+          "seoTitle": "Good Day",
+          "shareableTitle": "Good Day",
+          "thumbnail": {
+            "description": "Cover art for the 2020 Youth Music Festival: Hear the Voice of the Lord",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/800,/0/default",
+            "seoDescription": "Cover art for the 2020 Youth Music Festival: Hear the Voice of the Lord",
+            "seoTitle": "2020 Youth Concert (Virtual Only)",
+            "shareableTitle": "2020 Youth Concert (Virtual Only)",
+            "title": "2020 Youth Concert (Virtual Only)",
+            "renditions": [
               {
-                "html": "<p>Performed by Liahona Olayan</p>",
-                "type": "html"
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
               }
-            ],
-            "translator": []
-          },
-          "$id": "00000196-c6dc-d455-a9f6-dedc2c8b0000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6dc-d455-a9f6-dedc2c8b0000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+            ]
+          }
         }
       ]
     },
@@ -423,147 +253,65 @@
       "voicings": [],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "35c0c2414f6d538e38c698d2ef89bc0d3175a848",
-            "attributes": {},
-            "composer": [],
-            "description": "“Luz del mundo” (Spanish) from 2020 Youth Music Festival (English).",
-            "distributionUrl": "https://assets.churchofjesuschrist.org/35/c0/35c0c2414f6d538e38c698d2ef89bc0d3175a848/luz_del_mundo_music_festival.mp3",
-            "duration": 231000,
-            "isPartOf": [],
-            "keywords": [
-              "music"
-            ],
-            "$lastUpdatedDate": "Mon Jul 21 23:18:09 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000177-ac3f-de74-a377-ecff33370000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000177-ac3f-de74-a377-ecff33370000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“Luz del mundo” (Spanish) from 2020 Youth Music Festival (English).",
-            "publicDownload": [],
-            "$publishDate": "Tue Feb 16 14:09:19 EST 2021",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“Luz del mundo” (Spanish) from 2020 Youth Music Festival (English).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "Luz del mundo",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“Luz del mundo” (Spanish) from 2020 Youth Music Festival (English).",
-            "shareableTitle": "Luz del mundo",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "030eda914828ac2413ae9f1e686aaacfad853b2f",
-              "attributes": {},
-              "description": "Cover art for the 2020 Youth Music Festival: Hear the Voice of the Lord",
-              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/800,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
+          "distributionUrl": "https://assets.churchofjesuschrist.org/35/c0/35c0c2414f6d538e38c698d2ef89bc0d3175a848/luz_del_mundo_music_festival.mp3",
+          "duration": 231000,
+          "lang": "eng",
+          "title": "Luz del mundo",
+          "description": "“Luz del mundo” (Spanish) from 2020 Youth Music Festival (English).",
+          "seoDescription": "“Luz del mundo” (Spanish) from 2020 Youth Music Festival (English).",
+          "seoTitle": "Luz del mundo",
+          "shareableTitle": "Luz del mundo",
+          "thumbnail": {
+            "description": "Cover art for the 2020 Youth Music Festival: Hear the Voice of the Lord",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/800,/0/default",
+            "seoDescription": "Cover art for the 2020 Youth Music Festival: Hear the Voice of the Lord",
+            "seoTitle": "2020 Youth Concert (Virtual Only)",
+            "shareableTitle": "2020 Youth Concert (Virtual Only)",
+            "title": "2020 Youth Concert (Virtual Only)",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
               },
-              "ipCode": "0 - IRI Owned",
-              "isPartOf": [],
-              "keywords": [
-                "Festivals",
-                "Covers",
-                "Music",
-                "Youth"
-              ],
-              "$lastUpdatedDate": "Mon Jul 21 23:18:22 EDT 2025",
-              "locatorIds": [],
-              "noindex": false,
-              "$id": "00000184-0ed3-d3a5-ab95-1ffb1bec0000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "00000184-0ed3-d3a5-ab95-1ffb1bec0000",
-              "$site": "music",
-              "products": [],
-              "publicAltText": "A brightly colored illustration with various colored instruments and technology including a yellow harp, gold trumpet, purple cello, orange guitar,pink piano, blue amp, and purple speaker. They are scattered about a stylized green mountain landscape that has a blue river in the middle with a circular sun above which has the words, \"Hear the voice of the Lord\". The piano has the words \"Uplift and Edify\" where the brand name would normally be.",
-              "publicDownload": [],
-              "$publishDate": "Tue Oct 25 07:07:07 EDT 2022",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!320%2C320/0/default",
-                  "height": 320,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!320%2C320/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!640%2C640/0/default",
-                  "height": 640,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!640%2C640/0/default",
-                  "width": 640
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!800%2C800/0/default",
-                  "height": 800,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!800%2C800/0/default",
-                  "width": 800
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!60%2C60/0/default",
-                  "height": 60,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!60%2C60/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!250%2C250/0/default",
-                  "height": 250,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!250%2C250/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!200%2C200/0/default",
-                  "height": 200,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!200%2C200/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!100%2C100/0/default",
-                  "height": 100,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!100%2C100/0/default",
-                  "width": 100
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!500%2C500/0/default",
-                  "height": 500,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!500%2C500/0/default",
-                  "width": 500
-                }
-              ],
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "Cover art for the 2020 Youth Music Festival: Hear the Voice of the Lord",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "2020 Youth Concert (Virtual Only)",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "Cover art for the 2020 Youth Music Festival: Hear the Voice of the Lord",
-              "shareableTitle": "2020 Youth Concert (Virtual Only)",
-              "title": "2020 Youth Concert (Virtual Only)"
-            },
-            "title": "Luz del mundo",
-            "translator": []
-          },
-          "$id": "00000196-c6dc-d455-a9f6-dedc2ca80000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6dc-d455-a9f6-dedc2ca80000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
         }
       ]
     },
@@ -610,147 +358,65 @@
       "voicings": [],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "dc4dae68cb82555790c0cec4d06dab7052f7026c",
-            "attributes": {},
-            "composer": [],
-            "description": "“Like Him” from 2020 Youth Music Festival (English).",
-            "distributionUrl": "https://assets.churchofjesuschrist.org/dc/4d/dc4dae68cb82555790c0cec4d06dab7052f7026c/like_him_music_festival.mp3",
-            "duration": 218000,
-            "isPartOf": [],
-            "keywords": [
-              "music"
-            ],
-            "$lastUpdatedDate": "Mon Jul 21 23:18:09 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000177-ac3f-dca7-a377-bfbfa2a80000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000177-ac3f-dca7-a377-bfbfa2a80000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“Like Him” from 2020 Youth Music Festival (English).",
-            "publicDownload": [],
-            "$publishDate": "Tue Feb 16 14:09:47 EST 2021",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“Like Him” from 2020 Youth Music Festival (English).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "Like Him",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“Like Him” from 2020 Youth Music Festival (English).",
-            "shareableTitle": "Like Him",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "030eda914828ac2413ae9f1e686aaacfad853b2f",
-              "attributes": {},
-              "description": "Cover art for the 2020 Youth Music Festival: Hear the Voice of the Lord",
-              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/800,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
+          "distributionUrl": "https://assets.churchofjesuschrist.org/dc/4d/dc4dae68cb82555790c0cec4d06dab7052f7026c/like_him_music_festival.mp3",
+          "duration": 218000,
+          "lang": "eng",
+          "title": "Like Him",
+          "description": "“Like Him” from 2020 Youth Music Festival (English).",
+          "seoDescription": "“Like Him” from 2020 Youth Music Festival (English).",
+          "seoTitle": "Like Him",
+          "shareableTitle": "Like Him",
+          "thumbnail": {
+            "description": "Cover art for the 2020 Youth Music Festival: Hear the Voice of the Lord",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/800,/0/default",
+            "seoDescription": "Cover art for the 2020 Youth Music Festival: Hear the Voice of the Lord",
+            "seoTitle": "2020 Youth Concert (Virtual Only)",
+            "shareableTitle": "2020 Youth Concert (Virtual Only)",
+            "title": "2020 Youth Concert (Virtual Only)",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
               },
-              "ipCode": "0 - IRI Owned",
-              "isPartOf": [],
-              "keywords": [
-                "Festivals",
-                "Covers",
-                "Music",
-                "Youth"
-              ],
-              "$lastUpdatedDate": "Mon Jul 21 23:18:22 EDT 2025",
-              "locatorIds": [],
-              "noindex": false,
-              "$id": "00000184-0ed3-d3a5-ab95-1ffb1bec0000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "00000184-0ed3-d3a5-ab95-1ffb1bec0000",
-              "$site": "music",
-              "products": [],
-              "publicAltText": "A brightly colored illustration with various colored instruments and technology including a yellow harp, gold trumpet, purple cello, orange guitar,pink piano, blue amp, and purple speaker. They are scattered about a stylized green mountain landscape that has a blue river in the middle with a circular sun above which has the words, \"Hear the voice of the Lord\". The piano has the words \"Uplift and Edify\" where the brand name would normally be.",
-              "publicDownload": [],
-              "$publishDate": "Tue Oct 25 07:07:07 EDT 2022",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!320%2C320/0/default",
-                  "height": 320,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!320%2C320/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!640%2C640/0/default",
-                  "height": 640,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!640%2C640/0/default",
-                  "width": 640
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!800%2C800/0/default",
-                  "height": 800,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!800%2C800/0/default",
-                  "width": 800
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!60%2C60/0/default",
-                  "height": 60,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!60%2C60/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!250%2C250/0/default",
-                  "height": 250,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!250%2C250/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!200%2C200/0/default",
-                  "height": 200,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!200%2C200/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!100%2C100/0/default",
-                  "height": 100,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!100%2C100/0/default",
-                  "width": 100
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!500%2C500/0/default",
-                  "height": 500,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!500%2C500/0/default",
-                  "width": 500
-                }
-              ],
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "Cover art for the 2020 Youth Music Festival: Hear the Voice of the Lord",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "2020 Youth Concert (Virtual Only)",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "Cover art for the 2020 Youth Music Festival: Hear the Voice of the Lord",
-              "shareableTitle": "2020 Youth Concert (Virtual Only)",
-              "title": "2020 Youth Concert (Virtual Only)"
-            },
-            "title": "Like Him",
-            "translator": []
-          },
-          "$id": "00000196-c6dc-d455-a9f6-dedc2ccb0000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6dc-d455-a9f6-dedc2ccb0000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
         }
       ]
     },
@@ -800,147 +466,65 @@
       "voicings": [],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "2acadc7b0fd39dd2e3438cdf8d3c147a68a866b2",
-            "attributes": {},
-            "composer": [],
-            "description": "“¿Qué piensa Él?” (Spanish) from 2020 Youth Music Festival (English).",
-            "distributionUrl": "https://assets.churchofjesuschrist.org/2a/ca/2acadc7b0fd39dd2e3438cdf8d3c147a68a866b2/what_does_he_think_music_festival.mp3",
-            "duration": 185000,
-            "isPartOf": [],
-            "keywords": [
-              "music"
-            ],
-            "$lastUpdatedDate": "Mon Jul 21 23:18:10 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000177-ac3f-dcff-a977-fe3ff2f60000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000177-ac3f-dcff-a977-fe3ff2f60000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“¿Qué piensa Él?” (Spanish) from 2020 Youth Music Festival (English).",
-            "publicDownload": [],
-            "$publishDate": "Tue Feb 16 14:10:08 EST 2021",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“¿Qué piensa Él?” (Spanish) from 2020 Youth Music Festival (English).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "¿Qué piensa Él?",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“¿Qué piensa Él?” (Spanish) from 2020 Youth Music Festival (English).",
-            "shareableTitle": "¿Qué piensa Él?",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "030eda914828ac2413ae9f1e686aaacfad853b2f",
-              "attributes": {},
-              "description": "Cover art for the 2020 Youth Music Festival: Hear the Voice of the Lord",
-              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/800,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
+          "distributionUrl": "https://assets.churchofjesuschrist.org/2a/ca/2acadc7b0fd39dd2e3438cdf8d3c147a68a866b2/what_does_he_think_music_festival.mp3",
+          "duration": 185000,
+          "lang": "eng",
+          "title": "¿Qué piensa Él?",
+          "description": "“¿Qué piensa Él?” (Spanish) from 2020 Youth Music Festival (English).",
+          "seoDescription": "“¿Qué piensa Él?” (Spanish) from 2020 Youth Music Festival (English).",
+          "seoTitle": "¿Qué piensa Él?",
+          "shareableTitle": "¿Qué piensa Él?",
+          "thumbnail": {
+            "description": "Cover art for the 2020 Youth Music Festival: Hear the Voice of the Lord",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/800,/0/default",
+            "seoDescription": "Cover art for the 2020 Youth Music Festival: Hear the Voice of the Lord",
+            "seoTitle": "2020 Youth Concert (Virtual Only)",
+            "shareableTitle": "2020 Youth Concert (Virtual Only)",
+            "title": "2020 Youth Concert (Virtual Only)",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
               },
-              "ipCode": "0 - IRI Owned",
-              "isPartOf": [],
-              "keywords": [
-                "Festivals",
-                "Covers",
-                "Music",
-                "Youth"
-              ],
-              "$lastUpdatedDate": "Mon Jul 21 23:18:22 EDT 2025",
-              "locatorIds": [],
-              "noindex": false,
-              "$id": "00000184-0ed3-d3a5-ab95-1ffb1bec0000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "00000184-0ed3-d3a5-ab95-1ffb1bec0000",
-              "$site": "music",
-              "products": [],
-              "publicAltText": "A brightly colored illustration with various colored instruments and technology including a yellow harp, gold trumpet, purple cello, orange guitar,pink piano, blue amp, and purple speaker. They are scattered about a stylized green mountain landscape that has a blue river in the middle with a circular sun above which has the words, \"Hear the voice of the Lord\". The piano has the words \"Uplift and Edify\" where the brand name would normally be.",
-              "publicDownload": [],
-              "$publishDate": "Tue Oct 25 07:07:07 EDT 2022",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!320%2C320/0/default",
-                  "height": 320,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!320%2C320/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!640%2C640/0/default",
-                  "height": 640,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!640%2C640/0/default",
-                  "width": 640
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!800%2C800/0/default",
-                  "height": 800,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!800%2C800/0/default",
-                  "width": 800
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!60%2C60/0/default",
-                  "height": 60,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!60%2C60/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!250%2C250/0/default",
-                  "height": 250,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!250%2C250/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!200%2C200/0/default",
-                  "height": 200,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!200%2C200/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!100%2C100/0/default",
-                  "height": 100,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!100%2C100/0/default",
-                  "width": 100
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!500%2C500/0/default",
-                  "height": 500,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!500%2C500/0/default",
-                  "width": 500
-                }
-              ],
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "Cover art for the 2020 Youth Music Festival: Hear the Voice of the Lord",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "2020 Youth Concert (Virtual Only)",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "Cover art for the 2020 Youth Music Festival: Hear the Voice of the Lord",
-              "shareableTitle": "2020 Youth Concert (Virtual Only)",
-              "title": "2020 Youth Concert (Virtual Only)"
-            },
-            "title": "¿Qué piensa Él?",
-            "translator": []
-          },
-          "$id": "00000196-c6dc-d455-a9f6-dedc2cf20000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6dc-d455-a9f6-dedc2cf20000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
         }
       ]
     },
@@ -990,147 +574,65 @@
       "voicings": [],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "0b5eb8e7c7a71e4788a1dd8430c1b24abaa46c25",
-            "attributes": {},
-            "composer": [],
-            "description": "“Belo é o Salvador” (Portuguese) from 2020 Youth Music Festival (English).",
-            "distributionUrl": "https://assets.churchofjesuschrist.org/0b/5e/0b5eb8e7c7a71e4788a1dd8430c1b24abaa46c25/beautiful_savior_music_festival.mp3",
-            "duration": 118000,
-            "isPartOf": [],
-            "keywords": [
-              "music"
-            ],
-            "$lastUpdatedDate": "Mon Jul 21 23:18:10 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000177-ac40-dcfb-abf7-fdfc6a2a0000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000177-ac40-dcfb-abf7-fdfc6a2a0000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“Belo é o Salvador” (Portuguese) from 2020 Youth Music Festival (English).",
-            "publicDownload": [],
-            "$publishDate": "Tue Feb 16 14:10:38 EST 2021",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“Belo é o Salvador” (Portuguese) from 2020 Youth Music Festival (English).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "Belo é o Salvador",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“Belo é o Salvador” (Portuguese) from 2020 Youth Music Festival (English).",
-            "shareableTitle": "Belo é o Salvador",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "030eda914828ac2413ae9f1e686aaacfad853b2f",
-              "attributes": {},
-              "description": "Cover art for the 2020 Youth Music Festival: Hear the Voice of the Lord",
-              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/800,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
+          "distributionUrl": "https://assets.churchofjesuschrist.org/0b/5e/0b5eb8e7c7a71e4788a1dd8430c1b24abaa46c25/beautiful_savior_music_festival.mp3",
+          "duration": 118000,
+          "lang": "eng",
+          "title": "Belo é o Salvador",
+          "description": "“Belo é o Salvador” (Portuguese) from 2020 Youth Music Festival (English).",
+          "seoDescription": "“Belo é o Salvador” (Portuguese) from 2020 Youth Music Festival (English).",
+          "seoTitle": "Belo é o Salvador",
+          "shareableTitle": "Belo é o Salvador",
+          "thumbnail": {
+            "description": "Cover art for the 2020 Youth Music Festival: Hear the Voice of the Lord",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/800,/0/default",
+            "seoDescription": "Cover art for the 2020 Youth Music Festival: Hear the Voice of the Lord",
+            "seoTitle": "2020 Youth Concert (Virtual Only)",
+            "shareableTitle": "2020 Youth Concert (Virtual Only)",
+            "title": "2020 Youth Concert (Virtual Only)",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
               },
-              "ipCode": "0 - IRI Owned",
-              "isPartOf": [],
-              "keywords": [
-                "Festivals",
-                "Covers",
-                "Music",
-                "Youth"
-              ],
-              "$lastUpdatedDate": "Mon Jul 21 23:18:22 EDT 2025",
-              "locatorIds": [],
-              "noindex": false,
-              "$id": "00000184-0ed3-d3a5-ab95-1ffb1bec0000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "00000184-0ed3-d3a5-ab95-1ffb1bec0000",
-              "$site": "music",
-              "products": [],
-              "publicAltText": "A brightly colored illustration with various colored instruments and technology including a yellow harp, gold trumpet, purple cello, orange guitar,pink piano, blue amp, and purple speaker. They are scattered about a stylized green mountain landscape that has a blue river in the middle with a circular sun above which has the words, \"Hear the voice of the Lord\". The piano has the words \"Uplift and Edify\" where the brand name would normally be.",
-              "publicDownload": [],
-              "$publishDate": "Tue Oct 25 07:07:07 EDT 2022",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!320%2C320/0/default",
-                  "height": 320,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!320%2C320/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!640%2C640/0/default",
-                  "height": 640,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!640%2C640/0/default",
-                  "width": 640
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!800%2C800/0/default",
-                  "height": 800,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!800%2C800/0/default",
-                  "width": 800
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!60%2C60/0/default",
-                  "height": 60,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!60%2C60/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!250%2C250/0/default",
-                  "height": 250,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!250%2C250/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!200%2C200/0/default",
-                  "height": 200,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!200%2C200/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!100%2C100/0/default",
-                  "height": 100,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!100%2C100/0/default",
-                  "width": 100
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!500%2C500/0/default",
-                  "height": 500,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!500%2C500/0/default",
-                  "width": 500
-                }
-              ],
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "Cover art for the 2020 Youth Music Festival: Hear the Voice of the Lord",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "2020 Youth Concert (Virtual Only)",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "Cover art for the 2020 Youth Music Festival: Hear the Voice of the Lord",
-              "shareableTitle": "2020 Youth Concert (Virtual Only)",
-              "title": "2020 Youth Concert (Virtual Only)"
-            },
-            "title": "Belo é o Salvador",
-            "translator": []
-          },
-          "$id": "00000196-c6dc-d455-a9f6-dedc2d120000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6dc-d455-a9f6-dedc2d120000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
         }
       ]
     },
@@ -1180,147 +682,65 @@
       "voicings": [],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "793791fe479ed7ae5c090d7382463a9fbb98b4b9",
-            "attributes": {},
-            "composer": [],
-            "description": "“Peace in Christ” from 2020 Youth Music Festival (English).",
-            "distributionUrl": "https://assets.churchofjesuschrist.org/79/37/793791fe479ed7ae5c090d7382463a9fbb98b4b9/peace_in_christ_music_festival.mp3",
-            "duration": 212000,
-            "isPartOf": [],
-            "keywords": [
-              "music"
-            ],
-            "$lastUpdatedDate": "Mon Jul 21 23:18:10 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000177-ac40-d32f-a5f7-adc2c7940001",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000177-ac40-d32f-a5f7-adc2c7940001",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“Peace in Christ” from 2020 Youth Music Festival (English).",
-            "publicDownload": [],
-            "$publishDate": "Tue Feb 16 14:11:02 EST 2021",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“Peace in Christ” from 2020 Youth Music Festival (English).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "Peace in Christ",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“Peace in Christ” from 2020 Youth Music Festival (English).",
-            "shareableTitle": "Peace in Christ",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "030eda914828ac2413ae9f1e686aaacfad853b2f",
-              "attributes": {},
-              "description": "Cover art for the 2020 Youth Music Festival: Hear the Voice of the Lord",
-              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/800,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
+          "distributionUrl": "https://assets.churchofjesuschrist.org/79/37/793791fe479ed7ae5c090d7382463a9fbb98b4b9/peace_in_christ_music_festival.mp3",
+          "duration": 212000,
+          "lang": "eng",
+          "title": "Peace in Christ",
+          "description": "“Peace in Christ” from 2020 Youth Music Festival (English).",
+          "seoDescription": "“Peace in Christ” from 2020 Youth Music Festival (English).",
+          "seoTitle": "Peace in Christ",
+          "shareableTitle": "Peace in Christ",
+          "thumbnail": {
+            "description": "Cover art for the 2020 Youth Music Festival: Hear the Voice of the Lord",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/800,/0/default",
+            "seoDescription": "Cover art for the 2020 Youth Music Festival: Hear the Voice of the Lord",
+            "seoTitle": "2020 Youth Concert (Virtual Only)",
+            "shareableTitle": "2020 Youth Concert (Virtual Only)",
+            "title": "2020 Youth Concert (Virtual Only)",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
               },
-              "ipCode": "0 - IRI Owned",
-              "isPartOf": [],
-              "keywords": [
-                "Festivals",
-                "Covers",
-                "Music",
-                "Youth"
-              ],
-              "$lastUpdatedDate": "Mon Jul 21 23:18:22 EDT 2025",
-              "locatorIds": [],
-              "noindex": false,
-              "$id": "00000184-0ed3-d3a5-ab95-1ffb1bec0000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "00000184-0ed3-d3a5-ab95-1ffb1bec0000",
-              "$site": "music",
-              "products": [],
-              "publicAltText": "A brightly colored illustration with various colored instruments and technology including a yellow harp, gold trumpet, purple cello, orange guitar,pink piano, blue amp, and purple speaker. They are scattered about a stylized green mountain landscape that has a blue river in the middle with a circular sun above which has the words, \"Hear the voice of the Lord\". The piano has the words \"Uplift and Edify\" where the brand name would normally be.",
-              "publicDownload": [],
-              "$publishDate": "Tue Oct 25 07:07:07 EDT 2022",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!320%2C320/0/default",
-                  "height": 320,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!320%2C320/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!640%2C640/0/default",
-                  "height": 640,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!640%2C640/0/default",
-                  "width": 640
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!800%2C800/0/default",
-                  "height": 800,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!800%2C800/0/default",
-                  "width": 800
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!60%2C60/0/default",
-                  "height": 60,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!60%2C60/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!250%2C250/0/default",
-                  "height": 250,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!250%2C250/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!200%2C200/0/default",
-                  "height": 200,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!200%2C200/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!100%2C100/0/default",
-                  "height": 100,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!100%2C100/0/default",
-                  "width": 100
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!500%2C500/0/default",
-                  "height": 500,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!500%2C500/0/default",
-                  "width": 500
-                }
-              ],
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "Cover art for the 2020 Youth Music Festival: Hear the Voice of the Lord",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "2020 Youth Concert (Virtual Only)",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "Cover art for the 2020 Youth Music Festival: Hear the Voice of the Lord",
-              "shareableTitle": "2020 Youth Concert (Virtual Only)",
-              "title": "2020 Youth Concert (Virtual Only)"
-            },
-            "title": "Peace in Christ",
-            "translator": []
-          },
-          "$id": "00000196-c6dc-d455-a9f6-dedc2d300000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6dc-d455-a9f6-dedc2d300000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
         }
       ]
     },
@@ -1369,147 +789,65 @@
       "voicings": [],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "78ba7c1312d0e2a898e25b1e0d6623d96e1a6ea8",
-            "attributes": {},
-            "composer": [],
-            "description": "“I WIll Go and Do” (International Version) from 2020 Youth Music Festival (English).",
-            "distributionUrl": "https://assets.churchofjesuschrist.org/78/ba/78ba7c1312d0e2a898e25b1e0d6623d96e1a6ea8/i_will_go_and_do_music_festival.mp3",
-            "duration": 233000,
-            "isPartOf": [],
-            "keywords": [
-              "music"
-            ],
-            "$lastUpdatedDate": "Mon Jul 21 23:18:10 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000177-ac41-d398-a1ff-fc631de90000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000177-ac41-d398-a1ff-fc631de90000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“I WIll Go and Do” (International Version) from 2020 Youth Music Festival (English).",
-            "publicDownload": [],
-            "$publishDate": "Tue Feb 16 14:11:24 EST 2021",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“I WIll Go and Do” (International Version) from 2020 Youth Music Festival (English).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "I WIll Go and Do",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“I WIll Go and Do” (International Version) from 2020 Youth Music Festival (English).",
-            "shareableTitle": "I WIll Go and Do",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "030eda914828ac2413ae9f1e686aaacfad853b2f",
-              "attributes": {},
-              "description": "Cover art for the 2020 Youth Music Festival: Hear the Voice of the Lord",
-              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/800,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
+          "distributionUrl": "https://assets.churchofjesuschrist.org/78/ba/78ba7c1312d0e2a898e25b1e0d6623d96e1a6ea8/i_will_go_and_do_music_festival.mp3",
+          "duration": 233000,
+          "lang": "eng",
+          "title": "I WIll Go and Do",
+          "description": "“I WIll Go and Do” (International Version) from 2020 Youth Music Festival (English).",
+          "seoDescription": "“I WIll Go and Do” (International Version) from 2020 Youth Music Festival (English).",
+          "seoTitle": "I WIll Go and Do",
+          "shareableTitle": "I WIll Go and Do",
+          "thumbnail": {
+            "description": "Cover art for the 2020 Youth Music Festival: Hear the Voice of the Lord",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/800,/0/default",
+            "seoDescription": "Cover art for the 2020 Youth Music Festival: Hear the Voice of the Lord",
+            "seoTitle": "2020 Youth Concert (Virtual Only)",
+            "shareableTitle": "2020 Youth Concert (Virtual Only)",
+            "title": "2020 Youth Concert (Virtual Only)",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
               },
-              "ipCode": "0 - IRI Owned",
-              "isPartOf": [],
-              "keywords": [
-                "Festivals",
-                "Covers",
-                "Music",
-                "Youth"
-              ],
-              "$lastUpdatedDate": "Mon Jul 21 23:18:22 EDT 2025",
-              "locatorIds": [],
-              "noindex": false,
-              "$id": "00000184-0ed3-d3a5-ab95-1ffb1bec0000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "00000184-0ed3-d3a5-ab95-1ffb1bec0000",
-              "$site": "music",
-              "products": [],
-              "publicAltText": "A brightly colored illustration with various colored instruments and technology including a yellow harp, gold trumpet, purple cello, orange guitar,pink piano, blue amp, and purple speaker. They are scattered about a stylized green mountain landscape that has a blue river in the middle with a circular sun above which has the words, \"Hear the voice of the Lord\". The piano has the words \"Uplift and Edify\" where the brand name would normally be.",
-              "publicDownload": [],
-              "$publishDate": "Tue Oct 25 07:07:07 EDT 2022",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!320%2C320/0/default",
-                  "height": 320,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!320%2C320/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!640%2C640/0/default",
-                  "height": 640,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!640%2C640/0/default",
-                  "width": 640
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!800%2C800/0/default",
-                  "height": 800,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!800%2C800/0/default",
-                  "width": 800
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!60%2C60/0/default",
-                  "height": 60,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!60%2C60/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!250%2C250/0/default",
-                  "height": 250,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!250%2C250/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!200%2C200/0/default",
-                  "height": 200,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!200%2C200/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!100%2C100/0/default",
-                  "height": 100,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!100%2C100/0/default",
-                  "width": 100
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!500%2C500/0/default",
-                  "height": 500,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!500%2C500/0/default",
-                  "width": 500
-                }
-              ],
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "Cover art for the 2020 Youth Music Festival: Hear the Voice of the Lord",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "2020 Youth Concert (Virtual Only)",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "Cover art for the 2020 Youth Music Festival: Hear the Voice of the Lord",
-              "shareableTitle": "2020 Youth Concert (Virtual Only)",
-              "title": "2020 Youth Concert (Virtual Only)"
-            },
-            "title": "I WIll Go and Do",
-            "translator": []
-          },
-          "$id": "00000196-c6dc-d455-a9f6-dedc2d510000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6dc-d455-a9f6-dedc2d510000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
         }
       ]
     },
@@ -1559,147 +897,65 @@
       "voicings": [],
       "assets": [
         {
-          "annotatedFields": {},
           "assetType": "AUDIO_VOCAL",
-          "attributes": {},
-          "locatorIds": [],
-          "mediaObject": {
-            "annotatedFields": {},
-            "arranger": [],
-            "assetID": "376e0984587302eefc86bfb9b3bd970585932aa6",
-            "attributes": {},
-            "composer": [],
-            "description": "“Strong” from 2020 Youth Music Festival (English).",
-            "distributionUrl": "https://assets.churchofjesuschrist.org/37/6e/376e0984587302eefc86bfb9b3bd970585932aa6/strong_music_festival.mp3",
-            "duration": 190000,
-            "isPartOf": [],
-            "keywords": [
-              "music"
-            ],
-            "$lastUpdatedDate": "Mon Jul 21 23:18:11 EDT 2025",
-            "locatorIds": [],
-            "lyricist": [],
-            "noindex": false,
-            "$id": "00000177-ac41-d1ae-af7f-fced7cba0000",
-            "$lang": "eng",
-            "$model": "audio",
-            "$rootId": "00000177-ac41-d1ae-af7f-fced7cba0000",
-            "$site": "music",
-            "performer": [],
-            "products": [],
-            "publicAltText": "“Strong” from 2020 Youth Music Festival (English).",
-            "publicDownload": [],
-            "$publishDate": "Tue Feb 16 14:11:48 EST 2021",
-            "$publishStatus": "PUBLISHED",
-            "related": [],
-            "requiredAssets": [],
-            "sameAs": [],
-            "seoDescription": "“Strong” from 2020 Youth Music Festival (English).",
-            "seoDescriptionAiGenerated": false,
-            "seoTitle": "Strong",
-            "seoTitleAiGenerated": false,
-            "shareableDescription": "“Strong” from 2020 Youth Music Festival (English).",
-            "shareableTitle": "Strong",
-            "thumbnail": {
-              "annotatedFields": {},
-              "assetID": "030eda914828ac2413ae9f1e686aaacfad853b2f",
-              "attributes": {},
-              "description": "Cover art for the 2020 Youth Music Festival: Hear the Voice of the Lord",
-              "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/800,/0/default",
-              "focalPoint": {
-                "x": "50.00%",
-                "y": "50.00%"
+          "distributionUrl": "https://assets.churchofjesuschrist.org/37/6e/376e0984587302eefc86bfb9b3bd970585932aa6/strong_music_festival.mp3",
+          "duration": 190000,
+          "lang": "eng",
+          "title": "Strong",
+          "description": "“Strong” from 2020 Youth Music Festival (English).",
+          "seoDescription": "“Strong” from 2020 Youth Music Festival (English).",
+          "seoTitle": "Strong",
+          "shareableTitle": "Strong",
+          "thumbnail": {
+            "description": "Cover art for the 2020 Youth Music Festival: Hear the Voice of the Lord",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/800,/0/default",
+            "seoDescription": "Cover art for the 2020 Youth Music Festival: Hear the Voice of the Lord",
+            "seoTitle": "2020 Youth Concert (Virtual Only)",
+            "shareableTitle": "2020 Youth Concert (Virtual Only)",
+            "title": "2020 Youth Concert (Virtual Only)",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
               },
-              "ipCode": "0 - IRI Owned",
-              "isPartOf": [],
-              "keywords": [
-                "Festivals",
-                "Covers",
-                "Music",
-                "Youth"
-              ],
-              "$lastUpdatedDate": "Mon Jul 21 23:18:22 EDT 2025",
-              "locatorIds": [],
-              "noindex": false,
-              "$id": "00000184-0ed3-d3a5-ab95-1ffb1bec0000",
-              "$lang": "eng",
-              "$model": "image",
-              "$rootId": "00000184-0ed3-d3a5-ab95-1ffb1bec0000",
-              "$site": "music",
-              "products": [],
-              "publicAltText": "A brightly colored illustration with various colored instruments and technology including a yellow harp, gold trumpet, purple cello, orange guitar,pink piano, blue amp, and purple speaker. They are scattered about a stylized green mountain landscape that has a blue river in the middle with a circular sun above which has the words, \"Hear the voice of the Lord\". The piano has the words \"Uplift and Edify\" where the brand name would normally be.",
-              "publicDownload": [],
-              "$publishDate": "Tue Oct 25 07:07:07 EDT 2022",
-              "$publishStatus": "PUBLISHED",
-              "related": [],
-              "renditions": [
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!320%2C320/0/default",
-                  "height": 320,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!320%2C320/0/default",
-                  "width": 320
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!640%2C640/0/default",
-                  "height": 640,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!640%2C640/0/default",
-                  "width": 640
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!800%2C800/0/default",
-                  "height": 800,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!800%2C800/0/default",
-                  "width": 800
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!60%2C60/0/default",
-                  "height": 60,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!60%2C60/0/default",
-                  "width": 60
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!250%2C250/0/default",
-                  "height": 250,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!250%2C250/0/default",
-                  "width": 250
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!200%2C200/0/default",
-                  "height": 200,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!200%2C200/0/default",
-                  "width": 200
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!100%2C100/0/default",
-                  "height": 100,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!100%2C100/0/default",
-                  "width": 100
-                },
-                {
-                  "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!500%2C500/0/default",
-                  "height": 500,
-                  "webpDistributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!500%2C500/0/default",
-                  "width": 500
-                }
-              ],
-              "requiredAssets": [],
-              "sameAs": [],
-              "seoDescription": "Cover art for the 2020 Youth Music Festival: Hear the Voice of the Lord",
-              "seoDescriptionAiGenerated": false,
-              "seoTitle": "2020 Youth Concert (Virtual Only)",
-              "seoTitleAiGenerated": false,
-              "shareableDescription": "Cover art for the 2020 Youth Music Festival: Hear the Voice of the Lord",
-              "shareableTitle": "2020 Youth Concert (Virtual Only)",
-              "title": "2020 Youth Concert (Virtual Only)"
-            },
-            "title": "Strong",
-            "translator": []
-          },
-          "$id": "00000196-c6dc-d455-a9f6-dedc2d760000",
-          "$model": "assetPurpose",
-          "$rootId": "00000196-c6dc-d455-a9f6-dedc2d760000",
-          "$site": "music",
-          "$publishStatus": "PUBLISHED"
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/030eda914828ac2413ae9f1e686aaacfad853b2f/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
         }
       ]
     },
