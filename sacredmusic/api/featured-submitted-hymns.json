@@ -557,55 +557,6 @@
       ]
     },
     {
-      "title": "Our Prayer to Thee",
-      "slug": "our-prayer-to-thee",
-      "bookSlug": "featured-submitted-hymns",
-      "songNumber": "",
-      "arrangers": [
-        {
-          "personName": "Mack Wilberg"
-        }
-      ],
-      "artists": [],
-      "authors": [
-        {
-          "personName": "Russell M. Nelson"
-        }
-      ],
-      "composers": [
-        {
-          "personName": "Joseph Parry"
-        }
-      ],
-      "instrumentations": [
-        {
-          "name": "Voice"
-        },
-        {
-          "name": "Piano"
-        },
-        {
-          "name": "Organ"
-        }
-      ],
-      "musicalFeatures": [],
-      "recordingAvailable": false,
-      "sheetMusicAvailable": true,
-      "videoAvailable": false,
-      "tags": [
-        "Heavenly Father",
-        "gratitude",
-        "prayer",
-        "worship"
-      ],
-      "voicings": [
-        {
-          "name": "SATB"
-        }
-      ],
-      "assets": []
-    },
-    {
       "title": "RIse Up, Ye Saints, Rejoice!",
       "slug": "rise-up-ye-saints-rejoice",
       "bookSlug": "featured-submitted-hymns",

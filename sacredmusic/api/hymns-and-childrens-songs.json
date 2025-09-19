@@ -6720,7 +6720,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "Word of Wisdom",
         "agency",
@@ -6887,7 +6887,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "accountability",
         "example",
@@ -7074,7 +7074,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "agency",
         "courage"

@@ -30,7 +30,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "Heavenly Father",
         "child of God",
@@ -52,6 +52,67 @@
         }
       ],
       "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/91/27/912795cd54d3183f613a0749b8d2d072ac20c207/soy_un_hijo_de_diosmusica_solo.mp3",
+          "duration": 201000,
+          "lang": "eng",
+          "title": "I Am a Child of God",
+          "description": "“I Am a Child of God” from Children’s Songbook (English).",
+          "seoDescription": "“I Am a Child of God” from Children’s Songbook (English).",
+          "seoTitle": "I Am a Child of God",
+          "shareableTitle": "I Am a Child of God",
+          "thumbnail": {
+            "description": "Cover art for the Children’s Songbook.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/800,/0/default",
+            "seoDescription": "Cover art for the Children's Songbook.",
+            "seoTitle": "Children's Songbook",
+            "shareableTitle": "Children's Songbook",
+            "title": "Children’s Songbook",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
         {
           "assetType": "AUDIO_VOCAL_CHILDREN",
           "distributionUrl": "https://assets.churchofjesuschrist.org/47/1e/471e71713878b0aae818d208a1a2f2c73dc8bd29/i_am_a_child_of_god_vocal_accompaniment_eng.mp3",
@@ -127,67 +188,6 @@
               }
             ]
           }
-        },
-        {
-          "assetType": "AUDIO_ACCOMPANIMENT",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/91/27/912795cd54d3183f613a0749b8d2d072ac20c207/soy_un_hijo_de_diosmusica_solo.mp3",
-          "duration": 201000,
-          "lang": "eng",
-          "title": "I Am a Child of God",
-          "description": "“I Am a Child of God” from Children’s Songbook (English).",
-          "seoDescription": "“I Am a Child of God” from Children’s Songbook (English).",
-          "seoTitle": "I Am a Child of God",
-          "shareableTitle": "I Am a Child of God",
-          "thumbnail": {
-            "description": "Cover art for the Children’s Songbook.",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/800,/0/default",
-            "seoDescription": "Cover art for the Children's Songbook.",
-            "seoTitle": "Children's Songbook",
-            "shareableTitle": "Children's Songbook",
-            "title": "Children’s Songbook",
-            "renditions": [
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!320%2C320/0/default",
-                "width": 320,
-                "height": 320
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!640%2C640/0/default",
-                "width": 640,
-                "height": 640
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!800%2C800/0/default",
-                "width": 800,
-                "height": 800
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!60%2C60/0/default",
-                "width": 60,
-                "height": 60
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!250%2C250/0/default",
-                "width": 250,
-                "height": 250
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!200%2C200/0/default",
-                "width": 200,
-                "height": 200
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!100%2C100/0/default",
-                "width": 100,
-                "height": 100
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!500%2C500/0/default",
-                "width": 500,
-                "height": 500
-              }
-            ]
-          }
         }
       ]
     },
@@ -220,7 +220,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "Atonement of Jesus Christ",
         "Heavenly Father",
@@ -1407,7 +1407,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "Jesus Christ",
         "child of God",
@@ -1574,7 +1574,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "Heavenly Father",
         "Jesus Christ",
@@ -4725,7 +4725,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "Heavenly Father",
         "Jesus Christ",
@@ -4896,7 +4896,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "Atonement of Jesus Christ",
         "Heavenly Father",
@@ -5034,7 +5034,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "Christmas",
         "Jesus Christ",
@@ -6086,7 +6086,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "Christmas",
         "Jesus Christ",
@@ -7126,7 +7126,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "Christmas",
         "Jesus Christ"
@@ -7287,7 +7287,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "Jesus Christ",
         "example",
@@ -7631,7 +7631,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "Jesus Christ",
         "Jesus Christ's ministry",
@@ -7644,6 +7644,67 @@
         }
       ],
       "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/66/80/6680587986e6438a18b3165088d60a5b5db88ce1/dime_la_historia_de_cristomusica_solo.mp3",
+          "duration": 116000,
+          "lang": "eng",
+          "title": "Tell Me the Stories of Jesus",
+          "description": "“Tell Me the Stories of Jesus” from Children’s Songbook (English).",
+          "seoDescription": "“Tell Me the Stories of Jesus” from Children’s Songbook (English).",
+          "seoTitle": "Tell Me the Stories of Jesus",
+          "shareableTitle": "Tell Me the Stories of Jesus",
+          "thumbnail": {
+            "description": "Cover art for the Children’s Songbook.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/800,/0/default",
+            "seoDescription": "Cover art for the Children's Songbook.",
+            "seoTitle": "Children's Songbook",
+            "shareableTitle": "Children's Songbook",
+            "title": "Children’s Songbook",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
         {
           "assetType": "AUDIO_VOCAL_CHILDREN",
           "distributionUrl": "https://assets.churchofjesuschrist.org/59/35/5935bb58f00099444de61728093e64fa50134988/tell_me_the_stories_of_jesus_vocal_accompaniment_eng.mp3",
@@ -7711,67 +7772,6 @@
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ab83c246bb7b920a3743af65d13fa91f17cca36c/full/!500%2C263/0/default",
                 "width": 500,
                 "height": 263
-              }
-            ]
-          }
-        },
-        {
-          "assetType": "AUDIO_ACCOMPANIMENT",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/66/80/6680587986e6438a18b3165088d60a5b5db88ce1/dime_la_historia_de_cristomusica_solo.mp3",
-          "duration": 116000,
-          "lang": "eng",
-          "title": "Tell Me the Stories of Jesus",
-          "description": "“Tell Me the Stories of Jesus” from Children’s Songbook (English).",
-          "seoDescription": "“Tell Me the Stories of Jesus” from Children’s Songbook (English).",
-          "seoTitle": "Tell Me the Stories of Jesus",
-          "shareableTitle": "Tell Me the Stories of Jesus",
-          "thumbnail": {
-            "description": "Cover art for the Children’s Songbook.",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/800,/0/default",
-            "seoDescription": "Cover art for the Children's Songbook.",
-            "seoTitle": "Children's Songbook",
-            "shareableTitle": "Children's Songbook",
-            "title": "Children’s Songbook",
-            "renditions": [
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!320%2C320/0/default",
-                "width": 320,
-                "height": 320
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!640%2C640/0/default",
-                "width": 640,
-                "height": 640
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!800%2C800/0/default",
-                "width": 800,
-                "height": 800
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!60%2C60/0/default",
-                "width": 60,
-                "height": 60
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!250%2C250/0/default",
-                "width": 250,
-                "height": 250
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!200%2C200/0/default",
-                "width": 200,
-                "height": 200
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!100%2C100/0/default",
-                "width": 100,
-                "height": 100
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!500%2C500/0/default",
-                "width": 500,
-                "height": 500
               }
             ]
           }
@@ -8299,7 +8299,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "Jesus Christ's ministry",
         "kindness",
@@ -8555,7 +8555,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "Easter",
         "Jesus Christ",
@@ -8973,7 +8973,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "Easter",
         "Jesus Christ",
@@ -9137,7 +9137,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "Easter",
         "Jesus Christ",
@@ -9852,7 +9852,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "Holy Ghost",
         "Jesus Christ",
@@ -10042,7 +10042,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "Heavenly Father",
         "Jesus Christ",
@@ -10168,7 +10168,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "Jesus Christ",
         "child of God",
@@ -10185,67 +10185,6 @@
         }
       ],
       "assets": [
-        {
-          "assetType": "AUDIO_VOCAL_CHILDREN",
-          "distributionUrl": "https://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0730-the-church-of-jesus-christ-words-and-music-192k-eng.mp3",
-          "duration": 54000,
-          "lang": "eng",
-          "title": "The Church of Jesus Christ",
-          "description": "“The Church of Jesus Christ” from Selected Hymns (English).",
-          "seoDescription": "“The Church of Jesus Christ” from Selected Hymns (English).",
-          "seoTitle": "The Church of Jesus Christ",
-          "shareableTitle": "The Church of Jesus Christ",
-          "thumbnail": {
-            "description": "Conlon Bonner and Yaphet Bustos, a Latter-day Saint duet, sings, “Hark, All Ye Nations!” during the Face to Face for Young Adults broadcast with Elder Ronald A. Rasband, of the Quorum of the Twelve Apostles, and his wife, Melanie, on Sunday, September 13, 2020, on the set of ancient Jerusalem in Goshen, Utah.",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/800,/0/default",
-            "seoDescription": "Conlon Bonner and Yaphet Bustos, a Latter-day Saint duet, sings, \"Hark, All Ye Nations!” during the Face to Face for Young Adults broadcast with Elder Ronald A. Rasband, of the Quorum of the Twelve Apostles, and his wife, Melanie, on Sunday, September 13, 2020, on the set of ancient Jerusalem in Goshen, Utah.",
-            "seoTitle": "No Title",
-            "shareableTitle": "No Title",
-            "title": "No Title",
-            "renditions": [
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!320%2C321/0/default",
-                "width": 320,
-                "height": 321
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!640%2C642/0/default",
-                "width": 640,
-                "height": 642
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!800%2C803/0/default",
-                "width": 800,
-                "height": 803
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!60%2C60/0/default",
-                "width": 60,
-                "height": 60
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!250%2C251/0/default",
-                "width": 250,
-                "height": 251
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!200%2C201/0/default",
-                "width": 200,
-                "height": 201
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!100%2C100/0/default",
-                "width": 100,
-                "height": 100
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!500%2C502/0/default",
-                "width": 500,
-                "height": 502
-              }
-            ]
-          }
-        },
         {
           "assetType": "AUDIO_ACCOMPANIMENT",
           "distributionUrl": "https://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0730-the-church-of-jesus-christ-music-only-192k-eng.mp3",
@@ -10306,6 +10245,67 @@
               }
             ]
           }
+        },
+        {
+          "assetType": "AUDIO_VOCAL_CHILDREN",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0730-the-church-of-jesus-christ-words-and-music-192k-eng.mp3",
+          "duration": 54000,
+          "lang": "eng",
+          "title": "The Church of Jesus Christ",
+          "description": "“The Church of Jesus Christ” from Selected Hymns (English).",
+          "seoDescription": "“The Church of Jesus Christ” from Selected Hymns (English).",
+          "seoTitle": "The Church of Jesus Christ",
+          "shareableTitle": "The Church of Jesus Christ",
+          "thumbnail": {
+            "description": "Conlon Bonner and Yaphet Bustos, a Latter-day Saint duet, sings, “Hark, All Ye Nations!” during the Face to Face for Young Adults broadcast with Elder Ronald A. Rasband, of the Quorum of the Twelve Apostles, and his wife, Melanie, on Sunday, September 13, 2020, on the set of ancient Jerusalem in Goshen, Utah.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/800,/0/default",
+            "seoDescription": "Conlon Bonner and Yaphet Bustos, a Latter-day Saint duet, sings, \"Hark, All Ye Nations!” during the Face to Face for Young Adults broadcast with Elder Ronald A. Rasband, of the Quorum of the Twelve Apostles, and his wife, Melanie, on Sunday, September 13, 2020, on the set of ancient Jerusalem in Goshen, Utah.",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!320%2C321/0/default",
+                "width": 320,
+                "height": 321
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!640%2C642/0/default",
+                "width": 640,
+                "height": 642
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!800%2C803/0/default",
+                "width": 800,
+                "height": 803
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!250%2C251/0/default",
+                "width": 250,
+                "height": 251
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!200%2C201/0/default",
+                "width": 200,
+                "height": 201
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!500%2C502/0/default",
+                "width": 500,
+                "height": 502
+              }
+            ]
+          }
         }
       ]
     },
@@ -10338,7 +10338,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "Holy Ghost",
         "Jesus Christ",
@@ -10509,7 +10509,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "Atonement of Jesus Christ",
         "Jesus Christ",
@@ -10677,7 +10677,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "Jesus Christ",
         "Second Coming",
@@ -11703,7 +11703,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "Family History",
         "family",
@@ -11865,7 +11865,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "Family History",
         "family",
@@ -12030,7 +12030,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "Family History",
         "family",
@@ -12198,7 +12198,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "Holy Ghost",
         "child of God",
@@ -12211,67 +12211,6 @@
         }
       ],
       "assets": [
-        {
-          "assetType": "AUDIO_VOCAL_CHILDREN",
-          "distributionUrl": "https://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0850-i-love-to-see-the-temple-words-and-music-192k-eng.mp3",
-          "duration": 105000,
-          "lang": "eng",
-          "title": "I Love to See the Temple",
-          "description": "“I Love to See the Temple” from Selected Hymns (English).",
-          "seoDescription": "“I Love to See the Temple” from Selected Hymns (English).",
-          "seoTitle": "I Love to See the Temple",
-          "shareableTitle": "I Love to See the Temple",
-          "thumbnail": {
-            "description": "Conlon Bonner and Yaphet Bustos, a Latter-day Saint duet, sings, “Hark, All Ye Nations!” during the Face to Face for Young Adults broadcast with Elder Ronald A. Rasband, of the Quorum of the Twelve Apostles, and his wife, Melanie, on Sunday, September 13, 2020, on the set of ancient Jerusalem in Goshen, Utah.",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/800,/0/default",
-            "seoDescription": "Conlon Bonner and Yaphet Bustos, a Latter-day Saint duet, sings, \"Hark, All Ye Nations!” during the Face to Face for Young Adults broadcast with Elder Ronald A. Rasband, of the Quorum of the Twelve Apostles, and his wife, Melanie, on Sunday, September 13, 2020, on the set of ancient Jerusalem in Goshen, Utah.",
-            "seoTitle": "No Title",
-            "shareableTitle": "No Title",
-            "title": "No Title",
-            "renditions": [
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!320%2C321/0/default",
-                "width": 320,
-                "height": 321
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!640%2C642/0/default",
-                "width": 640,
-                "height": 642
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!800%2C803/0/default",
-                "width": 800,
-                "height": 803
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!60%2C60/0/default",
-                "width": 60,
-                "height": 60
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!250%2C251/0/default",
-                "width": 250,
-                "height": 251
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!200%2C201/0/default",
-                "width": 200,
-                "height": 201
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!100%2C100/0/default",
-                "width": 100,
-                "height": 100
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!500%2C502/0/default",
-                "width": 500,
-                "height": 502
-              }
-            ]
-          }
-        },
         {
           "assetType": "AUDIO_ACCOMPANIMENT",
           "distributionUrl": "https://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0850-i-love-to-see-the-temple-music-only-192k-eng.mp3",
@@ -12332,6 +12271,67 @@
               }
             ]
           }
+        },
+        {
+          "assetType": "AUDIO_VOCAL_CHILDREN",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/childrens-songbook/2002-01-0850-i-love-to-see-the-temple-words-and-music-192k-eng.mp3",
+          "duration": 105000,
+          "lang": "eng",
+          "title": "I Love to See the Temple",
+          "description": "“I Love to See the Temple” from Selected Hymns (English).",
+          "seoDescription": "“I Love to See the Temple” from Selected Hymns (English).",
+          "seoTitle": "I Love to See the Temple",
+          "shareableTitle": "I Love to See the Temple",
+          "thumbnail": {
+            "description": "Conlon Bonner and Yaphet Bustos, a Latter-day Saint duet, sings, “Hark, All Ye Nations!” during the Face to Face for Young Adults broadcast with Elder Ronald A. Rasband, of the Quorum of the Twelve Apostles, and his wife, Melanie, on Sunday, September 13, 2020, on the set of ancient Jerusalem in Goshen, Utah.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/800,/0/default",
+            "seoDescription": "Conlon Bonner and Yaphet Bustos, a Latter-day Saint duet, sings, \"Hark, All Ye Nations!” during the Face to Face for Young Adults broadcast with Elder Ronald A. Rasband, of the Quorum of the Twelve Apostles, and his wife, Melanie, on Sunday, September 13, 2020, on the set of ancient Jerusalem in Goshen, Utah.",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!320%2C321/0/default",
+                "width": 320,
+                "height": 321
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!640%2C642/0/default",
+                "width": 640,
+                "height": 642
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!800%2C803/0/default",
+                "width": 800,
+                "height": 803
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!250%2C251/0/default",
+                "width": 250,
+                "height": 251
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!200%2C201/0/default",
+                "width": 200,
+                "height": 201
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!500%2C502/0/default",
+                "width": 500,
+                "height": 502
+              }
+            ]
+          }
         }
       ]
     },
@@ -12364,7 +12364,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "Jesus Christ",
         "example",
@@ -12710,7 +12710,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "Heavenly Father",
         "grace",
@@ -12876,7 +12876,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "Heavenly Father",
         "forgiveness",
@@ -13039,7 +13039,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "Jesus Christ",
         "baptism",
@@ -13053,6 +13053,67 @@
         }
       ],
       "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/6a/e0/6ae0d5438254e312ac85dbf7f84afc8967481e90/el_bautismomusica_solo.mp3",
+          "duration": 113000,
+          "lang": "eng",
+          "title": "Baptism",
+          "description": "“Baptism” from Children’s Songbook (English).",
+          "seoDescription": "“Baptism” from Children’s Songbook (English).",
+          "seoTitle": "Baptism",
+          "shareableTitle": "Baptism",
+          "thumbnail": {
+            "description": "Cover art for the Children’s Songbook.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/800,/0/default",
+            "seoDescription": "Cover art for the Children's Songbook.",
+            "seoTitle": "Children's Songbook",
+            "shareableTitle": "Children's Songbook",
+            "title": "Children’s Songbook",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
         {
           "assetType": "AUDIO_VOCAL_CHILDREN",
           "distributionUrl": "https://assets.churchofjesuschrist.org/0e/44/0e44b81ec1133e6fd91a7f7ce8f106d396475ed2/baptism_vocal_accompaniment_eng.mp3",
@@ -13123,67 +13184,6 @@
               }
             ]
           }
-        },
-        {
-          "assetType": "AUDIO_ACCOMPANIMENT",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/6a/e0/6ae0d5438254e312ac85dbf7f84afc8967481e90/el_bautismomusica_solo.mp3",
-          "duration": 113000,
-          "lang": "eng",
-          "title": "Baptism",
-          "description": "“Baptism” from Children’s Songbook (English).",
-          "seoDescription": "“Baptism” from Children’s Songbook (English).",
-          "seoTitle": "Baptism",
-          "shareableTitle": "Baptism",
-          "thumbnail": {
-            "description": "Cover art for the Children’s Songbook.",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/800,/0/default",
-            "seoDescription": "Cover art for the Children's Songbook.",
-            "seoTitle": "Children's Songbook",
-            "shareableTitle": "Children's Songbook",
-            "title": "Children’s Songbook",
-            "renditions": [
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!320%2C320/0/default",
-                "width": 320,
-                "height": 320
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!640%2C640/0/default",
-                "width": 640,
-                "height": 640
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!800%2C800/0/default",
-                "width": 800,
-                "height": 800
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!60%2C60/0/default",
-                "width": 60,
-                "height": 60
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!250%2C250/0/default",
-                "width": 250,
-                "height": 250
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!200%2C200/0/default",
-                "width": 200,
-                "height": 200
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!100%2C100/0/default",
-                "width": 100,
-                "height": 100
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!500%2C500/0/default",
-                "width": 500,
-                "height": 500
-              }
-            ]
-          }
         }
       ]
     },
@@ -13216,7 +13216,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "Heavenly Father",
         "Holy Ghost",
@@ -13384,7 +13384,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "baptism",
         "eternal life",
@@ -13398,6 +13398,67 @@
         }
       ],
       "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/98/44/984491a6613c0a94d8de5d8e36765cc56362aa49/cuando_me_bauticemusica_solo.mp3",
+          "duration": 107000,
+          "lang": "eng",
+          "title": "When I Am Baptized",
+          "description": "“When I Am Baptized” from Children’s Songbook (English).",
+          "seoDescription": "“When I Am Baptized” from Children’s Songbook (English).",
+          "seoTitle": "When I Am Baptized",
+          "shareableTitle": "When I Am Baptized",
+          "thumbnail": {
+            "description": "Cover art for the Children’s Songbook.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/800,/0/default",
+            "seoDescription": "Cover art for the Children's Songbook.",
+            "seoTitle": "Children's Songbook",
+            "shareableTitle": "Children's Songbook",
+            "title": "Children’s Songbook",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
         {
           "assetType": "AUDIO_VOCAL_CHILDREN",
           "distributionUrl": "https://assets.churchofjesuschrist.org/b3/e1/b3e12ad8d89c81c31ebb8c6851714df72d3b2d1b/when_i_am_baptized_vocal_accompaniment_eng.mp3",
@@ -13470,67 +13531,6 @@
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/10d500bf735a249fbc703421f8436c3287a92a19/full/!500%2C263/0/default",
                 "width": 500,
                 "height": 263
-              }
-            ]
-          }
-        },
-        {
-          "assetType": "AUDIO_ACCOMPANIMENT",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/98/44/984491a6613c0a94d8de5d8e36765cc56362aa49/cuando_me_bauticemusica_solo.mp3",
-          "duration": 107000,
-          "lang": "eng",
-          "title": "When I Am Baptized",
-          "description": "“When I Am Baptized” from Children’s Songbook (English).",
-          "seoDescription": "“When I Am Baptized” from Children’s Songbook (English).",
-          "seoTitle": "When I Am Baptized",
-          "shareableTitle": "When I Am Baptized",
-          "thumbnail": {
-            "description": "Cover art for the Children’s Songbook.",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/800,/0/default",
-            "seoDescription": "Cover art for the Children's Songbook.",
-            "seoTitle": "Children's Songbook",
-            "shareableTitle": "Children's Songbook",
-            "title": "Children’s Songbook",
-            "renditions": [
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!320%2C320/0/default",
-                "width": 320,
-                "height": 320
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!640%2C640/0/default",
-                "width": 640,
-                "height": 640
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!800%2C800/0/default",
-                "width": 800,
-                "height": 800
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!60%2C60/0/default",
-                "width": 60,
-                "height": 60
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!250%2C250/0/default",
-                "width": 250,
-                "height": 250
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!200%2C200/0/default",
-                "width": 200,
-                "height": 200
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!100%2C100/0/default",
-                "width": 100,
-                "height": 100
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!500%2C500/0/default",
-                "width": 500,
-                "height": 500
               }
             ]
           }
@@ -13734,7 +13734,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "Heavenly Father",
         "Holy Ghost",
@@ -14196,7 +14196,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "Jesus Christ",
         "commandments",
@@ -14363,7 +14363,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "Holy Ghost",
         "prayer",
@@ -14542,7 +14542,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "commitment",
         "faith",
@@ -15531,7 +15531,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "Heavenly Father",
         "commandments",
@@ -15549,9 +15549,9 @@
       ],
       "assets": [
         {
-          "assetType": "AUDIO_VOCAL_CHILDREN",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/4d/25/4d258204b4653c0f3fd668a7c8c9d10b7d8ca200/nephis_courage_vocal_accompaniment_eng.mp3",
-          "duration": 165000,
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/16/94/16940d0fb8f7cd2239ad78a5718fbef2768b8d26/el_valor_de_nefimusica_solo.mp3",
+          "duration": 166000,
           "lang": "eng",
           "title": "Nephi’s Courage",
           "description": "“Nephi’s Courage” from Children’s Songbook (English).",
@@ -15610,9 +15610,9 @@
           }
         },
         {
-          "assetType": "AUDIO_ACCOMPANIMENT",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/16/94/16940d0fb8f7cd2239ad78a5718fbef2768b8d26/el_valor_de_nefimusica_solo.mp3",
-          "duration": 166000,
+          "assetType": "AUDIO_VOCAL_CHILDREN",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/4d/25/4d258204b4653c0f3fd668a7c8c9d10b7d8ca200/nephis_courage_vocal_accompaniment_eng.mp3",
+          "duration": 165000,
           "lang": "eng",
           "title": "Nephi’s Courage",
           "description": "“Nephi’s Courage” from Children’s Songbook (English).",
@@ -17672,7 +17672,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "prophets"
       ],
@@ -17956,7 +17956,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "Heavenly Father",
         "Jesus Christ",
@@ -18314,7 +18314,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "Jesus Christ",
         "friendship",
@@ -18635,7 +18635,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "Jesus Christ",
         "discipleship",
@@ -18961,7 +18961,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "accountability",
         "example",
@@ -18973,6 +18973,67 @@
         }
       ],
       "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/42/cd/42cde81ad751f28619b53aaa57f660e3c1d150f8/la_bondad_por_mi_empiezamusica_solo.mp3",
+          "duration": 32000,
+          "lang": "eng",
+          "title": "Kindness Begins with Me",
+          "description": "“Kindness Begins with Me” from Hymns and Children’s Songs (English).",
+          "seoDescription": "“Kindness Begins with Me” from Hymns and Children’s Songs (English).",
+          "seoTitle": "Kindness Begins with Me",
+          "shareableTitle": "Kindness Begins with Me",
+          "thumbnail": {
+            "description": "Cover art for the Children’s Songbook.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/800,/0/default",
+            "seoDescription": "Cover art for the Children's Songbook.",
+            "seoTitle": "Children's Songbook",
+            "shareableTitle": "Children's Songbook",
+            "title": "Children’s Songbook",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
         {
           "assetType": "AUDIO_VOCAL_CHILDREN",
           "distributionUrl": "https://assets.churchofjesuschrist.org/b2/46/b246b8c8e615c72931b85b980f62356278cff8da/kindness_begins_with_me_vocal_accompaniment_eng.mp3",
@@ -19048,67 +19109,6 @@
               }
             ]
           }
-        },
-        {
-          "assetType": "AUDIO_ACCOMPANIMENT",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/42/cd/42cde81ad751f28619b53aaa57f660e3c1d150f8/la_bondad_por_mi_empiezamusica_solo.mp3",
-          "duration": 32000,
-          "lang": "eng",
-          "title": "Kindness Begins with Me",
-          "description": "“Kindness Begins with Me” from Hymns and Children’s Songs (English).",
-          "seoDescription": "“Kindness Begins with Me” from Hymns and Children’s Songs (English).",
-          "seoTitle": "Kindness Begins with Me",
-          "shareableTitle": "Kindness Begins with Me",
-          "thumbnail": {
-            "description": "Cover art for the Children’s Songbook.",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/800,/0/default",
-            "seoDescription": "Cover art for the Children's Songbook.",
-            "seoTitle": "Children's Songbook",
-            "shareableTitle": "Children's Songbook",
-            "title": "Children’s Songbook",
-            "renditions": [
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!320%2C320/0/default",
-                "width": 320,
-                "height": 320
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!640%2C640/0/default",
-                "width": 640,
-                "height": 640
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!800%2C800/0/default",
-                "width": 800,
-                "height": 800
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!60%2C60/0/default",
-                "width": 60,
-                "height": 60
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!250%2C250/0/default",
-                "width": 250,
-                "height": 250
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!200%2C200/0/default",
-                "width": 200,
-                "height": 200
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!100%2C100/0/default",
-                "width": 100,
-                "height": 100
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!500%2C500/0/default",
-                "width": 500,
-                "height": 500
-              }
-            ]
-          }
         }
       ]
     },
@@ -19148,7 +19148,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "Heavenly Father",
         "commandments",
@@ -19326,7 +19326,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "faith",
         "gospel",
@@ -19341,8 +19341,8 @@
       ],
       "assets": [
         {
-          "assetType": "AUDIO_VOCAL_CHILDREN",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/21/d6/21d6400719d8090763b2cb2795aa69d848754133/i_want_to_live_the_gospel_vocal_accompaniment_eng.mp3",
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/ac/53/ac53b23074811d2a1a88249f240264d80eb4ea49/voy_a_vivir_el_evangeliomusica_solo.mp3",
           "duration": 119000,
           "lang": "eng",
           "title": "I Want to Live the Gospel",
@@ -19402,8 +19402,8 @@
           }
         },
         {
-          "assetType": "AUDIO_ACCOMPANIMENT",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/ac/53/ac53b23074811d2a1a88249f240264d80eb4ea49/voy_a_vivir_el_evangeliomusica_solo.mp3",
+          "assetType": "AUDIO_VOCAL_CHILDREN",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/21/d6/21d6400719d8090763b2cb2795aa69d848754133/i_want_to_live_the_gospel_vocal_accompaniment_eng.mp3",
           "duration": 119000,
           "lang": "eng",
           "title": "I Want to Live the Gospel",
@@ -20186,7 +20186,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "Word of Wisdom",
         "agency",
@@ -20890,7 +20890,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "agency",
         "courage"
@@ -21051,7 +21051,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "commitment",
         "courage",
@@ -21212,7 +21212,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "Jesus Christ",
         "agency",
@@ -21554,7 +21554,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "Jesus Christ",
         "commitment",
@@ -21569,9 +21569,9 @@
       ],
       "assets": [
         {
-          "assetType": "AUDIO_VOCAL_CHILDREN",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/c7/fb/c7fbc45a9d8491d4cc17c38462c982f67fbbeb04/i_will_be_valiant_words_and_music.mp3",
-          "duration": 43000,
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/28/05/280524602694d619b21115f316dd7312ae24352d/voy_a_ser_valientemusica_solo.mp3",
+          "duration": 44000,
           "lang": "eng",
           "title": "I Will Be Valiant",
           "description": "“I Will Be Valiant” from Children’s Songbook (English).",
@@ -21630,9 +21630,9 @@
           }
         },
         {
-          "assetType": "AUDIO_ACCOMPANIMENT",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/28/05/280524602694d619b21115f316dd7312ae24352d/voy_a_ser_valientemusica_solo.mp3",
-          "duration": 44000,
+          "assetType": "AUDIO_VOCAL_CHILDREN",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/c7/fb/c7fbc45a9d8491d4cc17c38462c982f67fbbeb04/i_will_be_valiant_words_and_music.mp3",
+          "duration": 43000,
           "lang": "eng",
           "title": "I Will Be Valiant",
           "description": "“I Will Be Valiant” from Children’s Songbook (English).",
@@ -21718,7 +21718,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "Heavenly Father",
         "divine worth",
@@ -21839,7 +21839,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "agency",
         "faith",
@@ -21853,6 +21853,67 @@
         }
       ],
       "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/43/e3/43e3071592c2b3c33ce695012a39729c947241a0/el_plan_de_dios_puedo_seguirmusica_solo.mp3",
+          "duration": 80000,
+          "lang": "eng",
+          "title": "I Will Follow God’s Plan",
+          "description": "“I Will Follow God’s Plan” from Children’s Songbook (English).",
+          "seoDescription": "“I Will Follow God’s Plan” from Children’s Songbook (English).",
+          "seoTitle": "I Will Follow God’s Plan",
+          "shareableTitle": "I Will Follow God’s Plan",
+          "thumbnail": {
+            "description": "Cover art for the Children’s Songbook.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/800,/0/default",
+            "seoDescription": "Cover art for the Children's Songbook.",
+            "seoTitle": "Children's Songbook",
+            "shareableTitle": "Children's Songbook",
+            "title": "Children’s Songbook",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
         {
           "assetType": "AUDIO_VOCAL_CHILDREN",
           "distributionUrl": "https://assets.churchofjesuschrist.org/7a/53/7a5338f1758b7390ed159040a948d9950f32e6d4/i_will_follow_gods_plan_vocal_accompaniment_eng.mp3",
@@ -21920,67 +21981,6 @@
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/9c736ef56f4c9491f043e25012210c74b7ff8fe5/full/!500%2C263/0/default",
                 "width": 500,
                 "height": 263
-              }
-            ]
-          }
-        },
-        {
-          "assetType": "AUDIO_ACCOMPANIMENT",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/43/e3/43e3071592c2b3c33ce695012a39729c947241a0/el_plan_de_dios_puedo_seguirmusica_solo.mp3",
-          "duration": 80000,
-          "lang": "eng",
-          "title": "I Will Follow God’s Plan",
-          "description": "“I Will Follow God’s Plan” from Children’s Songbook (English).",
-          "seoDescription": "“I Will Follow God’s Plan” from Children’s Songbook (English).",
-          "seoTitle": "I Will Follow God’s Plan",
-          "shareableTitle": "I Will Follow God’s Plan",
-          "thumbnail": {
-            "description": "Cover art for the Children’s Songbook.",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/800,/0/default",
-            "seoDescription": "Cover art for the Children's Songbook.",
-            "seoTitle": "Children's Songbook",
-            "shareableTitle": "Children's Songbook",
-            "title": "Children’s Songbook",
-            "renditions": [
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!320%2C320/0/default",
-                "width": 320,
-                "height": 320
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!640%2C640/0/default",
-                "width": 640,
-                "height": 640
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!800%2C800/0/default",
-                "width": 800,
-                "height": 800
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!60%2C60/0/default",
-                "width": 60,
-                "height": 60
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!250%2C250/0/default",
-                "width": 250,
-                "height": 250
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!200%2C200/0/default",
-                "width": 200,
-                "height": 200
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!100%2C100/0/default",
-                "width": 100,
-                "height": 100
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!500%2C500/0/default",
-                "width": 500,
-                "height": 500
               }
             ]
           }
@@ -22303,7 +22303,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "Restoration",
         "friendship",
@@ -22469,7 +22469,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "faith",
         "humility",
@@ -22809,7 +22809,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "commandments",
         "commitment",
@@ -22829,9 +22829,9 @@
       ],
       "assets": [
         {
-          "assetType": "AUDIO_VOCAL_CHILDREN",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/c6/a5/c6a51ac7b0e1f494b1994d89bb4a58845ba0a10b/well_bring_the_world_his_truth_army_of_helaman_vocal_accompaniment_eng.mp3",
-          "duration": 189000,
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/88/73/88730e43641dd57cc04051086da60fcf78e8d78b/llevaremos_su_verdad_al_mundo_el_ejercito_de_helaman_musica_solo.mp3",
+          "duration": 190000,
           "lang": "eng",
           "title": "We’ll Bring the World His Truth",
           "description": "“We’ll Bring the World His Truth” (Army of Helaman) from Children’s Songbook (English).",
@@ -22890,9 +22890,9 @@
           }
         },
         {
-          "assetType": "AUDIO_ACCOMPANIMENT",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/88/73/88730e43641dd57cc04051086da60fcf78e8d78b/llevaremos_su_verdad_al_mundo_el_ejercito_de_helaman_musica_solo.mp3",
-          "duration": 190000,
+          "assetType": "AUDIO_VOCAL_CHILDREN",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/c6/a5/c6a51ac7b0e1f494b1994d89bb4a58845ba0a10b/well_bring_the_world_his_truth_army_of_helaman_vocal_accompaniment_eng.mp3",
+          "duration": 189000,
           "lang": "eng",
           "title": "We’ll Bring the World His Truth",
           "description": "“We’ll Bring the World His Truth” (Army of Helaman) from Children’s Songbook (English).",
@@ -22978,7 +22978,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "Jesus Christ",
         "commitment",
@@ -23144,7 +23144,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "guidance",
         "leader",
@@ -23158,9 +23158,9 @@
       ],
       "assets": [
         {
-          "assetType": "AUDIO_VOCAL_CHILDREN",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/1d/28/1d288865bf3d61e66d2eead7188840a26bc1bd95/tell_me_dear_lord_vocal_accompaniment_eng.mp3",
-          "duration": 93000,
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/68/c1/68c19cad99e93fc51c49f5a99727a32355b417d5/dime_senormusica_solo.mp3",
+          "duration": 94000,
           "lang": "eng",
           "title": "Tell Me, Dear Lord",
           "description": "“Tell Me, Dear Lord” from Children’s Songbook (English).",
@@ -23234,9 +23234,9 @@
           }
         },
         {
-          "assetType": "AUDIO_ACCOMPANIMENT",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/68/c1/68c19cad99e93fc51c49f5a99727a32355b417d5/dime_senormusica_solo.mp3",
-          "duration": 94000,
+          "assetType": "AUDIO_VOCAL_CHILDREN",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/1d/28/1d288865bf3d61e66d2eead7188840a26bc1bd95/tell_me_dear_lord_vocal_accompaniment_eng.mp3",
+          "duration": 93000,
           "lang": "eng",
           "title": "Tell Me, Dear Lord",
           "description": "“Tell Me, Dear Lord” from Children’s Songbook (English).",
@@ -23341,7 +23341,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "Heavenly Father",
         "Jesus Christ",
@@ -23987,7 +23987,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "eternal life",
         "family",
@@ -24001,6 +24001,67 @@
         }
       ],
       "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/a0/6f/a06fa69ee31ca5193b038f73a7584143a41a9962/las_familias_pueden_ser_eternasmusica_solo.mp3",
+          "duration": 132000,
+          "lang": "eng",
+          "title": "Families Can Be Together Forever",
+          "description": "“Families Can Be Together Forever” from Children’s Songbook (English).",
+          "seoDescription": "“Families Can Be Together Forever” from Children’s Songbook (English).",
+          "seoTitle": "Families Can Be Together Forever",
+          "shareableTitle": "Families Can Be Together Forever",
+          "thumbnail": {
+            "description": "Cover art for the Children’s Songbook.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/800,/0/default",
+            "seoDescription": "Cover art for the Children's Songbook.",
+            "seoTitle": "Children's Songbook",
+            "shareableTitle": "Children's Songbook",
+            "title": "Children’s Songbook",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
         {
           "assetType": "AUDIO_VOCAL_CHILDREN",
           "distributionUrl": "https://assets.churchofjesuschrist.org/63/54/6354a6723224ea8db55abb3e48bc55392965bfbc/families_can_be_together_forever_words_and_music.mp3",
@@ -24073,67 +24134,6 @@
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/93b1b9124f86b3931179778b474e21726f67b7a3/full/!500%2C375/0/default",
                 "width": 500,
                 "height": 375
-              }
-            ]
-          }
-        },
-        {
-          "assetType": "AUDIO_ACCOMPANIMENT",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/a0/6f/a06fa69ee31ca5193b038f73a7584143a41a9962/las_familias_pueden_ser_eternasmusica_solo.mp3",
-          "duration": 132000,
-          "lang": "eng",
-          "title": "Families Can Be Together Forever",
-          "description": "“Families Can Be Together Forever” from Children’s Songbook (English).",
-          "seoDescription": "“Families Can Be Together Forever” from Children’s Songbook (English).",
-          "seoTitle": "Families Can Be Together Forever",
-          "shareableTitle": "Families Can Be Together Forever",
-          "thumbnail": {
-            "description": "Cover art for the Children’s Songbook.",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/800,/0/default",
-            "seoDescription": "Cover art for the Children's Songbook.",
-            "seoTitle": "Children's Songbook",
-            "shareableTitle": "Children's Songbook",
-            "title": "Children’s Songbook",
-            "renditions": [
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!320%2C320/0/default",
-                "width": 320,
-                "height": 320
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!640%2C640/0/default",
-                "width": 640,
-                "height": 640
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!800%2C800/0/default",
-                "width": 800,
-                "height": 800
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!60%2C60/0/default",
-                "width": 60,
-                "height": 60
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!250%2C250/0/default",
-                "width": 250,
-                "height": 250
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!200%2C200/0/default",
-                "width": 200,
-                "height": 200
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!100%2C100/0/default",
-                "width": 100,
-                "height": 100
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!500%2C500/0/default",
-                "width": 500,
-                "height": 500
               }
             ]
           }
@@ -26262,7 +26262,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "family",
         "love",
@@ -27473,7 +27473,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "family",
         "happiness"
@@ -28451,7 +28451,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "commitment",
         "courage",
@@ -29974,7 +29974,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "Creation",
         "Creator",
@@ -30748,7 +30748,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "charity",
         "compassion",
@@ -30762,9 +30762,9 @@
       ],
       "assets": [
         {
-          "assetType": "AUDIO_VOCAL_CHILDREN",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/3e/34/3e348d2df08e8f48205219b6545b54d2a17e61f0/give_said_the_little_stream_vocal_accompaniment_eng.mp3",
-          "duration": 109000,
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/c6/e7/c6e7331ae35c2972d39f80d0a3a3c359332b920e/el_arroyito_damusica_solo.mp3",
+          "duration": 108000,
           "lang": "eng",
           "title": "“Give,” Said the Little Stream",
           "description": "““Give,” Said the Little Stream” from Children’s Songbook (English).",
@@ -30823,9 +30823,9 @@
           }
         },
         {
-          "assetType": "AUDIO_ACCOMPANIMENT",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/c6/e7/c6e7331ae35c2972d39f80d0a3a3c359332b920e/el_arroyito_damusica_solo.mp3",
-          "duration": 108000,
+          "assetType": "AUDIO_VOCAL_CHILDREN",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/3e/34/3e348d2df08e8f48205219b6545b54d2a17e61f0/give_said_the_little_stream_vocal_accompaniment_eng.mp3",
+          "duration": 109000,
           "lang": "eng",
           "title": "“Give,” Said the Little Stream",
           "description": "““Give,” Said the Little Stream” from Children’s Songbook (English).",
@@ -38018,7 +38018,7 @@
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "Jesus Christ",
         "agency",
