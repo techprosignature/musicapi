@@ -238,7 +238,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/zu/qa/zuqaqlim3z62memg5folysf0d4kv5est8mpkhyxt/come_thou_fount_of_every_blessing.mp3",
           "duration": 151000,
           "lang": "eng",
@@ -773,7 +773,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/b8/93/b89302e1db4611ee8087eeeeac1e5dd259e499df/it_is_well_with_my_soul.mp3",
           "duration": 201000,
           "lang": "eng",
@@ -1309,7 +1309,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/b8/57/b857a799db4611eea172eeeeac1e8e15efa65f65/his_eye_is_on_the_sparrow.mp3",
           "duration": 226000,
           "lang": "eng",
@@ -1837,7 +1837,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/yv/1f/yv1fi0y5wwxz5zv7fqa340uf9seyhpifrv8y7jh8/as_bread_is_broken.mp3",
           "duration": 125000,
           "lang": "eng",
@@ -2132,7 +2132,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/40/sf/40sf03kk7ivjy82do0ayze8e63z1uhv9i0zb0ztd/bread_of_life_living_water.mp3",
           "duration": 189000,
           "lang": "eng",
@@ -2604,7 +2604,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/5j/2h/5j2hlpjljsw3ymvams9vshh6xmms7dbn36yjand1/amazing_grace.mp3",
           "duration": 128000,
           "lang": "eng",
@@ -3312,7 +3312,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/45/kr/45kr938wuwt790wnzkyl05ek23z1mpkbuk1ew2bc/gods_gracious_love.mp3",
           "duration": 186000,
           "lang": "eng",
@@ -3547,7 +3547,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/81/lu/81lu53hj8f1v5fsjdi0r3zwfv9hbcc92mls4apc9/my_shepherd_will_supply_my_need.mp3",
           "duration": 200000,
           "lang": "eng",
@@ -3782,7 +3782,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/1e/6j/1e6jent0mk4jwyi5xbrgtxjd6ra2h0ul7dlz2enz/oh_the_deep_deep_love_of_jesus.mp3",
           "duration": 143000,
           "lang": "eng",
@@ -4018,7 +4018,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/oe/01/oe013vqkn6iwerpsawzfs03wl9640hhojvmxe5fa/behold_the_wounds_in_jesus_hands.mp3",
           "duration": 212000,
           "lang": "eng",
@@ -7701,7 +7701,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/5y/86/5y86a11ve7xp996zkq1mq6ut123vgd3myquk1998/look_unto_christ.mp3",
           "duration": 145000,
           "lang": "eng",
@@ -7855,7 +7855,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/pl/96/pl96lihy0nf6xhk3h2ohzdq6yd0wcrd0h1a646h2/oh_how_great_is_our_joy.mp3",
           "duration": 152000,
           "lang": "eng",
@@ -8006,7 +8006,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CHILDREN",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/dj/ih/djihydtvlny9zjpzzdh5r3dy8vl1zwm47gcjxayi/im_a_pioneer_too.mp3",
           "duration": 97000,
           "lang": "eng",
@@ -8309,7 +8309,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CHILDREN",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/3p/cr/3pcrq6i08lfel4capzkm1txzgodn69gjrd7clox6/read_the_book_of_mormon_and_pray.mp3",
           "duration": 100000,
           "lang": "eng",
@@ -8461,7 +8461,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/u6/0n/u60ny1p3cbs82hhjv52noeudm7szfrzo69x1gbo5/im_gonna_live_so_god_can_use_me.mp3",
           "duration": 116000,
           "lang": "eng",
@@ -8619,7 +8619,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/7s/il/7silfvsadmtjwos1sq7w86u4vuyktyqmeabegibb/the_lords_my_shepherd.mp3",
           "duration": 182000,
           "lang": "eng",
@@ -8925,7 +8925,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/wo/m9/wom9mspsj8ty8gje49j7x3bz1ez6eofph4nds8ox/his_voice_as_the_sound.mp3",
           "duration": 180000,
           "lang": "eng",
@@ -9084,7 +9084,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/28/ec/28ecshr1msjjnd65mcbg71oher0rxamhfaxsmmmb/o_lord_who_gave_thy_life_for_me.mp3",
           "duration": 163000,
           "lang": "eng",
@@ -11698,7 +11698,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/o9/qe/o9qe8quq79sadfwhxh5r35wgf8u9im92gor1c051/hail_the_day_that_sees_him_rise.mp3",
           "duration": 174000,
           "lang": "eng",
@@ -11991,7 +11991,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/ut/nn/utnnt3c6asnrbej7x5kybiontdlxu8qnrlxzxeud/he_is_born_the_divine_christ_child.mp3",
           "duration": 125000,
           "lang": "eng",
@@ -12286,7 +12286,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/b8/e0/b8e05fa2db4611ee9681eeeeac1e37ce6c763522/what_child_is_this.mp3",
           "duration": 151000,
           "lang": "eng",
@@ -13129,7 +13129,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/rf/6r/rf6radco561b7k3m18fcbar87rxo63vhn6nqnlhd/still_still_still.mp3",
           "duration": 119000,
           "lang": "eng",

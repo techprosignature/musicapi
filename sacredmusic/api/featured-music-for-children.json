@@ -59,7 +59,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CHILDREN",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/42/5f/425f3303801bf378ca1f49de9916f32d363a4e9b/latter_day_prophets_vocal_accompaniment_eng.mp3",
           "duration": 76000,
           "lang": "eng",
@@ -72,9 +72,9 @@
             "description": "Cover art for the Children’s Songbook.",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/800,/0/default",
             "seoDescription": "Cover art for the Children's Songbook.",
-            "seoTitle": "Children's Songbook",
-            "shareableTitle": "Children's Songbook",
-            "title": "Children’s Songbook",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!320%2C320/0/default",
@@ -177,9 +177,9 @@
             "description": "Cover art for the Children’s Songbook.",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/800,/0/default",
             "seoDescription": "Cover art for the Children's Songbook.",
-            "seoTitle": "Children's Songbook",
-            "shareableTitle": "Children's Songbook",
-            "title": "Children’s Songbook",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!320%2C320/0/default",
@@ -238,9 +238,9 @@
             "description": "Cover art for the Children’s Songbook.",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/800,/0/default",
             "seoDescription": "Cover art for the Children's Songbook.",
-            "seoTitle": "Children's Songbook",
-            "shareableTitle": "Children's Songbook",
-            "title": "Children’s Songbook",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!320%2C320/0/default",
@@ -570,9 +570,9 @@
             "description": "Cover art for the Children’s Songbook.",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/800,/0/default",
             "seoDescription": "Cover art for the Children's Songbook.",
-            "seoTitle": "Children's Songbook",
-            "shareableTitle": "Children's Songbook",
-            "title": "Children’s Songbook",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!320%2C320/0/default",
@@ -631,9 +631,9 @@
             "description": "Cover art for the Children’s Songbook.",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/800,/0/default",
             "seoDescription": "Cover art for the Children's Songbook.",
-            "seoTitle": "Children's Songbook",
-            "shareableTitle": "Children's Songbook",
-            "title": "Children’s Songbook",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!320%2C320/0/default",
@@ -14289,7 +14289,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CHILDREN",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/78/ec/78ec3e016aa3dd61c4643a6217fc82921e16a77b/i_will_walk_with_jesus.mp3",
           "duration": 182000,
           "lang": "eng",
@@ -14621,7 +14621,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CHILDREN",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/dj/ih/djihydtvlny9zjpzzdh5r3dy8vl1zwm47gcjxayi/im_a_pioneer_too.mp3",
           "duration": 97000,
           "lang": "eng",

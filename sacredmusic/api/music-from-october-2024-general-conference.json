@@ -33,7 +33,7 @@
         }
       ],
       "musicalFeatures": [],
-      "recordingAvailable": true,
+      "recordingAvailable": false,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
@@ -47,7 +47,7 @@
       "voicings": [],
       "assets": [
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/kw/ps/kwpssyn9bhybhmkmlltgcut8qu5xr1qx9i92duig/2024_10_press_forward_saints.mp3",
           "duration": 6000,
           "lang": "eng",
@@ -160,7 +160,7 @@
         }
       ],
       "musicalFeatures": [],
-      "recordingAvailable": true,
+      "recordingAvailable": false,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
@@ -173,7 +173,7 @@
       "voicings": [],
       "assets": [
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/w3/1u/w31utbui1qoi68ydodqgwhdu0pejgs2w4wpflrl3/2024_10_i_will_follow_gods_plan.mp3",
           "duration": 7000,
           "lang": "eng",
@@ -286,7 +286,7 @@
         }
       ],
       "musicalFeatures": [],
-      "recordingAvailable": true,
+      "recordingAvailable": false,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
@@ -306,7 +306,7 @@
       ],
       "assets": [
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/f8/z9/f8z95c6rm4q0d05smqvssaifmp998twxovnlps5k/2024_10_gods_gracious_love.mp3",
           "duration": 7000,
           "lang": "eng",
@@ -419,7 +419,7 @@
         }
       ],
       "musicalFeatures": [],
-      "recordingAvailable": true,
+      "recordingAvailable": false,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
@@ -444,7 +444,7 @@
       "voicings": [],
       "assets": [
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/fq/ng/fqngrm9tb9ef7foi43m1pgzyt68pihds26hnu1yp/2024_10_teach_me_to_walk_in_the_light.mp3",
           "duration": 7000,
           "lang": "eng",
@@ -554,7 +554,7 @@
         }
       ],
       "musicalFeatures": [],
-      "recordingAvailable": true,
+      "recordingAvailable": false,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
@@ -572,7 +572,7 @@
       "voicings": [],
       "assets": [
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/5e/p5/5ep5ca4ve8cqxn55igabvr4v9u2zep6vm9un534q/2024_10_holding_hands_around_the_world.mp3",
           "duration": 7000,
           "lang": "eng",
@@ -688,7 +688,7 @@
         }
       ],
       "musicalFeatures": [],
-      "recordingAvailable": true,
+      "recordingAvailable": false,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
@@ -701,7 +701,7 @@
       "voicings": [],
       "assets": [
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/36/c4/36c49zvuuuirhh5r3w7f4nsppxjn51af4d9u533m/2024_10_gethsemane.mp3",
           "duration": 6000,
           "lang": "eng",
@@ -795,14 +795,14 @@
       "composers": [],
       "instrumentations": [],
       "musicalFeatures": [],
-      "recordingAvailable": true,
+      "recordingAvailable": false,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [],
       "voicings": [],
       "assets": [
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/9u/vz/9uvz45dkyfn8y8zoqzmekeg97hjrjixgql13qs9l/2024_10_when_the_savior_comes_again.mp3",
           "duration": 6000,
           "lang": "eng",
@@ -912,7 +912,7 @@
         }
       ],
       "musicalFeatures": [],
-      "recordingAvailable": true,
+      "recordingAvailable": false,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
@@ -930,7 +930,7 @@
       "voicings": [],
       "assets": [
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/xw/hn/xwhnupof9lhq8q2g42hyxh0xpzjuj5ex1ymdfjbj/2024_10_well_bring_the_world_his_truth.mp3",
           "duration": 7000,
           "lang": "eng",
@@ -1040,7 +1040,7 @@
         }
       ],
       "musicalFeatures": [],
-      "recordingAvailable": true,
+      "recordingAvailable": false,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
@@ -1060,7 +1060,7 @@
       "voicings": [],
       "assets": [
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/ev/9b/ev9bomy1tkevb78vpwolkkpelqfqsnw0b0bh496b/2024_10_i_will_walk_with_jesus.mp3",
           "duration": 7000,
           "lang": "eng",
@@ -1173,7 +1173,7 @@
         }
       ],
       "musicalFeatures": [],
-      "recordingAvailable": true,
+      "recordingAvailable": false,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
@@ -1189,7 +1189,7 @@
       ],
       "assets": [
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/ba/5u/ba5unrco3khrfur856exmdfkpsc2fh7shxb6x94e/2024_10_the_iron_rod.mp3",
           "duration": 6000,
           "lang": "eng",
@@ -1305,7 +1305,7 @@
         }
       ],
       "musicalFeatures": [],
-      "recordingAvailable": true,
+      "recordingAvailable": false,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
@@ -1322,7 +1322,7 @@
       ],
       "assets": [
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/ak/zv/akzvc7z7fxmk70efnmenirfpvurkxyjvpp6zzsw7/2024_10_come_lord_jesus.mp3",
           "duration": 6000,
           "lang": "eng",
@@ -1435,7 +1435,7 @@
         }
       ],
       "musicalFeatures": [],
-      "recordingAvailable": true,
+      "recordingAvailable": false,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
@@ -1452,7 +1452,7 @@
       "voicings": [],
       "assets": [
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/1v/fh/1vfh302lq0yh8ndboeir8fj35ax1a7wor2db2di8/2024_10_on_this_day_of_joy_and_gladness.mp3",
           "duration": 7000,
           "lang": "eng",
@@ -1565,7 +1565,7 @@
         }
       ],
       "musicalFeatures": [],
-      "recordingAvailable": true,
+      "recordingAvailable": false,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
@@ -1587,7 +1587,7 @@
       "voicings": [],
       "assets": [
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/j2/2r/j22rl3hypy1h52ok2rmx38uuuv51g881dchvz4kf/2024_10_i_know_that_my_redeemer_lives.mp3",
           "duration": 7000,
           "lang": "eng",
@@ -1699,7 +1699,7 @@
         }
       ],
       "musicalFeatures": [],
-      "recordingAvailable": true,
+      "recordingAvailable": false,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
@@ -1720,7 +1720,7 @@
       ],
       "assets": [
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/iu/8k/iu8krpfalii8fhjn0j8bstb9gcmh554x521x2kse/2024_10_my_shepherd_will_supply_my_need.mp3",
           "duration": 6000,
           "lang": "eng",
@@ -1833,7 +1833,7 @@
         }
       ],
       "musicalFeatures": [],
-      "recordingAvailable": true,
+      "recordingAvailable": false,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
@@ -1858,7 +1858,7 @@
       ],
       "assets": [
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/pg/0b/pg0b1yoocwxxpzfdutn59ynzx1bm64on7orn6uy0/2024_10_the_spirit_of_god.mp3",
           "duration": 6000,
           "lang": "eng",
@@ -1977,7 +1977,7 @@
         }
       ],
       "musicalFeatures": [],
-      "recordingAvailable": true,
+      "recordingAvailable": false,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
@@ -1995,7 +1995,7 @@
       ],
       "assets": [
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/3d/o7/3do7571otgnnh1scxl58vjve1zqxafjn8deuug8m/2024_10_praise_the_lord_with_heart_and_voice.mp3",
           "duration": 6000,
           "lang": "eng",
@@ -2108,7 +2108,7 @@
         }
       ],
       "musicalFeatures": [],
-      "recordingAvailable": true,
+      "recordingAvailable": false,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
@@ -2131,7 +2131,7 @@
       ],
       "assets": [
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/di/qa/diqaechks1izwe6p1n0mfjl53xc5mbstmv4ijspw/2024_10_jesus_the_very_thought_of_thee.mp3",
           "duration": 6000,
           "lang": "eng",
@@ -2244,7 +2244,7 @@
         }
       ],
       "musicalFeatures": [],
-      "recordingAvailable": true,
+      "recordingAvailable": false,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
@@ -2260,7 +2260,7 @@
       ],
       "assets": [
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/nj/uw/njuw55ws04hje5iakccc2pxei1g1a4sf3ty9z7ot/2024_10_think_a_sacred_song.mp3",
           "duration": 6000,
           "lang": "eng",
@@ -2370,14 +2370,14 @@
         }
       ],
       "musicalFeatures": [],
-      "recordingAvailable": true,
+      "recordingAvailable": false,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [],
       "voicings": [],
       "assets": [
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/cz/0b/cz0bxtcvlfexqlga2e711ue81zke7fsk19fxj9mr/2024_10_and_the_glory_of_the_lord.mp3",
           "duration": 7000,
           "lang": "eng",

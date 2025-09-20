@@ -118,7 +118,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/9f/ca/9fca1f415ad6417475b4a11ebd4f5cc7601ea1b7/come_come_ye_saints_vocal_accompaniment_eng.mp3",
           "duration": 230000,
           "lang": "eng",
@@ -302,7 +302,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/3a/77/3a77a13b227d1f72ad9ec3a9cc6e921e8e2285c7/come_ye_children_of_the_lord_vocal_accompaniment_eng.mp3",
           "duration": 136000,
           "lang": "eng",
@@ -482,7 +482,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/0f/d5/0fd5722dc45958e74147a47628264ecaf8c15ebc/redeemer_of_israel_vocal_accompaniment_eng.mp3",
           "duration": 249000,
           "lang": "eng",
@@ -625,7 +625,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://media2.ldscdn.org/assets/music/hymns/2001-01-0850-how-firm-a-foundation-vocal-and-instrumental-192k-eng.mp3",
           "duration": 363000,
           "lang": "eng",
@@ -800,7 +800,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/6e/93/6e93653c6b190ef3386459631feb41ae23957270/count_your_blessings_vocal_accompaniment_eng.mp3",
           "duration": 191000,
           "lang": "eng",
@@ -978,7 +978,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/ac/ff/acff089042d8bed92a31c1f8cf4e0952d1631cee/let_us_all_press_on_vocal_accompaniment_eng.mp3",
           "duration": 140000,
           "lang": "eng",
@@ -1157,7 +1157,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://media2.ldscdn.org/assets/music/hymns/2001-01-0980-i-need-thee-every-hour-vocal-and-instrumental-192k-eng.mp3",
           "duration": 244000,
           "lang": "eng",
@@ -1337,7 +1337,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/c0/bb/c0bb1a0fc63c599384cbba06ead88ef3c3f45026/sweet_is_the_work_vocal_accompaniment_eng.mp3",
           "duration": 239000,
           "lang": "eng",
@@ -1524,7 +1524,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/71/28/7128ab4348c3e8ac3a093d0b93d08f5f733769dd/joseph_smiths_first_prayer_vocal_accompaniment_eng.mp3",
           "duration": 214000,
           "lang": "eng",
@@ -1700,7 +1700,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/2d/42/2d42d28093f1ccf0688e47cfdcb41b8f6953de75/behold_the_great_redeemer_die_vocal_accompaniment_eng.mp3",
           "duration": 296000,
           "lang": "eng",
@@ -1874,7 +1874,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/5f/ab/5fabb95c6e7e891c9f6389e1747b1b2f72840e8c/o_god_the_eternal_father_vocal_accompaniment_eng.mp3",
           "duration": 259000,
           "lang": "eng",
@@ -2009,7 +2009,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/d8/ec/d8eca143a6aaf3e2d2c2b14a32c45a8ead42e851/how_great_the_wisdom_and_the_love_vocal_accompaniment_eng.mp3",
           "duration": 232000,
           "lang": "eng",
@@ -2142,7 +2142,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/b4/76/b476c69e1dd3262e7b3863017437060ae5077a88/jesus_once_of_humble_birth_vocal_accompaniment_eng.mp3",
           "duration": 209000,
           "lang": "eng",
@@ -2319,7 +2319,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://media2.ldscdn.org/assets/music/hymns/2001-01-1700-god-our-father-hear-us-pray-vocal-and-instrumental-192k-eng.mp3",
           "duration": 141000,
           "lang": "eng",
@@ -2505,7 +2505,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/95/c4/95c4bbc41fed1b9e062f872f5f4629f136f234ee/i_stand_all_amazed_vocal_accompaniment_eng.mp3",
           "duration": 217000,
           "lang": "eng",
@@ -2686,7 +2686,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/a1/d7/a1d7f01400ebf8a3fd96f03fbd1a5f2dd1c1bc40/there_is_a_green_hill_far_away_vocal_accompaniment_eng.mp3",
           "duration": 136000,
           "lang": "eng",
@@ -2857,7 +2857,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/4f/2f/4f2fc8e565a40a875d9cdd8ddb84b515174e3e8e/well_sing_all_hail_to_jesus_name_vocal_accompaniment_eng.mp3",
           "duration": 165000,
           "lang": "eng",
@@ -3040,7 +3040,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/52/05/5205bef4969f86f061902517ad0ff73a92416fb4/in_humility_our_savior_vocal_accompaniment_eng.mp3",
           "duration": 166000,
           "lang": "eng",
@@ -3222,7 +3222,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/45/a1/45a1998416222f2d8474f5204c19dafa8060ceae/the_spirit_of_god_vocal_accompaniment_eng.mp3",
           "duration": 354000,
           "lang": "eng",
@@ -3401,7 +3401,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/8c/9e/8c9e8535a843384cd0ef99ee8058984535e3e6a7/high_on_the_mountain_top_vocal_accompaniment_eng.mp3",
           "duration": 151000,
           "lang": "eng",
@@ -3531,7 +3531,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/85/33/8533a2d3689642e972d3f219775abc797e5582d6/oh_say_what_is_truth_vocal_accompaniment_eng.mp3",
           "duration": 145000,
           "lang": "eng",
@@ -3666,7 +3666,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/32/48/324803e6deeb44ae2469b429ca2b3c679cec1f39/now_let_us_rejoice_vocal_accompaniment_eng.mp3",
           "duration": 207000,
           "lang": "eng",
@@ -3841,7 +3841,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/66/7f/667f9f84fcb69ac93f08b98a08ff7561726ea63a/do_what_is_right_vocal_accompaniment_eng.mp3",
           "duration": 182000,
           "lang": "eng",
@@ -4028,7 +4028,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/61/fe/61fe312c1e97488755d7a56793d86815b2d6f276/we_thank_thee_o_god_for_a_prophet_vocal_accompaniment_eng.mp3",
           "duration": 165000,
           "lang": "eng",
@@ -4211,7 +4211,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://media2.ldscdn.org/assets/music/hymns/2001-01-1360-i-know-that-my-redeemer-lives-vocal-and-instrumental-192k-eng.mp3",
           "duration": 258000,
           "lang": "eng",
@@ -4384,7 +4384,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/67/b2/67b26d452b924fc542407fa3daf1272c3d97cf8f/god_be_with_you_till_we_meet_again_vocal_accompaniment_eng.mp3",
           "duration": 193000,
           "lang": "eng",
@@ -4571,7 +4571,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/93/a7/93a74d1aac0d037f1f32f25f8e43f7cf6e00ead1/o_my_father_vocal_accompaniment_eng.mp3",
           "duration": 263000,
           "lang": "eng",
@@ -4746,7 +4746,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/7a/24/7a24b2e15613f5ce1ef0fcbb68825f78294542dd/love_at_home_vocal_accompaniment_eng.mp3",
           "duration": 215000,
           "lang": "eng",
@@ -4926,7 +4926,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/43/b6/43b67475b9d00ba9b11b0a05ae5a9c4a2ebb716e/ill_go_where_you_want_me_to_go_vocal_accompaniment_eng.mp3",
           "duration": 280000,
           "lang": "eng",
@@ -5104,7 +5104,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://media2.ldscdn.org/assets/music/hymns/2001-01-1400-did-you-think-to-pray-vocal-and-instrumental-192k-eng.mp3",
           "duration": 182000,
           "lang": "eng",
@@ -5234,7 +5234,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/93/01/9301b117342a9def9f378802fa1f4027c939a38e/praise_to_the_man_vocal_accompaniment_eng.mp3",
           "duration": 215000,
           "lang": "eng",
@@ -5407,7 +5407,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/a0/78/a078e3317f73da04684e2265fbc742fb5228bd99/far_far_away_on_judeas_plains_vocal_accompaniment_eng.mp3",
           "duration": 142000,
           "lang": "eng",
@@ -5584,7 +5584,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/40/a1/40a141e7827a9f9caba59998db23c198a3fb8c89/silent_night_vocal_accompaniment_eng.mp3",
           "duration": 189000,
           "lang": "eng",
@@ -5764,7 +5764,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://media2.ldscdn.org/assets/music/hymns/2001-01-2000-christ-the-lord-is-risen-today-vocal-and-instrumental-192k-eng.mp3",
           "duration": 142000,
           "lang": "eng",
@@ -5942,7 +5942,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://media2.ldscdn.org/assets/music/hymns/2001-01-1990-he-is-risen-vocal-and-instrumental-192k-eng.mp3",
           "duration": 110000,
           "lang": "eng",
@@ -6124,7 +6124,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/58/b3/58b33551b2744da03c854f458e82ec79dd3a6285/i_am_a_child_of_god_vocal_accompaniment_eng.mp3",
           "duration": 175000,
           "lang": "eng",
@@ -6299,7 +6299,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/0e/e0/0ee0d4d1a72de95e1b52ce1d84d9d222f3ab7401/i_know_my_father_lives_vocal_accompaniment_eng.mp3",
           "duration": 104000,
           "lang": "eng",
@@ -6418,9 +6418,9 @@
             "description": "Cover art for the Children’s Songbook.",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/800,/0/default",
             "seoDescription": "Cover art for the Children's Songbook.",
-            "seoTitle": "Children's Songbook",
-            "shareableTitle": "Children's Songbook",
-            "title": "Children’s Songbook",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!320%2C320/0/default",
@@ -6466,7 +6466,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CHILDREN",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/bd/2b/bd2b2845f79c11d83d1389f8741a0d5886e4c608/i_think_when_i_read_that_sweet_story_vocal_accompaniment_eng.mp3",
           "duration": 70000,
           "lang": "eng",
@@ -6479,9 +6479,9 @@
             "description": "Cover art for the Children’s Songbook.",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/800,/0/default",
             "seoDescription": "Cover art for the Children's Songbook.",
-            "seoTitle": "Children's Songbook",
-            "shareableTitle": "Children's Songbook",
-            "title": "Children’s Songbook",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!320%2C320/0/default",
@@ -6581,9 +6581,9 @@
             "description": "Cover art for the Children’s Songbook.",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/800,/0/default",
             "seoDescription": "Cover art for the Children's Songbook.",
-            "seoTitle": "Children's Songbook",
-            "shareableTitle": "Children's Songbook",
-            "title": "Children’s Songbook",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!320%2C320/0/default",
@@ -6629,7 +6629,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CHILDREN",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/81/49/814959d845fc27b191a56a62e8033893542c42d1/i_thank_thee_dear_father_vocal_accompaniment_eng.mp3",
           "duration": 108000,
           "lang": "eng",
@@ -6642,9 +6642,9 @@
             "description": "Cover art for the Children’s Songbook.",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/800,/0/default",
             "seoDescription": "Cover art for the Children's Songbook.",
-            "seoTitle": "Children's Songbook",
-            "shareableTitle": "Children's Songbook",
-            "title": "Children’s Songbook",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!320%2C320/0/default",
@@ -6751,9 +6751,9 @@
             "description": "Cover art for the Children’s Songbook.",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/800,/0/default",
             "seoDescription": "Cover art for the Children's Songbook.",
-            "seoTitle": "Children's Songbook",
-            "shareableTitle": "Children's Songbook",
-            "title": "Children’s Songbook",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!320%2C320/0/default",
@@ -6812,9 +6812,9 @@
             "description": "Cover art for the Children’s Songbook.",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/800,/0/default",
             "seoDescription": "Cover art for the Children's Songbook.",
-            "seoTitle": "Children's Songbook",
-            "shareableTitle": "Children's Songbook",
-            "title": "Children’s Songbook",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!320%2C320/0/default",
@@ -6913,9 +6913,9 @@
             "description": "Cover art for the Children’s Songbook.",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/800,/0/default",
             "seoDescription": "Cover art for the Children's Songbook.",
-            "seoTitle": "Children's Songbook",
-            "shareableTitle": "Children's Songbook",
-            "title": "Children’s Songbook",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!320%2C320/0/default",
@@ -7099,9 +7099,9 @@
             "description": "Cover art for the Children’s Songbook.",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/800,/0/default",
             "seoDescription": "Cover art for the Children's Songbook.",
-            "seoTitle": "Children's Songbook",
-            "shareableTitle": "Children's Songbook",
-            "title": "Children’s Songbook",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!320%2C320/0/default",
@@ -7160,9 +7160,9 @@
             "description": "Cover art for the Children’s Songbook.",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/800,/0/default",
             "seoDescription": "Cover art for the Children's Songbook.",
-            "seoTitle": "Children's Songbook",
-            "shareableTitle": "Children's Songbook",
-            "title": "Children’s Songbook",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!320%2C320/0/default",
@@ -7261,9 +7261,9 @@
             "description": "Cover art for the Children’s Songbook.",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/800,/0/default",
             "seoDescription": "Cover art for the Children's Songbook.",
-            "seoTitle": "Children's Songbook",
-            "shareableTitle": "Children's Songbook",
-            "title": "Children’s Songbook",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!320%2C320/0/default",
@@ -7309,7 +7309,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CHILDREN",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/db/1c/db1c55bd20ab8e7bc9d85959fc439f0462a257bd/the_golden_plates_vocal_accompaniment_eng.mp3",
           "duration": 56000,
           "lang": "eng",
@@ -7322,9 +7322,9 @@
             "description": "Cover art for the Children’s Songbook.",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/800,/0/default",
             "seoDescription": "Cover art for the Children's Songbook.",
-            "seoTitle": "Children's Songbook",
-            "shareableTitle": "Children's Songbook",
-            "title": "Children’s Songbook",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!320%2C320/0/default",
@@ -7490,7 +7490,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/0a/ea/0aea98ce7c6b34af094e09f32547a4afc34c311c/teach_me_to_walk_in_the_light_vocal_accompaniment_eng.mp3",
           "duration": 134000,
           "lang": "eng",
@@ -7609,9 +7609,9 @@
             "description": "Cover art for the Children’s Songbook.",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/800,/0/default",
             "seoDescription": "Cover art for the Children's Songbook.",
-            "seoTitle": "Children's Songbook",
-            "shareableTitle": "Children's Songbook",
-            "title": "Children’s Songbook",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!320%2C320/0/default",
@@ -7657,7 +7657,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CHILDREN",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/3c/16/3c165fd2f23bb1bf7511471a2b31abcd4591c373/family_prayer_vocal_accompaniment_eng.mp3",
           "duration": 75000,
           "lang": "eng",
@@ -7670,9 +7670,9 @@
             "description": "Cover art for the Children’s Songbook.",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/800,/0/default",
             "seoDescription": "Cover art for the Children's Songbook.",
-            "seoTitle": "Children's Songbook",
-            "shareableTitle": "Children's Songbook",
-            "title": "Children’s Songbook",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!320%2C320/0/default",

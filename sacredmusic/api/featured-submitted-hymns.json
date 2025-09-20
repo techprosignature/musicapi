@@ -494,7 +494,7 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "assetType": "audio/mpeg",
           "distributionUrl": "https://assets.churchofjesuschrist.org/28/ec/28ecshr1msjjnd65mcbg71oher0rxamhfaxsmmmb/o_lord_who_gave_thy_life_for_me.mp3",
           "duration": 163000,
           "lang": "eng",
