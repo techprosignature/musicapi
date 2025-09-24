@@ -37,7 +37,7 @@
         }
       ],
       "musicalFeatures": [],
-      "recordingAvailable": false,
+      "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
@@ -50,7 +50,7 @@
       "voicings": [],
       "assets": [
         {
-          "assetType": "audio/mpeg",
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
           "distributionUrl": "https://assets.churchofjesuschrist.org/4fff15718eeb11eebd6ceeeeac1eefc30602f94b-256k-en.mp3",
           "duration": 172272,
           "lang": "eng",
@@ -170,7 +170,7 @@
         }
       ],
       "musicalFeatures": [],
-      "recordingAvailable": false,
+      "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
@@ -179,7 +179,7 @@
       "voicings": [],
       "assets": [
         {
-          "assetType": "audio/mpeg",
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
           "distributionUrl": "https://assets.churchofjesuschrist.org/4f2900c98eeb11eebebeeeeeac1e721234b3c122-32k-en.m4a",
           "duration": 227000,
           "lang": "eng",
@@ -545,7 +545,7 @@
         }
       ],
       "musicalFeatures": [],
-      "recordingAvailable": false,
+      "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
@@ -554,7 +554,7 @@
       "voicings": [],
       "assets": [
         {
-          "assetType": "audio/mpeg",
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
           "distributionUrl": "https://assets.churchofjesuschrist.org/4fc540c08eeb11eebd6ceeeeac1eefc36ec9f46c-256k-en.mp3",
           "duration": 181152,
           "lang": "eng",
@@ -935,7 +935,7 @@
       ],
       "instrumentations": [],
       "musicalFeatures": [],
-      "recordingAvailable": false,
+      "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
@@ -945,7 +945,7 @@
       "voicings": [],
       "assets": [
         {
-          "assetType": "audio/mpeg",
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
           "distributionUrl": "https://assets.churchofjesuschrist.org/518e19de8eeb11ee8041eeeeac1e6a39477b51ed-32k-en.m4a",
           "duration": 157000,
           "lang": "eng",
@@ -1044,14 +1044,14 @@
       "composers": [],
       "instrumentations": [],
       "musicalFeatures": [],
-      "recordingAvailable": false,
+      "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [],
       "voicings": [],
       "assets": [
         {
-          "assetType": "audio/mpeg",
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
           "distributionUrl": "https://assets.churchofjesuschrist.org/51ea6aaa8eeb11ee8ca1eeeeac1ea7f14578c035-256k-en.mp3",
           "duration": 238104,
           "lang": "eng",

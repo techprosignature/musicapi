@@ -2254,7 +2254,7 @@
           }
         },
         {
-          "assetType": "audio/mpeg",
+          "assetType": "AUDIO_VOCAL_CHILDREN",
           "distributionUrl": "https://assets.churchofjesuschrist.org/fb/18/fb184ba979516d80e9c2b5a4aba568950e775242/hum_your_favorite_hymn_vocal_accompaniment_eng.mp3",
           "duration": 76000,
           "lang": "eng",

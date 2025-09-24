@@ -14046,7 +14046,7 @@
         }
       ],
       "musicalFeatures": [],
-      "recordingAvailable": false,
+      "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
@@ -14070,7 +14070,7 @@
       ],
       "assets": [
         {
-          "assetType": "audio/mpeg",
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
           "distributionUrl": "https://assets.churchofjesuschrist.org/4f/2c/4f2cd45601ae11efa619eeeeac1e58a7eab0cbc4/master_the_tempest_is_raging_shippen.mp3",
           "duration": 380000,
           "lang": "eng",
@@ -24896,7 +24896,7 @@
         }
       ],
       "musicalFeatures": [],
-      "recordingAvailable": false,
+      "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
@@ -24918,7 +24918,7 @@
       ],
       "assets": [
         {
-          "assetType": "audio/mpeg",
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
           "distributionUrl": "https://assets.churchofjesuschrist.org/2y/mk/2ymkvg54l53ezsgwwqhail1pq5p9iceym2wbkbgd/come_let_us_anew.mp3",
           "duration": 219000,
           "lang": "eng",

@@ -785,7 +785,7 @@
           }
         },
         {
-          "assetType": "audio/mpeg",
+          "assetType": "AUDIO_VOCAL_CHILDREN",
           "distributionUrl": "https://assets.churchofjesuschrist.org/20/c9/20c959d780a50681de528ff5ed458dee87a2a2f0/every_star_is_different_vocal_accompaniment_eng.mp3",
           "duration": 121000,
           "lang": "eng",
@@ -2909,7 +2909,7 @@
           }
         },
         {
-          "assetType": "audio/mpeg",
+          "assetType": "AUDIO_VOCAL_CHILDREN",
           "distributionUrl": "https://assets.churchofjesuschrist.org/87/4d/874d896d920b85129e1d241f0e95623da5089779/to_think_about_jesus_vocal_accompaniment_eng.mp3",
           "duration": 92000,
           "lang": "eng",
@@ -3963,7 +3963,7 @@
           }
         },
         {
-          "assetType": "audio/mpeg",
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
           "distributionUrl": "https://assets.churchofjesuschrist.org/0d/d8/0dd89087e8b31ffe4b827168129df16a8ccbb2df/o_little_town_of_bethlehem_vocal_accompaniment_eng.mp3",
           "duration": 181000,
           "lang": "eng",

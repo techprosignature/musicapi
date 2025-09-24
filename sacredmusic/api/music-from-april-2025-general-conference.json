@@ -39,7 +39,7 @@
         }
       ],
       "musicalFeatures": [],
-      "recordingAvailable": false,
+      "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
@@ -53,7 +53,7 @@
       "voicings": [],
       "assets": [
         {
-          "assetType": "audio/mpeg",
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
           "distributionUrl": "https://assets.churchofjesuschrist.org/12/2b/122b5abp37xje0m20tr06o8e94u9jilv9ivgrrf4/2025_04_with_songs_of_praise.mp3",
           "duration": 165000,
           "lang": "eng",
@@ -154,7 +154,7 @@
         }
       ],
       "musicalFeatures": [],
-      "recordingAvailable": false,
+      "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
@@ -179,7 +179,7 @@
       "voicings": [],
       "assets": [
         {
-          "assetType": "audio/mpeg",
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
           "distributionUrl": "https://assets.churchofjesuschrist.org/k7/n9/k7n959qgbyt8xyxf01tod0p4v5i38llktqxaho9i/2025_04_he_sent_his_son.mp3",
           "duration": 211000,
           "lang": "eng",
@@ -280,7 +280,7 @@
         }
       ],
       "musicalFeatures": [],
-      "recordingAvailable": false,
+      "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
@@ -291,7 +291,7 @@
       "voicings": [],
       "assets": [
         {
-          "assetType": "audio/mpeg",
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
           "distributionUrl": "https://assets.churchofjesuschrist.org/94/jj/94jj91ltxjjyzxalpqf18g43a0r8plynmzw1quhn/2025_04_god_is_love.mp3",
           "duration": 292000,
           "lang": "eng",
@@ -395,7 +395,7 @@
         }
       ],
       "musicalFeatures": [],
-      "recordingAvailable": false,
+      "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
@@ -416,7 +416,7 @@
       "voicings": [],
       "assets": [
         {
-          "assetType": "audio/mpeg",
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
           "distributionUrl": "https://assets.churchofjesuschrist.org/xm/sc/xmscwu98yhtgpe6sxpcrdr5uj0efoz26fvj2vkgh/2025_04_come_come_ye_saints.mp3",
           "duration": 288000,
           "lang": "eng",
@@ -514,7 +514,7 @@
         }
       ],
       "musicalFeatures": [],
-      "recordingAvailable": false,
+      "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
@@ -526,7 +526,7 @@
       "voicings": [],
       "assets": [
         {
-          "assetType": "audio/mpeg",
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
           "distributionUrl": "https://assets.churchofjesuschrist.org/h8/rs/h8rssvv1dcjyk5tocg6l7bay5rjqkvez33q00rj1/2025_04_sing_praise_to_him.mp3",
           "duration": 177000,
           "lang": "eng",
@@ -624,7 +624,7 @@
         }
       ],
       "musicalFeatures": [],
-      "recordingAvailable": false,
+      "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
@@ -642,7 +642,7 @@
       "voicings": [],
       "assets": [
         {
-          "assetType": "audio/mpeg",
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
           "distributionUrl": "https://assets.churchofjesuschrist.org/tw/80/tw800uckp6ucdizh42wrlmxv5dkiapywbx6gy6qy/2025_04_come_hear_the_word_the_lord_has_spoken.mp3",
           "duration": 173000,
           "lang": "eng",
@@ -740,7 +740,7 @@
         }
       ],
       "musicalFeatures": [],
-      "recordingAvailable": false,
+      "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
@@ -756,7 +756,7 @@
       "voicings": [],
       "assets": [
         {
-          "assetType": "audio/mpeg",
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
           "distributionUrl": "https://assets.churchofjesuschrist.org/mm/yn/mmyn0bvxohwy4w1udjfvmmf5zp7ii7zelfkoumnz/2025_04_oh_the_deep_deep_love_of_jesus.mp3",
           "duration": 274000,
           "lang": "eng",
@@ -854,7 +854,7 @@
         }
       ],
       "musicalFeatures": [],
-      "recordingAvailable": false,
+      "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
@@ -870,7 +870,7 @@
       "voicings": [],
       "assets": [
         {
-          "assetType": "audio/mpeg",
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
           "distributionUrl": "https://assets.churchofjesuschrist.org/0n/vo/0nvoounzqzxscig057bb30uxbi1pg97dwyhsxm1c/2025_04_true_to_the_faith.mp3",
           "duration": 244000,
           "lang": "eng",
@@ -968,7 +968,7 @@
         }
       ],
       "musicalFeatures": [],
-      "recordingAvailable": false,
+      "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
@@ -981,7 +981,7 @@
       "voicings": [],
       "assets": [
         {
-          "assetType": "audio/mpeg",
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
           "distributionUrl": "https://assets.churchofjesuschrist.org/9d/s5/9ds56sm5joqppzz69zzuv65jd1zx1p50p69cq6fv/2025_04_hail_the_day_that_sees_him_rise.mp3",
           "duration": 268000,
           "lang": "eng",
@@ -1079,7 +1079,7 @@
         }
       ],
       "musicalFeatures": [],
-      "recordingAvailable": false,
+      "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
@@ -1094,7 +1094,7 @@
       "voicings": [],
       "assets": [
         {
-          "assetType": "audio/mpeg",
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
           "distributionUrl": "https://assets.churchofjesuschrist.org/7m/z0/7mz06gzxz0f3gqh3focz8hocu4i9o9ee30fjf6h9/2025_04_sweet_is_the_peace_the_gospel_brings.mp3",
           "duration": 252000,
           "lang": "eng",
@@ -1184,7 +1184,7 @@
         }
       ],
       "musicalFeatures": [],
-      "recordingAvailable": false,
+      "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
@@ -1197,7 +1197,7 @@
       "voicings": [],
       "assets": [
         {
-          "assetType": "audio/mpeg",
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
           "distributionUrl": "https://assets.churchofjesuschrist.org/vs/no/vsnosqsl7eiu418y0pxcxp161osgqwobzgswjuzu/2025_04_were_you_there.mp3",
           "duration": 206000,
           "lang": "eng",
@@ -1295,7 +1295,7 @@
         }
       ],
       "musicalFeatures": [],
-      "recordingAvailable": false,
+      "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
@@ -1308,7 +1308,7 @@
       "voicings": [],
       "assets": [
         {
-          "assetType": "audio/mpeg",
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
           "distributionUrl": "https://assets.churchofjesuschrist.org/5m/fp/5mfpi3pvt0b8ylmnzx85l1yy9ggzombypso6lgpe/2025_04_rejoice_the_lord_is_king.mp3",
           "duration": 250000,
           "lang": "eng",
@@ -1409,7 +1409,7 @@
         }
       ],
       "musicalFeatures": [],
-      "recordingAvailable": false,
+      "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
@@ -1425,7 +1425,7 @@
       "voicings": [],
       "assets": [
         {
-          "assetType": "audio/mpeg",
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
           "distributionUrl": "https://assets.churchofjesuschrist.org/lw/fm/lwfm5glh32e527e9qet8hyhc7k538zvhqkbxratg/2025_04_praise_to_the_lord_the_almighty.mp3",
           "duration": 168000,
           "lang": "eng",
@@ -1526,7 +1526,7 @@
         }
       ],
       "musicalFeatures": [],
-      "recordingAvailable": false,
+      "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
@@ -1545,7 +1545,7 @@
       "voicings": [],
       "assets": [
         {
-          "assetType": "audio/mpeg",
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
           "distributionUrl": "https://assets.churchofjesuschrist.org/4c/aq/4caqmk95rwi50yi4mdq9dy8rcty0mm1ibqftdq8y/2025_04_welcome_home.mp3",
           "duration": 266000,
           "lang": "eng",
@@ -1646,7 +1646,7 @@
         }
       ],
       "musicalFeatures": [],
-      "recordingAvailable": false,
+      "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
@@ -1665,7 +1665,7 @@
       "voicings": [],
       "assets": [
         {
-          "assetType": "audio/mpeg",
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
           "distributionUrl": "https://assets.churchofjesuschrist.org/tr/pd/trpdnvznkjib2onz4m22dk54hd2e68j3s6zfiema/2025_04_jesus_the_very_thought_of_thee.mp3",
           "duration": 194000,
           "lang": "eng",
@@ -1766,7 +1766,7 @@
         }
       ],
       "musicalFeatures": [],
-      "recordingAvailable": false,
+      "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
@@ -1786,7 +1786,7 @@
       "voicings": [],
       "assets": [
         {
-          "assetType": "audio/mpeg",
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
           "distributionUrl": "https://assets.churchofjesuschrist.org/pz/9e/pz9es1jxxwssokbkuu3wh7wwk8wwy5reyx53cu3d/2025_04_it_is_well_with_my_soul.mp3",
           "duration": 272000,
           "lang": "eng",
@@ -1887,7 +1887,7 @@
         }
       ],
       "musicalFeatures": [],
-      "recordingAvailable": false,
+      "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
@@ -1906,7 +1906,7 @@
       "voicings": [],
       "assets": [
         {
-          "assetType": "audio/mpeg",
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
           "distributionUrl": "https://assets.churchofjesuschrist.org/xq/00/xq00dwmbamc7rmxcwezhwfcoqcrxbtqh24rcrrw6/2025_04_sweet_is_the_work.mp3",
           "duration": 201000,
           "lang": "eng",
@@ -2007,7 +2007,7 @@
         }
       ],
       "musicalFeatures": [],
-      "recordingAvailable": false,
+      "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
@@ -2022,7 +2022,7 @@
       "voicings": [],
       "assets": [
         {
-          "assetType": "audio/mpeg",
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
           "distributionUrl": "https://assets.churchofjesuschrist.org/tr/31/tr31e4zljt9q2ji12z4tvln4vwsv51pqpo92psb2/2025_04_close_as_a_quiet_prayer.mp3",
           "duration": 199000,
           "lang": "eng",
@@ -2123,7 +2123,7 @@
         }
       ],
       "musicalFeatures": [],
-      "recordingAvailable": false,
+      "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
@@ -2136,7 +2136,7 @@
       "voicings": [],
       "assets": [
         {
-          "assetType": "audio/mpeg",
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
           "distributionUrl": "https://assets.churchofjesuschrist.org/cj/f6/cjf6n0xpw2dj8vtxavbhbaojhmv59rih61sqapaf/2025_04_this_is_my_beloved_son.mp3",
           "duration": 194000,
           "lang": "eng",
@@ -2237,7 +2237,7 @@
         }
       ],
       "musicalFeatures": [],
-      "recordingAvailable": false,
+      "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
@@ -2256,7 +2256,7 @@
       "voicings": [],
       "assets": [
         {
-          "assetType": "audio/mpeg",
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
           "distributionUrl": "https://assets.churchofjesuschrist.org/tv/gy/tvgyw2a6jmnm2rwkfdeefxg8iuj46l1icpx5huej/2025_04_redeemer_of_israel.mp3",
           "duration": 224000,
           "lang": "eng",

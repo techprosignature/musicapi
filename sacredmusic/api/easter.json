@@ -392,7 +392,7 @@
         }
       ],
       "musicalFeatures": [],
-      "recordingAvailable": false,
+      "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
@@ -405,7 +405,7 @@
       "voicings": [],
       "assets": [
         {
-          "assetType": "audio/mpeg",
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
           "distributionUrl": "https://assets.churchofjesuschrist.org/36/c4/36c49zvuuuirhh5r3w7f4nsppxjn51af4d9u533m/2024_10_gethsemane.mp3",
           "duration": 6000,
           "lang": "eng",
@@ -4999,14 +4999,14 @@
       "composers": [],
       "instrumentations": [],
       "musicalFeatures": [],
-      "recordingAvailable": false,
+      "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [],
       "voicings": [],
       "assets": [
         {
-          "assetType": "audio/mpeg",
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
           "distributionUrl": "https://assets.churchofjesuschrist.org/51ea6aaa8eeb11ee8ca1eeeeac1ea7f14578c035-256k-en.mp3",
           "duration": 238104,
           "lang": "eng",
@@ -5498,7 +5498,7 @@
           }
         },
         {
-          "assetType": "audio/mpeg",
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
           "distributionUrl": "https://assets.churchofjesuschrist.org/o9/qe/o9qe8quq79sadfwhxh5r35wgf8u9im92gor1c051/hail_the_day_that_sees_him_rise.mp3",
           "duration": 174000,
           "lang": "eng",
