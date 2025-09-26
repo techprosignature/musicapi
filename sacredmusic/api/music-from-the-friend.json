@@ -28122,9 +28122,53 @@
           }
         }
       ]
+    },
+    {
+      "title": "I’m Going to Follow Jesus Christ Today",
+      "slug": "im-going-to-follow-jesus-christ-today-2025",
+      "bookSlug": "music-from-the-friend",
+      "bookSectionTitle": "2025",
+      "songNumber": "",
+      "songDate": "2025-10-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Steven Tomer"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Steven Tomer"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Jesus Christ",
+        "missionary work",
+        "obedience",
+        "testimony"
+      ],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": []
     }
   ],
   "limit": 500,
   "offset": 0,
-  "total": 352
+  "total": 353
 }
