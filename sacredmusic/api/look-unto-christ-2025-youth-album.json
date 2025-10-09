@@ -3111,9 +3111,102 @@
           }
         }
       ]
+    },
+    {
+      "title": "My Promise to You",
+      "slug": "my-promise-to-you-2025",
+      "bookSlug": "look-unto-christ-2025-youth-album",
+      "bookSectionTitle": "2025 Singles",
+      "songNumber": "12",
+      "songDate": "2025-10-01",
+      "arrangers": [
+        {
+          "personName": "Mitch Davis"
+        },
+        {
+          "personName": "Todd Trần"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Chalyse Alapa"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "youth"
+      ],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/fo/mk/fomk2j5lz007851gr17g9h65jutytmkgaqsfsrhs/my_promise_to_you_2025.mp3",
+          "duration": 169000,
+          "lang": "eng",
+          "title": "My Promise to You",
+          "description": "“My Promise to You” from the 2025 Youth Album. English.",
+          "seoDescription": "“My Promise to You” from the 2025 Youth Album. English.",
+          "seoTitle": "My Promise to You",
+          "shareableTitle": "My Promise to You",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/lh/ag/lhagw9efr12gcq3qpp384tt1upfn8qdm3pc9gt16/my_promise_to_you_2025.mp3",
+          "duration": 169000,
+          "lang": "eng",
+          "title": "My Promise to You",
+          "description": "Chalyse Alapa sings “My Promise to You” from the 2025 Youth Album. English.",
+          "seoDescription": "Chalyse Alapa sings “My Promise to You” from the 2025 Youth Album. English.",
+          "seoTitle": "My Promise to You",
+          "shareableTitle": "My Promise to You",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
     }
   ],
   "limit": 500,
   "offset": 0,
-  "total": 18
+  "total": 19
 }
