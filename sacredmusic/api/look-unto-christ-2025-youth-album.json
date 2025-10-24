@@ -1902,21 +1902,49 @@
       "bookSectionTitle": "2025 Singles",
       "songNumber": "5",
       "songDate": "2025-05-02",
-      "arrangers": [],
+      "arrangers": [
+        {
+          "personName": "Mitch Davis"
+        },
+        {
+          "personName": "Todd Trần"
+        }
+      ],
       "artists": [
         {
           "personName": "Peyton Mercedes"
         }
       ],
-      "authors": [],
-      "composers": [],
-      "instrumentations": [],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
       "musicalFeatures": [],
       "recordingAvailable": true,
-      "sheetMusicAvailable": false,
+      "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [],
-      "voicings": [],
+      "tags": [
+        "youth"
+      ],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
       "assets": [
         {
           "assetType": "AUDIO_ACCOMPANIMENT",
@@ -1929,62 +1957,67 @@
           "seoTitle": "All For Me (Instrumental)",
           "shareableTitle": "All For Me (Instrumental)",
           "thumbnail": {
-            "description": "All For Me Album Cover",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ypghmavijtpqpt921tyl7lem5tdwd8m0ll1yeo28/full/1600,/0/default",
-            "seoDescription": "All For Me Album Cover",
+            "description": "Arrows Diagram",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/1920,/0/default",
+            "seoDescription": "Arrows Diagram",
             "seoTitle": "No Title",
             "shareableTitle": "No Title",
             "title": "No Title",
             "renditions": [
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ypghmavijtpqpt921tyl7lem5tdwd8m0ll1yeo28/full/!320%2C320/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!320%2C320/0/default",
                 "width": 320,
                 "height": 320
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ypghmavijtpqpt921tyl7lem5tdwd8m0ll1yeo28/full/!640%2C640/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!640%2C639/0/default",
                 "width": 640,
-                "height": 640
+                "height": 639
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ypghmavijtpqpt921tyl7lem5tdwd8m0ll1yeo28/full/!800%2C800/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!800%2C799/0/default",
                 "width": 800,
-                "height": 800
+                "height": 799
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ypghmavijtpqpt921tyl7lem5tdwd8m0ll1yeo28/full/!1280%2C1280/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!1280%2C1279/0/default",
                 "width": 1280,
-                "height": 1280
+                "height": 1279
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ypghmavijtpqpt921tyl7lem5tdwd8m0ll1yeo28/full/!1600%2C1600/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!1600%2C1598/0/default",
                 "width": 1600,
-                "height": 1600
+                "height": 1598
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ypghmavijtpqpt921tyl7lem5tdwd8m0ll1yeo28/full/!60%2C60/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!1920%2C1918/0/default",
+                "width": 1920,
+                "height": 1918
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!60%2C60/0/default",
                 "width": 60,
                 "height": 60
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ypghmavijtpqpt921tyl7lem5tdwd8m0ll1yeo28/full/!250%2C250/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!250%2C250/0/default",
                 "width": 250,
                 "height": 250
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ypghmavijtpqpt921tyl7lem5tdwd8m0ll1yeo28/full/!200%2C200/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!200%2C200/0/default",
                 "width": 200,
                 "height": 200
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ypghmavijtpqpt921tyl7lem5tdwd8m0ll1yeo28/full/!100%2C100/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!100%2C100/0/default",
                 "width": 100,
                 "height": 100
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ypghmavijtpqpt921tyl7lem5tdwd8m0ll1yeo28/full/!500%2C500/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!500%2C499/0/default",
                 "width": 500,
-                "height": 500
+                "height": 499
               }
             ]
           }
@@ -2000,62 +2033,67 @@
           "seoTitle": "All For Me",
           "shareableTitle": "All For Me",
           "thumbnail": {
-            "description": "All For Me Album Cover",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ypghmavijtpqpt921tyl7lem5tdwd8m0ll1yeo28/full/1600,/0/default",
-            "seoDescription": "All For Me Album Cover",
+            "description": "Arrows Diagram",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/1920,/0/default",
+            "seoDescription": "Arrows Diagram",
             "seoTitle": "No Title",
             "shareableTitle": "No Title",
             "title": "No Title",
             "renditions": [
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ypghmavijtpqpt921tyl7lem5tdwd8m0ll1yeo28/full/!320%2C320/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!320%2C320/0/default",
                 "width": 320,
                 "height": 320
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ypghmavijtpqpt921tyl7lem5tdwd8m0ll1yeo28/full/!640%2C640/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!640%2C639/0/default",
                 "width": 640,
-                "height": 640
+                "height": 639
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ypghmavijtpqpt921tyl7lem5tdwd8m0ll1yeo28/full/!800%2C800/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!800%2C799/0/default",
                 "width": 800,
-                "height": 800
+                "height": 799
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ypghmavijtpqpt921tyl7lem5tdwd8m0ll1yeo28/full/!1280%2C1280/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!1280%2C1279/0/default",
                 "width": 1280,
-                "height": 1280
+                "height": 1279
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ypghmavijtpqpt921tyl7lem5tdwd8m0ll1yeo28/full/!1600%2C1600/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!1600%2C1598/0/default",
                 "width": 1600,
-                "height": 1600
+                "height": 1598
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ypghmavijtpqpt921tyl7lem5tdwd8m0ll1yeo28/full/!60%2C60/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!1920%2C1918/0/default",
+                "width": 1920,
+                "height": 1918
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!60%2C60/0/default",
                 "width": 60,
                 "height": 60
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ypghmavijtpqpt921tyl7lem5tdwd8m0ll1yeo28/full/!250%2C250/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!250%2C250/0/default",
                 "width": 250,
                 "height": 250
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ypghmavijtpqpt921tyl7lem5tdwd8m0ll1yeo28/full/!200%2C200/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!200%2C200/0/default",
                 "width": 200,
                 "height": 200
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ypghmavijtpqpt921tyl7lem5tdwd8m0ll1yeo28/full/!100%2C100/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!100%2C100/0/default",
                 "width": 100,
                 "height": 100
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ypghmavijtpqpt921tyl7lem5tdwd8m0ll1yeo28/full/!500%2C500/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!500%2C499/0/default",
                 "width": 500,
-                "height": 500
+                "height": 499
               }
             ]
           }
@@ -2458,67 +2496,67 @@
           "seoTitle": "I'll Hold On (Instrumental)",
           "shareableTitle": "I'll Hold On (Instrumental)",
           "thumbnail": {
-            "description": "Album Cover for Strive To Be Single “I’ll Hold On”",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/1920,/0/default",
-            "seoDescription": "Album Cover for Strive To Be Single \"I'll Hold On\"",
+            "description": "Arrows Diagram",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/1920,/0/default",
+            "seoDescription": "Arrows Diagram",
             "seoTitle": "No Title",
             "shareableTitle": "No Title",
             "title": "No Title",
             "renditions": [
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!320%2C320/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!320%2C320/0/default",
                 "width": 320,
                 "height": 320
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!640%2C640/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!640%2C639/0/default",
                 "width": 640,
-                "height": 640
+                "height": 639
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!800%2C800/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!800%2C799/0/default",
                 "width": 800,
-                "height": 800
+                "height": 799
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!1280%2C1279/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!1280%2C1279/0/default",
                 "width": 1280,
                 "height": 1279
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!1600%2C1599/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!1600%2C1598/0/default",
                 "width": 1600,
-                "height": 1599
+                "height": 1598
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!1920%2C1919/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!1920%2C1918/0/default",
                 "width": 1920,
-                "height": 1919
+                "height": 1918
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!60%2C60/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!60%2C60/0/default",
                 "width": 60,
                 "height": 60
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!250%2C250/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!250%2C250/0/default",
                 "width": 250,
                 "height": 250
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!200%2C200/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!200%2C200/0/default",
                 "width": 200,
                 "height": 200
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!100%2C100/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!100%2C100/0/default",
                 "width": 100,
                 "height": 100
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!500%2C500/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!500%2C499/0/default",
                 "width": 500,
-                "height": 500
+                "height": 499
               }
             ]
           }
@@ -2534,67 +2572,67 @@
           "seoTitle": "I'll Hold On",
           "shareableTitle": "I'll Hold On",
           "thumbnail": {
-            "description": "Album Cover for Strive To Be Single “I’ll Hold On”",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/1920,/0/default",
-            "seoDescription": "Album Cover for Strive To Be Single \"I'll Hold On\"",
+            "description": "Arrows Diagram",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/1920,/0/default",
+            "seoDescription": "Arrows Diagram",
             "seoTitle": "No Title",
             "shareableTitle": "No Title",
             "title": "No Title",
             "renditions": [
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!320%2C320/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!320%2C320/0/default",
                 "width": 320,
                 "height": 320
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!640%2C640/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!640%2C639/0/default",
                 "width": 640,
-                "height": 640
+                "height": 639
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!800%2C800/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!800%2C799/0/default",
                 "width": 800,
-                "height": 800
+                "height": 799
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!1280%2C1279/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!1280%2C1279/0/default",
                 "width": 1280,
                 "height": 1279
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!1600%2C1599/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!1600%2C1598/0/default",
                 "width": 1600,
-                "height": 1599
+                "height": 1598
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!1920%2C1919/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!1920%2C1918/0/default",
                 "width": 1920,
-                "height": 1919
+                "height": 1918
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!60%2C60/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!60%2C60/0/default",
                 "width": 60,
                 "height": 60
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!250%2C250/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!250%2C250/0/default",
                 "width": 250,
                 "height": 250
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!200%2C200/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!200%2C200/0/default",
                 "width": 200,
                 "height": 200
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!100%2C100/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!100%2C100/0/default",
                 "width": 100,
                 "height": 100
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ekiiuic25vm0jdsvm0m8wg56lyxa2phnizj6vjkt/full/!500%2C500/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!500%2C499/0/default",
                 "width": 500,
-                "height": 500
+                "height": 499
               }
             ]
           }
@@ -2812,67 +2850,67 @@
           "seoTitle": "Made by God (Instrumental)",
           "shareableTitle": "Made by God (Instrumental)",
           "thumbnail": {
-            "description": "Made by God Library Cover.",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ic5m2dzfy72mhh29ephwo0jcawizx0uetljha48f/full/1920,/0/default",
-            "seoDescription": "Made by God Library Cover.",
+            "description": "Arrows Diagram",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/1920,/0/default",
+            "seoDescription": "Arrows Diagram",
             "seoTitle": "No Title",
             "shareableTitle": "No Title",
             "title": "No Title",
             "renditions": [
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ic5m2dzfy72mhh29ephwo0jcawizx0uetljha48f/full/!320%2C427/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!320%2C320/0/default",
                 "width": 320,
-                "height": 427
+                "height": 320
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ic5m2dzfy72mhh29ephwo0jcawizx0uetljha48f/full/!640%2C853/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!640%2C639/0/default",
                 "width": 640,
-                "height": 853
+                "height": 639
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ic5m2dzfy72mhh29ephwo0jcawizx0uetljha48f/full/!800%2C1067/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!800%2C799/0/default",
                 "width": 800,
-                "height": 1067
+                "height": 799
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ic5m2dzfy72mhh29ephwo0jcawizx0uetljha48f/full/!1280%2C1707/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!1280%2C1279/0/default",
                 "width": 1280,
-                "height": 1707
+                "height": 1279
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ic5m2dzfy72mhh29ephwo0jcawizx0uetljha48f/full/!1600%2C2133/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!1600%2C1598/0/default",
                 "width": 1600,
-                "height": 2133
+                "height": 1598
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ic5m2dzfy72mhh29ephwo0jcawizx0uetljha48f/full/!1920%2C2560/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!1920%2C1918/0/default",
                 "width": 1920,
-                "height": 2560
+                "height": 1918
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ic5m2dzfy72mhh29ephwo0jcawizx0uetljha48f/full/!60%2C80/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!60%2C60/0/default",
                 "width": 60,
-                "height": 80
+                "height": 60
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ic5m2dzfy72mhh29ephwo0jcawizx0uetljha48f/full/!250%2C333/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!250%2C250/0/default",
                 "width": 250,
-                "height": 333
+                "height": 250
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ic5m2dzfy72mhh29ephwo0jcawizx0uetljha48f/full/!200%2C267/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!200%2C200/0/default",
                 "width": 200,
-                "height": 267
+                "height": 200
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ic5m2dzfy72mhh29ephwo0jcawizx0uetljha48f/full/!100%2C133/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!100%2C100/0/default",
                 "width": 100,
-                "height": 133
+                "height": 100
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ic5m2dzfy72mhh29ephwo0jcawizx0uetljha48f/full/!500%2C667/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!500%2C499/0/default",
                 "width": 500,
-                "height": 667
+                "height": 499
               }
             ]
           }
@@ -2888,67 +2926,67 @@
           "seoTitle": "Made by God",
           "shareableTitle": "Made by God",
           "thumbnail": {
-            "description": "Made by God Library Cover.",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ic5m2dzfy72mhh29ephwo0jcawizx0uetljha48f/full/1920,/0/default",
-            "seoDescription": "Made by God Library Cover.",
+            "description": "Arrows Diagram",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/1920,/0/default",
+            "seoDescription": "Arrows Diagram",
             "seoTitle": "No Title",
             "shareableTitle": "No Title",
             "title": "No Title",
             "renditions": [
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ic5m2dzfy72mhh29ephwo0jcawizx0uetljha48f/full/!320%2C427/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!320%2C320/0/default",
                 "width": 320,
-                "height": 427
+                "height": 320
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ic5m2dzfy72mhh29ephwo0jcawizx0uetljha48f/full/!640%2C853/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!640%2C639/0/default",
                 "width": 640,
-                "height": 853
+                "height": 639
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ic5m2dzfy72mhh29ephwo0jcawizx0uetljha48f/full/!800%2C1067/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!800%2C799/0/default",
                 "width": 800,
-                "height": 1067
+                "height": 799
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ic5m2dzfy72mhh29ephwo0jcawizx0uetljha48f/full/!1280%2C1707/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!1280%2C1279/0/default",
                 "width": 1280,
-                "height": 1707
+                "height": 1279
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ic5m2dzfy72mhh29ephwo0jcawizx0uetljha48f/full/!1600%2C2133/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!1600%2C1598/0/default",
                 "width": 1600,
-                "height": 2133
+                "height": 1598
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ic5m2dzfy72mhh29ephwo0jcawizx0uetljha48f/full/!1920%2C2560/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!1920%2C1918/0/default",
                 "width": 1920,
-                "height": 2560
+                "height": 1918
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ic5m2dzfy72mhh29ephwo0jcawizx0uetljha48f/full/!60%2C80/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!60%2C60/0/default",
                 "width": 60,
-                "height": 80
+                "height": 60
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ic5m2dzfy72mhh29ephwo0jcawizx0uetljha48f/full/!250%2C333/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!250%2C250/0/default",
                 "width": 250,
-                "height": 333
+                "height": 250
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ic5m2dzfy72mhh29ephwo0jcawizx0uetljha48f/full/!200%2C267/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!200%2C200/0/default",
                 "width": 200,
-                "height": 267
+                "height": 200
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ic5m2dzfy72mhh29ephwo0jcawizx0uetljha48f/full/!100%2C133/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!100%2C100/0/default",
                 "width": 100,
-                "height": 133
+                "height": 100
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ic5m2dzfy72mhh29ephwo0jcawizx0uetljha48f/full/!500%2C667/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!500%2C499/0/default",
                 "width": 500,
-                "height": 667
+                "height": 499
               }
             ]
           }
@@ -2962,21 +3000,55 @@
       "bookSectionTitle": "2025 Singles",
       "songNumber": "11",
       "songDate": "2025-09-01",
-      "arrangers": [],
+      "arrangers": [
+        {
+          "personName": "Mitch Davis"
+        },
+        {
+          "personName": "Todd Trần"
+        }
+      ],
       "artists": [
         {
           "personName": "Jack Nelson"
         }
       ],
-      "authors": [],
-      "composers": [],
-      "instrumentations": [],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Oba Bonner"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Oba Bonner"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
       "musicalFeatures": [],
       "recordingAvailable": true,
-      "sheetMusicAvailable": false,
+      "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [],
-      "voicings": [],
+      "tags": [
+        "youth"
+      ],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
       "assets": [
         {
           "assetType": "AUDIO_ACCOMPANIMENT",
@@ -2992,9 +3064,9 @@
             "description": "Album Cover for Strive To Be Single “He Won’t Let Me Down”",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/o9q0dngyh973mba425071xwacaxfsmfryvw0iqn4/full/1280,/0/default",
             "seoDescription": "Album Cover for Strive To Be Single \"He Won't Let Me Down\"",
-            "seoTitle": "No Title",
-            "shareableTitle": "No Title",
-            "title": "No Title",
+            "seoTitle": "He Won't Let Me Down | Album Cover, 3000x3000",
+            "shareableTitle": "He Won't Let Me Down | Album Cover, 3000x3000",
+            "title": "He Won’t Let Me Down | Album Cover, 3000x3000",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/o9q0dngyh973mba425071xwacaxfsmfryvw0iqn4/full/!320%2C320/0/default",
@@ -3055,57 +3127,67 @@
           "seoTitle": "He Won't Let Me Down",
           "shareableTitle": "He Won't Let Me Down",
           "thumbnail": {
-            "description": "Album Cover for Strive To Be Single “He Won’t Let Me Down”",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/o9q0dngyh973mba425071xwacaxfsmfryvw0iqn4/full/1280,/0/default",
-            "seoDescription": "Album Cover for Strive To Be Single \"He Won't Let Me Down\"",
+            "description": "Arrows Diagram",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/1920,/0/default",
+            "seoDescription": "Arrows Diagram",
             "seoTitle": "No Title",
             "shareableTitle": "No Title",
             "title": "No Title",
             "renditions": [
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/o9q0dngyh973mba425071xwacaxfsmfryvw0iqn4/full/!320%2C320/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!320%2C320/0/default",
                 "width": 320,
                 "height": 320
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/o9q0dngyh973mba425071xwacaxfsmfryvw0iqn4/full/!640%2C640/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!640%2C639/0/default",
                 "width": 640,
-                "height": 640
+                "height": 639
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/o9q0dngyh973mba425071xwacaxfsmfryvw0iqn4/full/!800%2C800/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!800%2C799/0/default",
                 "width": 800,
-                "height": 800
+                "height": 799
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/o9q0dngyh973mba425071xwacaxfsmfryvw0iqn4/full/!1280%2C1280/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!1280%2C1279/0/default",
                 "width": 1280,
-                "height": 1280
+                "height": 1279
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/o9q0dngyh973mba425071xwacaxfsmfryvw0iqn4/full/!60%2C60/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!1600%2C1598/0/default",
+                "width": 1600,
+                "height": 1598
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!1920%2C1918/0/default",
+                "width": 1920,
+                "height": 1918
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!60%2C60/0/default",
                 "width": 60,
                 "height": 60
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/o9q0dngyh973mba425071xwacaxfsmfryvw0iqn4/full/!250%2C250/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!250%2C250/0/default",
                 "width": 250,
                 "height": 250
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/o9q0dngyh973mba425071xwacaxfsmfryvw0iqn4/full/!200%2C200/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!200%2C200/0/default",
                 "width": 200,
                 "height": 200
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/o9q0dngyh973mba425071xwacaxfsmfryvw0iqn4/full/!100%2C100/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!100%2C100/0/default",
                 "width": 100,
                 "height": 100
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/o9q0dngyh973mba425071xwacaxfsmfryvw0iqn4/full/!500%2C500/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!500%2C499/0/default",
                 "width": 500,
-                "height": 500
+                "height": 499
               }
             ]
           }
