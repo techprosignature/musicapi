@@ -114,7 +114,7 @@
           }
         },
         {
-          "assetType": "audio/mpeg",
+          "assetType": "AUDIO_VOCAL_CHILDREN",
           "distributionUrl": "https://assets.churchofjesuschrist.org/47/1e/471e71713878b0aae818d208a1a2f2c73dc8bd29/i_am_a_child_of_god_vocal_accompaniment_eng.mp3",
           "duration": 202000,
           "lang": "eng",
