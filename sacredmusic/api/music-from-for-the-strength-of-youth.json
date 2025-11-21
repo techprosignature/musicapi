@@ -12625,6 +12625,211 @@
       ]
     },
     {
+      "title": "Emmanuel",
+      "slug": "emmanuel-2025",
+      "bookSlug": "music-from-for-the-strength-of-youth",
+      "bookSectionTitle": "2025",
+      "songNumber": "",
+      "songDate": "2025-12-01",
+      "arrangers": [
+        {
+          "personName": "Mitch Davis"
+        },
+        {
+          "personName": "Todd Trần"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Jray Kuhn"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "youth"
+      ],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/9p/vw/9pvwqmy4iv9pq6rvofesxqam5jgso2kcq0upx5su/emmanuel_instrumental_2026.mp3",
+          "duration": 197000,
+          "lang": "eng",
+          "title": "Emmanuel (Instrumental)",
+          "description": "Jray Kuhn sings “Emmanuel\" from the 2026 Youth Album. English.",
+          "seoDescription": "Jray Kuhn sings “Emmanuel\" from the 2026 Youth Album. English.",
+          "seoTitle": "Emmanuel (Instrumental)",
+          "shareableTitle": "Emmanuel (Instrumental)",
+          "thumbnail": {
+            "description": "Arrows Diagram",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/1920,/0/default",
+            "seoDescription": "Arrows Diagram",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!640%2C639/0/default",
+                "width": 640,
+                "height": 639
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!800%2C799/0/default",
+                "width": 800,
+                "height": 799
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!1280%2C1279/0/default",
+                "width": 1280,
+                "height": 1279
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!1600%2C1598/0/default",
+                "width": 1600,
+                "height": 1598
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!1920%2C1918/0/default",
+                "width": 1920,
+                "height": 1918
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!500%2C499/0/default",
+                "width": 500,
+                "height": 499
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/03/fh/03fhg4nvej4fb7kxcfhkvo1ufi7p69dir75hkv26/emmanuel_2026.mp3",
+          "duration": 197000,
+          "lang": "eng",
+          "title": "Emmanuel",
+          "description": "Jray Kuhn sings “Emmanuel\" from the 2026 Youth Album. English.",
+          "seoDescription": "Jray Kuhn sings “Emmanuel\" from the 2026 Youth Album. English.",
+          "seoTitle": "Emmanuel",
+          "shareableTitle": "Emmanuel",
+          "thumbnail": {
+            "description": "Album Cover for Youth Music Single “Emmanuel”",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/gakad7ifc84twp84t6jvyiqxdncm64arxlbrmm39/full/1920,/0/default",
+            "seoDescription": "Album Cover for Youth Music Single \"Emmanuel\"",
+            "seoTitle": "Emmanuel | Album Cover, Streaming",
+            "shareableTitle": "Emmanuel | Album Cover, Streaming",
+            "title": "Emmanuel | Album Cover, Streaming",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/gakad7ifc84twp84t6jvyiqxdncm64arxlbrmm39/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/gakad7ifc84twp84t6jvyiqxdncm64arxlbrmm39/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/gakad7ifc84twp84t6jvyiqxdncm64arxlbrmm39/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/gakad7ifc84twp84t6jvyiqxdncm64arxlbrmm39/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/gakad7ifc84twp84t6jvyiqxdncm64arxlbrmm39/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/gakad7ifc84twp84t6jvyiqxdncm64arxlbrmm39/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/gakad7ifc84twp84t6jvyiqxdncm64arxlbrmm39/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/gakad7ifc84twp84t6jvyiqxdncm64arxlbrmm39/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/gakad7ifc84twp84t6jvyiqxdncm64arxlbrmm39/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/gakad7ifc84twp84t6jvyiqxdncm64arxlbrmm39/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/gakad7ifc84twp84t6jvyiqxdncm64arxlbrmm39/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
       "title": "Walk With Me",
       "slug": "walk-with-me-2026",
       "bookSlug": "music-from-for-the-strength-of-youth",
@@ -12834,5 +13039,5 @@
   ],
   "limit": 500,
   "offset": 0,
-  "total": 202
+  "total": 203
 }
