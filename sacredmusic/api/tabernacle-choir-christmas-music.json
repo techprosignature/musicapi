@@ -310,8 +310,8 @@
       "assets": [
         {
           "assetType": "AUDIO_VOCAL",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/4ffbba118eeb11eeb5d2eeeeac1ef13c9ca6d187-32k-en.m4a",
-          "duration": 253000,
+          "distributionUrl": "https://assets.churchofjesuschrist.org/4ffbba118eeb11eeb5d2eeeeac1ef13c9ca6d187-256k-en.mp3",
+          "duration": 253656,
           "lang": "eng",
           "title": "Oh, Come, All Ye Faithful",
           "description": "Oh, Come, All Ye Faithful",
@@ -695,8 +695,8 @@
       "assets": [
         {
           "assetType": "AUDIO_INSTRUMENTAL",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/52fb17628eeb11eeb5d2eeeeac1ef13c4a52d47e-128k-en.mp3",
-          "duration": 267048,
+          "distributionUrl": "https://assets.churchofjesuschrist.org/52fb17628eeb11eeb5d2eeeeac1ef13c4a52d47e-256k-en.mp3",
+          "duration": 267024,
           "lang": "eng",
           "title": "A Christmas Meditation",
           "description": "A Christmas Meditation",
@@ -820,8 +820,8 @@
       "assets": [
         {
           "assetType": "AUDIO_VOCAL",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/52570f318eeb11ee9814eeeeac1e6ea77b428681-128k-en.mp3",
-          "duration": 200952,
+          "distributionUrl": "https://assets.churchofjesuschrist.org/52570f318eeb11ee9814eeeeac1e6ea77b428681-256k-en.mp3",
+          "duration": 200976,
           "lang": "eng",
           "title": "What Child Is This?",
           "description": "What Child Is This?",
@@ -946,8 +946,8 @@
       "assets": [
         {
           "assetType": "AUDIO_VOCAL_CONGREGATION",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/518e19de8eeb11ee8041eeeeac1e6a39477b51ed-32k-en.m4a",
-          "duration": 157000,
+          "distributionUrl": "https://assets.churchofjesuschrist.org/518e19de8eeb11ee8041eeeeac1e6a39477b51ed-256k-en.mp3",
+          "duration": 157704,
           "lang": "eng",
           "title": "We Wish You A Merry Christmas",
           "description": "We Wish You A Merry Christmas",
