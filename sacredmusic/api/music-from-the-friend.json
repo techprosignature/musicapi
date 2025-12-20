@@ -10760,9 +10760,9 @@
       "title": "When I Am Baptized",
       "slug": "when-i-am-baptized",
       "bookSlug": "music-from-the-friend",
-      "bookSectionTitle": "1994",
+      "bookSectionTitle": "2026",
       "songNumber": "",
-      "songDate": "1994-06-01",
+      "songDate": "2026-01-01",
       "arrangers": [],
       "artists": [],
       "authors": [
@@ -10857,82 +10857,6 @@
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!500%2C500/0/default",
                 "width": 500,
                 "height": 500
-              }
-            ]
-          }
-        },
-        {
-          "assetType": "AUDIO_VOCAL_CHILDREN",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/b3/e1/b3e12ad8d89c81c31ebb8c6851714df72d3b2d1b/when_i_am_baptized_vocal_accompaniment_eng.mp3",
-          "duration": 107000,
-          "lang": "eng",
-          "title": "When I Am Baptized",
-          "description": "“When I Am Baptized” from Children’s Songbook (English).",
-          "seoDescription": "“When I Am Baptized” from Children’s Songbook (English).",
-          "seoTitle": "When I Am Baptized",
-          "shareableTitle": "When I Am Baptized",
-          "thumbnail": {
-            "description": "Children Sing in Indonesia",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/10d500bf735a249fbc703421f8436c3287a92a19/full/1920,/0/default",
-            "seoDescription": "Children Sing in Indonesia",
-            "seoTitle": "Children Sing in Indonesia",
-            "shareableTitle": "Children Sing in Indonesia",
-            "title": "Children Sing in Indonesia",
-            "renditions": [
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/10d500bf735a249fbc703421f8436c3287a92a19/full/!320%2C168/0/default",
-                "width": 320,
-                "height": 168
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/10d500bf735a249fbc703421f8436c3287a92a19/full/!640%2C337/0/default",
-                "width": 640,
-                "height": 337
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/10d500bf735a249fbc703421f8436c3287a92a19/full/!800%2C421/0/default",
-                "width": 800,
-                "height": 421
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/10d500bf735a249fbc703421f8436c3287a92a19/full/!1280%2C673/0/default",
-                "width": 1280,
-                "height": 673
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/10d500bf735a249fbc703421f8436c3287a92a19/full/!1600%2C842/0/default",
-                "width": 1600,
-                "height": 842
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/10d500bf735a249fbc703421f8436c3287a92a19/full/!1920%2C1010/0/default",
-                "width": 1920,
-                "height": 1010
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/10d500bf735a249fbc703421f8436c3287a92a19/full/!60%2C32/0/default",
-                "width": 60,
-                "height": 32
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/10d500bf735a249fbc703421f8436c3287a92a19/full/!250%2C132/0/default",
-                "width": 250,
-                "height": 132
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/10d500bf735a249fbc703421f8436c3287a92a19/full/!200%2C105/0/default",
-                "width": 200,
-                "height": 105
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/10d500bf735a249fbc703421f8436c3287a92a19/full/!100%2C53/0/default",
-                "width": 100,
-                "height": 53
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/10d500bf735a249fbc703421f8436c3287a92a19/full/!500%2C263/0/default",
-                "width": 500,
-                "height": 263
               }
             ]
           }
@@ -28209,54 +28133,9 @@
         }
       ],
       "assets": []
-    },
-    {
-      "title": "When I Am Baptized",
-      "slug": "when-i-am-baptized-milner",
-      "bookSlug": "music-from-the-friend",
-      "bookSectionTitle": "2026",
-      "songNumber": "",
-      "songDate": "2026-01-01",
-      "arrangers": [],
-      "artists": [],
-      "authors": [
-        {
-          "personName": "Nita Dale Milner"
-        }
-      ],
-      "composers": [
-        {
-          "personName": "Nita Dale Milner"
-        }
-      ],
-      "instrumentations": [
-        {
-          "name": "Voice"
-        },
-        {
-          "name": "Piano"
-        }
-      ],
-      "musicalFeatures": [],
-      "recordingAvailable": false,
-      "sheetMusicAvailable": true,
-      "videoAvailable": false,
-      "tags": [
-        "baptism",
-        "eternal life",
-        "forgiveness",
-        "plan of salvation",
-        "worthiness"
-      ],
-      "voicings": [
-        {
-          "name": "Unison"
-        }
-      ],
-      "assets": []
     }
   ],
   "limit": 500,
   "offset": 0,
-  "total": 356
+  "total": 354
 }
