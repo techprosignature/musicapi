@@ -2205,7 +2205,7 @@
           "shareableTitle": "Hum Your Favorite Hymn",
           "thumbnail": {
             "description": "Cover art for the Children’s Songbook.",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/800,/0/default",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/1280,/0/default",
             "seoDescription": "Cover art for the Children's Songbook.",
             "seoTitle": "No Title",
             "shareableTitle": "No Title",
@@ -2225,6 +2225,11 @@
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!800%2C800/0/default",
                 "width": 800,
                 "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
               },
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!60%2C60/0/default",
