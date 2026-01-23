@@ -6944,56 +6944,6 @@
       "assets": []
     },
     {
-      "title": "Joyfully Bound",
-      "slug": "joyfully-bound",
-      "bookSlug": "featured-submitted-hymns",
-      "songNumber": "",
-      "arrangers": [],
-      "artists": [],
-      "authors": [
-        {
-          "personName": "Rachel P. Mohlman"
-        },
-        {
-          "personName": "Anna M. Molgard"
-        }
-      ],
-      "composers": [
-        {
-          "personName": "Rachel P. Mohlman"
-        },
-        {
-          "personName": "Anna M. Molgard"
-        }
-      ],
-      "instrumentations": [
-        {
-          "name": "Voice"
-        },
-        {
-          "name": "Piano"
-        },
-        {
-          "name": "Organ"
-        }
-      ],
-      "musicalFeatures": [],
-      "recordingAvailable": false,
-      "sheetMusicAvailable": true,
-      "videoAvailable": false,
-      "tags": [
-        "baptism",
-        "covenants",
-        "joy"
-      ],
-      "voicings": [
-        {
-          "name": "SATB"
-        }
-      ],
-      "assets": []
-    },
-    {
       "title": "We Talk of Christ",
       "slug": "we-talk-of-christ",
       "bookSlug": "featured-submitted-hymns",
@@ -7296,5 +7246,5 @@
   ],
   "limit": 500,
   "offset": 0,
-  "total": 121
+  "total": 120
 }
