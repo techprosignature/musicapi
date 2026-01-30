@@ -7843,11 +7843,11 @@
           "shareableTitle": "I’ll Walk with You",
           "thumbnail": {
             "description": "teacher and girl singing",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/d59d3e5c5db42cdb934b3bbdd033324ef16e9d67/full/640,/0/default",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/d59d3e5c5db42cdb934b3bbdd033324ef16e9d67/full/1920,/0/default",
             "seoDescription": "teacher and girl singing",
-            "seoTitle": "No Title",
-            "shareableTitle": "No Title",
-            "title": "No Title",
+            "seoTitle": "teacher and girl singing",
+            "shareableTitle": "teacher and girl singing",
+            "title": "teacher and girl singing",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/d59d3e5c5db42cdb934b3bbdd033324ef16e9d67/full/!320%2C207/0/default",
@@ -7858,6 +7858,26 @@
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/d59d3e5c5db42cdb934b3bbdd033324ef16e9d67/full/!640%2C413/0/default",
                 "width": 640,
                 "height": 413
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/d59d3e5c5db42cdb934b3bbdd033324ef16e9d67/full/!800%2C516/0/default",
+                "width": 800,
+                "height": 516
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/d59d3e5c5db42cdb934b3bbdd033324ef16e9d67/full/!1280%2C826/0/default",
+                "width": 1280,
+                "height": 826
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/d59d3e5c5db42cdb934b3bbdd033324ef16e9d67/full/!1600%2C1033/0/default",
+                "width": 1600,
+                "height": 1033
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/d59d3e5c5db42cdb934b3bbdd033324ef16e9d67/full/!1920%2C1239/0/default",
+                "width": 1920,
+                "height": 1239
               },
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/d59d3e5c5db42cdb934b3bbdd033324ef16e9d67/full/!60%2C39/0/default",
@@ -7899,11 +7919,11 @@
           "shareableTitle": "I’ll Walk with You",
           "thumbnail": {
             "description": "teacher and girl singing",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/d59d3e5c5db42cdb934b3bbdd033324ef16e9d67/full/640,/0/default",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/d59d3e5c5db42cdb934b3bbdd033324ef16e9d67/full/1920,/0/default",
             "seoDescription": "teacher and girl singing",
-            "seoTitle": "No Title",
-            "shareableTitle": "No Title",
-            "title": "No Title",
+            "seoTitle": "teacher and girl singing",
+            "shareableTitle": "teacher and girl singing",
+            "title": "teacher and girl singing",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/d59d3e5c5db42cdb934b3bbdd033324ef16e9d67/full/!320%2C207/0/default",
@@ -7914,6 +7934,26 @@
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/d59d3e5c5db42cdb934b3bbdd033324ef16e9d67/full/!640%2C413/0/default",
                 "width": 640,
                 "height": 413
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/d59d3e5c5db42cdb934b3bbdd033324ef16e9d67/full/!800%2C516/0/default",
+                "width": 800,
+                "height": 516
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/d59d3e5c5db42cdb934b3bbdd033324ef16e9d67/full/!1280%2C826/0/default",
+                "width": 1280,
+                "height": 826
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/d59d3e5c5db42cdb934b3bbdd033324ef16e9d67/full/!1600%2C1033/0/default",
+                "width": 1600,
+                "height": 1033
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/d59d3e5c5db42cdb934b3bbdd033324ef16e9d67/full/!1920%2C1239/0/default",
+                "width": 1920,
+                "height": 1239
               },
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/d59d3e5c5db42cdb934b3bbdd033324ef16e9d67/full/!60%2C39/0/default",
@@ -11036,6 +11076,9 @@
         },
         {
           "name": "Piano"
+        },
+        {
+          "name": "Guitar"
         }
       ],
       "musicalFeatures": [],
@@ -18249,177 +18292,6 @@
       ]
     },
     {
-      "title": "Build an Ark",
-      "slug": "build-an-ark",
-      "bookSlug": "music-from-the-friend",
-      "bookSectionTitle": "2010",
-      "songNumber": "",
-      "songDate": "2010-09-01",
-      "arrangers": [],
-      "artists": [],
-      "authors": [
-        {
-          "personName": "Marianne P. Wilcock"
-        }
-      ],
-      "composers": [
-        {
-          "personName": "Marianne P. Wilcock"
-        }
-      ],
-      "instrumentations": [
-        {
-          "name": "Voice"
-        },
-        {
-          "name": "Piano"
-        }
-      ],
-      "musicalFeatures": [],
-      "recordingAvailable": true,
-      "sheetMusicAvailable": true,
-      "videoAvailable": false,
-      "tags": [
-        "obedience",
-        "preparation",
-        "prophets"
-      ],
-      "voicings": [
-        {
-          "name": "Unison"
-        }
-      ],
-      "assets": [
-        {
-          "assetType": "AUDIO_ACCOMPANIMENT",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/7f/7e/7f7ee63aef2ff3edb3533be19fc6c1d0b7d95bd8/build_an_ark.mp3",
-          "duration": 112000,
-          "lang": "eng",
-          "title": "Build an Ark",
-          "description": "“Build an Ark” from Music from the Friend (1971–2018) (English, 2010-09-01).",
-          "seoDescription": "“Build an Ark” from Music from the Friend (1971–2018) (English, 2010-09-01).",
-          "seoTitle": "Build an Ark",
-          "shareableTitle": "Build an Ark",
-          "thumbnail": {
-            "description": "Music Note Icon",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/46dcc0b49e8711ee8a95eeeeac1e447de4b43a2a/full/500,/0/default",
-            "seoDescription": "Music Note Icon",
-            "seoTitle": "Music Note Icon",
-            "shareableTitle": "Music Note Icon",
-            "title": "Music Note Icon",
-            "renditions": [
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/46dcc0b49e8711ee8a95eeeeac1e447de4b43a2a/full/!320%2C320/0/default",
-                "width": 320,
-                "height": 320
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/46dcc0b49e8711ee8a95eeeeac1e447de4b43a2a/full/!60%2C60/0/default",
-                "width": 60,
-                "height": 60
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/46dcc0b49e8711ee8a95eeeeac1e447de4b43a2a/full/!250%2C250/0/default",
-                "width": 250,
-                "height": 250
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/46dcc0b49e8711ee8a95eeeeac1e447de4b43a2a/full/!200%2C200/0/default",
-                "width": 200,
-                "height": 200
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/46dcc0b49e8711ee8a95eeeeac1e447de4b43a2a/full/!100%2C100/0/default",
-                "width": 100,
-                "height": 100
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/46dcc0b49e8711ee8a95eeeeac1e447de4b43a2a/full/!500%2C500/0/default",
-                "width": 500,
-                "height": 500
-              }
-            ]
-          }
-        },
-        {
-          "assetType": "AUDIO_VOCAL",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/54/bf/54bf2b3eb852a2e4f45373d758ac39da929140bd/build_an_ark.mp3",
-          "duration": 112000,
-          "lang": "eng",
-          "title": "Build an Ark",
-          "description": "“Build an Ark” from Music from the Friend (1971–2018) (English, 2010-09-01).",
-          "seoDescription": "“Build an Ark” from Music from the Friend (1971–2018) (English, 2010-09-01).",
-          "seoTitle": "Build an Ark",
-          "shareableTitle": "Build an Ark",
-          "thumbnail": {
-            "description": "Icon featuring an open book with music notes for the Sacred Music App.",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/1d0384ac3ceb523f6679b42047a8c7f86bfe6b5e/full/1920,/0/default",
-            "seoDescription": "Icon featuring an open book with music notes for the Sacred Music App.",
-            "seoTitle": "Sacred Music App Icon",
-            "shareableTitle": "Sacred Music App Icon",
-            "title": "Sacred Music App Icon",
-            "renditions": [
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/1d0384ac3ceb523f6679b42047a8c7f86bfe6b5e/full/!320%2C320/0/default",
-                "width": 320,
-                "height": 320
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/1d0384ac3ceb523f6679b42047a8c7f86bfe6b5e/full/!640%2C640/0/default",
-                "width": 640,
-                "height": 640
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/1d0384ac3ceb523f6679b42047a8c7f86bfe6b5e/full/!800%2C800/0/default",
-                "width": 800,
-                "height": 800
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/1d0384ac3ceb523f6679b42047a8c7f86bfe6b5e/full/!1280%2C1281/0/default",
-                "width": 1280,
-                "height": 1281
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/1d0384ac3ceb523f6679b42047a8c7f86bfe6b5e/full/!1600%2C1601/0/default",
-                "width": 1600,
-                "height": 1601
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/1d0384ac3ceb523f6679b42047a8c7f86bfe6b5e/full/!1920%2C1921/0/default",
-                "width": 1920,
-                "height": 1921
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/1d0384ac3ceb523f6679b42047a8c7f86bfe6b5e/full/!60%2C60/0/default",
-                "width": 60,
-                "height": 60
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/1d0384ac3ceb523f6679b42047a8c7f86bfe6b5e/full/!250%2C250/0/default",
-                "width": 250,
-                "height": 250
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/1d0384ac3ceb523f6679b42047a8c7f86bfe6b5e/full/!200%2C200/0/default",
-                "width": 200,
-                "height": 200
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/1d0384ac3ceb523f6679b42047a8c7f86bfe6b5e/full/!100%2C100/0/default",
-                "width": 100,
-                "height": 100
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/1d0384ac3ceb523f6679b42047a8c7f86bfe6b5e/full/!500%2C500/0/default",
-                "width": 500,
-                "height": 500
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
       "title": "I Lived In Heaven",
       "subtitle": "Simplified",
       "slug": "i-lived-in-heaven-simplified",
@@ -21460,10 +21332,13 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "Jesus Christ",
+        "God's love",
+        "assurance",
+        "comfort",
+        "faith in Jesus Christ",
         "guidance",
-        "love",
-        "shepherd"
+        "kindness",
+        "trust in the Lord"
       ],
       "voicings": [
         {

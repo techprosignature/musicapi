@@ -340,133 +340,11 @@
       ]
     },
     {
-      "title": "O Come, O Come, Emmanuel",
-      "subtitle": "English, Arabic",
-      "slug": "2021-11-o-come-o-come-emmanuel",
-      "bookSlug": "witnesses-of-christ",
-      "bookSectionTitle": "Witnesses of Christ",
-      "songNumber": "4",
-      "songDate": "2021-11-01",
-      "arrangers": [
-        {
-          "personName": "Allie Gardner Policky"
-        }
-      ],
-      "artists": [
-        {
-          "personName": "Christopher J. Madsen"
-        },
-        {
-          "personName": "Allie Gardner Policky"
-        },
-        {
-          "personName": "Wade Farr"
-        }
-      ],
-      "authors": [
-        {
-          "personName": "Anon."
-        },
-        {
-          "personName": "Traditional"
-        }
-      ],
-      "composers": [],
-      "instrumentations": [
-        {
-          "name": "Piano"
-        }
-      ],
-      "musicalFeatures": [],
-      "recordingAvailable": true,
-      "sheetMusicAvailable": false,
-      "videoAvailable": true,
-      "tags": [
-        "Christmas",
-        "Israel",
-        "Jesus Christ",
-        "grace",
-        "hope",
-        "joy",
-        "peace",
-        "salvation"
-      ],
-      "voicings": [],
-      "assets": [
-        {
-          "assetType": "AUDIO_VOCAL",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/6a/fa/6afadacb515011ecb3e7eeeeac1e462c321950d3/o_come_o_come_emmanuel_eng.mp3",
-          "duration": 204000,
-          "lang": "eng",
-          "title": "O Come, O Come, Emmanuel",
-          "description": "A male and female-led vocal duet in English and Arabic is performed with a piano accompanist.",
-          "seoDescription": "A male and female-led vocal duet in English and Arabic is performed with a piano accompanist.",
-          "seoTitle": "O Come, O Come, Emmanuel",
-          "shareableTitle": "O Come, O Come, Emmanuel",
-          "thumbnail": {
-            "description": "Christmas Concert 2021: Josh &amp; Lindsey Wright",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/1280,/0/default",
-            "seoDescription": "Christmas Concert 2021: Josh &amp; Lindsey Wright",
-            "seoTitle": "Christmas Concert 2021: Josh & Lindsey Wright",
-            "shareableTitle": "Christmas Concert 2021: Josh & Lindsey Wright",
-            "title": "Christmas Concert 2021: Josh &amp; Lindsey Wright",
-            "renditions": [
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!320%2C320/0/default",
-                "width": 320,
-                "height": 320
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!640%2C640/0/default",
-                "width": 640,
-                "height": 640
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!800%2C800/0/default",
-                "width": 800,
-                "height": 800
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!1280%2C1280/0/default",
-                "width": 1280,
-                "height": 1280
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!60%2C60/0/default",
-                "width": 60,
-                "height": 60
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!250%2C250/0/default",
-                "width": 250,
-                "height": 250
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!200%2C200/0/default",
-                "width": 200,
-                "height": 200
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!100%2C100/0/default",
-                "width": 100,
-                "height": 100
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!500%2C500/0/default",
-                "width": 500,
-                "height": 500
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
       "title": "Deck the Hall Duet Fantasy",
       "slug": "2021-11-deck-the-hall-duet-fantasy",
       "bookSlug": "witnesses-of-christ",
       "bookSectionTitle": "Witnesses of Christ",
-      "songNumber": "5",
+      "songNumber": "4",
       "songDate": "2021-11-01",
       "arrangers": [
         {
@@ -568,7 +446,7 @@
       "slug": "2021-11-infant-holy-infant-lowly",
       "bookSlug": "witnesses-of-christ",
       "bookSectionTitle": "Witnesses of Christ",
-      "songNumber": "6",
+      "songNumber": "5",
       "songDate": "2021-11-01",
       "arrangers": [
         {
@@ -691,7 +569,7 @@
       "slug": "2021-11-in-the-bleak-midwinter",
       "bookSlug": "witnesses-of-christ",
       "bookSectionTitle": "Witnesses of Christ",
-      "songNumber": "7",
+      "songNumber": "6",
       "songDate": "2021-11-01",
       "arrangers": [
         {
@@ -798,7 +676,7 @@
       "slug": "2021-11-oh-come-all-ye-faithful",
       "bookSlug": "witnesses-of-christ",
       "bookSectionTitle": "Witnesses of Christ",
-      "songNumber": "8",
+      "songNumber": "7",
       "songDate": "2021-11-01",
       "arrangers": [
         {
@@ -924,5 +802,5 @@
   ],
   "limit": 500,
   "offset": 0,
-  "total": 8
+  "total": 7
 }
