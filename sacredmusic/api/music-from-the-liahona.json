@@ -205,8 +205,8 @@
         "Atonement of Jesus Christ",
         "Jesus Christ",
         "Jesus Christ's ministry",
-        "praise",
-        "resurrection"
+        "Resurrection",
+        "praise"
       ],
       "voicings": [
         {
@@ -253,8 +253,8 @@
         "Easter",
         "Jesus Christ",
         "Joseph Smith",
+        "Resurrection",
         "praise",
-        "resurrection",
         "worship"
       ],
       "voicings": [
@@ -301,8 +301,8 @@
       "tags": [
         "Atonement of Jesus Christ",
         "Jesus Christ",
-        "love",
-        "resurrection"
+        "Resurrection",
+        "love"
       ],
       "voicings": [
         {
@@ -1637,7 +1637,6 @@
         "Holy Ghost",
         "Jesus Christ",
         "Second Coming",
-        "diligence",
         "example",
         "kindness",
         "love",
@@ -2476,7 +2475,6 @@
         "covenants",
         "learning",
         "obedience",
-        "ordinances",
         "plan of salvation",
         "praise",
         "service",
@@ -2789,7 +2787,6 @@
       "tags": [
         "Christmas",
         "Jesus Christ",
-        "comfort",
         "eternal life",
         "joy",
         "love",
@@ -2927,8 +2924,6 @@
       "videoAvailable": false,
       "tags": [
         "Jesus Christ",
-        "adversity",
-        "comfort",
         "faith",
         "love",
         "peace",
@@ -3707,7 +3702,6 @@
       "tags": [
         "Christmas",
         "Second Coming",
-        "comfort",
         "mercy",
         "supplication"
       ],
@@ -3936,7 +3930,6 @@
         "Atonement of Jesus Christ",
         "Crucifixion",
         "Fall of Adam and Eve",
-        "comfort",
         "forgiveness",
         "grace",
         "love",
@@ -3989,7 +3982,6 @@
       "videoAvailable": false,
       "tags": [
         "Jesus Christ",
-        "comfort",
         "death",
         "faith",
         "grace",
@@ -4282,11 +4274,10 @@
       "tags": [
         "Atonement of Jesus Christ",
         "Jesus Christ",
-        "comfort",
+        "Resurrection",
         "grace",
         "hope",
-        "praise",
-        "resurrection"
+        "praise"
       ],
       "voicings": [
         {
@@ -4375,7 +4366,6 @@
       "videoAvailable": false,
       "tags": [
         "Holy Ghost",
-        "comfort",
         "faith",
         "guidance",
         "peace",
@@ -4422,7 +4412,6 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "comfort",
         "grace",
         "joy",
         "mercy",
@@ -4649,10 +4638,10 @@
       "tags": [
         "Atonement of Jesus Christ",
         "Jesus Christ",
+        "Resurrection",
         "hope",
         "obedience",
         "plan of salvation",
-        "resurrection",
         "sacrifice",
         "truth"
       ],
@@ -4698,14 +4687,12 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "comfort",
         "consecration",
         "covenants",
         "family",
         "knowledge",
         "learning",
         "love",
-        "ordinances",
         "peace",
         "temples",
         "truth",
@@ -4748,7 +4735,6 @@
       "videoAvailable": false,
       "tags": [
         "Jesus Christ",
-        "comfort",
         "grace",
         "prayer"
       ],
@@ -4879,7 +4865,6 @@
         "Christmas",
         "Jesus Christ",
         "Millennium",
-        "comfort",
         "joy",
         "love",
         "peace"
@@ -4924,7 +4909,6 @@
       "tags": [
         "Jesus Christ",
         "Jesus Christ's ministry",
-        "comfort",
         "discipleship",
         "faith",
         "forgiveness",
@@ -5023,8 +5007,6 @@
       "videoAvailable": false,
       "tags": [
         "Jesus Christ",
-        "adversity",
-        "comfort",
         "grace",
         "hope",
         "love",
@@ -5428,9 +5410,9 @@
         "Atonement of Jesus Christ",
         "Heavenly Father",
         "Jesus Christ",
+        "Resurrection",
         "charity",
         "death",
-        "diligence",
         "discipleship",
         "example",
         "faith",
@@ -5438,7 +5420,6 @@
         "love",
         "ministering",
         "plan of salvation",
-        "resurrection",
         "sacrifice",
         "scriptures",
         "service"
@@ -5485,9 +5466,9 @@
         "Atonement of Jesus Christ",
         "Heavenly Father",
         "Jesus Christ",
+        "Resurrection",
         "charity",
         "death",
-        "diligence",
         "discipleship",
         "example",
         "faith",
@@ -5495,7 +5476,6 @@
         "love",
         "ministering",
         "plan of salvation",
-        "resurrection",
         "sacrifice",
         "scriptures",
         "service"

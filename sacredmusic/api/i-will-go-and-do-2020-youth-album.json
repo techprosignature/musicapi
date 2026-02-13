@@ -40,10 +40,8 @@
         "faith",
         "grace",
         "guidance",
-        "humility",
         "love",
-        "obedience",
-        "truth"
+        "obedience"
       ],
       "voicings": [],
       "assets": [
@@ -488,9 +486,7 @@
         "child of God",
         "divine worth",
         "love",
-        "prayer",
-        "self-esteem",
-        "trials"
+        "self-esteem"
       ],
       "voicings": [],
       "assets": [
@@ -641,7 +637,6 @@
         "grace",
         "guidance",
         "hope",
-        "humility",
         "love",
         "plan of salvation"
       ],
@@ -775,10 +770,7 @@
       "videoAvailable": false,
       "tags": [
         "Jesus Christ",
-        "adversity",
-        "grace",
-        "prayer",
-        "trials"
+        "grace"
       ],
       "voicings": [],
       "assets": [
@@ -927,11 +919,8 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "adversity",
         "faith",
-        "love",
-        "prayer",
-        "trials"
+        "love"
       ],
       "voicings": [],
       "assets": [
@@ -1081,12 +1070,9 @@
         "Jesus Christ",
         "Joseph Smith",
         "Restoration",
-        "adversity",
         "guidance",
         "love",
-        "plan of salvation",
-        "prayer",
-        "truth"
+        "plan of salvation"
       ],
       "voicings": [],
       "assets": [
@@ -1236,13 +1222,13 @@
       "videoAvailable": false,
       "tags": [
         "Atonement of Jesus Christ",
+        "Resurrection",
         "discipleship",
         "endure to the end",
         "eternal life",
         "exaltation",
         "faith",
-        "joy",
-        "resurrection"
+        "joy"
       ],
       "voicings": [],
       "assets": [
@@ -1389,12 +1375,9 @@
       "videoAvailable": false,
       "tags": [
         "Heavenly Father",
-        "adversity",
         "faith",
         "hope",
-        "love",
-        "prayer",
-        "trials"
+        "love"
       ],
       "voicings": [],
       "assets": [
@@ -1544,10 +1527,8 @@
       "videoAvailable": false,
       "tags": [
         "Jesus Christ",
-        "courage",
         "faith",
-        "grace",
-        "trials"
+        "grace"
       ],
       "voicings": [],
       "assets": [
@@ -1704,10 +1685,8 @@
         "faith",
         "grace",
         "guidance",
-        "humility",
         "love",
-        "obedience",
-        "truth"
+        "obedience"
       ],
       "voicings": [
         {
@@ -1881,8 +1860,7 @@
         "happiness",
         "hope",
         "joy",
-        "love",
-        "trials"
+        "love"
       ],
       "voicings": [],
       "assets": [

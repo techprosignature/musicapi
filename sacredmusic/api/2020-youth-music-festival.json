@@ -783,8 +783,7 @@
         "guidance",
         "humility",
         "love",
-        "obedience",
-        "truth"
+        "obedience"
       ],
       "voicings": [],
       "assets": [
@@ -991,7 +990,6 @@
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
-        "adversity",
         "faith",
         "love",
         "prayer",
@@ -1068,7 +1066,6 @@
       "videoAvailable": true,
       "tags": [
         "Jesus Christ",
-        "adversity",
         "grace",
         "prayer",
         "trials"
@@ -1109,13 +1106,13 @@
       "videoAvailable": true,
       "tags": [
         "Atonement of Jesus Christ",
+        "Resurrection",
         "discipleship",
         "endure to the end",
         "eternal life",
         "exaltation",
         "faith",
-        "joy",
-        "resurrection"
+        "joy"
       ],
       "voicings": [],
       "assets": []
@@ -1200,12 +1197,10 @@
         "Jesus Christ",
         "Joseph Smith",
         "Restoration",
-        "adversity",
         "guidance",
         "love",
         "plan of salvation",
-        "prayer",
-        "truth"
+        "prayer"
       ],
       "voicings": [],
       "assets": []
