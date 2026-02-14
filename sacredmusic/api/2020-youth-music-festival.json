@@ -783,7 +783,8 @@
         "guidance",
         "humility",
         "love",
-        "obedience"
+        "obedience",
+        "truth"
       ],
       "voicings": [],
       "assets": [
@@ -990,6 +991,7 @@
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
+        "adversity",
         "faith",
         "love",
         "prayer",
@@ -1066,6 +1068,7 @@
       "videoAvailable": true,
       "tags": [
         "Jesus Christ",
+        "adversity",
         "grace",
         "prayer",
         "trials"
@@ -1197,10 +1200,12 @@
         "Jesus Christ",
         "Joseph Smith",
         "Restoration",
+        "adversity",
         "guidance",
         "love",
         "plan of salvation",
-        "prayer"
+        "prayer",
+        "truth"
       ],
       "voicings": [],
       "assets": []

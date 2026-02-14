@@ -40,8 +40,10 @@
         "faith",
         "grace",
         "guidance",
+        "humility",
         "love",
-        "obedience"
+        "obedience",
+        "truth"
       ],
       "voicings": [],
       "assets": [
@@ -486,7 +488,9 @@
         "child of God",
         "divine worth",
         "love",
-        "self-esteem"
+        "prayer",
+        "self-esteem",
+        "trials"
       ],
       "voicings": [],
       "assets": [
@@ -637,6 +641,7 @@
         "grace",
         "guidance",
         "hope",
+        "humility",
         "love",
         "plan of salvation"
       ],
@@ -770,7 +775,10 @@
       "videoAvailable": false,
       "tags": [
         "Jesus Christ",
-        "grace"
+        "adversity",
+        "grace",
+        "prayer",
+        "trials"
       ],
       "voicings": [],
       "assets": [
@@ -919,8 +927,11 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "adversity",
         "faith",
-        "love"
+        "love",
+        "prayer",
+        "trials"
       ],
       "voicings": [],
       "assets": [
@@ -1070,9 +1081,12 @@
         "Jesus Christ",
         "Joseph Smith",
         "Restoration",
+        "adversity",
         "guidance",
         "love",
-        "plan of salvation"
+        "plan of salvation",
+        "prayer",
+        "truth"
       ],
       "voicings": [],
       "assets": [
@@ -1375,9 +1389,12 @@
       "videoAvailable": false,
       "tags": [
         "Heavenly Father",
+        "adversity",
         "faith",
         "hope",
-        "love"
+        "love",
+        "prayer",
+        "trials"
       ],
       "voicings": [],
       "assets": [
@@ -1527,8 +1544,10 @@
       "videoAvailable": false,
       "tags": [
         "Jesus Christ",
+        "courage",
         "faith",
-        "grace"
+        "grace",
+        "trials"
       ],
       "voicings": [],
       "assets": [
@@ -1685,8 +1704,10 @@
         "faith",
         "grace",
         "guidance",
+        "humility",
         "love",
-        "obedience"
+        "obedience",
+        "truth"
       ],
       "voicings": [
         {
@@ -1860,7 +1881,8 @@
         "happiness",
         "hope",
         "joy",
-        "love"
+        "love",
+        "trials"
       ],
       "voicings": [],
       "assets": [

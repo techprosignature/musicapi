@@ -181,6 +181,7 @@
       "videoAvailable": false,
       "tags": [
         "Jesus Christ",
+        "comfort",
         "guidance",
         "plan of salvation"
       ],
@@ -317,6 +318,7 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "courage",
         "example",
         "faith",
         "hope",
@@ -460,9 +462,12 @@
       "videoAvailable": false,
       "tags": [
         "Jesus Christ",
+        "courage",
         "hope",
         "love",
-        "peace"
+        "peace",
+        "prayer",
+        "trials"
       ],
       "voicings": [],
       "assets": [
@@ -599,8 +604,10 @@
       "tags": [
         "divine worth",
         "hope",
+        "repentance",
         "self-esteem",
-        "temptation"
+        "temptation",
+        "trials"
       ],
       "voicings": [
         {
@@ -743,6 +750,7 @@
         "faith",
         "happiness",
         "joy",
+        "prayer",
         "testimony"
       ],
       "voicings": [
@@ -1025,9 +1033,11 @@
       "videoAvailable": false,
       "tags": [
         "Jesus Christ",
+        "comfort",
         "grace",
         "love",
-        "mercy"
+        "mercy",
+        "prayer"
       ],
       "voicings": [
         {
@@ -1311,7 +1321,8 @@
       "tags": [
         "grace",
         "guidance",
-        "love"
+        "love",
+        "prayer"
       ],
       "voicings": [],
       "assets": [

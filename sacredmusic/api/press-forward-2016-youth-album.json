@@ -168,7 +168,9 @@
       "tags": [
         "faith",
         "hope",
-        "testimony"
+        "prayer",
+        "testimony",
+        "truth"
       ],
       "voicings": [],
       "assets": [
@@ -288,7 +290,8 @@
         "forgiveness",
         "hope",
         "missionary work",
-        "obedience"
+        "obedience",
+        "repentance"
       ],
       "voicings": [],
       "assets": [
@@ -646,7 +649,8 @@
       "tags": [
         "Heavenly Father",
         "Jesus Christ",
-        "love"
+        "love",
+        "prayer"
       ],
       "voicings": [],
       "assets": [
@@ -892,8 +896,10 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "adversity",
         "faith",
-        "hope"
+        "hope",
+        "repentance"
       ],
       "voicings": [],
       "assets": [

@@ -44,7 +44,8 @@
       "videoAvailable": true,
       "tags": [
         "Jesus Christ",
-        "faith"
+        "faith",
+        "youth"
       ],
       "voicings": [
         {
@@ -268,7 +269,9 @@
         "divine worth",
         "faith",
         "scriptures",
-        "testimony"
+        "testimony",
+        "truth",
+        "youth"
       ],
       "voicings": [
         {
@@ -416,7 +419,9 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "youth"
+      ],
       "voicings": [
         {
           "name": "Unison"
@@ -632,7 +637,8 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "Jesus Christ"
+        "Jesus Christ",
+        "youth"
       ],
       "voicings": [
         {
@@ -845,7 +851,9 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": true,
-      "tags": [],
+      "tags": [
+        "youth"
+      ],
       "voicings": [
         {
           "name": "SAB"
@@ -1059,7 +1067,8 @@
       "videoAvailable": false,
       "tags": [
         "Heavenly Father",
-        "child of God"
+        "child of God",
+        "youth"
       ],
       "voicings": [
         {
@@ -1270,7 +1279,8 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "Heavenly Father"
+        "Heavenly Father",
+        "celestial kingdom"
       ],
       "voicings": [
         {
@@ -1484,7 +1494,8 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "Jesus Christ"
+        "Jesus Christ",
+        "youth"
       ],
       "voicings": [
         {
@@ -1698,7 +1709,8 @@
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
-        "Jesus Christ"
+        "Jesus Christ",
+        "youth"
       ],
       "voicings": [
         {
@@ -2596,7 +2608,8 @@
       "videoAvailable": false,
       "tags": [
         "Jesus Christ",
-        "faith"
+        "faith",
+        "youth"
       ],
       "voicings": [
         {
@@ -2726,7 +2739,9 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "youth"
+      ],
       "voicings": [
         {
           "name": "Two-Part"

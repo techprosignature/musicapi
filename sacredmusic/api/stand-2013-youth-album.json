@@ -755,8 +755,10 @@
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
+        "adversity",
         "joy",
-        "learning"
+        "learning",
+        "trials"
       ],
       "voicings": [],
       "assets": [
@@ -880,7 +882,8 @@
       "videoAvailable": false,
       "tags": [
         "Holy Ghost",
-        "guidance"
+        "guidance",
+        "prayer"
       ],
       "voicings": [],
       "assets": [
@@ -1361,6 +1364,7 @@
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
+        "comfort",
         "friendship",
         "hope",
         "kindness",
