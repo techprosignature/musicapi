@@ -29168,9 +29168,53 @@
           }
         }
       ]
+    },
+    {
+      "title": "Along the Covenant Path",
+      "slug": "along-the-covenant-path-2026",
+      "bookSlug": "music-from-the-friend",
+      "bookSectionTitle": "2026",
+      "songNumber": "",
+      "songDate": "2026-04-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Jocelyn Parker Parmer"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Jocelyn Parker Parmer"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "baptism",
+        "covenants",
+        "love",
+        "obedience"
+      ],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": []
     }
   ],
   "limit": 500,
   "offset": 0,
-  "total": 355
+  "total": 356
 }
