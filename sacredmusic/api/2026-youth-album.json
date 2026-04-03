@@ -2832,7 +2832,7 @@
       "bookSlug": "2026-youth-album",
       "bookSectionTitle": "2026 Singles",
       "songNumber": "4",
-      "songDate": "2026-04-05",
+      "songDate": "2026-04-01",
       "arrangers": [],
       "artists": [
         {
@@ -3009,5 +3009,5 @@
   ],
   "limit": 500,
   "offset": 0,
-  "total": 16
+  "total": 17
 }
