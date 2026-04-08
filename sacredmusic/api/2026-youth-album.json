@@ -3005,6 +3005,122 @@
           }
         }
       ]
+    },
+    {
+      "title": "The Good + the Bad",
+      "slug": "the-good-the-bad-2026",
+      "bookSlug": "2026-youth-album",
+      "bookSectionTitle": "2026 Singles",
+      "songNumber": "5",
+      "songDate": "2026-04-03",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Ben Olsen"
+        }
+      ],
+      "authors": [],
+      "composers": [],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Jesus Christ",
+        "music",
+        "youth"
+      ],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/44/w0/44w087o9wiciaywbkf73ly5mpoirm7cj90ejdtga/the_good_and_the_bad_2027.mp3",
+          "duration": 230000,
+          "lang": "eng",
+          "title": "The Good and the Bad",
+          "description": "“The Good and the Bad\" from the 2027 Youth Album. English.",
+          "seoDescription": "“The Good and the Bad\" from the 2027 Youth Album. English.",
+          "seoTitle": "The Good and the Bad",
+          "shareableTitle": "The Good and the Bad",
+          "thumbnail": {
+            "description": "Strive To Be album cover for Youth Music single, “The Good + The Bad.”",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/mvyha56qnn1wbzqjgg3vey034afex2zi5721tn6l/full/3840,/0/default",
+            "seoDescription": "Strive To Be album cover for Youth Music single, \"The Good + The Bad.\"",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/mvyha56qnn1wbzqjgg3vey034afex2zi5721tn6l/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/mvyha56qnn1wbzqjgg3vey034afex2zi5721tn6l/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/mvyha56qnn1wbzqjgg3vey034afex2zi5721tn6l/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/mvyha56qnn1wbzqjgg3vey034afex2zi5721tn6l/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/mvyha56qnn1wbzqjgg3vey034afex2zi5721tn6l/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/mvyha56qnn1wbzqjgg3vey034afex2zi5721tn6l/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/mvyha56qnn1wbzqjgg3vey034afex2zi5721tn6l/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/mvyha56qnn1wbzqjgg3vey034afex2zi5721tn6l/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/mvyha56qnn1wbzqjgg3vey034afex2zi5721tn6l/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/mvyha56qnn1wbzqjgg3vey034afex2zi5721tn6l/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/mvyha56qnn1wbzqjgg3vey034afex2zi5721tn6l/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
     }
   ],
   "limit": 500,
