@@ -29212,9 +29212,54 @@
         }
       ],
       "assets": []
+    },
+    {
+      "title": "God’s Love",
+      "subtitle": "Simplified",
+      "slug": "gods-love-2026",
+      "bookSlug": "music-from-the-friend",
+      "bookSectionTitle": "2026",
+      "songNumber": "",
+      "songDate": "2026-05-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Shawna Belt Edwards"
+        },
+        {
+          "personName": "Linda Urquhart"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Shawna Belt Edwards"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "God's love"
+      ],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": []
     }
   ],
   "limit": 500,
   "offset": 0,
-  "total": 356
+  "total": 357
 }
