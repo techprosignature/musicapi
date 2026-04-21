@@ -9213,13 +9213,69 @@
           "seoTitle": "A Savior is Born",
           "shareableTitle": "A Savior is Born",
           "thumbnail": {
-            "description": "",
-            "distributionUrl": "",
-            "seoDescription": "",
-            "seoTitle": "",
-            "shareableTitle": "",
-            "title": "",
-            "renditions": []
+            "description": "A Savior Is Born",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/1920,/0/default",
+            "seoDescription": "A Savior Is Born",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
           }
         },
         {
@@ -10942,9 +10998,9 @@
             "description": "2023 Youth Theme Logo",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/800,/0/default",
             "seoDescription": "2023 Youth Theme Logo",
-            "seoTitle": "No Title",
-            "shareableTitle": "No Title",
-            "title": "No Title",
+            "seoTitle": "2023 Youth Theme Logo",
+            "shareableTitle": "2023 Youth Theme Logo",
+            "title": "2023 Youth Theme Logo",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!320%2C320/0/default",
@@ -11003,9 +11059,9 @@
             "description": "2023 Youth Theme Logo",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/800,/0/default",
             "seoDescription": "2023 Youth Theme Logo",
-            "seoTitle": "No Title",
-            "shareableTitle": "No Title",
-            "title": "No Title",
+            "seoTitle": "2023 Youth Theme Logo",
+            "shareableTitle": "2023 Youth Theme Logo",
+            "title": "2023 Youth Theme Logo",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!320%2C320/0/default",
@@ -11198,9 +11254,9 @@
             "description": "2024 Youth Music Album Cover Art",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/1920,/0/default",
             "seoDescription": "2024 Youth Music Album Cover Art",
-            "seoTitle": "No Title",
-            "shareableTitle": "No Title",
-            "title": "No Title",
+            "seoTitle": "2024 Youth Music Album Cover Art",
+            "shareableTitle": "2024 Youth Music Album Cover Art",
+            "title": "2024 Youth Music Album Cover Art",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!320%2C320/0/default",
@@ -11274,9 +11330,9 @@
             "description": "2024 Youth Music Album Cover Art",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/1920,/0/default",
             "seoDescription": "2024 Youth Music Album Cover Art",
-            "seoTitle": "No Title",
-            "shareableTitle": "No Title",
-            "title": "No Title",
+            "seoTitle": "2024 Youth Music Album Cover Art",
+            "shareableTitle": "2024 Youth Music Album Cover Art",
+            "title": "2024 Youth Music Album Cover Art",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!320%2C320/0/default",
@@ -11409,9 +11465,9 @@
             "description": "2024 Youth Music Album Cover Art",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/1920,/0/default",
             "seoDescription": "2024 Youth Music Album Cover Art",
-            "seoTitle": "No Title",
-            "shareableTitle": "No Title",
-            "title": "No Title",
+            "seoTitle": "2024 Youth Music Album Cover Art",
+            "shareableTitle": "2024 Youth Music Album Cover Art",
+            "title": "2024 Youth Music Album Cover Art",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!320%2C320/0/default",
@@ -11485,9 +11541,9 @@
             "description": "2024 Youth Music Album Cover Art",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/1920,/0/default",
             "seoDescription": "2024 Youth Music Album Cover Art",
-            "seoTitle": "No Title",
-            "shareableTitle": "No Title",
-            "title": "No Title",
+            "seoTitle": "2024 Youth Music Album Cover Art",
+            "shareableTitle": "2024 Youth Music Album Cover Art",
+            "title": "2024 Youth Music Album Cover Art",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!320%2C320/0/default",
@@ -11613,9 +11669,9 @@
             "description": "2024 Youth Music Album Cover Art",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/1920,/0/default",
             "seoDescription": "2024 Youth Music Album Cover Art",
-            "seoTitle": "No Title",
-            "shareableTitle": "No Title",
-            "title": "No Title",
+            "seoTitle": "2024 Youth Music Album Cover Art",
+            "shareableTitle": "2024 Youth Music Album Cover Art",
+            "title": "2024 Youth Music Album Cover Art",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!320%2C320/0/default",
@@ -11689,9 +11745,9 @@
             "description": "2024 Youth Music Album Cover Art",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/1920,/0/default",
             "seoDescription": "2024 Youth Music Album Cover Art",
-            "seoTitle": "No Title",
-            "shareableTitle": "No Title",
-            "title": "No Title",
+            "seoTitle": "2024 Youth Music Album Cover Art",
+            "shareableTitle": "2024 Youth Music Album Cover Art",
+            "title": "2024 Youth Music Album Cover Art",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!320%2C320/0/default",
@@ -11824,13 +11880,69 @@
           "seoTitle": "Angels We Have Heard on High",
           "shareableTitle": "Angels We Have Heard on High",
           "thumbnail": {
-            "description": "",
-            "distributionUrl": "",
-            "seoDescription": "",
-            "seoTitle": "",
-            "shareableTitle": "",
-            "title": "",
-            "renditions": []
+            "description": "A Savior Is Born",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/1920,/0/default",
+            "seoDescription": "A Savior Is Born",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
           }
         },
         {
@@ -12699,9 +12811,9 @@
             "description": "Arrows Diagram",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/1920,/0/default",
             "seoDescription": "Arrows Diagram",
-            "seoTitle": "2026 Youth Theme Visual Style Guide",
-            "shareableTitle": "2026 Youth Theme Visual Style Guide",
-            "title": "2026 Youth Theme Visual Style Guide",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!320%2C320/0/default",
@@ -12906,9 +13018,9 @@
             "description": "Arrows Diagram",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/1920,/0/default",
             "seoDescription": "Arrows Diagram",
-            "seoTitle": "2026 Youth Theme Visual Style Guide",
-            "shareableTitle": "2026 Youth Theme Visual Style Guide",
-            "title": "2026 Youth Theme Visual Style Guide",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!320%2C320/0/default",
@@ -12982,9 +13094,9 @@
             "description": "Arrows Diagram",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/1920,/0/default",
             "seoDescription": "Arrows Diagram",
-            "seoTitle": "2026 Youth Theme Visual Style Guide",
-            "shareableTitle": "2026 Youth Theme Visual Style Guide",
-            "title": "2026 Youth Theme Visual Style Guide",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!320%2C320/0/default",

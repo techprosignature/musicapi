@@ -2477,7 +2477,7 @@
           "shareableTitle": "Grateful for the Rain",
           "thumbnail": {
             "description": "Childrens Songbook of the Church of Jesus Christ of Latter-day Saints 2015 English",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8b3bbebbf0a2521e5f49c586c5cf83a4e04b89cc/full/800,/0/default",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8b3bbebbf0a2521e5f49c586c5cf83a4e04b89cc/full/1920,/0/default",
             "seoDescription": "Childrens Songbook of the Church of Jesus Christ of Latter-day Saints 2015 English",
             "seoTitle": "Children's Songbook, English, Hard Cover, Spiral",
             "shareableTitle": "Children's Songbook, English, Hard Cover, Spiral",
@@ -2489,14 +2489,29 @@
                 "height": 427
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8b3bbebbf0a2521e5f49c586c5cf83a4e04b89cc/full/!640%2C854/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8b3bbebbf0a2521e5f49c586c5cf83a4e04b89cc/full/!640%2C853/0/default",
                 "width": 640,
-                "height": 854
+                "height": 853
               },
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8b3bbebbf0a2521e5f49c586c5cf83a4e04b89cc/full/!800%2C1067/0/default",
                 "width": 800,
                 "height": 1067
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8b3bbebbf0a2521e5f49c586c5cf83a4e04b89cc/full/!1280%2C1707/0/default",
+                "width": 1280,
+                "height": 1707
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8b3bbebbf0a2521e5f49c586c5cf83a4e04b89cc/full/!1600%2C2133/0/default",
+                "width": 1600,
+                "height": 2133
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8b3bbebbf0a2521e5f49c586c5cf83a4e04b89cc/full/!1920%2C2560/0/default",
+                "width": 1920,
+                "height": 2560
               },
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8b3bbebbf0a2521e5f49c586c5cf83a4e04b89cc/full/!60%2C80/0/default",
@@ -3002,9 +3017,9 @@
             "description": "2023 Youth Theme Logo",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/800,/0/default",
             "seoDescription": "2023 Youth Theme Logo",
-            "seoTitle": "No Title",
-            "shareableTitle": "No Title",
-            "title": "No Title",
+            "seoTitle": "2023 Youth Theme Logo",
+            "shareableTitle": "2023 Youth Theme Logo",
+            "title": "2023 Youth Theme Logo",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!320%2C320/0/default",
@@ -3063,9 +3078,9 @@
             "description": "2023 Youth Theme Logo",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/800,/0/default",
             "seoDescription": "2023 Youth Theme Logo",
-            "seoTitle": "No Title",
-            "shareableTitle": "No Title",
-            "title": "No Title",
+            "seoTitle": "2023 Youth Theme Logo",
+            "shareableTitle": "2023 Youth Theme Logo",
+            "title": "2023 Youth Theme Logo",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!320%2C320/0/default",
