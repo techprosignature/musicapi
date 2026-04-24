@@ -1,6 +1,1987 @@
 {
-  "data": [],
+  "data": [
+    {
+      "title": "The Morning Breaks",
+      "slug": "2026-04-the-morning-breaks",
+      "bookSlug": "music-from-april-2026-general-conference",
+      "bookSectionTitle": "Saturday Morning Session",
+      "songNumber": "1",
+      "songDate": "2026-04-04",
+      "arrangers": [
+        {
+          "personName": "Mack Wilberg"
+        }
+      ],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Parley P. Pratt"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "George Careless"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Organ"
+        },
+        {
+          "name": "Choir"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [
+        "Jesus Christ",
+        "Restoration",
+        "Zion",
+        "baptism",
+        "faith",
+        "family",
+        "gathering of Israel",
+        "missionary work",
+        "priesthood",
+        "scriptures",
+        "temples",
+        "truth"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/3d771oubk4v97m8fxg54oq4twekiopy3xao2pwg5-256k-en.mp3",
+          "duration": 233720,
+          "lang": "eng",
+          "title": "The Morning Breaks",
+          "description": "A performance of 'The Morning Breaks' during the 196th Annual General Conference of The Church of Jesus Christ of Latter-day Saints held on April 4-5, 2026.",
+          "seoDescription": "A performance of 'The Morning Breaks' during the 196th Annual General Conference of The Church of Jesus Christ of Latter-day Saints held on April 4-5, 2026.",
+          "seoTitle": "The Morning Breaks",
+          "shareableTitle": "The Morning Breaks",
+          "thumbnail": {
+            "description": "Unified Images General Conference Apr 2026 Master",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/s1du36854oeygpk5w04dar2vhijkxysmtn2wv1cf/full/1920,/0/default",
+            "seoDescription": "Unified Images General Conference Apr 2026 Master",
+            "seoTitle": "Unified Images General Conference Apr 2026 Master",
+            "shareableTitle": "Unified Images General Conference Apr 2026 Master",
+            "title": "Unified Images General Conference Apr 2026 Master",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/s1du36854oeygpk5w04dar2vhijkxysmtn2wv1cf/full/!320%2C427/0/default",
+                "width": 320,
+                "height": 427
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/s1du36854oeygpk5w04dar2vhijkxysmtn2wv1cf/full/!640%2C853/0/default",
+                "width": 640,
+                "height": 853
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/s1du36854oeygpk5w04dar2vhijkxysmtn2wv1cf/full/!800%2C1067/0/default",
+                "width": 800,
+                "height": 1067
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/s1du36854oeygpk5w04dar2vhijkxysmtn2wv1cf/full/!1280%2C1707/0/default",
+                "width": 1280,
+                "height": 1707
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/s1du36854oeygpk5w04dar2vhijkxysmtn2wv1cf/full/!1600%2C2133/0/default",
+                "width": 1600,
+                "height": 2133
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/s1du36854oeygpk5w04dar2vhijkxysmtn2wv1cf/full/!1920%2C2560/0/default",
+                "width": 1920,
+                "height": 2560
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/s1du36854oeygpk5w04dar2vhijkxysmtn2wv1cf/full/!60%2C80/0/default",
+                "width": 60,
+                "height": 80
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/s1du36854oeygpk5w04dar2vhijkxysmtn2wv1cf/full/!250%2C333/0/default",
+                "width": 250,
+                "height": 333
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/s1du36854oeygpk5w04dar2vhijkxysmtn2wv1cf/full/!200%2C267/0/default",
+                "width": 200,
+                "height": 267
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/s1du36854oeygpk5w04dar2vhijkxysmtn2wv1cf/full/!100%2C133/0/default",
+                "width": 100,
+                "height": 133
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/s1du36854oeygpk5w04dar2vhijkxysmtn2wv1cf/full/!500%2C667/0/default",
+                "width": 500,
+                "height": 667
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "We Listen to a Prophet’s Voice",
+      "slug": "2026-04-we-listen-to-a-prophets-voice",
+      "bookSlug": "music-from-april-2026-general-conference",
+      "bookSectionTitle": "Saturday Morning Session",
+      "songNumber": "2",
+      "songDate": "2026-04-04",
+      "arrangers": [
+        {
+          "personName": "Mack Wilberg"
+        }
+      ],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Marylou Cunningham Leavitt"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Darwin K. Wolford"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Organ"
+        },
+        {
+          "name": "Choir"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [
+        "Jesus Christ",
+        "plan of salvation",
+        "praise",
+        "prophets"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/y0cxsu8nh15i8j8itbi3g3bwooqlbfo0qdgw03l9-256k-en.mp3",
+          "duration": 231660,
+          "lang": "eng",
+          "title": "We Listen to a Prophet's Voice",
+          "description": "A performance of 'We Listen to a Prophet's Voice' during the 196th Annual General Conference of The Church of Jesus Christ of Latter-day Saints held on April 4-5, 2026.",
+          "seoDescription": "A performance of 'We Listen to a Prophet's Voice' during the 196th Annual General Conference of The Church of Jesus Christ of Latter-day Saints held on April 4-5, 2026.",
+          "seoTitle": "We Listen to a Prophet's Voice",
+          "shareableTitle": "We Listen to a Prophet's Voice",
+          "thumbnail": {
+            "description": "Unified Images General Conference Apr 2026 Master",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/1920,/0/default",
+            "seoDescription": "Unified Images General Conference Apr 2026 Master",
+            "seoTitle": "Unified Images General Conference Apr 2026 Master",
+            "shareableTitle": "Unified Images General Conference Apr 2026 Master",
+            "title": "Unified Images General Conference Apr 2026 Master",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Have I Done Any Good?",
+      "slug": "2026-04-have-i-done-any-good",
+      "bookSlug": "music-from-april-2026-general-conference",
+      "bookSectionTitle": "Saturday Morning Session",
+      "songNumber": "3",
+      "songDate": "2026-04-04",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Will L. Thompson"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Will L. Thompson"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Organ"
+        },
+        {
+          "name": "Choir"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [
+        "agency",
+        "joy",
+        "love",
+        "ministering",
+        "service",
+        "sharing",
+        "work"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/wazjv6ckxdm4ec6cl6kfs389lrqz5k0w43es66uv-256k-en.mp3",
+          "duration": 228570,
+          "lang": "eng",
+          "title": "Have I Done Any Good",
+          "description": "A performance of 'Have I Done Any Good?' during the 196th Annual General Conference of The Church of Jesus Christ of Latter-day Saints held on April 4-5, 2026.",
+          "seoDescription": "A performance of 'Have I Done Any Good?' during the 196th Annual General Conference of The Church of Jesus Christ of Latter-day Saints held on April 4-5, 2026.",
+          "seoTitle": "Have I Done Any Good",
+          "shareableTitle": "Have I Done Any Good",
+          "thumbnail": {
+            "description": "Unified Images General Conference Apr 2026 Master",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/1920,/0/default",
+            "seoDescription": "Unified Images General Conference Apr 2026 Master",
+            "seoTitle": "Unified Images General Conference Apr 2026 Master",
+            "shareableTitle": "Unified Images General Conference Apr 2026 Master",
+            "title": "Unified Images General Conference Apr 2026 Master",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "We Thank Thee, O God, for a Prophet",
+      "slug": "2026-04-we-thank-thee-o-god-for-a-prophet",
+      "bookSlug": "music-from-april-2026-general-conference",
+      "bookSectionTitle": "Saturday Morning Session",
+      "songNumber": "4",
+      "songDate": "2026-04-04",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "William Fowler"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Caroline Sheridan Norton"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Organ"
+        },
+        {
+          "name": "Choir"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [
+        "Heavenly Father",
+        "Zion",
+        "adversity",
+        "eternal life",
+        "exaltation",
+        "faith",
+        "gospel",
+        "grace",
+        "gratitude",
+        "guidance",
+        "hope",
+        "obedience",
+        "peace",
+        "plan of salvation",
+        "praise",
+        "prophets",
+        "service",
+        "worship"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/i6z03svgxxx574ngsxttnf3t59ubgwl684c3g0ay-256k-en.mp3",
+          "duration": 257190,
+          "lang": "eng",
+          "title": "We Thank Thee, O God, for a Prophet",
+          "description": "A performance of 'We Thank Thee, O God, for a Prophet' during the 196th Annual General Conference of The Church of Jesus Christ of Latter-day Saints held on April 4-5, 2026.",
+          "seoDescription": "A performance of 'We Thank Thee, O God, for a Prophet' during the 196th Annual General Conference of The Church of Jesus Christ of Latter-day Saints held on April 4-5, 2026.",
+          "seoTitle": "We Thank Thee, O God, for a Prophet",
+          "shareableTitle": "We Thank Thee, O God, for a Prophet",
+          "thumbnail": {
+            "description": "Unified Images General Conference Apr 2026 Master",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/1920,/0/default",
+            "seoDescription": "Unified Images General Conference Apr 2026 Master",
+            "seoTitle": "Unified Images General Conference Apr 2026 Master",
+            "shareableTitle": "Unified Images General Conference Apr 2026 Master",
+            "title": "Unified Images General Conference Apr 2026 Master",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Press Forward, Saints",
+      "slug": "2026-04-press-forward-saints",
+      "bookSlug": "music-from-april-2026-general-conference",
+      "bookSectionTitle": "Saturday Afternoon Session",
+      "songNumber": "5",
+      "songDate": "2026-04-04",
+      "arrangers": [
+        {
+          "personName": "Paul Busselberg"
+        }
+      ],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Marvin K. Gardner"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Vanja Y. Watkins"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Organ"
+        },
+        {
+          "name": "Choir"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [
+        "endure to the end",
+        "exaltation",
+        "faith",
+        "hope",
+        "love",
+        "scriptures"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/0v563lvfy84ahqutzb6opofiaianykbvmacah1qx-256k-en.mp3",
+          "duration": 214700,
+          "lang": "eng",
+          "title": "Press Forward, Saints",
+          "description": "A performance of 'Press Forward Saints' during the 196th Annual General Conference of The Church of Jesus Christ of Latter-day Saints held on April 4-5, 2026.",
+          "seoDescription": "A performance of 'Press Forward Saints' during the 196th Annual General Conference of The Church of Jesus Christ of Latter-day Saints held on April 4-5, 2026.",
+          "seoTitle": "Press Forward, Saints",
+          "shareableTitle": "Press Forward, Saints",
+          "thumbnail": {
+            "description": "Unified Images General Conference Apr 2026 Master",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/1920,/0/default",
+            "seoDescription": "Unified Images General Conference Apr 2026 Master",
+            "seoTitle": "Unified Images General Conference Apr 2026 Master",
+            "shareableTitle": "Unified Images General Conference Apr 2026 Master",
+            "title": "Unified Images General Conference Apr 2026 Master",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "We’ll Sing All Hail to Jesus’ Name",
+      "slug": "2026-04-well-sing-all-hail-to-jesus-name",
+      "bookSlug": "music-from-april-2026-general-conference",
+      "bookSectionTitle": "Saturday Afternoon Session",
+      "songNumber": "6",
+      "songDate": "2026-04-04",
+      "arrangers": [
+        {
+          "personName": "Eda Ashby"
+        }
+      ],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Richard Alldridge"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Joseph Coslett"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Organ"
+        },
+        {
+          "name": "Choir"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [
+        "Jesus Christ",
+        "the sacrament"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/stbsuj3atgj7x9bsjpk4s3t01qs8jqn62tpihx9u-256k-en.mp3",
+          "duration": 221610,
+          "lang": "eng",
+          "title": "We'll Sing All Hail to Jesus' Name",
+          "description": "A performance of We'll Sing All Hail to Jesus' Name' during the 196th Annual General Conference of The Church of Jesus Christ of Latter-day Saints held on April 4-5, 2026.",
+          "seoDescription": "A performance of We'll Sing All Hail to Jesus' Name' during the 196th Annual General Conference of The Church of Jesus Christ of Latter-day Saints held on April 4-5, 2026.",
+          "seoTitle": "We'll Sing All Hail to Jesus' Name",
+          "shareableTitle": "We'll Sing All Hail to Jesus' Name",
+          "thumbnail": {
+            "description": "Unified Images General Conference Apr 2026 Master",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/1920,/0/default",
+            "seoDescription": "Unified Images General Conference Apr 2026 Master",
+            "seoTitle": "Unified Images General Conference Apr 2026 Master",
+            "shareableTitle": "Unified Images General Conference Apr 2026 Master",
+            "title": "Unified Images General Conference Apr 2026 Master",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Look Unto Christ",
+      "slug": "2026-04-look-unto-christ",
+      "bookSlug": "music-from-april-2026-general-conference",
+      "bookSectionTitle": "Saturday Afternoon Session",
+      "songNumber": "7",
+      "songDate": "2026-04-04",
+      "arrangers": [
+        {
+          "personName": "Randall Kempton"
+        }
+      ],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Sherrie Manwill Boren"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Sherrie Manwill Boren"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Organ"
+        },
+        {
+          "name": "Choir"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [
+        "Jesus Christ",
+        "adversity",
+        "commitment",
+        "courage",
+        "encouragement",
+        "endure to the end",
+        "faith in Jesus Christ",
+        "hope",
+        "trials",
+        "trust in the Lord"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/h2t3jvsckw2ims9xuudpey46vl6x9wymqvjexdaz-256k-en.mp3",
+          "duration": 279140,
+          "lang": "eng",
+          "title": "Look unto Christ",
+          "description": "A performance of 'Look Unto Christ' during the 196th Annual General Conference of The Church of Jesus Christ of Latter-day Saints held on April 4-5, 2026.",
+          "seoDescription": "A performance of 'Look Unto Christ' during the 196th Annual General Conference of The Church of Jesus Christ of Latter-day Saints held on April 4-5, 2026.",
+          "seoTitle": "Look unto Christ",
+          "shareableTitle": "Look unto Christ",
+          "thumbnail": {
+            "description": "Unified Images General Conference Apr 2026 Master",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/1920,/0/default",
+            "seoDescription": "Unified Images General Conference Apr 2026 Master",
+            "seoTitle": "Unified Images General Conference Apr 2026 Master",
+            "shareableTitle": "Unified Images General Conference Apr 2026 Master",
+            "title": "Unified Images General Conference Apr 2026 Master",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "O Thou Rock of Our Salvation",
+      "slug": "2026-04-o-thou-rock-of-our-salvation",
+      "bookSlug": "music-from-april-2026-general-conference",
+      "bookSectionTitle": "Saturday Afternoon Session",
+      "songNumber": "8",
+      "songDate": "2026-04-04",
+      "arrangers": [
+        {
+          "personName": "Paul Busselberg"
+        }
+      ],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Joseph L. Townsend"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "William Clayson"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Organ"
+        },
+        {
+          "name": "Choir"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [
+        "Jesus Christ",
+        "commitment",
+        "missionary work",
+        "unity",
+        "youth"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/7mdvyy7lttg9yz2beafc1s6gmf5to2971zfrkx4p-256k-en.mp3",
+          "duration": 255590,
+          "lang": "eng",
+          "title": "O Thou Rock of Our Salvation",
+          "description": "A performance of 'O Thou Rock of Our Salvation' during the 196th Annual General Conference of The Church of Jesus Christ of Latter-day Saints held on April 4-5, 2026.",
+          "seoDescription": "A performance of 'O Thou Rock of Our Salvation' during the 196th Annual General Conference of The Church of Jesus Christ of Latter-day Saints held on April 4-5, 2026.",
+          "seoTitle": "O Thou Rock of Our Salvation",
+          "shareableTitle": "O Thou Rock of Our Salvation",
+          "thumbnail": {
+            "description": "Unified Images General Conference Apr 2026 Master",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/1920,/0/default",
+            "seoDescription": "Unified Images General Conference Apr 2026 Master",
+            "seoTitle": "Unified Images General Conference Apr 2026 Master",
+            "shareableTitle": "Unified Images General Conference Apr 2026 Master",
+            "title": "Unified Images General Conference Apr 2026 Master",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Christ the Lord Is Risen Today",
+      "slug": "2026-04-christ-the-lord-is-risen-today",
+      "bookSlug": "music-from-april-2026-general-conference",
+      "bookSectionTitle": "Sunday Morning Session",
+      "songNumber": "9",
+      "songDate": "2026-04-05",
+      "arrangers": [
+        {
+          "personName": "Mack Wilberg"
+        }
+      ],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Charles Wesley"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Anon."
+        },
+        {
+          "personName": "Lyra Davidica"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Organ"
+        },
+        {
+          "name": "Choir"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [
+        "Atonement of Jesus Christ",
+        "Easter",
+        "Jesus Christ",
+        "Resurrection",
+        "hope",
+        "joy",
+        "praise",
+        "worship"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/790tlak44gfkncfkqxja1bzzbu8rdlzuxlswsz8x-256k-en.mp3",
+          "duration": 173290,
+          "lang": "eng",
+          "title": "Christ the Lord is Risen Today",
+          "description": "A performance of 'Christ the Lord is Risen Today' during the 196th Annual General Conference of The Church of Jesus Christ of Latter-day Saints held on April 4-5, 2026.",
+          "seoDescription": "A performance of 'Christ the Lord is Risen Today' during the 196th Annual General Conference of The Church of Jesus Christ of Latter-day Saints held on April 4-5, 2026.",
+          "seoTitle": "Christ the Lord is Risen Today",
+          "shareableTitle": "Christ the Lord is Risen Today",
+          "thumbnail": {
+            "description": "Unified Images General Conference Apr 2026 Master",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/1920,/0/default",
+            "seoDescription": "Unified Images General Conference Apr 2026 Master",
+            "seoTitle": "Unified Images General Conference Apr 2026 Master",
+            "shareableTitle": "Unified Images General Conference Apr 2026 Master",
+            "title": "Unified Images General Conference Apr 2026 Master",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Consider the Lilies",
+      "slug": "2026-04-consider-the-lilies",
+      "bookSlug": "music-from-april-2026-general-conference",
+      "bookSectionTitle": "Sunday Morning Session",
+      "songNumber": "10",
+      "songDate": "2026-04-05",
+      "arrangers": [
+        {
+          "personName": "A. Laurence Lyon"
+        }
+      ],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Roger Hoffman"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Roger Hoffman"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Organ"
+        },
+        {
+          "name": "Choir"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/fmeiryl2muv6gns6ibumyxnonmpwkjak4hvsd5cz-256k-en.mp3",
+          "duration": 309170,
+          "lang": "eng",
+          "title": "Consider the Lilies",
+          "description": "A performance of 'Consider the Lilies' during the 196th Annual General Conference of The Church of Jesus Christ of Latter-day Saints held on April 4-5, 2026.",
+          "seoDescription": "A performance of 'Consider the Lilies' during the 196th Annual General Conference of The Church of Jesus Christ of Latter-day Saints held on April 4-5, 2026.",
+          "seoTitle": "Consider the Lilies",
+          "shareableTitle": "Consider the Lilies",
+          "thumbnail": {
+            "description": "Unified Images General Conference Apr 2026 Master",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/1920,/0/default",
+            "seoDescription": "Unified Images General Conference Apr 2026 Master",
+            "seoTitle": "Unified Images General Conference Apr 2026 Master",
+            "shareableTitle": "Unified Images General Conference Apr 2026 Master",
+            "title": "Unified Images General Conference Apr 2026 Master",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Let Easter Anthems Ring",
+      "slug": "2026-04-let-easter-anthems-ring",
+      "bookSlug": "music-from-april-2026-general-conference",
+      "bookSectionTitle": "Sunday Morning Session",
+      "songNumber": "11",
+      "songDate": "2026-04-05",
+      "arrangers": [
+        {
+          "personName": "Mack Wilberg"
+        }
+      ],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Larry Hiller"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "George J. Elvey"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Organ"
+        },
+        {
+          "name": "Choir"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [
+        "Easter",
+        "Jesus Christ",
+        "Resurrection",
+        "grace",
+        "praise",
+        "rejoicing"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/9ceidr4rl5f6dnz6y9zrc9awj2g8gd5cb3l7d57d-256k-en.mp3",
+          "duration": 192280,
+          "lang": "eng",
+          "title": "Let Easter Anthems Ring",
+          "description": "A performance of 'Let Easter Anthems Ring' during the 196th Annual General Conference of The Church of Jesus Christ of Latter-day Saints held on April 4-5, 2026.",
+          "seoDescription": "A performance of 'Let Easter Anthems Ring' during the 196th Annual General Conference of The Church of Jesus Christ of Latter-day Saints held on April 4-5, 2026.",
+          "seoTitle": "Let Easter Anthems Ring",
+          "shareableTitle": "Let Easter Anthems Ring",
+          "thumbnail": {
+            "description": "Unified Images General Conference Apr 2026 Master",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/1920,/0/default",
+            "seoDescription": "Unified Images General Conference Apr 2026 Master",
+            "seoTitle": "Unified Images General Conference Apr 2026 Master",
+            "shareableTitle": "Unified Images General Conference Apr 2026 Master",
+            "title": "Unified Images General Conference Apr 2026 Master",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Love One Another",
+      "slug": "2026-04-love-one-another",
+      "bookSlug": "music-from-april-2026-general-conference",
+      "bookSectionTitle": "Sunday Morning Session",
+      "songNumber": "12",
+      "songDate": "2026-04-05",
+      "arrangers": [
+        {
+          "personName": "Mack Wilberg"
+        }
+      ],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Luacine Clark Fox"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Luacine Clark Fox"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Organ"
+        },
+        {
+          "name": "Choir"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [
+        "Heavenly Father",
+        "Jesus Christ",
+        "charity",
+        "commandments",
+        "discipleship",
+        "kindness",
+        "love",
+        "service"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/5ujmpk3g9nimz71pz9xvbyftwbjtv6rko6pf8vin-256k-en.mp3",
+          "duration": 202050,
+          "lang": "eng",
+          "title": "Love One Another",
+          "description": "A performance of 'Love One Another' during the 196th Annual General Conference of The Church of Jesus Christ of Latter-day Saints held on April 4-5, 2026.",
+          "seoDescription": "A performance of 'Love One Another' during the 196th Annual General Conference of The Church of Jesus Christ of Latter-day Saints held on April 4-5, 2026.",
+          "seoTitle": "Love One Another",
+          "shareableTitle": "Love One Another",
+          "thumbnail": {
+            "description": "Unified Images General Conference Apr 2026 Master",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/1920,/0/default",
+            "seoDescription": "Unified Images General Conference Apr 2026 Master",
+            "seoTitle": "Unified Images General Conference Apr 2026 Master",
+            "shareableTitle": "Unified Images General Conference Apr 2026 Master",
+            "title": "Unified Images General Conference Apr 2026 Master",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "He Is Risen!",
+      "slug": "2026-04-he-is-risen",
+      "bookSlug": "music-from-april-2026-general-conference",
+      "bookSectionTitle": "Sunday Afternoon Session",
+      "songNumber": "13",
+      "songDate": "2026-04-05",
+      "arrangers": [
+        {
+          "personName": "Mack Wilberg"
+        }
+      ],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Cecil Frances Alexander"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Ross Farnworth"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Organ"
+        },
+        {
+          "name": "Choir"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [
+        "Easter",
+        "Jesus Christ",
+        "Resurrection",
+        "hope",
+        "joy",
+        "music",
+        "plan of salvation",
+        "praise",
+        "worship"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/qz4wpn3skn1dsubyavm312534ze9avt0o6tigtqf-256k-en.mp3",
+          "duration": 160010,
+          "lang": "eng",
+          "title": "He Is Risen",
+          "description": "A performance of 'He is Risen' during the 196th Annual General Conference of The Church of Jesus Christ of Latter-day Saints held on April 4-5, 2026.",
+          "seoDescription": "A performance of 'He is Risen' during the 196th Annual General Conference of The Church of Jesus Christ of Latter-day Saints held on April 4-5, 2026.",
+          "seoTitle": "He Is Risen",
+          "shareableTitle": "He Is Risen",
+          "thumbnail": {
+            "description": "Unified Images General Conference Apr 2026 Master",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/1920,/0/default",
+            "seoDescription": "Unified Images General Conference Apr 2026 Master",
+            "seoTitle": "Unified Images General Conference Apr 2026 Master",
+            "shareableTitle": "Unified Images General Conference Apr 2026 Master",
+            "title": "Unified Images General Conference Apr 2026 Master",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Lord, I Would Follow Thee",
+      "slug": "2026-04-lord-i-would-follow-thee",
+      "bookSlug": "music-from-april-2026-general-conference",
+      "bookSectionTitle": "Sunday Afternoon Session",
+      "songNumber": "14",
+      "songDate": "2026-04-05",
+      "arrangers": [
+        {
+          "personName": "Ryan T. Murphy"
+        }
+      ],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Susan Evans McCloud"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "K. Newell Dayley"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Organ"
+        },
+        {
+          "name": "Choir"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [
+        "Jesus Christ",
+        "commitment",
+        "discipleship",
+        "example",
+        "judging",
+        "love",
+        "ministering",
+        "service"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/6jtr0pp5emguaq2ntykns86spkfqh1gc0ele3hn8-256k-en.mp3",
+          "duration": 335650,
+          "lang": "eng",
+          "title": "Lord, I Would Follow Thee",
+          "description": "A performance of 'Lord, I Would Follow Thee' during the 196th Annual General Conference of The Church of Jesus Christ of Latter-day Saints held on April 4-5, 2026.",
+          "seoDescription": "A performance of 'Lord, I Would Follow Thee' during the 196th Annual General Conference of The Church of Jesus Christ of Latter-day Saints held on April 4-5, 2026.",
+          "seoTitle": "Lord, I Would Follow Thee",
+          "shareableTitle": "Lord, I Would Follow Thee",
+          "thumbnail": {
+            "description": "Unified Images General Conference Apr 2026 Master",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/1920,/0/default",
+            "seoDescription": "Unified Images General Conference Apr 2026 Master",
+            "seoTitle": "Unified Images General Conference Apr 2026 Master",
+            "shareableTitle": "Unified Images General Conference Apr 2026 Master",
+            "title": "Unified Images General Conference Apr 2026 Master",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Tell Me the Stories of Jesus",
+      "slug": "2026-04-tell-me-the-stories-of-jesus",
+      "bookSlug": "music-from-april-2026-general-conference",
+      "bookSectionTitle": "Sunday Afternoon Session",
+      "songNumber": "15",
+      "songDate": "2026-04-05",
+      "arrangers": [
+        {
+          "personName": "Ryan T. Murphy"
+        }
+      ],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "W. H. Parker"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Frederic A. Challinor"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Organ"
+        },
+        {
+          "name": "Choir"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [
+        "Jesus Christ",
+        "Jesus Christ's ministry",
+        "grace",
+        "love"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/ltrcl7xihzrsm322rp4017saptq5voku86ze8y25-256k-en.mp3",
+          "duration": 272790,
+          "lang": "eng",
+          "title": "Tell Me the Stories of Jesus",
+          "description": "A performance of 'Tell Me the Stories of Jesus' during the 196th Annual General Conference of The Church of Jesus Christ of Latter-day Saints held on April 4-5, 2026.",
+          "seoDescription": "A performance of 'Tell Me the Stories of Jesus' during the 196th Annual General Conference of The Church of Jesus Christ of Latter-day Saints held on April 4-5, 2026.",
+          "seoTitle": "Tell Me the Stories of Jesus",
+          "shareableTitle": "Tell Me the Stories of Jesus",
+          "thumbnail": {
+            "description": "Unified Images General Conference Apr 2026 Master",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/1920,/0/default",
+            "seoDescription": "Unified Images General Conference Apr 2026 Master",
+            "seoTitle": "Unified Images General Conference Apr 2026 Master",
+            "shareableTitle": "Unified Images General Conference Apr 2026 Master",
+            "title": "Unified Images General Conference Apr 2026 Master",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Redeemer of Israel",
+      "slug": "2026-04-redeemer-of-israel",
+      "bookSlug": "music-from-april-2026-general-conference",
+      "bookSectionTitle": "Sunday Afternoon Session",
+      "songNumber": "16",
+      "songDate": "2026-04-05",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Joseph Swain"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Freeman Lewis"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Organ"
+        },
+        {
+          "name": "Choir"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [
+        "Israel",
+        "Jesus Christ",
+        "Zion",
+        "eternal life",
+        "faith",
+        "gathering of Israel",
+        "grace",
+        "hope",
+        "plan of salvation",
+        "praise",
+        "prayer"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/s42ctltk34j0zszhlkdqtued9bgxkfn18tizfltx-256k-en.mp3",
+          "duration": 216330,
+          "lang": "eng",
+          "title": "Redeemer of Israel",
+          "description": "A performance of 'Redeemer of Israel' during the 196th Annual General Conference of The Church of Jesus Christ of Latter-day Saints held on April 4-5, 2026.",
+          "seoDescription": "A performance of 'Redeemer of Israel' during the 196th Annual General Conference of The Church of Jesus Christ of Latter-day Saints held on April 4-5, 2026.",
+          "seoTitle": "Redeemer of Israel",
+          "shareableTitle": "Redeemer of Israel",
+          "thumbnail": {
+            "description": "Unified Images General Conference Apr 2026 Master",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/1920,/0/default",
+            "seoDescription": "Unified Images General Conference Apr 2026 Master",
+            "seoTitle": "Unified Images General Conference Apr 2026 Master",
+            "shareableTitle": "Unified Images General Conference Apr 2026 Master",
+            "title": "Unified Images General Conference Apr 2026 Master",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/19elmvasfbbyxq1n6e2quomvlb3sfob5muu0jln3/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
   "limit": 500,
   "offset": 0,
-  "total": 0
+  "total": 16
 }
