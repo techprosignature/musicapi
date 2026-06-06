@@ -445,7 +445,7 @@
         "sacrifice",
         "supplication",
         "the sacrament",
-        "trust"
+        "trust in the Lord"
       ],
       "voicings": [
         {
@@ -585,6 +585,239 @@
           "seoDescription": "Vocal choir recording of “O Lord, Who Gave Thy Life for Me” from Hymns—For Home and Church. English.",
           "seoTitle": "O Lord, Who Gave Thy Life for Me",
           "shareableTitle": "O Lord, Who Gave Thy Life for Me",
+          "thumbnail": {
+            "description": "Sacred Music",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
+            "seoDescription": "Sacred Music",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Our Prayer to Thee",
+      "slug": "our-prayer-to-thee",
+      "bookSlug": "featured-submitted-hymns",
+      "songNumber": "",
+      "arrangers": [
+        {
+          "personName": "Mack Wilberg"
+        }
+      ],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Russell M. Nelson"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Joseph Parry"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        },
+        {
+          "name": "Guitar"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Heavenly Father",
+        "gratitude",
+        "prayer",
+        "worship"
+      ],
+      "voicings": [
+        {
+          "name": "SATB"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/du/ab/duabtudgh5xlezji1vnn5s8zfy8on5wzlgajchhi/our_prayer_to_thee.mp3",
+          "duration": 192000,
+          "lang": "eng",
+          "title": "Our Prayer to Thee",
+          "description": "Our Prayer to Thee",
+          "seoDescription": "Our Prayer to Thee",
+          "seoTitle": "Our Prayer to Thee",
+          "shareableTitle": "Our Prayer to Thee",
+          "thumbnail": {
+            "description": "Sacred Music",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
+            "seoDescription": "Sacred Music",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT_GUITAR",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/aj/ay/ajayojdiz09cpx23xqd510r6ine6tslh0jzdm64w/our_prayer_to_thee.mp3",
+          "duration": 192000,
+          "lang": "eng",
+          "title": "Our Prayer to Thee",
+          "description": "Our Prayer to Thee",
+          "seoDescription": "Our Prayer to Thee",
+          "seoTitle": "Our Prayer to Thee",
+          "shareableTitle": "Our Prayer to Thee",
+          "thumbnail": {
+            "description": "Sacred Music",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
+            "seoDescription": "Sacred Music",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/7y/zv/7yzvuakjm0klqc16uy64cfy1cwhihljewrx091ae/our_prayer_to_thee.mp3",
+          "duration": 192000,
+          "lang": "eng",
+          "title": "Our Prayer to Thee",
+          "description": "Vocal choir recording of “Our Prayer to Thee” from Hymns—For Home and Church. English.",
+          "seoDescription": "Vocal choir recording of “Our Prayer to Thee” from Hymns—For Home and Church. English.",
+          "seoTitle": "Our Prayer to Thee",
+          "shareableTitle": "Our Prayer to Thee",
           "thumbnail": {
             "description": "Sacred Music",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
@@ -6979,6 +7212,7 @@
         "baptism",
         "blessings",
         "covenants",
+        "ordinances",
         "rejoicing",
         "temples",
         "the sacrament"
@@ -7477,5 +7711,5 @@
   ],
   "limit": 500,
   "offset": 0,
-  "total": 121
+  "total": 122
 }

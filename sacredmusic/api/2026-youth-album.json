@@ -3533,9 +3533,87 @@
           }
         }
       ]
+    },
+    {
+      "title": "Family",
+      "slug": "family-2027",
+      "bookSlug": "2026-youth-album",
+      "bookSectionTitle": "2026 Singles",
+      "songNumber": "7",
+      "songDate": "2026-06-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Connor Austin"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Connor Austin"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "youth"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/dh/l5/dhl5o15qiijkf06hkjyik81ad5ewf0mzeyi8e5gf/family_2027.mp3",
+          "duration": 194000,
+          "lang": "eng",
+          "title": "Family (Accompaniment/ Instrumental)",
+          "description": "Accompaniment/ instrumental track for “Family” from the 2027 Youth Album. English.",
+          "seoDescription": "Accompaniment/ instrumental track for “Family” from the 2027 Youth Album. English.",
+          "seoTitle": "Family (Accompaniment/ Instrumental)",
+          "shareableTitle": "Family (Accompaniment/ Instrumental)",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/9o/gf/9ogfu9zwwtwiz0tvo66xjn66eazmd457m7ne6ywf/family_2027.mp3",
+          "duration": 194000,
+          "lang": "eng",
+          "title": "Family",
+          "description": "“Family” from the 2027 Youth Album. English.",
+          "seoDescription": "“Family” from the 2027 Youth Album. English.",
+          "seoTitle": "Family",
+          "shareableTitle": "Family",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
     }
   ],
   "limit": 500,
   "offset": 0,
-  "total": 18
+  "total": 19
 }
