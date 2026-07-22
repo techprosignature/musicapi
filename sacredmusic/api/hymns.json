@@ -3521,9 +3521,10 @@
       "videoAvailable": false,
       "tags": [
         "Joseph Smith",
-        "Restoration",
-        "praise",
-        "prophets"
+        "Restoration of the Church",
+        "prophets",
+        "sacrifice",
+        "testimony"
       ],
       "voicings": [
         {
@@ -20871,10 +20872,12 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "comfort",
-        "grace",
-        "love",
-        "plan of salvation"
+        "Resurrection",
+        "closing",
+        "death",
+        "endure to the end",
+        "funeral",
+        "trials"
       ],
       "voicings": [
         {
@@ -43737,7 +43740,6 @@
     },
     {
       "title": "As Sisters in Zion",
-      "subtitle": "Women",
       "slug": "as-sisters-in-zion",
       "bookSlug": "hymns",
       "bookSectionTitle": "For Women",
@@ -44813,7 +44815,6 @@
     },
     {
       "title": "Ye Elders of Israel",
-      "subtitle": "Men",
       "slug": "ye-elders-of-israel",
       "bookSlug": "hymns",
       "bookSectionTitle": "For Men",
@@ -45198,7 +45199,6 @@
     },
     {
       "title": "Come, All Ye Sons of God",
-      "subtitle": "Men",
       "slug": "come-all-ye-sons-of-god",
       "bookSlug": "hymns",
       "bookSectionTitle": "For Men",
@@ -45553,7 +45553,6 @@
     },
     {
       "title": "Rise Up, O Men of God",
-      "subtitle": "Men",
       "slug": "rise-up-o-men-of-god",
       "bookSlug": "hymns",
       "bookSectionTitle": "For Men",

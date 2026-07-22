@@ -1949,7 +1949,7 @@
       ]
     },
     {
-      "title": "Children All over the World",
+      "title": "Children All Over the World",
       "slug": "children-all-over-the-world",
       "bookSlug": "childrens-songbook",
       "bookSectionTitle": "My Heavenly Father",
@@ -5931,7 +5931,6 @@
     },
     {
       "title": "The Shepherd’s Carol",
-      "subtitle": "Round",
       "slug": "the-shepherds-carol",
       "bookSlug": "childrens-songbook",
       "bookSectionTitle": "The Savior",
@@ -8866,7 +8865,6 @@
     },
     {
       "title": "Beautiful Savior",
-      "subtitle": "Crusader’s Hymn",
       "slug": "beautiful-savior",
       "bookSlug": "childrens-songbook",
       "bookSectionTitle": "The Savior",
@@ -14684,7 +14682,7 @@
       ]
     },
     {
-      "title": "The Still Small Voice",
+      "title": "The Still, Small Voice",
       "slug": "the-still-small-voice",
       "bookSlug": "childrens-songbook",
       "bookSectionTitle": "The Gospel",
@@ -22265,9 +22263,9 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "agency",
         "commitment",
-        "courage",
-        "faith",
+        "example",
         "prophets"
       ],
       "voicings": [
@@ -24147,7 +24145,6 @@
     },
     {
       "title": "We’ll Bring the World His Truth",
-      "subtitle": "Army of Helaman",
       "slug": "well-bring-the-world-his-truth",
       "bookSlug": "childrens-songbook",
       "bookSectionTitle": "The Gospel",
@@ -39393,7 +39390,7 @@
       ]
     },
     {
-      "title": "Do As I’m Doing",
+      "title": "Do as I’m Doing",
       "slug": "do-as-im-doing",
       "bookSlug": "childrens-songbook",
       "bookSectionTitle": "Fun and Activity",

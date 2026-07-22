@@ -3611,9 +3611,210 @@
           }
         }
       ]
+    },
+    {
+      "title": "Amazing",
+      "slug": "amazing-2027",
+      "bookSlug": "2026-youth-album",
+      "bookSectionTitle": "2026 Singles",
+      "songNumber": "8",
+      "songDate": "2026-07-17",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Maryon Morales"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Adam Turley"
+        },
+        {
+          "personName": "Connor Austin"
+        },
+        {
+          "personName": "HEBER MATÜTE"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Adam Turley"
+        },
+        {
+          "personName": "Connor Austin"
+        },
+        {
+          "personName": "HEBER MATÜTE"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/ox/s8/oxs86l6jnhkyir8k27em0v1eaipqxsgy7xismg47/amazing_2027.mp3",
+          "duration": 210000,
+          "lang": "eng",
+          "title": "Amazing (Accompaniment/ Instrumental)",
+          "description": "Accompaniment / instrumental track for “Amazing” from the 2027 Youth Album. English.",
+          "seoDescription": "Accompaniment / instrumental track for “Amazing” from the 2027 Youth Album. English.",
+          "seoTitle": "Amazing (Accompaniment/ Instrumental)",
+          "shareableTitle": "Amazing (Accompaniment/ Instrumental)",
+          "thumbnail": {
+            "description": "Album Cover for Strive To Be Music single, “Amazing.” Made for Gospel Library.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/80aj4i6vsvozg77r4do2renwe3w2d6uywoujuvhe/full/1920,/0/default",
+            "seoDescription": "Album Cover for Strive To Be Music single, \"Amazing.\" Made for Gospel Library.",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/80aj4i6vsvozg77r4do2renwe3w2d6uywoujuvhe/full/!320%2C427/0/default",
+                "width": 320,
+                "height": 427
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/80aj4i6vsvozg77r4do2renwe3w2d6uywoujuvhe/full/!640%2C853/0/default",
+                "width": 640,
+                "height": 853
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/80aj4i6vsvozg77r4do2renwe3w2d6uywoujuvhe/full/!800%2C1067/0/default",
+                "width": 800,
+                "height": 1067
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/80aj4i6vsvozg77r4do2renwe3w2d6uywoujuvhe/full/!1280%2C1707/0/default",
+                "width": 1280,
+                "height": 1707
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/80aj4i6vsvozg77r4do2renwe3w2d6uywoujuvhe/full/!1600%2C2133/0/default",
+                "width": 1600,
+                "height": 2133
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/80aj4i6vsvozg77r4do2renwe3w2d6uywoujuvhe/full/!1920%2C2560/0/default",
+                "width": 1920,
+                "height": 2560
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/80aj4i6vsvozg77r4do2renwe3w2d6uywoujuvhe/full/!60%2C80/0/default",
+                "width": 60,
+                "height": 80
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/80aj4i6vsvozg77r4do2renwe3w2d6uywoujuvhe/full/!250%2C333/0/default",
+                "width": 250,
+                "height": 333
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/80aj4i6vsvozg77r4do2renwe3w2d6uywoujuvhe/full/!200%2C267/0/default",
+                "width": 200,
+                "height": 267
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/80aj4i6vsvozg77r4do2renwe3w2d6uywoujuvhe/full/!100%2C133/0/default",
+                "width": 100,
+                "height": 133
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/80aj4i6vsvozg77r4do2renwe3w2d6uywoujuvhe/full/!500%2C667/0/default",
+                "width": 500,
+                "height": 667
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/xv/5b/xv5b706alubjf97dtwza324na3pon9tvjxmiurvu/amazing_2027.mp3",
+          "duration": 210000,
+          "lang": "eng",
+          "title": "Amazing",
+          "description": "“Amazing” from the 2027 Youth Album. English.",
+          "seoDescription": "“Amazing” from the 2027 Youth Album. English.",
+          "seoTitle": "Amazing",
+          "shareableTitle": "Amazing",
+          "thumbnail": {
+            "description": "Album Cover for Strive To Be Music single, “Amazing.” Made for Gospel Library.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/80aj4i6vsvozg77r4do2renwe3w2d6uywoujuvhe/full/1920,/0/default",
+            "seoDescription": "Album Cover for Strive To Be Music single, \"Amazing.\" Made for Gospel Library.",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/80aj4i6vsvozg77r4do2renwe3w2d6uywoujuvhe/full/!320%2C427/0/default",
+                "width": 320,
+                "height": 427
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/80aj4i6vsvozg77r4do2renwe3w2d6uywoujuvhe/full/!640%2C853/0/default",
+                "width": 640,
+                "height": 853
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/80aj4i6vsvozg77r4do2renwe3w2d6uywoujuvhe/full/!800%2C1067/0/default",
+                "width": 800,
+                "height": 1067
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/80aj4i6vsvozg77r4do2renwe3w2d6uywoujuvhe/full/!1280%2C1707/0/default",
+                "width": 1280,
+                "height": 1707
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/80aj4i6vsvozg77r4do2renwe3w2d6uywoujuvhe/full/!1600%2C2133/0/default",
+                "width": 1600,
+                "height": 2133
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/80aj4i6vsvozg77r4do2renwe3w2d6uywoujuvhe/full/!1920%2C2560/0/default",
+                "width": 1920,
+                "height": 2560
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/80aj4i6vsvozg77r4do2renwe3w2d6uywoujuvhe/full/!60%2C80/0/default",
+                "width": 60,
+                "height": 80
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/80aj4i6vsvozg77r4do2renwe3w2d6uywoujuvhe/full/!250%2C333/0/default",
+                "width": 250,
+                "height": 333
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/80aj4i6vsvozg77r4do2renwe3w2d6uywoujuvhe/full/!200%2C267/0/default",
+                "width": 200,
+                "height": 267
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/80aj4i6vsvozg77r4do2renwe3w2d6uywoujuvhe/full/!100%2C133/0/default",
+                "width": 100,
+                "height": 133
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/80aj4i6vsvozg77r4do2renwe3w2d6uywoujuvhe/full/!500%2C667/0/default",
+                "width": 500,
+                "height": 667
+              }
+            ]
+          }
+        }
+      ]
     }
   ],
   "limit": 500,
   "offset": 0,
-  "total": 19
+  "total": 20
 }

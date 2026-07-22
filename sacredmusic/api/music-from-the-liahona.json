@@ -3228,19 +3228,11 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "commitment",
-        "discipleship",
+        "Atonement of Jesus Christ",
+        "consecration",
         "endure to the end",
-        "faith in Jesus Christ",
-        "forgiveness",
-        "grace",
         "humility",
-        "love",
-        "mercy",
         "repentance",
-        "sacrifice",
-        "supplication",
-        "the sacrament",
         "trust in the Lord"
       ],
       "voicings": [
@@ -4510,8 +4502,9 @@
       "videoAvailable": false,
       "tags": [
         "Atonement of Jesus Christ",
-        "Jesus Christ",
-        "grace"
+        "Crucifixion",
+        "forgiveness",
+        "repentance"
       ],
       "voicings": [
         {
@@ -4664,7 +4657,7 @@
     },
     {
       "title": "Come, All, unto the Temple",
-      "slug": "come-all-unto-the-temple",
+      "slug": "come-all-unto-the-temple-stewart",
       "bookSlug": "music-from-the-liahona",
       "bookSectionTitle": "2016",
       "songNumber": "",

@@ -602,7 +602,7 @@
     },
     {
       "title": "I Am My Heavenly Father’s Child",
-      "slug": "i-am-my-heavenly-fathers-child",
+      "slug": "i-am-my-heavenly-fathers-child-gabbott",
       "bookSlug": "music-from-the-friend",
       "bookSectionTitle": "1974",
       "songNumber": "",
@@ -635,9 +635,11 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "God's love",
         "Heavenly Father",
         "child of God",
-        "love"
+        "plan of salvation",
+        "prayer"
       ],
       "voicings": [
         {
@@ -7610,7 +7612,7 @@
     },
     {
       "title": "The Book of Mormon Teaches Me",
-      "slug": "the-book-of-mormon-teaches-me",
+      "slug": "the-book-of-mormon-teaches-me-gardner",
       "bookSlug": "music-from-the-friend",
       "bookSectionTitle": "1988",
       "songNumber": "",
@@ -9152,7 +9154,7 @@
     },
     {
       "title": "I Know That Jesus Lives",
-      "slug": "i-know-that-jesus-lives",
+      "slug": "i-know-that-jesus-lives-lund",
       "bookSlug": "music-from-the-friend",
       "bookSectionTitle": "1991",
       "songNumber": "",
@@ -10671,7 +10673,6 @@
     },
     {
       "title": "The Shepherd’s Carol",
-      "subtitle": "Round",
       "slug": "the-shepherds-carol",
       "bookSlug": "music-from-the-friend",
       "bookSectionTitle": "1993",
@@ -14029,7 +14030,6 @@
     },
     {
       "title": "Beautiful Savior",
-      "subtitle": "Crusader’s Hymn",
       "slug": "beautiful-savior",
       "bookSlug": "music-from-the-friend",
       "bookSectionTitle": "1998",
@@ -16615,7 +16615,7 @@
       "assets": []
     },
     {
-      "title": "The Still Small Voice",
+      "title": "The Still, Small Voice",
       "slug": "the-still-small-voice",
       "bookSlug": "music-from-the-friend",
       "bookSectionTitle": "2006",
@@ -17401,13 +17401,12 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "Light of Christ",
-        "agency",
-        "children",
+        "God's love",
         "commandments",
-        "faith in Jesus Christ",
-        "love",
-        "obedience"
+        "faith",
+        "guidance",
+        "obedience",
+        "testimony"
       ],
       "voicings": [
         {
@@ -17461,7 +17460,7 @@
     },
     {
       "title": "The Family Is of God",
-      "slug": "the-family-is-of-god",
+      "slug": "the-family-is-of-god-neeley",
       "bookSlug": "music-from-the-friend",
       "bookSectionTitle": "2008",
       "songNumber": "",
@@ -17797,7 +17796,7 @@
     },
     {
       "title": "When I Hear the Prophet’s Voice",
-      "slug": "when-i-hear-the-prophets-voice",
+      "slug": "when-i-hear-the-prophets-voice-matthew-neeley",
       "bookSlug": "music-from-the-friend",
       "bookSectionTitle": "2009",
       "songNumber": "",
@@ -19117,7 +19116,7 @@
     },
     {
       "title": "If I Listen with My Heart",
-      "slug": "if-i-listen-with-my-heart",
+      "slug": "if-i-listen-with-my-heart-sally-deford",
       "bookSlug": "music-from-the-friend",
       "bookSectionTitle": "2011",
       "songNumber": "",
@@ -23913,7 +23912,7 @@
     },
     {
       "title": "I’ll Stand Tall",
-      "slug": "ill-stand-tall",
+      "slug": "ill-stand-tall-pinborough",
       "bookSlug": "music-from-the-friend",
       "bookSectionTitle": "2016",
       "songNumber": "",
@@ -23943,12 +23942,11 @@
       "sheetMusicAvailable": true,
       "videoAvailable": true,
       "tags": [
-        "Holy Ghost",
-        "Jesus Christ",
         "courage",
+        "faith",
         "guidance",
-        "love",
-        "prophets"
+        "prayer",
+        "trust in the Lord"
       ],
       "voicings": [
         {
@@ -24149,9 +24147,9 @@
       "sheetMusicAvailable": true,
       "videoAvailable": true,
       "tags": [
+        "agency",
         "commitment",
-        "courage",
-        "faith",
+        "example",
         "prophets"
       ],
       "voicings": [
@@ -24202,9 +24200,10 @@
       "videoAvailable": false,
       "tags": [
         "Joseph Smith",
-        "Restoration",
-        "praise",
-        "prophets"
+        "Restoration of the Church",
+        "prophets",
+        "sacrifice",
+        "testimony"
       ],
       "voicings": [
         {
@@ -25021,7 +25020,7 @@
     },
     {
       "title": "Jesus’ Church Has Been Restored",
-      "slug": "jesus-church-has-been-restored",
+      "slug": "jesus-church-has-been-restored-pinborough",
       "bookSlug": "music-from-the-friend",
       "bookSectionTitle": "2017",
       "songNumber": "",
@@ -25455,7 +25454,7 @@
     },
     {
       "title": "Make Room for Him",
-      "slug": "make-room-for-him",
+      "slug": "make-room-for-him-hiller",
       "bookSlug": "music-from-the-friend",
       "bookSectionTitle": "2017",
       "songNumber": "",
@@ -25787,10 +25786,7 @@
       "videoAvailable": true,
       "tags": [
         "Atonement of Jesus Christ",
-        "Jesus Christ",
-        "children",
-        "love",
-        "the sacrament"
+        "God's love"
       ],
       "voicings": [
         {
@@ -25877,8 +25873,7 @@
       "videoAvailable": false,
       "tags": [
         "Atonement of Jesus Christ",
-        "New Testament",
-        "faith in Jesus Christ",
+        "faith",
         "healing",
         "trust in the Lord"
       ],
@@ -25912,7 +25907,7 @@
     },
     {
       "title": "Family History Is the Story of Me",
-      "slug": "family-history-is-the-story-of-me",
+      "slug": "family-history-is-the-story-of-me-howe",
       "bookSlug": "music-from-the-friend",
       "bookSectionTitle": "2018",
       "songNumber": "",
@@ -26398,7 +26393,7 @@
     },
     {
       "title": "When I Return to Him",
-      "slug": "when-i-return-to-him",
+      "slug": "when-i-return-to-him-deford",
       "bookSlug": "music-from-the-friend",
       "bookSectionTitle": "2019",
       "songNumber": "",
@@ -26428,13 +26423,10 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "Jesus Christ",
+        "God's love",
         "example",
-        "forgiveness",
-        "joy",
-        "love",
-        "repentance",
-        "shepherd"
+        "invitation",
+        "repentance"
       ],
       "voicings": [
         {
@@ -27527,7 +27519,7 @@
     },
     {
       "title": "My Baptism Promise",
-      "slug": "my-baptism-promise",
+      "slug": "my-baptism-promise-howe",
       "bookSlug": "music-from-the-friend",
       "bookSectionTitle": "2021",
       "songNumber": "",
@@ -27557,18 +27549,9 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "Heavenly Father",
-        "Holy Ghost",
-        "Jesus Christ",
         "baptism",
         "covenants",
-        "discipleship",
-        "faith",
-        "love",
-        "ministering",
-        "obedience",
-        "repentance",
-        "the sacrament"
+        "discipleship"
       ],
       "voicings": [
         {
@@ -27628,7 +27611,7 @@
     },
     {
       "title": "My Power to Choose",
-      "slug": "my-power-to-choose",
+      "slug": "my-power-to-choose-howe",
       "bookSlug": "music-from-the-friend",
       "bookSectionTitle": "2021",
       "songNumber": "",
@@ -27659,10 +27642,6 @@
       "videoAvailable": false,
       "tags": [
         "agency",
-        "family",
-        "guidance",
-        "joy",
-        "love",
         "plan of salvation",
         "premortal existence",
         "repentance"
@@ -27779,7 +27758,7 @@
     },
     {
       "title": "I Will Shine",
-      "slug": "i-will-shine",
+      "slug": "i-will-shine-edwards",
       "bookSlug": "music-from-the-friend",
       "bookSectionTitle": "2022",
       "songNumber": "",
@@ -27809,13 +27788,10 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "Jesus Christ",
-        "commitment",
-        "discipleship",
-        "hope",
-        "knowledge",
-        "love",
-        "ministering"
+        "Light of Christ",
+        "example",
+        "kindness",
+        "service"
       ],
       "voicings": [
         {
@@ -27932,7 +27908,14 @@
       "recordingAvailable": false,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "God's love",
+        "Heavenly Father",
+        "Holy Ghost",
+        "child of God",
+        "comfort",
+        "trials"
+      ],
       "voicings": [
         {
           "name": "Unison"
@@ -29303,5 +29286,5 @@
   ],
   "limit": 500,
   "offset": 0,
-  "total": 357
+  "total": 358
 }

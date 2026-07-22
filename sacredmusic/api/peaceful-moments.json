@@ -13073,7 +13073,7 @@
     },
     {
       "title": "Peace in Christ",
-      "slug": "peace-in-christ",
+      "slug": "peace-in-christ-female",
       "bookSlug": "peaceful-moments",
       "bookSectionTitle": "2024",
       "songNumber": "83",
@@ -15510,7 +15510,7 @@
     },
     {
       "title": "He Is There",
-      "slug": "he-is-there",
+      "slug": "he-is-there-linford",
       "bookSlug": "peaceful-moments",
       "bookSectionTitle": "2024",
       "songNumber": "102",
@@ -15550,12 +15550,7 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [
-        "Heavenly Father",
-        "Jesus Christ",
-        "love",
-        "prayer"
-      ],
+      "tags": [],
       "voicings": [],
       "assets": [
         {
@@ -15981,7 +15976,7 @@
     },
     {
       "title": "Come unto Christ",
-      "slug": "come-unto-christ",
+      "slug": "come-unto-christ-day",
       "bookSlug": "peaceful-moments",
       "bookSectionTitle": "2024",
       "songNumber": "106",
@@ -16024,10 +16019,11 @@
       "sheetMusicAvailable": true,
       "videoAvailable": true,
       "tags": [
-        "Jesus Christ",
-        "Jesus Christ's ministry",
+        "discipleship",
         "faith",
-        "grace"
+        "guidance",
+        "trials",
+        "trust in the Lord"
       ],
       "voicings": [],
       "assets": [

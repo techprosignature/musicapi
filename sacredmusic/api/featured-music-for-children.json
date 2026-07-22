@@ -393,7 +393,7 @@
     },
     {
       "title": "If I Listen with My Heart",
-      "slug": "if-i-listen-with-my-heart",
+      "slug": "if-i-listen-with-my-heart-sally-deford",
       "bookSlug": "featured-music-for-children",
       "songNumber": "",
       "arrangers": [],
@@ -526,7 +526,7 @@
     },
     {
       "title": "If the Savior Stood Beside Me",
-      "slug": "if-the-savior-stood-beside-me",
+      "slug": "if-the-savior-stood-beside-me-sally-deford",
       "bookSlug": "featured-music-for-children",
       "songNumber": "",
       "arrangers": [],
@@ -975,7 +975,7 @@
     },
     {
       "title": "The Family Is of God",
-      "slug": "the-family-is-of-god",
+      "slug": "the-family-is-of-god-neeley",
       "bookSlug": "featured-music-for-children",
       "songNumber": "",
       "arrangers": [],
@@ -2834,13 +2834,12 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "Light of Christ",
-        "agency",
-        "children",
+        "God's love",
         "commandments",
-        "faith in Jesus Christ",
-        "love",
-        "obedience"
+        "faith",
+        "guidance",
+        "obedience",
+        "testimony"
       ],
       "voicings": [
         {
@@ -2897,7 +2896,7 @@
     },
     {
       "title": "I Know That Jesus Lives",
-      "slug": "i-know-that-jesus-lives",
+      "slug": "i-know-that-jesus-lives-lund",
       "bookSlug": "featured-music-for-children",
       "songNumber": "",
       "arrangers": [],
@@ -4792,7 +4791,7 @@
     },
     {
       "title": "The Book of Mormon Teaches Me",
-      "slug": "the-book-of-mormon-teaches-me",
+      "slug": "the-book-of-mormon-teaches-me-gardner",
       "bookSlug": "featured-music-for-children",
       "songNumber": "",
       "arrangers": [],
@@ -5360,7 +5359,7 @@
     },
     {
       "title": "When I Hear the Prophet’s Voice",
-      "slug": "when-i-hear-the-prophets-voice",
+      "slug": "when-i-hear-the-prophets-voice-matthew-neeley",
       "bookSlug": "featured-music-for-children",
       "songNumber": "",
       "arrangers": [],
@@ -8600,7 +8599,7 @@
     },
     {
       "title": "I’ll Stand Tall",
-      "slug": "ill-stand-tall",
+      "slug": "ill-stand-tall-pinborough",
       "bookSlug": "featured-music-for-children",
       "songNumber": "",
       "arrangers": [],
@@ -8628,12 +8627,11 @@
       "sheetMusicAvailable": true,
       "videoAvailable": true,
       "tags": [
-        "Holy Ghost",
-        "Jesus Christ",
         "courage",
+        "faith",
         "guidance",
-        "love",
-        "prophets"
+        "prayer",
+        "trust in the Lord"
       ],
       "voicings": [
         {
@@ -8828,9 +8826,9 @@
       "sheetMusicAvailable": true,
       "videoAvailable": true,
       "tags": [
+        "agency",
         "commitment",
-        "courage",
-        "faith",
+        "example",
         "prophets"
       ],
       "voicings": [
@@ -8879,9 +8877,10 @@
       "videoAvailable": false,
       "tags": [
         "Joseph Smith",
-        "Restoration",
-        "praise",
-        "prophets"
+        "Restoration of the Church",
+        "prophets",
+        "sacrifice",
+        "testimony"
       ],
       "voicings": [
         {
@@ -10823,10 +10822,10 @@
       "tags": [
         "God's love",
         "cheerfulness",
-        "commandments",
+        "discipleship",
         "friendship",
+        "gospel",
         "joy",
-        "obedience",
         "testimony"
       ],
       "voicings": [
@@ -11452,7 +11451,7 @@
     },
     {
       "title": "Jesus’ Church Has Been Restored",
-      "slug": "jesus-church-has-been-restored",
+      "slug": "jesus-church-has-been-restored-pinborough",
       "bookSlug": "featured-music-for-children",
       "songNumber": "",
       "arrangers": [],
@@ -11872,7 +11871,7 @@
     },
     {
       "title": "Make Room for Him",
-      "slug": "make-room-for-him",
+      "slug": "make-room-for-him-hiller",
       "bookSlug": "featured-music-for-children",
       "songNumber": "",
       "arrangers": [],
@@ -12508,10 +12507,7 @@
       "videoAvailable": true,
       "tags": [
         "Atonement of Jesus Christ",
-        "Jesus Christ",
-        "children",
-        "love",
-        "the sacrament"
+        "God's love"
       ],
       "voicings": [
         {
@@ -12594,8 +12590,7 @@
       "videoAvailable": false,
       "tags": [
         "Atonement of Jesus Christ",
-        "New Testament",
-        "faith in Jesus Christ",
+        "faith",
         "healing",
         "trust in the Lord"
       ],
@@ -12629,7 +12624,7 @@
     },
     {
       "title": "Family History Is the Story of Me",
-      "slug": "family-history-is-the-story-of-me",
+      "slug": "family-history-is-the-story-of-me-howe",
       "bookSlug": "featured-music-for-children",
       "songNumber": "",
       "arrangers": [],
@@ -13279,7 +13274,7 @@
     },
     {
       "title": "When I Return to Him",
-      "slug": "when-i-return-to-him",
+      "slug": "when-i-return-to-him-deford",
       "bookSlug": "featured-music-for-children",
       "songNumber": "",
       "arrangers": [],
@@ -13307,13 +13302,10 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "Jesus Christ",
+        "God's love",
         "example",
-        "forgiveness",
-        "joy",
-        "love",
-        "repentance",
-        "shepherd"
+        "invitation",
+        "repentance"
       ],
       "voicings": [
         {
@@ -15123,7 +15115,7 @@
     },
     {
       "title": "My Baptism Promise",
-      "slug": "my-baptism-promise",
+      "slug": "my-baptism-promise-howe",
       "bookSlug": "featured-music-for-children",
       "songNumber": "",
       "arrangers": [],
@@ -15151,18 +15143,9 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "Heavenly Father",
-        "Holy Ghost",
-        "Jesus Christ",
         "baptism",
         "covenants",
-        "discipleship",
-        "faith",
-        "love",
-        "ministering",
-        "obedience",
-        "repentance",
-        "the sacrament"
+        "discipleship"
       ],
       "voicings": [
         {
@@ -15381,7 +15364,7 @@
     },
     {
       "title": "My Power to Choose",
-      "slug": "my-power-to-choose",
+      "slug": "my-power-to-choose-howe",
       "bookSlug": "featured-music-for-children",
       "songNumber": "",
       "arrangers": [],
@@ -15410,10 +15393,6 @@
       "videoAvailable": false,
       "tags": [
         "agency",
-        "family",
-        "guidance",
-        "joy",
-        "love",
         "plan of salvation",
         "premortal existence",
         "repentance"
@@ -15789,7 +15768,7 @@
     },
     {
       "title": "I Will Shine",
-      "slug": "i-will-shine",
+      "slug": "i-will-shine-edwards",
       "bookSlug": "featured-music-for-children",
       "songNumber": "",
       "arrangers": [],
@@ -15817,13 +15796,10 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "Jesus Christ",
-        "commitment",
-        "discipleship",
-        "hope",
-        "knowledge",
-        "love",
-        "ministering"
+        "Light of Christ",
+        "example",
+        "kindness",
+        "service"
       ],
       "voicings": [
         {

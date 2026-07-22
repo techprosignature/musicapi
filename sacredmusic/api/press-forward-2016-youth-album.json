@@ -606,7 +606,7 @@
     },
     {
       "title": "He Is There",
-      "slug": "he-is-there",
+      "slug": "he-is-there-linford",
       "bookSlug": "press-forward-2016-youth-album",
       "bookSectionTitle": "Press Forward: 2016 Youth Album",
       "songNumber": "6",
@@ -646,12 +646,7 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [
-        "Heavenly Father",
-        "Jesus Christ",
-        "love",
-        "prayer"
-      ],
+      "tags": [],
       "voicings": [],
       "assets": [
         {
