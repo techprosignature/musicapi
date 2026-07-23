@@ -483,7 +483,6 @@
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
-        "Atonement of Jesus Christ",
         "Jesus Christ",
         "blessings",
         "comfort",
@@ -491,13 +490,10 @@
         "discipleship",
         "grace",
         "gratitude",
-        "love",
-        "mercy",
         "praise",
         "prayer",
         "repentance",
-        "song",
-        "temples",
+        "supplication",
         "temptation"
       ],
       "voicings": [],
@@ -3108,18 +3104,12 @@
       "sheetMusicAvailable": true,
       "videoAvailable": true,
       "tags": [
-        "Atonement of Jesus Christ",
         "blessings",
         "commitment",
         "discipleship",
-        "grace",
-        "gratitude",
-        "love",
-        "mercy",
         "praise",
         "repentance",
-        "song",
-        "temples"
+        "supplication"
       ],
       "voicings": [
         {
