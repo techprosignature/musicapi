@@ -43,11 +43,6 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "Christmas",
-        "Jesus Christ",
-        "grace",
-        "music",
-        "praise",
         "salvation"
       ],
       "voicings": [],
@@ -255,9 +250,6 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "Christmas",
-        "Jesus Christ",
-        "praise",
         "worship"
       ],
       "voicings": [
@@ -457,13 +449,8 @@
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
-        "Christmas",
-        "Jesus Christ",
-        "grace",
         "lullaby",
         "peace",
-        "praise",
-        "shepherd",
         "worship"
       ],
       "voicings": [],
@@ -655,11 +642,7 @@
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
-        "Christmas",
-        "God's love",
-        "Jesus Christ",
-        "peace",
-        "praise"
+        "peace"
       ],
       "voicings": [],
       "assets": [
@@ -863,11 +846,6 @@
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
-        "Atonement of Jesus Christ",
-        "Christmas",
-        "Jesus Christ",
-        "praise",
-        "shepherd",
         "worship"
       ],
       "voicings": [],
@@ -1065,11 +1043,7 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": false,
-      "tags": [
-        "Christmas",
-        "Jesus Christ",
-        "praise"
-      ],
+      "tags": [],
       "voicings": [],
       "assets": [
         {

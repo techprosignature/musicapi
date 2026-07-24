@@ -39,11 +39,7 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [
-        "love",
-        "prophets",
-        "scriptures"
-      ],
+      "tags": [],
       "voicings": [],
       "assets": [
         {
@@ -183,11 +179,7 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [
-        "faith",
-        "grace",
-        "prayer"
-      ],
+      "tags": [],
       "voicings": [],
       "assets": [
         {
@@ -328,9 +320,7 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "Holy Ghost",
-        "agency",
-        "guidance"
+        "agency"
       ],
       "voicings": [],
       "assets": [
@@ -451,14 +441,7 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [
-        "Jesus Christ",
-        "comfort",
-        "commitment",
-        "faith",
-        "grace",
-        "joy"
-      ],
+      "tags": [],
       "voicings": [],
       "assets": [
         {
@@ -579,12 +562,8 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "Second Coming",
-        "hope",
-        "joy",
         "missionary work",
-        "service",
-        "truth"
+        "service"
       ],
       "voicings": [],
       "assets": [
@@ -722,10 +701,7 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [
-        "Jesus Christ",
-        "love"
-      ],
+      "tags": [],
       "voicings": [],
       "assets": [
         {

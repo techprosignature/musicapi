@@ -39,9 +39,7 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
-      "tags": [
-        "Christmas"
-      ],
+      "tags": [],
       "voicings": [],
       "assets": [
         {
@@ -144,12 +142,7 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
-      "tags": [
-        "Christmas",
-        "Jesus Christ",
-        "praise",
-        "shepherd"
-      ],
+      "tags": [],
       "voicings": [
         {
           "name": "SATB"
@@ -266,9 +259,7 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
-      "tags": [
-        "Christmas"
-      ],
+      "tags": [],
       "voicings": [],
       "assets": [
         {
@@ -490,8 +481,6 @@
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
-        "Christmas",
-        "Jesus Christ",
         "worship"
       ],
       "voicings": [],
@@ -722,13 +711,7 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
-      "tags": [
-        "Christmas",
-        "Jesus Christ",
-        "joy",
-        "music",
-        "praise"
-      ],
+      "tags": [],
       "voicings": [],
       "assets": [
         {

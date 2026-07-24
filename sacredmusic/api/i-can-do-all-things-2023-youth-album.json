@@ -39,10 +39,7 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": true,
-      "tags": [
-        "faith",
-        "youth"
-      ],
+      "tags": [],
       "voicings": [],
       "assets": [
         {
@@ -537,9 +534,7 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [
-        "Jesus Christ"
-      ],
+      "tags": [],
       "voicings": [],
       "assets": [
         {
@@ -874,9 +869,7 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [
-        "Jesus Christ"
-      ],
+      "tags": [],
       "voicings": [],
       "assets": [
         {
@@ -1039,10 +1032,7 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [
-        "faith",
-        "youth"
-      ],
+      "tags": [],
       "voicings": [],
       "assets": [
         {
@@ -1205,10 +1195,7 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [
-        "Jesus Christ",
-        "love"
-      ],
+      "tags": [],
       "voicings": [],
       "assets": [
         {
@@ -1386,9 +1373,7 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [
-        "Jesus Christ"
-      ],
+      "tags": [],
       "voicings": [],
       "assets": [
         {
@@ -1557,10 +1542,7 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [
-        "Jesus Christ",
-        "peace"
-      ],
+      "tags": [],
       "voicings": [],
       "assets": [
         {
@@ -1904,9 +1886,7 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [
-        "Jesus Christ"
-      ],
+      "tags": [],
       "voicings": [
         {
           "name": "SSA"
@@ -2080,10 +2060,7 @@
       "recordingAvailable": false,
       "sheetMusicAvailable": true,
       "videoAvailable": true,
-      "tags": [
-        "faith",
-        "youth"
-      ],
+      "tags": [],
       "voicings": [
         {
           "name": "SATB"
@@ -2130,11 +2107,7 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": false,
-      "tags": [
-        "Atonement of Jesus Christ",
-        "hope",
-        "trials"
-      ],
+      "tags": [],
       "voicings": [],
       "assets": [
         {
@@ -2327,11 +2300,7 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": false,
-      "tags": [
-        "Atonement of Jesus Christ",
-        "Jesus Christ",
-        "repentance"
-      ],
+      "tags": [],
       "voicings": [],
       "assets": [
         {
@@ -2503,11 +2472,7 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": false,
-      "tags": [
-        "Jesus Christ",
-        "comfort",
-        "faith"
-      ],
+      "tags": [],
       "voicings": [],
       "assets": [
         {
@@ -2675,10 +2640,7 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
-      "tags": [
-        "Jesus Christ",
-        "peace"
-      ],
+      "tags": [],
       "voicings": [],
       "assets": [
         {
@@ -2901,12 +2863,7 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": false,
-      "tags": [
-        "faith",
-        "grace",
-        "hope",
-        "mercy"
-      ],
+      "tags": [],
       "voicings": [],
       "assets": [
         {
@@ -3081,9 +3038,7 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": false,
-      "tags": [
-        "youth"
-      ],
+      "tags": [],
       "voicings": [],
       "assets": [
         {

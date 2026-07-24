@@ -32,11 +32,7 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
-      "tags": [
-        "commitment",
-        "discipleship",
-        "scriptures"
-      ],
+      "tags": [],
       "voicings": [],
       "assets": [
         {
@@ -139,10 +135,7 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": false,
-      "tags": [
-        "faith",
-        "testimony"
-      ],
+      "tags": [],
       "voicings": [],
       "assets": [
         {
@@ -267,8 +260,7 @@
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
-        "hope",
-        "joy"
+        "hope"
       ],
       "voicings": [],
       "assets": [
@@ -391,7 +383,6 @@
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
-        "faith",
         "friendship",
         "hope"
       ],
@@ -629,10 +620,7 @@
       "videoAvailable": false,
       "tags": [
         "gratitude",
-        "happiness",
-        "hope",
-        "joy",
-        "plan of salvation"
+        "hope"
       ],
       "voicings": [],
       "assets": [
@@ -755,10 +743,7 @@
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
-        "adversity",
-        "joy",
-        "learning",
-        "trials"
+        "learning"
       ],
       "voicings": [],
       "assets": [
@@ -880,11 +865,7 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": false,
-      "tags": [
-        "Holy Ghost",
-        "guidance",
-        "prayer"
-      ],
+      "tags": [],
       "voicings": [],
       "assets": [
         {
@@ -1006,10 +987,7 @@
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
-        "Jesus Christ",
-        "faith",
-        "hope",
-        "joy"
+        "hope"
       ],
       "voicings": [],
       "assets": [
@@ -1256,10 +1234,8 @@
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
-        "family",
         "friendship",
-        "home",
-        "joy"
+        "home"
       ],
       "voicings": [],
       "assets": [
@@ -1364,11 +1340,9 @@
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
-        "comfort",
         "friendship",
         "hope",
-        "kindness",
-        "love"
+        "kindness"
       ],
       "voicings": [],
       "assets": [
@@ -1498,8 +1472,7 @@
       "videoAvailable": false,
       "tags": [
         "agency",
-        "example",
-        "obedience"
+        "example"
       ],
       "voicings": [],
       "assets": [
