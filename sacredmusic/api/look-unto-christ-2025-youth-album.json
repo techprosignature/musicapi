@@ -45,7 +45,14 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": true,
-      "tags": [],
+      "tags": [
+        "Jesus Christ",
+        "child of God",
+        "divine worth",
+        "example",
+        "faith in Jesus Christ",
+        "trust in the Lord"
+      ],
       "voicings": [
         {
           "name": "Unison"
@@ -218,7 +225,15 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "child of God",
+        "divine worth",
+        "endure to the end",
+        "faith",
+        "motivation",
+        "testimony",
+        "trust in the Lord"
+      ],
       "voicings": [
         {
           "name": "Unison"
@@ -394,7 +409,13 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": true,
-      "tags": [],
+      "tags": [
+        "Atonement of Jesus Christ",
+        "child of God",
+        "comfort",
+        "divine worth",
+        "mental health"
+      ],
       "voicings": [
         {
           "name": "Unison"
@@ -564,7 +585,13 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "adversity",
+        "child of God",
+        "diligence",
+        "divine worth",
+        "endure to the end"
+      ],
       "voicings": [
         {
           "name": "Unison"
@@ -750,7 +777,13 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "service"
+        "child of God",
+        "divine worth",
+        "men",
+        "missionary work",
+        "preparedness",
+        "service",
+        "work"
       ],
       "voicings": [
         {
@@ -927,7 +960,14 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "Light of Christ",
+        "child of God",
+        "divine worth",
+        "love",
+        "testimony",
+        "women"
+      ],
       "voicings": [
         {
           "name": "Unison"
@@ -1109,7 +1149,14 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "Jesus Christ",
+        "child of God",
+        "comfort",
+        "divine worth",
+        "example",
+        "guidance"
+      ],
       "voicings": [
         {
           "name": "Unison"
@@ -1660,7 +1707,15 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
-      "tags": [],
+      "tags": [
+        "child of God",
+        "divine worth",
+        "faith",
+        "scriptures",
+        "testimony",
+        "truth",
+        "youth"
+      ],
       "voicings": [
         {
           "name": "Unison"
@@ -1878,7 +1933,17 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "Atonement of Jesus Christ",
+        "Crucifixion",
+        "Easter",
+        "Jesus Christ",
+        "Resurrection",
+        "child of God",
+        "divine worth",
+        "grace",
+        "praise"
+      ],
       "voicings": [
         {
           "name": "SATB"
@@ -2010,7 +2075,9 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "youth"
+      ],
       "voicings": [
         {
           "name": "Unison"
@@ -2332,7 +2399,9 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "youth"
+      ],
       "voicings": [
         {
           "name": "Unison"
@@ -2544,7 +2613,10 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "Jesus Christ",
+        "youth"
+      ],
       "voicings": [
         {
           "name": "Unison"
@@ -3107,7 +3179,9 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "youth"
+      ],
       "voicings": [
         {
           "name": "Unison"
@@ -3310,7 +3384,9 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "youth"
+      ],
       "voicings": [
         {
           "name": "Unison"
@@ -3401,7 +3477,9 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "youth"
+      ],
       "voicings": [
         {
           "name": "Unison"

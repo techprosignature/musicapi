@@ -42,10 +42,12 @@
         "baptism",
         "faith",
         "family",
+        "gathering of Israel",
         "missionary work",
         "priesthood",
         "scriptures",
-        "temples"
+        "temples",
+        "truth"
       ],
       "voicings": [],
       "assets": [
@@ -165,6 +167,7 @@
       "tags": [
         "Jesus Christ",
         "plan of salvation",
+        "praise",
         "prophets"
       ],
       "voicings": [],
@@ -284,6 +287,7 @@
         "love",
         "ministering",
         "service",
+        "sharing",
         "work"
       ],
       "voicings": [],
@@ -398,17 +402,21 @@
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
+        "Heavenly Father",
         "Zion",
         "adversity",
         "eternal life",
+        "exaltation",
         "faith",
         "gospel",
         "grace",
         "gratitude",
+        "guidance",
         "hope",
         "obedience",
         "peace",
         "plan of salvation",
+        "praise",
         "prophets",
         "service",
         "worship"
@@ -529,6 +537,8 @@
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
+        "endure to the end",
+        "exaltation",
         "faith",
         "hope",
         "love",
@@ -650,7 +660,8 @@
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
-        "Jesus Christ"
+        "Jesus Christ",
+        "sacrament"
       ],
       "voicings": [],
       "assets": [
@@ -773,8 +784,11 @@
         "commitment",
         "courage",
         "encouragement",
+        "endure to the end",
         "faith in Jesus Christ",
-        "hope"
+        "hope",
+        "trials",
+        "trust in the Lord"
       ],
       "voicings": [],
       "assets": [
@@ -1023,6 +1037,7 @@
         "Resurrection",
         "hope",
         "joy",
+        "praise",
         "worship"
       ],
       "voicings": [],
@@ -1378,6 +1393,7 @@
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
+        "Heavenly Father",
         "Jesus Christ",
         "charity",
         "commandments",
@@ -1509,6 +1525,7 @@
         "joy",
         "music",
         "plan of salvation",
+        "praise",
         "worship"
       ],
       "voicings": [],
@@ -1631,6 +1648,7 @@
         "commitment",
         "discipleship",
         "example",
+        "judging",
         "love",
         "ministering",
         "service"
@@ -1752,6 +1770,7 @@
       "videoAvailable": true,
       "tags": [
         "Jesus Christ",
+        "Jesus Christ's ministry",
         "grace",
         "love"
       ],
@@ -1867,13 +1886,16 @@
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
+        "Israel",
         "Jesus Christ",
         "Zion",
         "eternal life",
         "faith",
+        "gathering of Israel",
         "grace",
         "hope",
         "plan of salvation",
+        "praise",
         "prayer"
       ],
       "voicings": [],

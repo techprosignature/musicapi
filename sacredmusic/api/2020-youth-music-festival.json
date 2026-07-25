@@ -32,7 +32,13 @@
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
+        "Creator",
+        "Jesus Christ",
+        "joy",
         "love",
+        "mercy",
+        "music",
+        "praise",
         "worship"
       ],
       "voicings": [],
@@ -132,8 +138,13 @@
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
+        "Creator",
+        "faith",
+        "happiness",
         "hope",
-        "love"
+        "joy",
+        "love",
+        "trials"
       ],
       "voicings": [],
       "assets": [
@@ -233,7 +244,9 @@
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
+        "Jesus Christ",
         "example",
+        "guidance",
         "hope",
         "love"
       ],
@@ -334,7 +347,9 @@
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
+        "Atonement of Jesus Christ",
         "Creation",
+        "Jesus Christ",
         "example",
         "love",
         "plan of salvation",
@@ -441,8 +456,12 @@
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
+        "child of God",
         "divine worth",
-        "love"
+        "love",
+        "prayer",
+        "self-esteem",
+        "trials"
       ],
       "voicings": [],
       "assets": [
@@ -546,7 +565,11 @@
       "videoAvailable": true,
       "tags": [
         "Creation",
-        "love"
+        "Jesus Christ",
+        "commitment",
+        "love",
+        "nature",
+        "praise"
       ],
       "voicings": [],
       "assets": [
@@ -648,8 +671,12 @@
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
+        "Jesus Christ",
+        "discipleship",
         "example",
+        "grace",
         "hope",
+        "ministering",
         "peace"
       ],
       "voicings": [],
@@ -750,7 +777,14 @@
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
-        "love"
+        "Jesus Christ",
+        "faith",
+        "grace",
+        "guidance",
+        "humility",
+        "love",
+        "obedience",
+        "truth"
       ],
       "voicings": [],
       "assets": [
@@ -855,7 +889,10 @@
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
-        "divine worth"
+        "child of God",
+        "courage",
+        "divine worth",
+        "repentance"
       ],
       "voicings": [],
       "assets": [
@@ -954,7 +991,11 @@
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
-        "love"
+        "adversity",
+        "faith",
+        "love",
+        "prayer",
+        "trials"
       ],
       "voicings": [],
       "assets": []
@@ -1025,7 +1066,13 @@
       "recordingAvailable": false,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
-      "tags": [],
+      "tags": [
+        "Jesus Christ",
+        "adversity",
+        "grace",
+        "prayer",
+        "trials"
+      ],
       "voicings": [],
       "assets": []
     },
@@ -1061,8 +1108,14 @@
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
+        "Atonement of Jesus Christ",
         "Resurrection",
-        "eternal life"
+        "discipleship",
+        "endure to the end",
+        "eternal life",
+        "exaltation",
+        "faith",
+        "joy"
       ],
       "voicings": [],
       "assets": []
@@ -1098,7 +1151,13 @@
       "recordingAvailable": false,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
-      "tags": [],
+      "tags": [
+        "Jesus Christ",
+        "courage",
+        "faith",
+        "grace",
+        "trials"
+      ],
       "voicings": [],
       "assets": []
     },
@@ -1138,10 +1197,15 @@
       "videoAvailable": true,
       "tags": [
         "Heavenly Father",
+        "Jesus Christ",
         "Joseph Smith",
         "Restoration",
+        "adversity",
+        "guidance",
         "love",
-        "plan of salvation"
+        "plan of salvation",
+        "prayer",
+        "truth"
       ],
       "voicings": [],
       "assets": []
@@ -1178,7 +1242,12 @@
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
+        "Jesus Christ",
+        "faith",
+        "grace",
+        "guidance",
         "hope",
+        "humility",
         "love",
         "plan of salvation"
       ],
@@ -1214,7 +1283,12 @@
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
+        "Jesus Christ",
+        "faith",
+        "grace",
+        "guidance",
         "hope",
+        "humility",
         "love",
         "plan of salvation"
       ],
@@ -1256,8 +1330,12 @@
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
+        "child of God",
         "divine worth",
-        "love"
+        "love",
+        "prayer",
+        "self-esteem",
+        "trials"
       ],
       "voicings": [],
       "assets": []

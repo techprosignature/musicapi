@@ -117,7 +117,11 @@
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
-        "missionary work"
+        "Jesus Christ",
+        "commitment",
+        "missionary work",
+        "unity",
+        "youth"
       ],
       "voicings": [
         {
@@ -212,7 +216,9 @@
       "videoAvailable": false,
       "tags": [
         "agency",
-        "hope"
+        "happiness",
+        "hope",
+        "obedience"
       ],
       "voicings": [],
       "assets": [
@@ -309,8 +315,22 @@
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
+        "Word of Wisdom",
+        "Zion",
+        "commitment",
+        "courage",
+        "exaltation",
+        "faith",
+        "joy",
         "missionary work",
-        "worthiness"
+        "morality",
+        "music",
+        "obedience",
+        "praise",
+        "trials",
+        "truth",
+        "worthiness",
+        "youth"
       ],
       "voicings": [
         {
@@ -399,7 +419,10 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "faith",
+        "truth"
+      ],
       "voicings": [],
       "assets": [
         {
@@ -483,7 +506,13 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "commitment",
+        "courage",
+        "faith",
+        "unity",
+        "youth"
+      ],
       "voicings": [
         {
           "name": "Unison"
@@ -572,7 +601,13 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "commitment",
+        "courage",
+        "faith",
+        "unity",
+        "youth"
+      ],
       "voicings": [
         {
           "name": "Unison"
@@ -661,7 +696,8 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "hope"
+        "hope",
+        "new year"
       ],
       "voicings": [],
       "assets": [
@@ -747,7 +783,9 @@
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
-        "hope"
+        "faith",
+        "hope",
+        "truth"
       ],
       "voicings": [],
       "assets": [
@@ -838,11 +876,21 @@
       "videoAvailable": false,
       "tags": [
         "Heavenly Father",
+        "Zion",
+        "adversity",
         "eternal life",
+        "exaltation",
+        "faith",
+        "gospel",
+        "grace",
         "gratitude",
+        "guidance",
         "hope",
+        "obedience",
         "peace",
         "plan of salvation",
+        "praise",
+        "prophets",
         "service",
         "worship"
       ],
@@ -930,7 +978,11 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "service"
+        "commitment",
+        "obedience",
+        "service",
+        "unity",
+        "youth"
       ],
       "voicings": [],
       "assets": [
@@ -1019,7 +1071,11 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "example"
+        "discipleship",
+        "example",
+        "faith",
+        "joy",
+        "truth"
       ],
       "voicings": [],
       "assets": [
@@ -1190,7 +1246,10 @@
       "videoAvailable": false,
       "tags": [
         "agency",
+        "discipleship",
+        "faith",
         "learning",
+        "obedience",
         "temptation"
       ],
       "voicings": [],

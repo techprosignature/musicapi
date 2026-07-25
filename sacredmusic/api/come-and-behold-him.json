@@ -149,9 +149,15 @@
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
+        "Book of Mormon",
+        "Christmas",
+        "Jesus Christ",
         "Light of Christ",
+        "assurance",
         "children",
-        "love"
+        "joy",
+        "love",
+        "mercy"
       ],
       "voicings": [],
       "assets": [
@@ -271,6 +277,7 @@
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
+        "Christmas",
         "hope",
         "salvation"
       ],
@@ -398,7 +405,13 @@
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
-        "Crucifixion"
+        "Atonement of Jesus Christ",
+        "Christmas",
+        "Crucifixion",
+        "Jesus Christ",
+        "joy",
+        "praise",
+        "rejoicing"
       ],
       "voicings": [],
       "assets": [
@@ -515,6 +528,8 @@
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
+        "Christmas",
+        "Jesus Christ",
         "love",
         "sharing"
       ],
@@ -635,7 +650,10 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "Christmas",
+        "Jesus Christ"
+      ],
       "voicings": [],
       "assets": [
         {
@@ -772,9 +790,15 @@
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
+        "Christmas",
         "Israel",
+        "Jesus Christ",
+        "grace",
         "hope",
+        "joy",
+        "music",
         "peace",
+        "praise",
         "salvation"
       ],
       "voicings": [],
@@ -1013,7 +1037,10 @@
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
-        "missionary work"
+        "Christmas",
+        "Jesus Christ",
+        "missionary work",
+        "rejoicing"
       ],
       "voicings": [],
       "assets": [
@@ -1159,7 +1186,11 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "Christmas",
+        "Jesus Christ",
+        "praise"
+      ],
       "voicings": [],
       "assets": [
         {
@@ -1305,8 +1336,13 @@
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
+        "Christmas",
+        "Jesus Christ",
+        "grace",
         "lullaby",
         "peace",
+        "praise",
+        "shepherd",
         "worship"
       ],
       "voicings": [],

@@ -35,7 +35,16 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": true,
-      "tags": [],
+      "tags": [
+        "Jesus Christ",
+        "faith",
+        "grace",
+        "guidance",
+        "humility",
+        "love",
+        "obedience",
+        "truth"
+      ],
       "voicings": [],
       "assets": [
         {
@@ -183,8 +192,11 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Jesus Christ",
         "example",
-        "hope"
+        "guidance",
+        "hope",
+        "love"
       ],
       "voicings": [],
       "assets": [
@@ -330,8 +342,11 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Atonement of Jesus Christ",
         "Creation",
+        "Jesus Christ",
         "example",
+        "love",
         "plan of salvation",
         "spirituality"
       ],
@@ -470,7 +485,12 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "divine worth"
+        "child of God",
+        "divine worth",
+        "love",
+        "prayer",
+        "self-esteem",
+        "trials"
       ],
       "voicings": [],
       "assets": [
@@ -616,7 +636,13 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Jesus Christ",
+        "faith",
+        "grace",
+        "guidance",
         "hope",
+        "humility",
+        "love",
         "plan of salvation"
       ],
       "voicings": [],
@@ -747,7 +773,13 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "Jesus Christ",
+        "adversity",
+        "grace",
+        "prayer",
+        "trials"
+      ],
       "voicings": [],
       "assets": [
         {
@@ -894,7 +926,13 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "adversity",
+        "faith",
+        "love",
+        "prayer",
+        "trials"
+      ],
       "voicings": [],
       "assets": [
         {
@@ -1040,8 +1078,15 @@
       "videoAvailable": false,
       "tags": [
         "Heavenly Father",
+        "Jesus Christ",
+        "Joseph Smith",
         "Restoration",
-        "plan of salvation"
+        "adversity",
+        "guidance",
+        "love",
+        "plan of salvation",
+        "prayer",
+        "truth"
       ],
       "voicings": [],
       "assets": [
@@ -1190,8 +1235,14 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Atonement of Jesus Christ",
         "Resurrection",
-        "eternal life"
+        "discipleship",
+        "endure to the end",
+        "eternal life",
+        "exaltation",
+        "faith",
+        "joy"
       ],
       "voicings": [],
       "assets": [
@@ -1338,7 +1389,12 @@
       "videoAvailable": false,
       "tags": [
         "Heavenly Father",
-        "hope"
+        "adversity",
+        "faith",
+        "hope",
+        "love",
+        "prayer",
+        "trials"
       ],
       "voicings": [],
       "assets": [
@@ -1486,7 +1542,13 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "Jesus Christ",
+        "courage",
+        "faith",
+        "grace",
+        "trials"
+      ],
       "voicings": [],
       "assets": [
         {
@@ -1637,7 +1699,16 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "Jesus Christ",
+        "faith",
+        "grace",
+        "guidance",
+        "humility",
+        "love",
+        "obedience",
+        "truth"
+      ],
       "voicings": [
         {
           "name": "SAB"
@@ -1805,7 +1876,13 @@
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
-        "hope"
+        "Creator",
+        "faith",
+        "happiness",
+        "hope",
+        "joy",
+        "love",
+        "trials"
       ],
       "voicings": [],
       "assets": [

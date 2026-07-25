@@ -35,7 +35,12 @@
       "videoAvailable": true,
       "tags": [
         "Restoration",
-        "peace"
+        "knowledge",
+        "music",
+        "peace",
+        "praise",
+        "prophets",
+        "truth"
       ],
       "voicings": [],
       "assets": [
@@ -155,14 +160,18 @@
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
+        "Jesus Christ",
         "Restoration",
+        "Zion",
         "baptism",
+        "faith",
         "family",
         "gathering of Israel",
         "missionary work",
         "priesthood",
         "scriptures",
-        "temples"
+        "temples",
+        "truth"
       ],
       "voicings": [],
       "assets": [
@@ -282,8 +291,18 @@
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
+        "Atonement of Jesus Christ",
+        "Jesus Christ",
         "Second Coming",
-        "peace"
+        "assurance",
+        "comfort",
+        "faith",
+        "peace",
+        "praise",
+        "repentance",
+        "sacrament",
+        "sorrow",
+        "trials"
       ],
       "voicings": [],
       "assets": [
@@ -402,9 +421,16 @@
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
+        "Jesus Christ",
         "Millennium",
+        "child of God",
+        "faith",
+        "joy",
         "love",
+        "music",
         "peace",
+        "praise",
+        "unity",
         "worship"
       ],
       "voicings": [],
@@ -525,12 +551,16 @@
       "videoAvailable": true,
       "tags": [
         "Heavenly Father",
+        "Jesus Christ",
         "Joseph Smith",
         "Restoration",
         "baptism",
+        "faith",
         "family",
         "love",
         "missionary work",
+        "nature",
+        "prayer",
         "priesthood",
         "scriptures",
         "temples",
@@ -653,7 +683,14 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
-      "tags": [],
+      "tags": [
+        "blessings",
+        "commitment",
+        "discipleship",
+        "praise",
+        "repentance",
+        "supplication"
+      ],
       "voicings": [],
       "assets": [
         {
@@ -772,10 +809,16 @@
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
+        "Jesus Christ",
         "Restoration",
+        "Zion",
+        "exaltation",
         "learning",
+        "obedience",
         "service",
-        "temples"
+        "temples",
+        "truth",
+        "wisdom"
       ],
       "voicings": [],
       "assets": [
@@ -895,7 +938,11 @@
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
-        "scriptures"
+        "guidance",
+        "knowledge",
+        "mercy",
+        "scriptures",
+        "wisdom"
       ],
       "voicings": [],
       "assets": [
@@ -1014,7 +1061,10 @@
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
+        "Jesus Christ",
         "gratitude",
+        "joy",
+        "praise",
         "worship"
       ],
       "voicings": [],
@@ -1136,10 +1186,16 @@
       "videoAvailable": true,
       "tags": [
         "Israel",
+        "Jesus Christ",
+        "Zion",
         "eternal life",
+        "faith",
         "gathering of Israel",
+        "grace",
         "hope",
-        "plan of salvation"
+        "plan of salvation",
+        "praise",
+        "prayer"
       ],
       "voicings": [],
       "assets": [
@@ -1259,13 +1315,19 @@
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
+        "Jesus Christ",
         "Joseph Smith",
         "Millennium",
         "Second Coming",
+        "Zion",
         "baptism",
+        "faith",
         "family",
+        "gospel",
         "missionary work",
         "peace",
+        "praise",
+        "preparation",
         "priesthood",
         "scriptures",
         "temples"
@@ -1387,7 +1449,15 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
-      "tags": [],
+      "tags": [
+        "Jesus Christ",
+        "comfort",
+        "faith",
+        "grace",
+        "guidance",
+        "prayer",
+        "trials"
+      ],
       "voicings": [],
       "assets": [
         {
@@ -1506,10 +1576,16 @@
       "videoAvailable": true,
       "tags": [
         "Heavenly Father",
+        "child of God",
+        "endure to the end",
         "eternal life",
+        "exaltation",
+        "faith",
         "family",
+        "guidance",
         "home",
         "learning",
+        "obedience",
         "plan of salvation",
         "teaching"
       ],
@@ -1632,8 +1708,11 @@
       "videoAvailable": true,
       "tags": [
         "Restoration",
+        "joy",
         "missionary work",
-        "teaching"
+        "praise",
+        "teaching",
+        "truth"
       ],
       "voicings": [],
       "assets": [
@@ -1751,8 +1830,11 @@
       "tags": [
         "Joseph Smith",
         "Restoration",
+        "knowledge",
         "priesthood",
-        "revelation"
+        "revelation",
+        "truth",
+        "wisdom"
       ],
       "voicings": [],
       "assets": [
@@ -1878,9 +1960,14 @@
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
+        "Jesus Christ",
         "Joseph Smith",
+        "adversity",
         "baptism",
+        "commitment",
+        "faith",
         "family",
+        "grace",
         "hope",
         "love",
         "missionary work",
@@ -2007,6 +2094,7 @@
       "videoAvailable": true,
       "tags": [
         "Heavenly Father",
+        "Jesus Christ",
         "Joseph Smith",
         "baptism",
         "scriptures"
@@ -2128,11 +2216,18 @@
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
+        "Jesus Christ",
         "Millennium",
         "Second Coming",
+        "adversity",
+        "faith",
+        "guidance",
+        "joy",
         "love",
         "peace",
-        "salvation"
+        "praise",
+        "salvation",
+        "unity"
       ],
       "voicings": [],
       "assets": [
@@ -2253,6 +2348,8 @@
       "videoAvailable": true,
       "tags": [
         "Second Coming",
+        "Zion",
+        "faith",
         "gathering of Israel"
       ],
       "voicings": [],
@@ -2380,14 +2477,21 @@
       "videoAvailable": true,
       "tags": [
         "Heavenly Father",
+        "Jesus Christ",
         "Joseph Smith",
         "Millennium",
         "Restoration",
         "Second Coming",
         "baptism",
         "dedication of buildings",
+        "faith",
         "family",
+        "knowledge",
         "missionary work",
+        "music",
+        "patience",
+        "praise",
+        "prayer",
         "priesthood",
         "sacrifice",
         "scriptures",
@@ -2516,6 +2620,8 @@
       "videoAvailable": true,
       "tags": [
         "Joseph Smith",
+        "Restoration of the Church",
+        "prophets",
         "sacrifice",
         "testimony"
       ],
@@ -2637,9 +2743,11 @@
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
+        "Jesus Christ",
         "Millennium",
         "peace",
         "temples",
+        "unity",
         "worship"
       ],
       "voicings": [],
@@ -2759,10 +2867,18 @@
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
+        "Jesus Christ",
+        "comfort",
         "example",
+        "faith",
         "friendship",
+        "grace",
+        "guidance",
         "hope",
+        "joy",
         "love",
+        "mercy",
+        "praise",
         "testimony",
         "worship"
       ],
@@ -2888,11 +3004,21 @@
       "videoAvailable": true,
       "tags": [
         "Heavenly Father",
+        "Zion",
+        "adversity",
         "eternal life",
+        "exaltation",
+        "faith",
+        "gospel",
+        "grace",
         "gratitude",
+        "guidance",
         "hope",
+        "obedience",
         "peace",
         "plan of salvation",
+        "praise",
+        "prophets",
         "service",
         "worship"
       ],

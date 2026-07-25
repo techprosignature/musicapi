@@ -29,7 +29,9 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "prophets"
+      ],
       "voicings": [
         {
           "name": "Unison"
@@ -154,7 +156,9 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Holy Ghost",
         "agency",
+        "child of God",
         "family",
         "service"
       ],
@@ -328,9 +332,16 @@
       "sheetMusicAvailable": true,
       "videoAvailable": true,
       "tags": [
+        "Jesus Christ",
         "Light of Christ",
         "children",
-        "family"
+        "courage",
+        "faith",
+        "family",
+        "gospel",
+        "joy",
+        "song",
+        "worldwide Church"
       ],
       "voicings": [
         {
@@ -410,9 +421,13 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Holy Ghost",
+        "Jesus Christ",
         "Jesus Christ's ministry",
+        "comfort",
         "peace",
         "priesthood",
+        "prophets",
         "scriptures"
       ],
       "voicings": [
@@ -539,10 +554,15 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Jesus Christ",
         "agency",
+        "commandments",
+        "discipleship",
         "example",
+        "faith",
         "love",
         "missionary work",
+        "obedience",
         "virtue"
       ],
       "voicings": [
@@ -718,8 +738,14 @@
       "sheetMusicAvailable": true,
       "videoAvailable": true,
       "tags": [
+        "Book of Mormon",
+        "Jesus Christ",
+        "blessings",
         "children",
+        "guidance",
         "love",
+        "obedience",
+        "teachers",
         "testimony"
       ],
       "voicings": [
@@ -978,6 +1004,7 @@
       "videoAvailable": false,
       "tags": [
         "Heavenly Father",
+        "child of God",
         "example",
         "family",
         "love",
@@ -1108,7 +1135,10 @@
       "recordingAvailable": false,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "Christmas",
+        "Jesus Christ"
+      ],
       "voicings": [
         {
           "name": "Unison"
@@ -1145,7 +1175,11 @@
       "recordingAvailable": false,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "faith",
+        "obedience",
+        "prophets"
+      ],
       "voicings": [
         {
           "name": "Unison"
@@ -1191,7 +1225,8 @@
       "tags": [
         "family",
         "kindness",
-        "love"
+        "love",
+        "prayer"
       ],
       "voicings": [
         {
@@ -1231,9 +1266,15 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Jesus Christ",
         "baptism",
+        "commitment",
+        "discipleship",
         "eternal life",
+        "exaltation",
         "example",
+        "faith",
+        "obedience",
         "plan of salvation"
       ],
       "voicings": [
@@ -1274,6 +1315,7 @@
       "videoAvailable": true,
       "tags": [
         "covenants",
+        "marriage",
         "temples"
       ],
       "voicings": [
@@ -1314,8 +1356,11 @@
       "videoAvailable": false,
       "tags": [
         "gratitude",
+        "guidance",
         "love",
-        "plan of salvation"
+        "plan of salvation",
+        "prayer",
+        "prophets"
       ],
       "voicings": [
         {
@@ -1359,7 +1404,9 @@
       "sheetMusicAvailable": true,
       "videoAvailable": true,
       "tags": [
+        "Holy Ghost",
         "agency",
+        "child of God",
         "family",
         "service"
       ],
@@ -1452,6 +1499,8 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Jesus Christ",
+        "comfort",
         "love",
         "peace"
       ],
@@ -1497,8 +1546,11 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Jesus Christ",
         "baptism",
-        "example"
+        "example",
+        "obedience",
+        "ordinances"
       ],
       "voicings": [
         {
@@ -1592,7 +1644,11 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "preparedness"
+        "faith",
+        "guidance",
+        "obedience",
+        "preparedness",
+        "prophets"
       ],
       "voicings": [
         {
@@ -1814,7 +1870,11 @@
       "recordingAvailable": false,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "Christmas",
+        "Jesus Christ",
+        "praise"
+      ],
       "voicings": [
         {
           "name": "Unison"
@@ -1852,6 +1912,8 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Christmas",
+        "Jesus Christ",
         "worship"
       ],
       "voicings": [
@@ -1892,7 +1954,8 @@
       "videoAvailable": false,
       "tags": [
         "Heavenly Father",
-        "covenants"
+        "covenants",
+        "obedience"
       ],
       "voicings": [
         {
@@ -1930,7 +1993,9 @@
       "recordingAvailable": false,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "prayer"
+      ],
       "voicings": [
         {
           "name": "Unison"
@@ -1975,6 +2040,7 @@
       "tags": [
         "eternal life",
         "family",
+        "marriage",
         "plan of salvation",
         "temples"
       ],
@@ -2068,8 +2134,12 @@
       "videoAvailable": false,
       "tags": [
         "Heavenly Father",
+        "child of God",
+        "faith",
         "friendship",
-        "love"
+        "happiness",
+        "love",
+        "prayer"
       ],
       "voicings": [
         {
@@ -2109,6 +2179,7 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Jesus Christ",
         "scriptures"
       ],
       "voicings": [
@@ -2148,7 +2219,11 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Jesus Christ",
         "example",
+        "faith",
+        "obedience",
+        "prophets",
         "scriptures"
       ],
       "voicings": [
@@ -2192,11 +2267,19 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Atonement of Jesus Christ",
         "Heavenly Father",
+        "Jesus Christ",
         "Resurrection",
+        "charity",
+        "death",
+        "diligence",
+        "discipleship",
         "example",
+        "faith",
         "hope",
         "love",
+        "ministering",
         "plan of salvation",
         "sacrifice",
         "scriptures",
@@ -2367,9 +2450,16 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Jesus Christ",
         "Light of Christ",
         "children",
-        "family"
+        "courage",
+        "faith",
+        "family",
+        "gospel",
+        "joy",
+        "song",
+        "worldwide Church"
       ],
       "voicings": [
         {
@@ -2412,7 +2502,10 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "Jesus Christ",
+        "praise"
+      ],
       "voicings": [
         {
           "name": "Two-Part"
@@ -2502,8 +2595,12 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Holy Ghost",
         "baptism",
-        "covenants"
+        "covenants",
+        "faith",
+        "guidance",
+        "obedience"
       ],
       "voicings": [
         {
@@ -2542,9 +2639,15 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Holy Ghost",
+        "comfort",
+        "faith",
+        "guidance",
+        "joy",
         "love",
         "peace",
-        "teaching"
+        "teaching",
+        "truth"
       ],
       "voicings": [
         {
@@ -2583,6 +2686,8 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Christmas",
+        "Jesus Christ",
         "love",
         "worship"
       ],
@@ -2628,10 +2733,15 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Jesus Christ",
         "agency",
+        "commandments",
+        "discipleship",
         "example",
+        "faith",
         "love",
         "missionary work",
+        "obedience",
         "virtue"
       ],
       "voicings": [
@@ -2724,6 +2834,11 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "God's love",
+        "commandments",
+        "faith",
+        "guidance",
+        "obedience",
         "testimony"
       ],
       "voicings": [
@@ -2763,7 +2878,14 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "teaching"
+        "Jesus Christ",
+        "commitment",
+        "gospel",
+        "happiness",
+        "obedience",
+        "prophets",
+        "teaching",
+        "truth"
       ],
       "voicings": [
         {
@@ -2802,7 +2924,10 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Jesus Christ",
+        "gospel",
         "love",
+        "prophets",
         "scriptures",
         "testimony"
       ],
@@ -2843,7 +2968,9 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "love"
+        "guidance",
+        "love",
+        "prophets"
       ],
       "voicings": [
         {
@@ -2882,9 +3009,14 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "commitment",
+        "faith",
         "learning",
         "missionary work",
-        "service"
+        "obedience",
+        "praise",
+        "service",
+        "truth"
       ],
       "voicings": [
         {
@@ -2923,9 +3055,14 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Atonement of Jesus Christ",
+        "Jesus Christ",
         "family",
+        "gospel",
+        "guidance",
         "learning",
         "love",
+        "prayer",
         "teaching"
       ],
       "voicings": [
@@ -2965,6 +3102,7 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Jesus Christ",
         "kindness",
         "love",
         "service",
@@ -3140,7 +3278,10 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Holy Ghost",
+        "Jesus Christ",
         "Second Coming",
+        "diligence",
         "example",
         "kindness",
         "love",
@@ -3235,7 +3376,11 @@
       "recordingAvailable": false,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "Jesus Christ",
+        "commitment",
+        "faith"
+      ],
       "voicings": [
         {
           "name": "Unison"
@@ -3273,7 +3418,12 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "Heavenly Father"
+        "Heavenly Father",
+        "Jesus Christ",
+        "commandments",
+        "commitment",
+        "faith",
+        "obedience"
       ],
       "voicings": [
         {
@@ -3312,7 +3462,10 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "example"
+        "Jesus Christ",
+        "commitment",
+        "example",
+        "faith"
       ],
       "voicings": [
         {
@@ -3354,6 +3507,9 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Jesus Christ",
+        "comfort",
+        "guidance",
         "love",
         "temptation"
       ],
@@ -3522,7 +3678,13 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Holy Ghost",
+        "comfort",
         "gratitude",
+        "guidance",
+        "happiness",
+        "music",
+        "nature",
         "peace"
       ],
       "voicings": [
@@ -3716,8 +3878,11 @@
       "videoAvailable": false,
       "tags": [
         "hope",
+        "joy",
         "learning",
-        "service"
+        "pioneers",
+        "service",
+        "work"
       ],
       "voicings": [
         {
@@ -3762,6 +3927,10 @@
       "videoAvailable": false,
       "tags": [
         "Heavenly Father",
+        "Jesus Christ",
+        "charity",
+        "commandments",
+        "discipleship",
         "kindness",
         "love",
         "service"
@@ -3855,8 +4024,13 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Christmas",
+        "Jesus Christ",
+        "guidance",
         "love",
-        "lullaby"
+        "lullaby",
+        "praise",
+        "shepherd"
       ],
       "voicings": [
         {
@@ -3896,7 +4070,10 @@
       "videoAvailable": false,
       "tags": [
         "family",
-        "gratitude"
+        "gospel",
+        "gratitude",
+        "nature",
+        "prayer"
       ],
       "voicings": [
         {
@@ -3936,8 +4113,11 @@
       "videoAvailable": false,
       "tags": [
         "Heavenly Father",
+        "Jesus Christ",
         "Joseph Smith",
         "love",
+        "prayer",
+        "prophets",
         "testimony"
       ],
       "voicings": [
@@ -3977,8 +4157,11 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "child of God",
+        "commitment",
         "divine worth",
-        "kindness"
+        "kindness",
+        "obedience"
       ],
       "voicings": [
         {
@@ -4069,6 +4252,8 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Atonement of Jesus Christ",
+        "Jesus Christ",
         "love",
         "plan of salvation"
       ],
@@ -4109,7 +4294,9 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "obedience",
         "peace",
+        "prayer",
         "scriptures"
       ],
       "voicings": [
@@ -4149,8 +4336,13 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "commandments",
+        "courage",
+        "faith",
+        "guidance",
         "hope",
         "love",
+        "pioneers",
         "service"
       ],
       "voicings": [
@@ -4190,6 +4382,9 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "faith",
+        "nature",
+        "truth",
         "virtue"
       ],
       "voicings": [
@@ -4229,6 +4424,7 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "reverence",
         "worship"
       ],
       "voicings": [
@@ -4268,6 +4464,8 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Jesus Christ",
+        "reverence",
         "worship"
       ],
       "voicings": [
@@ -4307,6 +4505,9 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "faith",
+        "guidance",
+        "joy",
         "learning",
         "scriptures"
       ],
@@ -4352,8 +4553,13 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Christmas",
+        "Jesus Christ",
+        "grace",
         "lullaby",
         "peace",
+        "praise",
+        "shepherd",
         "worship"
       ],
       "voicings": [
@@ -4445,7 +4651,11 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "love"
+        "Christmas",
+        "Jesus Christ",
+        "joy",
+        "love",
+        "praise"
       ],
       "voicings": [
         {
@@ -4484,6 +4694,8 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "obedience",
+        "prophets",
         "scriptures"
       ],
       "voicings": [
@@ -4524,6 +4736,8 @@
       "videoAvailable": false,
       "tags": [
         "example",
+        "faith",
+        "prophets",
         "scriptures"
       ],
       "voicings": [
@@ -4563,7 +4777,10 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "gratitude"
+        "Christmas",
+        "Jesus Christ",
+        "gratitude",
+        "praise"
       ],
       "voicings": [
         {
@@ -4602,10 +4819,14 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Jesus Christ",
         "Joseph Smith",
         "Restoration",
+        "faith",
         "learning",
-        "scriptures"
+        "prayer",
+        "scriptures",
+        "truth"
       ],
       "voicings": [
         {
@@ -4644,8 +4865,12 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Jesus Christ",
         "covenants",
-        "peace"
+        "obedience",
+        "peace",
+        "reverence",
+        "sacrament"
       ],
       "voicings": [
         {
@@ -4685,8 +4910,13 @@
       "videoAvailable": false,
       "tags": [
         "Heavenly Father",
+        "Holy Ghost",
         "baptism",
+        "comfort",
+        "faith",
         "love",
+        "mercy",
+        "prayer",
         "priesthood",
         "teaching"
       ],
@@ -4726,7 +4956,14 @@
       "recordingAvailable": false,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "Jesus Christ",
+        "commitment",
+        "courage",
+        "discipleship",
+        "faith",
+        "grace"
+      ],
       "voicings": [
         {
           "name": "Unison"
@@ -4765,8 +5002,11 @@
       "videoAvailable": false,
       "tags": [
         "Heavenly Father",
+        "Jesus Christ",
         "Joseph Smith",
         "Restoration",
+        "faith",
+        "prayer",
         "scriptures"
       ],
       "voicings": [
@@ -4807,6 +5047,9 @@
       "videoAvailable": false,
       "tags": [
         "Sabbath",
+        "ministering",
+        "prayer",
+        "sacrament",
         "service",
         "worship"
       ],
@@ -4847,7 +5090,9 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Jesus Christ",
         "learning",
+        "praise",
         "scriptures"
       ],
       "voicings": [
@@ -4886,7 +5131,10 @@
       "recordingAvailable": false,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "Christmas",
+        "Jesus Christ"
+      ],
       "voicings": [
         {
           "name": "Unison"
@@ -4924,7 +5172,11 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "gratitude"
+        "commandments",
+        "faith",
+        "grace",
+        "gratitude",
+        "tithing"
       ],
       "voicings": [
         {
@@ -4964,6 +5216,7 @@
       "videoAvailable": false,
       "tags": [
         "covenants",
+        "marriage",
         "temples"
       ],
       "voicings": [
@@ -5004,10 +5257,14 @@
       "videoAvailable": false,
       "tags": [
         "Heavenly Father",
+        "Jesus Christ",
         "Joseph Smith",
         "Restoration",
+        "praise",
+        "prayer",
         "scriptures",
-        "sharing"
+        "sharing",
+        "truth"
       ],
       "voicings": [
         {
@@ -5046,6 +5303,7 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "nature",
         "sharing"
       ],
       "voicings": [
@@ -5085,9 +5343,12 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Holy Ghost",
+        "Jesus Christ",
         "agency",
         "family",
-        "learning"
+        "learning",
+        "prayer"
       ],
       "voicings": [
         {
@@ -5127,7 +5388,10 @@
       "videoAvailable": false,
       "tags": [
         "Heavenly Father",
-        "love"
+        "Jesus Christ",
+        "love",
+        "obedience",
+        "prophets"
       ],
       "voicings": [
         {
@@ -5320,6 +5584,8 @@
       "videoAvailable": false,
       "tags": [
         "agency",
+        "faith",
+        "obedience",
         "temples",
         "worthiness"
       ],
@@ -5372,6 +5638,12 @@
       "videoAvailable": true,
       "tags": [
         "Heavenly Father",
+        "commandments",
+        "commitment",
+        "courage",
+        "faith",
+        "obedience",
+        "prophets",
         "scriptures"
       ],
       "voicings": [
@@ -5469,8 +5741,11 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Christmas",
+        "Jesus Christ",
         "eternal life",
-        "love"
+        "love",
+        "shepherd"
       ],
       "voicings": [
         {
@@ -5662,8 +5937,11 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Holy Ghost",
+        "Jesus Christ",
         "baptism",
         "covenants",
+        "obedience",
         "priesthood"
       ],
       "voicings": [
@@ -5845,7 +6123,11 @@
       "recordingAvailable": false,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "courage",
+        "faith",
+        "pioneers"
+      ],
       "voicings": [
         {
           "name": "Unison"
@@ -5883,9 +6165,12 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Atonement of Jesus Christ",
         "Easter",
+        "Jesus Christ",
         "Resurrection",
         "eternal life",
+        "joy",
         "teaching"
       ],
       "voicings": [
@@ -5925,8 +6210,12 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Christmas",
+        "Jesus Christ",
         "love",
         "peace",
+        "praise",
+        "shepherd",
         "worship"
       ],
       "voicings": [
@@ -5972,10 +6261,16 @@
       "videoAvailable": false,
       "tags": [
         "Heavenly Father",
+        "child of God",
+        "endure to the end",
         "eternal life",
+        "exaltation",
+        "faith",
         "family",
+        "guidance",
         "home",
         "learning",
+        "obedience",
         "plan of salvation",
         "teaching"
       ],
@@ -6074,9 +6369,13 @@
       "videoAvailable": false,
       "tags": [
         "Creation",
+        "Creator",
         "Heavenly Father",
+        "child of God",
         "gratitude",
-        "love"
+        "love",
+        "nature",
+        "reverence"
       ],
       "voicings": [
         {
@@ -6171,7 +6470,11 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "commitment",
+        "faith",
+        "prophets"
+      ],
       "voicings": [
         {
           "name": "Unison"
@@ -6361,7 +6664,12 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "God's love",
+        "faith",
+        "guidance",
+        "trust in the Lord"
+      ],
       "voicings": [
         {
           "name": "Unison"
@@ -6455,7 +6763,10 @@
       "sheetMusicAvailable": true,
       "videoAvailable": true,
       "tags": [
+        "Atonement of Jesus Christ",
+        "Christmas",
         "Heavenly Father",
+        "Jesus Christ",
         "gratitude"
       ],
       "voicings": [
@@ -6552,11 +6863,19 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Atonement of Jesus Christ",
         "Heavenly Father",
+        "Jesus Christ",
         "Resurrection",
+        "charity",
+        "death",
+        "diligence",
+        "discipleship",
         "example",
+        "faith",
         "hope",
         "love",
+        "ministering",
         "plan of salvation",
         "sacrifice",
         "scriptures",
@@ -6659,11 +6978,19 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Atonement of Jesus Christ",
         "Easter",
+        "Jesus Christ",
         "forgiveness",
+        "grace",
         "gratitude",
+        "humility",
+        "joy",
         "love",
+        "mercy",
         "plan of salvation",
+        "praise",
+        "sacrament",
         "worship"
       ],
       "voicings": [
@@ -6761,6 +7088,9 @@
       "videoAvailable": false,
       "tags": [
         "agency",
+        "faith",
+        "happiness",
+        "obedience",
         "plan of salvation"
       ],
       "voicings": [
@@ -6857,6 +7187,7 @@
       "videoAvailable": false,
       "tags": [
         "Heavenly Father",
+        "child of God",
         "example",
         "family",
         "love",
@@ -6959,7 +7290,8 @@
       "videoAvailable": false,
       "tags": [
         "family",
-        "love"
+        "love",
+        "nature"
       ],
       "voicings": [
         {
@@ -7055,7 +7387,9 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Family History",
         "family",
+        "joy",
         "love",
         "plan of salvation",
         "temples"
@@ -7149,8 +7483,11 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Holy Ghost",
         "baptism",
+        "courage",
         "covenants",
+        "faith",
         "love"
       ],
       "voicings": [
@@ -7247,8 +7584,14 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Jesus Christ",
+        "commandments",
         "love",
-        "scriptures"
+        "obedience",
+        "prayer",
+        "prophets",
+        "scriptures",
+        "truth"
       ],
       "voicings": [
         {
@@ -7339,9 +7682,15 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Jesus Christ",
         "baptism",
+        "commandments",
         "covenants",
-        "love"
+        "discipleship",
+        "faith",
+        "joy",
+        "love",
+        "sacrament"
       ],
       "voicings": [
         {
@@ -7432,6 +7781,9 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "courage",
+        "faith",
+        "preparation",
         "service",
         "sharing"
       ],
@@ -7476,11 +7828,19 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "faith",
+        "humility",
+        "joy",
         "missionary work",
+        "prayer",
+        "preparation",
         "scriptures",
         "service",
         "teaching",
-        "testimony"
+        "testimony",
+        "truth",
+        "work",
+        "youth"
       ],
       "voicings": [
         {
@@ -7571,7 +7931,10 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Christmas",
+        "Jesus Christ",
         "love",
+        "shepherd",
         "worship"
       ],
       "voicings": [
@@ -7668,9 +8031,16 @@
       "sheetMusicAvailable": true,
       "videoAvailable": true,
       "tags": [
+        "Jesus Christ",
         "Light of Christ",
         "children",
-        "family"
+        "courage",
+        "faith",
+        "family",
+        "gospel",
+        "joy",
+        "song",
+        "worldwide Church"
       ],
       "voicings": [
         {
@@ -7715,6 +8085,8 @@
       "videoAvailable": false,
       "tags": [
         "Heavenly Father",
+        "Holy Ghost",
+        "Jesus Christ",
         "baptism",
         "example",
         "temples"
@@ -7764,8 +8136,14 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Book of Mormon",
+        "Jesus Christ",
+        "blessings",
         "children",
+        "guidance",
         "love",
+        "obedience",
+        "teachers",
         "testimony"
       ],
       "voicings": [
@@ -7810,7 +8188,9 @@
       "sheetMusicAvailable": true,
       "videoAvailable": true,
       "tags": [
+        "Jesus Christ",
         "Jesus Christ's ministry",
+        "grace",
         "love"
       ],
       "voicings": [
@@ -7856,11 +8236,22 @@
       "videoAvailable": false,
       "tags": [
         "Heavenly Father",
+        "Jesus Christ",
+        "commandments",
+        "exaltation",
+        "gospel",
         "gratitude",
+        "guidance",
+        "joy",
+        "knowledge",
         "learning",
         "love",
+        "obedience",
         "plan of salvation",
-        "teaching"
+        "praise",
+        "prayer",
+        "teaching",
+        "truth"
       ],
       "voicings": [
         {
@@ -7905,9 +8296,13 @@
       "videoAvailable": false,
       "tags": [
         "Heavenly Father",
+        "Holy Ghost",
+        "Jesus Christ",
         "agency",
+        "comfort",
         "friendship",
-        "gratitude"
+        "gratitude",
+        "guidance"
       ],
       "voicings": [
         {
@@ -7951,9 +8346,15 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Jesus Christ",
         "baptism",
+        "commitment",
+        "discipleship",
         "eternal life",
+        "exaltation",
         "example",
+        "faith",
+        "obedience",
         "plan of salvation"
       ],
       "voicings": [
@@ -8000,7 +8401,8 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "agency"
+        "agency",
+        "courage"
       ],
       "voicings": [
         {
@@ -8044,6 +8446,7 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Family History",
         "family",
         "temples"
       ],
@@ -8090,7 +8493,9 @@
       "tags": [
         "Heavenly Father",
         "agency",
-        "love"
+        "child of God",
+        "love",
+        "trials"
       ],
       "voicings": [
         {
@@ -8134,7 +8539,10 @@
       "sheetMusicAvailable": true,
       "videoAvailable": true,
       "tags": [
-        "hope"
+        "charity",
+        "compassion",
+        "hope",
+        "music"
       ],
       "voicings": [
         {
@@ -8173,7 +8581,10 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Christmas",
+        "Jesus Christ",
         "peace",
+        "shepherd",
         "worship"
       ],
       "voicings": [
@@ -8212,7 +8623,13 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": true,
-      "tags": [],
+      "tags": [
+        "courage",
+        "faith",
+        "guidance",
+        "prayer",
+        "trust in the Lord"
+      ],
       "voicings": [
         {
           "name": "Unison"
@@ -8307,9 +8724,13 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Holy Ghost",
+        "Jesus Christ",
         "Jesus Christ's ministry",
+        "comfort",
         "peace",
         "priesthood",
+        "prophets",
         "scriptures"
       ],
       "voicings": [
@@ -8355,7 +8776,9 @@
       "videoAvailable": false,
       "tags": [
         "Easter",
+        "Jesus Christ",
         "Resurrection",
+        "praise",
         "worship"
       ],
       "voicings": [
@@ -8401,7 +8824,9 @@
       "videoAvailable": true,
       "tags": [
         "agency",
-        "example"
+        "commitment",
+        "example",
+        "prophets"
       ],
       "voicings": [
         {
@@ -8449,6 +8874,8 @@
       "videoAvailable": false,
       "tags": [
         "Joseph Smith",
+        "Restoration of the Church",
+        "prophets",
         "sacrifice",
         "testimony"
       ],
@@ -8494,7 +8921,10 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "Heavenly Father"
+        "Heavenly Father",
+        "grace",
+        "prayer",
+        "repentance"
       ],
       "voicings": [
         {
@@ -8533,7 +8963,12 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "example"
+        "commitment",
+        "courage",
+        "example",
+        "faith",
+        "pioneers",
+        "trials"
       ],
       "voicings": [
         {
@@ -8655,9 +9090,12 @@
       "videoAvailable": true,
       "tags": [
         "Resurrection",
+        "Word of Wisdom",
         "agency",
+        "commandments",
         "eternal life",
         "plan of salvation",
+        "self-control",
         "temples"
       ],
       "voicings": [
@@ -8702,7 +9140,10 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Atonement of Jesus Christ",
+        "Jesus Christ",
         "Second Coming",
+        "child of God",
         "love",
         "worthiness"
       ],
@@ -8743,7 +9184,9 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Family History",
         "Heavenly Father",
+        "courage",
         "family",
         "love"
       ],
@@ -8867,9 +9310,14 @@
       "videoAvailable": false,
       "tags": [
         "Heavenly Father",
+        "Jesus Christ",
+        "discipleship",
+        "faith",
         "gratitude",
+        "joy",
         "love",
-        "plan of salvation"
+        "plan of salvation",
+        "reverence"
       ],
       "voicings": [
         {
@@ -8913,6 +9361,10 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Christmas",
+        "Jesus Christ",
+        "praise",
+        "prophecy",
         "worship"
       ],
       "voicings": [
@@ -8961,12 +9413,16 @@
       "videoAvailable": false,
       "tags": [
         "Heavenly Father",
+        "Jesus Christ",
         "Joseph Smith",
         "Restoration",
         "baptism",
+        "faith",
         "family",
         "love",
         "missionary work",
+        "nature",
+        "prayer",
         "priesthood",
         "scriptures",
         "temples",
@@ -9010,7 +9466,9 @@
       "videoAvailable": false,
       "tags": [
         "Heavenly Father",
+        "child of God",
         "love",
+        "prayer",
         "worthiness"
       ],
       "voicings": [
@@ -9052,7 +9510,9 @@
       "tags": [
         "Heavenly Father",
         "agency",
+        "discipleship",
         "gratitude",
+        "prayer",
         "service"
       ],
       "voicings": [
@@ -9092,6 +9552,7 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Family History",
         "family",
         "temples"
       ],
@@ -9133,10 +9594,15 @@
       "videoAvailable": false,
       "tags": [
         "Heavenly Father",
+        "Jesus Christ",
+        "child of God",
         "divine worth",
+        "faith",
         "kindness",
         "learning",
-        "love"
+        "love",
+        "patience",
+        "prayer"
       ],
       "voicings": [
         {
@@ -9175,6 +9641,9 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Christmas",
+        "Jesus Christ",
+        "discipleship",
         "love",
         "worship"
       ],
@@ -9216,7 +9685,8 @@
       "videoAvailable": false,
       "tags": [
         "Heavenly Father",
-        "love"
+        "love",
+        "prayer"
       ],
       "voicings": [
         {
@@ -9255,9 +9725,14 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Holy Ghost",
+        "faith",
+        "grace",
+        "guidance",
         "love",
         "peace",
-        "plan of salvation"
+        "plan of salvation",
+        "prayer"
       ],
       "voicings": [
         {
@@ -9296,8 +9771,10 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Jesus Christ",
         "baptism",
-        "example"
+        "example",
+        "obedience"
       ],
       "voicings": [
         {
@@ -9336,11 +9813,16 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Atonement of Jesus Christ",
+        "Jesus Christ",
+        "grace",
         "gratitude",
         "hope",
+        "joy",
         "love",
         "peace",
-        "plan of salvation"
+        "plan of salvation",
+        "prayer"
       ],
       "voicings": [
         {
@@ -9381,7 +9863,12 @@
       "recordingAvailable": false,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "God's love",
+        "faith",
+        "guidance",
+        "trust in the Lord"
+      ],
       "voicings": [
         {
           "name": "Unison"
@@ -9419,7 +9906,10 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "Joseph Smith"
+        "First Vision",
+        "Joseph Smith",
+        "prayer",
+        "trust in the Lord"
       ],
       "voicings": [
         {
@@ -9458,10 +9948,13 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Family History",
         "covenants",
         "love",
         "peace",
         "plan of salvation",
+        "preparation",
+        "reverence",
         "temples"
       ],
       "voicings": [
@@ -9501,6 +9994,9 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Jesus Christ",
+        "child of God",
+        "faith",
         "love"
       ],
       "voicings": [
@@ -9540,6 +10036,11 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Jesus Christ",
+        "charity",
+        "commitment",
+        "guidance",
+        "obedience",
         "service"
       ],
       "voicings": [
@@ -9579,6 +10080,9 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Jesus Christ",
+        "guidance",
+        "obedience",
         "testimony"
       ],
       "voicings": [
@@ -9620,7 +10124,8 @@
       "tags": [
         "Heavenly Father",
         "gratitude",
-        "love"
+        "love",
+        "prayer"
       ],
       "voicings": [
         {
@@ -9659,12 +10164,18 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Jesus Christ",
+        "faith",
         "family",
         "gratitude",
+        "joy",
         "love",
         "missionary work",
+        "obedience",
+        "prayer",
         "service",
         "sharing",
+        "truth",
         "worship"
       ],
       "voicings": [
@@ -9703,7 +10214,11 @@
       "recordingAvailable": false,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "commitment",
+        "faith",
+        "obedience"
+      ],
       "voicings": [
         {
           "name": "Unison"
@@ -9741,10 +10256,14 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Jesus Christ",
         "Jesus Christ's ministry",
         "agency",
+        "charity",
+        "compassion",
         "example",
         "love",
+        "obedience",
         "peace",
         "scriptures",
         "service"
@@ -9787,10 +10306,16 @@
       "videoAvailable": false,
       "tags": [
         "Heavenly Father",
+        "Jesus Christ",
         "Joseph Smith",
         "Restoration",
+        "gospel",
+        "humility",
         "love",
-        "scriptures"
+        "prayer",
+        "scriptures",
+        "truth",
+        "wisdom"
       ],
       "voicings": [
         {
@@ -9836,8 +10361,11 @@
       "videoAvailable": false,
       "tags": [
         "example",
+        "faith",
         "family",
+        "guidance",
         "love",
+        "prayer",
         "priesthood",
         "service"
       ],
@@ -9878,7 +10406,10 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Jesus Christ",
+        "faith",
         "love",
+        "obedience",
         "testimony"
       ],
       "voicings": [
@@ -9918,9 +10449,15 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Holy Ghost",
+        "Jesus Christ",
         "love",
+        "prayer",
+        "prophets",
+        "reverence",
         "scriptures",
-        "testimony"
+        "testimony",
+        "truth"
       ],
       "voicings": [
         {
@@ -9960,10 +10497,14 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Holy Ghost",
         "gratitude",
+        "guidance",
         "hope",
         "love",
-        "peace"
+        "mercy",
+        "peace",
+        "prayer"
       ],
       "voicings": [
         {
@@ -10002,7 +10543,11 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "forgiveness"
+        "Atonement of Jesus Christ",
+        "forgiveness",
+        "grace",
+        "joy",
+        "repentance"
       ],
       "voicings": [
         {
@@ -10036,7 +10581,11 @@
       "recordingAvailable": false,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "commandments",
+        "faith",
+        "obedience"
+      ],
       "voicings": [
         {
           "name": "Unison"
@@ -10075,6 +10624,7 @@
       "videoAvailable": true,
       "tags": [
         "Heavenly Father",
+        "child of God",
         "love"
       ],
       "voicings": [
@@ -10117,8 +10667,11 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "faith",
         "kindness",
-        "love"
+        "love",
+        "obedience",
+        "preparation"
       ],
       "voicings": [
         {
@@ -10218,7 +10771,9 @@
       "tags": [
         "learning",
         "love",
+        "ministering",
         "missionary work",
+        "obedience",
         "service",
         "sharing"
       ],
@@ -10259,7 +10814,12 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "God's love",
+        "cheerfulness",
+        "discipleship",
         "friendship",
+        "gospel",
+        "joy",
         "testimony"
       ],
       "voicings": [
@@ -10358,6 +10918,9 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Christmas",
+        "Jesus Christ",
+        "grace",
         "worship"
       ],
       "voicings": [
@@ -10397,9 +10960,14 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Atonement of Jesus Christ",
+        "Jesus Christ",
         "forgiveness",
+        "grace",
         "love",
-        "peace"
+        "peace",
+        "prayer",
+        "repentance"
       ],
       "voicings": [
         {
@@ -10478,7 +11046,10 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "children"
+        "Holy Ghost",
+        "children",
+        "comfort",
+        "song"
       ],
       "voicings": [
         {
@@ -10580,7 +11151,9 @@
       "videoAvailable": false,
       "tags": [
         "Heavenly Father",
+        "Holy Ghost",
         "love",
+        "prophets",
         "revelation"
       ],
       "voicings": [
@@ -10621,9 +11194,12 @@
       "videoAvailable": false,
       "tags": [
         "Heavenly Father",
+        "Jesus Christ",
         "Joseph Smith",
         "Restoration",
-        "revelation"
+        "gospel",
+        "revelation",
+        "truth"
       ],
       "voicings": [
         {
@@ -10668,7 +11244,12 @@
       "videoAvailable": false,
       "tags": [
         "agency",
-        "peace"
+        "commandments",
+        "faith",
+        "guidance",
+        "joy",
+        "peace",
+        "wisdom"
       ],
       "voicings": [
         {
@@ -10713,11 +11294,21 @@
       "videoAvailable": false,
       "tags": [
         "Heavenly Father",
+        "Zion",
+        "adversity",
         "eternal life",
+        "exaltation",
+        "faith",
+        "gospel",
+        "grace",
         "gratitude",
+        "guidance",
         "hope",
+        "obedience",
         "peace",
         "plan of salvation",
+        "praise",
+        "prophets",
         "service",
         "worship"
       ],
@@ -10758,9 +11349,15 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Creator",
+        "Jesus Christ",
         "friendship",
+        "grace",
+        "guidance",
         "peace",
-        "salvation"
+        "praise",
+        "salvation",
+        "shepherd"
       ],
       "voicings": [
         {
@@ -10877,13 +11474,19 @@
       "videoAvailable": false,
       "tags": [
         "Heavenly Father",
+        "Jesus Christ",
         "Jesus Christ's ministry",
         "Restoration",
         "baptism",
+        "gospel",
         "gratitude",
+        "ordinances",
         "priesthood",
+        "prophets",
         "revelation",
-        "temples"
+        "sacrament",
+        "temples",
+        "truth"
       ],
       "voicings": [
         {
@@ -10927,7 +11530,10 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "scriptures"
+        "endure to the end",
+        "guidance",
+        "scriptures",
+        "truth"
       ],
       "voicings": [
         {
@@ -10974,9 +11580,19 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Jesus Christ",
+        "adversity",
+        "courage",
+        "endure to the end",
+        "faith",
+        "grace",
         "hope",
+        "joy",
+        "pioneers",
         "plan of salvation",
-        "sacrifice"
+        "praise",
+        "sacrifice",
+        "trials"
       ],
       "voicings": [
         {
@@ -11015,8 +11631,11 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Jesus Christ",
         "Sabbath",
         "agency",
+        "reverence",
+        "sacrament",
         "worship"
       ],
       "voicings": [
@@ -11061,6 +11680,7 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Family History",
         "family",
         "temples"
       ],
@@ -11229,7 +11849,12 @@
       "sheetMusicAvailable": true,
       "videoAvailable": true,
       "tags": [
+        "Jesus Christ",
+        "commitment",
+        "endure to the end",
+        "faith",
         "missionary work",
+        "praise",
         "service"
       ],
       "voicings": [
@@ -11269,6 +11894,8 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Christmas",
+        "Jesus Christ",
         "love",
         "sharing"
       ],
@@ -11393,7 +12020,12 @@
       "videoAvailable": false,
       "tags": [
         "Heavenly Father",
-        "temptation"
+        "Jesus Christ",
+        "commitment",
+        "courage",
+        "faith",
+        "temptation",
+        "truth"
       ],
       "voicings": [
         {
@@ -11432,6 +12064,8 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "obedience",
+        "prophets",
         "scriptures"
       ],
       "voicings": [
@@ -11471,7 +12105,9 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "agency"
+        "agency",
+        "repentance",
+        "truth"
       ],
       "voicings": [
         {
@@ -11516,8 +12152,10 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Jesus Christ",
         "forgiveness",
-        "love"
+        "love",
+        "repentance"
       ],
       "voicings": [
         {
@@ -11554,9 +12192,16 @@
       "videoAvailable": false,
       "tags": [
         "Heavenly Father",
+        "Holy Ghost",
+        "Jesus Christ",
         "agency",
+        "commandments",
         "example",
+        "gospel",
+        "guidance",
         "love",
+        "obedience",
+        "prayer",
         "worthiness"
       ],
       "voicings": [
@@ -11593,7 +12238,10 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "love"
+        "Jesus Christ",
+        "grace",
+        "love",
+        "prayer"
       ],
       "voicings": [
         {
@@ -11632,10 +12280,12 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Jesus Christ",
         "covenants",
         "family",
         "love",
         "peace",
+        "prayer",
         "temples"
       ],
       "voicings": [
@@ -11675,6 +12325,8 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Jesus Christ",
+        "joy",
         "kindness",
         "love",
         "service",
@@ -11799,7 +12451,10 @@
       "sheetMusicAvailable": true,
       "videoAvailable": true,
       "tags": [
-        "Creation"
+        "Creation",
+        "Creator",
+        "Jesus Christ",
+        "nature"
       ],
       "voicings": [
         {
@@ -11845,7 +12500,10 @@
       "recordingAvailable": false,
       "sheetMusicAvailable": true,
       "videoAvailable": true,
-      "tags": [],
+      "tags": [
+        "Atonement of Jesus Christ",
+        "God's love"
+      ],
       "voicings": [
         {
           "name": "Unison"
@@ -11884,7 +12542,10 @@
       "videoAvailable": false,
       "tags": [
         "Creation",
+        "Creator",
         "Heavenly Father",
+        "Jesus Christ",
+        "ordinances",
         "priesthood"
       ],
       "voicings": [
@@ -11923,7 +12584,12 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "Atonement of Jesus Christ",
+        "faith",
+        "healing",
+        "trust in the Lord"
+      ],
       "voicings": [
         {
           "name": "Unison"
@@ -11981,7 +12647,9 @@
       "recordingAvailable": false,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "Family History"
+      ],
       "voicings": [
         {
           "name": "Unison"
@@ -12025,7 +12693,11 @@
       "videoAvailable": true,
       "tags": [
         "Heavenly Father",
-        "gratitude"
+        "Jesus Christ",
+        "faith",
+        "gratitude",
+        "prayer",
+        "reverence"
       ],
       "voicings": [
         {
@@ -12191,7 +12863,8 @@
         "family",
         "friendship",
         "kindness",
-        "love"
+        "love",
+        "nature"
       ],
       "voicings": [
         {
@@ -12235,8 +12908,13 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Jesus Christ",
+        "child of God",
+        "commitment",
         "divine worth",
+        "faith",
         "missionary work",
+        "obedience",
         "plan of salvation"
       ],
       "voicings": [
@@ -12357,7 +13035,10 @@
       "recordingAvailable": false,
       "sheetMusicAvailable": true,
       "videoAvailable": true,
-      "tags": [],
+      "tags": [
+        "Christmas",
+        "Jesus Christ"
+      ],
       "voicings": [
         {
           "name": "Unison"
@@ -12400,8 +13081,12 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Jesus Christ",
         "example",
+        "faith",
+        "obedience",
         "plan of salvation",
+        "prayer",
         "premortal existence"
       ],
       "voicings": [
@@ -12446,7 +13131,9 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Atonement of Jesus Christ",
         "Heavenly Father",
+        "Jesus Christ",
         "hope",
         "love",
         "plan of salvation",
@@ -12491,8 +13178,11 @@
       "tags": [
         "Heavenly Father",
         "children",
+        "comfort",
         "gratitude",
-        "love"
+        "love",
+        "praise",
+        "prayer"
       ],
       "voicings": [
         {
@@ -12608,8 +13298,10 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "God's love",
         "example",
-        "invitation"
+        "invitation",
+        "repentance"
       ],
       "voicings": [
         {
@@ -12651,7 +13343,9 @@
       "videoAvailable": false,
       "tags": [
         "Heavenly Father",
-        "peace"
+        "commandments",
+        "peace",
+        "prophets"
       ],
       "voicings": [
         {
@@ -12695,10 +13389,18 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Jesus Christ",
+        "comfort",
         "example",
+        "faith",
         "friendship",
+        "grace",
+        "guidance",
         "hope",
+        "joy",
         "love",
+        "mercy",
+        "praise",
         "testimony",
         "worship"
       ],
@@ -12746,7 +13448,12 @@
       "recordingAvailable": false,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "commitment",
+        "courage",
+        "faith",
+        "pioneers"
+      ],
       "voicings": [
         {
           "name": "Unison"
@@ -12789,7 +13496,11 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "love"
+        "Jesus Christ",
+        "child of God",
+        "faith",
+        "love",
+        "prayer"
       ],
       "voicings": [
         {
@@ -12907,7 +13618,10 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Jesus Christ",
         "Second Coming",
+        "discipleship",
+        "faith",
         "love",
         "missionary work"
       ],
@@ -12996,7 +13710,11 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Holy Ghost",
+        "Jesus Christ",
         "Resurrection",
+        "obedience",
+        "prophets",
         "scriptures"
       ],
       "voicings": [
@@ -13036,8 +13754,12 @@
       "sheetMusicAvailable": true,
       "videoAvailable": true,
       "tags": [
+        "Christmas",
+        "Holy Ghost",
+        "Jesus Christ",
         "scriptures",
-        "testimony"
+        "testimony",
+        "truth"
       ],
       "voicings": [
         {
@@ -13073,7 +13795,10 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "example"
+        "Christmas",
+        "Jesus Christ",
+        "example",
+        "guidance"
       ],
       "voicings": [
         {
@@ -13108,7 +13833,15 @@
       "recordingAvailable": false,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "Jesus Christ",
+        "adversity",
+        "grace",
+        "guidance",
+        "happiness",
+        "repentance",
+        "shepherd"
+      ],
       "voicings": [
         {
           "name": "Unison"
@@ -13146,9 +13879,11 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Jesus Christ",
         "agency",
         "example",
-        "love"
+        "love",
+        "obedience"
       ],
       "voicings": [
         {
@@ -13188,9 +13923,16 @@
       "videoAvailable": false,
       "tags": [
         "Heavenly Father",
+        "Jesus Christ",
         "Joseph Smith",
         "Restoration",
+        "faith",
+        "gospel",
+        "guidance",
+        "knowledge",
         "love",
+        "prayer",
+        "prophets",
         "scriptures"
       ],
       "voicings": [
@@ -13235,8 +13977,11 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Holy Ghost",
+        "prayer",
         "scriptures",
-        "testimony"
+        "testimony",
+        "truth"
       ],
       "voicings": [
         {
@@ -13283,6 +14028,8 @@
       "sheetMusicAvailable": true,
       "videoAvailable": true,
       "tags": [
+        "Holy Ghost",
+        "child of God",
         "family",
         "temples"
       ],
@@ -13404,9 +14151,18 @@
       "sheetMusicAvailable": true,
       "videoAvailable": true,
       "tags": [
+        "Holy Ghost",
+        "Jesus Christ",
         "children",
+        "comfort",
         "covenants",
-        "love"
+        "discipleship",
+        "love",
+        "repentance",
+        "trust in the Lord",
+        "truth",
+        "wisdom",
+        "youth"
       ],
       "voicings": [
         {
@@ -13669,7 +14425,9 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "agency"
+        "Jesus Christ",
+        "agency",
+        "faith"
       ],
       "voicings": [
         {
@@ -13711,7 +14469,12 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "sacrifice"
+        "courage",
+        "discipleship",
+        "pioneers",
+        "sacrifice",
+        "work",
+        "worldwide Church"
       ],
       "voicings": [
         {
@@ -13941,6 +14704,8 @@
       "tags": [
         "Restoration",
         "friendship",
+        "gospel",
+        "happiness",
         "missionary work",
         "scriptures",
         "testimony"
@@ -14039,10 +14804,16 @@
       "sheetMusicAvailable": true,
       "videoAvailable": true,
       "tags": [
+        "commandments",
+        "commitment",
         "family",
         "learning",
         "missionary work",
-        "worthiness"
+        "obedience",
+        "preparation",
+        "prophets",
+        "worthiness",
+        "youth"
       ],
       "voicings": [
         {
@@ -14134,6 +14905,10 @@
       "sheetMusicAvailable": true,
       "videoAvailable": true,
       "tags": [
+        "Jesus Christ",
+        "commitment",
+        "discipleship",
+        "obedience",
         "service"
       ],
       "voicings": [
@@ -14231,6 +15006,7 @@
       "videoAvailable": false,
       "tags": [
         "Heavenly Father",
+        "Jesus Christ",
         "Joseph Smith",
         "baptism",
         "scriptures"
@@ -14272,9 +15048,13 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Jesus Christ",
         "Jesus Christ's ministry",
         "agency",
-        "love"
+        "discipleship",
+        "love",
+        "obedience",
+        "shepherd"
       ],
       "voicings": [
         {
@@ -14315,9 +15095,15 @@
       "sheetMusicAvailable": true,
       "videoAvailable": true,
       "tags": [
+        "Jesus Christ",
         "baptism",
+        "commitment",
+        "discipleship",
         "eternal life",
+        "exaltation",
         "example",
+        "faith",
+        "obedience",
         "plan of salvation"
       ],
       "voicings": [],
@@ -14354,7 +15140,8 @@
       "videoAvailable": false,
       "tags": [
         "baptism",
-        "covenants"
+        "covenants",
+        "discipleship"
       ],
       "voicings": [
         {
@@ -14393,6 +15180,10 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Christmas",
+        "guidance",
+        "happiness",
+        "joy",
         "love",
         "service"
       ],
@@ -14439,7 +15230,9 @@
       "videoAvailable": true,
       "tags": [
         "Easter",
-        "Resurrection"
+        "Jesus Christ",
+        "Resurrection",
+        "praise"
       ],
       "voicings": [
         {
@@ -14597,7 +15390,8 @@
       "tags": [
         "agency",
         "plan of salvation",
-        "premortal existence"
+        "premortal existence",
+        "repentance"
       ],
       "voicings": [
         {
@@ -14647,10 +15441,19 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Holy Ghost",
+        "Jesus Christ",
+        "comfort",
+        "commitment",
+        "consecration",
+        "discipleship",
+        "faith",
         "love",
         "peace",
+        "prayer",
         "service",
-        "sharing"
+        "sharing",
+        "shepherd"
       ],
       "voicings": [
         {
@@ -14771,8 +15574,12 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Jesus Christ",
+        "discipleship",
         "example",
+        "grace",
         "hope",
+        "ministering",
         "peace"
       ],
       "voicings": [
@@ -14817,6 +15624,8 @@
       "sheetMusicAvailable": true,
       "videoAvailable": true,
       "tags": [
+        "Holy Ghost",
+        "child of God",
         "family",
         "temples"
       ],
@@ -14939,6 +15748,9 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Christmas",
+        "Jesus Christ",
+        "child of God",
         "love",
         "lullaby",
         "peace"
@@ -15099,9 +15911,15 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Jesus Christ",
         "agency",
+        "endure to the end",
+        "faith",
+        "grace",
         "hope",
-        "testimony"
+        "testimony",
+        "trials",
+        "truth"
       ],
       "voicings": [
         {
@@ -15142,8 +15960,11 @@
       "tags": [
         "Heavenly Father",
         "children",
+        "comfort",
         "gratitude",
-        "love"
+        "love",
+        "praise",
+        "prayer"
       ],
       "voicings": [
         {
@@ -15179,7 +16000,11 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "love"
+        "Holy Ghost",
+        "guidance",
+        "love",
+        "prayer",
+        "reverence"
       ],
       "voicings": [
         {
@@ -15217,8 +16042,10 @@
       "tags": [
         "Heavenly Father",
         "gratitude",
+        "guidance",
         "love",
-        "peace"
+        "peace",
+        "prayer"
       ],
       "voicings": [
         {
@@ -15258,8 +16085,11 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Holy Ghost",
+        "Jesus Christ",
         "family",
-        "love"
+        "love",
+        "prayer"
       ],
       "voicings": [
         {
@@ -15358,8 +16188,12 @@
       "videoAvailable": false,
       "tags": [
         "Sabbath",
+        "commandments",
         "example",
+        "faith",
         "missionary work",
+        "obedience",
+        "prayer",
         "scriptures",
         "service"
       ],
@@ -15400,6 +16234,8 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Christmas",
+        "Jesus Christ",
         "love",
         "worship"
       ],
@@ -15441,7 +16277,13 @@
       "recordingAvailable": false,
       "sheetMusicAvailable": true,
       "videoAvailable": true,
-      "tags": [],
+      "tags": [
+        "faith",
+        "gospel",
+        "happiness",
+        "obedience",
+        "prayer"
+      ],
       "voicings": [
         {
           "name": "Unison"
@@ -15475,7 +16317,11 @@
       "recordingAvailable": false,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "Holy Ghost",
+        "Jesus Christ",
+        "faith"
+      ],
       "voicings": [
         {
           "name": "Unison"
@@ -15515,7 +16361,9 @@
       "tags": [
         "friendship",
         "peace",
-        "service"
+        "service",
+        "unity",
+        "worldwide Church"
       ],
       "voicings": [
         {
@@ -15555,8 +16403,10 @@
       "videoAvailable": false,
       "tags": [
         "Heavenly Father",
+        "Jesus Christ",
         "Joseph Smith",
-        "Restoration"
+        "Restoration",
+        "prayer"
       ],
       "voicings": [
         {
@@ -15604,7 +16454,8 @@
       "tags": [
         "baptism",
         "covenants",
-        "love"
+        "love",
+        "obedience"
       ],
       "voicings": [
         {
@@ -15754,11 +16605,14 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "God's love",
         "Second Coming",
+        "blessings",
         "gratitude",
         "hope",
         "love",
-        "peace"
+        "peace",
+        "praise"
       ],
       "voicings": [
         {
@@ -15981,7 +16835,10 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Jesus Christ",
+        "child of God",
         "divine worth",
+        "faith",
         "love"
       ],
       "voicings": [
@@ -16032,7 +16889,12 @@
       "videoAvailable": false,
       "tags": [
         "agency",
-        "peace"
+        "commandments",
+        "faith",
+        "guidance",
+        "joy",
+        "peace",
+        "wisdom"
       ],
       "voicings": [
         {
@@ -16076,6 +16938,8 @@
       "videoAvailable": false,
       "tags": [
         "agency",
+        "discipleship",
+        "faith",
         "sharing"
       ],
       "voicings": [
@@ -16156,6 +17020,8 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "fasting",
+        "humility",
         "sharing",
         "testimony",
         "worship"
@@ -16197,7 +17063,8 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "love"
+        "love",
+        "nature"
       ],
       "voicings": [
         {
@@ -16235,7 +17102,9 @@
       "recordingAvailable": false,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "faith"
+      ],
       "voicings": [
         {
           "name": "Unison"
@@ -16270,7 +17139,10 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "Heavenly Father"
+        "Heavenly Father",
+        "Jesus Christ",
+        "faith",
+        "grace"
       ],
       "voicings": [
         {
@@ -16309,6 +17181,7 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "commandments",
         "family"
       ],
       "voicings": [
@@ -16348,7 +17221,10 @@
       "recordingAvailable": false,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "Atonement of Jesus Christ",
+        "praise"
+      ],
       "voicings": [
         {
           "name": "Unison"
@@ -16390,6 +17266,9 @@
         "kindness",
         "love",
         "missionary work",
+        "obedience",
+        "pioneers",
+        "prayer",
         "service"
       ],
       "voicings": [
@@ -16429,7 +17308,11 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "missionary work"
+        "Zion",
+        "commitment",
+        "discipleship",
+        "missionary work",
+        "preparation"
       ],
       "voicings": [
         {
@@ -16471,7 +17354,8 @@
       "tags": [
         "Heavenly Father",
         "love",
-        "peace"
+        "peace",
+        "prayer"
       ],
       "voicings": [
         {
@@ -16577,9 +17461,13 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Holy Ghost",
+        "Jesus Christ",
         "Jesus Christ's ministry",
+        "comfort",
         "peace",
         "priesthood",
+        "prophets",
         "scriptures"
       ],
       "voicings": [
@@ -16619,6 +17507,7 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Jesus Christ",
         "Jesus Christ's ministry",
         "friendship"
       ],
@@ -16669,6 +17558,9 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Christmas",
+        "Jesus Christ",
+        "child of God",
         "love",
         "lullaby",
         "peace"
@@ -16711,10 +17603,13 @@
       "videoAvailable": false,
       "tags": [
         "Heavenly Father",
+        "faith",
         "family",
         "gratitude",
+        "guidance",
         "love",
         "plan of salvation",
+        "prayer",
         "priesthood"
       ],
       "voicings": [
@@ -16755,8 +17650,12 @@
       "videoAvailable": false,
       "tags": [
         "Heavenly Father",
+        "Jesus Christ",
         "Joseph Smith",
+        "commitment",
+        "gospel",
         "love",
+        "obedience",
         "testimony"
       ],
       "voicings": [
@@ -16795,7 +17694,11 @@
       "recordingAvailable": false,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "faith",
+        "prophecy",
+        "prophets"
+      ],
       "voicings": [
         {
           "name": "Unison"
@@ -16833,6 +17736,7 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "charity",
         "family",
         "home",
         "love"
@@ -16874,6 +17778,7 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "comfort",
         "priesthood"
       ],
       "voicings": [
@@ -16913,7 +17818,8 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "kindness"
+        "kindness",
+        "obedience"
       ],
       "voicings": [
         {
@@ -16952,7 +17858,11 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "gratitude"
+        "Creator",
+        "gratitude",
+        "joy",
+        "nature",
+        "praise"
       ],
       "voicings": [
         {
@@ -16991,6 +17901,7 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "child of God",
         "divine worth",
         "plan of salvation",
         "premortal existence"
@@ -17037,7 +17948,10 @@
       "videoAvailable": false,
       "tags": [
         "agency",
-        "love"
+        "commitment",
+        "love",
+        "obedience",
+        "prayer"
       ],
       "voicings": [
         {
@@ -17121,6 +18035,7 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Jesus Christ",
         "kindness"
       ],
       "voicings": [
@@ -17160,6 +18075,7 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Holy Ghost",
         "baptism",
         "covenants"
       ],
@@ -17200,7 +18116,11 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "peace"
+        "commandments",
+        "faith",
+        "obedience",
+        "peace",
+        "prophets"
       ],
       "voicings": [
         {
@@ -17239,9 +18159,12 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Holy Ghost",
         "agency",
+        "guidance",
         "scriptures",
-        "temptation"
+        "temptation",
+        "truth"
       ],
       "voicings": [
         {
@@ -17277,6 +18200,7 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "commitment",
         "gratitude"
       ],
       "voicings": [
@@ -17316,7 +18240,8 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "agency"
+        "agency",
+        "happiness"
       ],
       "voicings": [
         {
@@ -17358,7 +18283,11 @@
       "recordingAvailable": false,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "Jesus Christ",
+        "music",
+        "nature"
+      ],
       "voicings": [
         {
           "name": "Unison"
@@ -17395,7 +18324,11 @@
       "recordingAvailable": false,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "Atonement of Jesus Christ",
+        "prayer",
+        "repentance"
+      ],
       "voicings": [
         {
           "name": "Unison"
@@ -17436,7 +18369,9 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "Christmas"
+      ],
       "voicings": [
         {
           "name": "Unison"
@@ -17557,6 +18492,7 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Jesus Christ",
         "children",
         "love"
       ],
@@ -17664,7 +18600,9 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Jesus Christ",
         "missionary work",
+        "obedience",
         "testimony"
       ],
       "voicings": [
@@ -17704,7 +18642,10 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "love"
+        "Atonement of Jesus Christ",
+        "Jesus Christ",
+        "love",
+        "praise"
       ],
       "voicings": [
         {
@@ -17809,7 +18750,9 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "Book of Mormon"
+      ],
       "voicings": [
         {
           "name": "Two-Part"
@@ -17914,6 +18857,7 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Jesus Christ",
         "love"
       ],
       "voicings": [
@@ -17953,8 +18897,12 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "First Vision",
         "Joseph Smith",
-        "love"
+        "Restoration of the Church",
+        "faith",
+        "love",
+        "prayer"
       ],
       "voicings": [
         {
@@ -17999,7 +18947,9 @@
       "tags": [
         "accountability",
         "agency",
-        "gratitude"
+        "gratitude",
+        "joy",
+        "repentance"
       ],
       "voicings": [
         {
@@ -18039,6 +18989,9 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Book of Mormon",
+        "Holy Ghost",
+        "commandments",
         "scriptures"
       ],
       "voicings": [
@@ -18144,7 +19097,9 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "Jesus Christ"
+      ],
       "voicings": [
         {
           "name": "Unison"

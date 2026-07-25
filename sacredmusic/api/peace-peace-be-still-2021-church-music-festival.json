@@ -62,7 +62,11 @@
       "sheetMusicAvailable": true,
       "videoAvailable": true,
       "tags": [
-        "peace"
+        "comfort",
+        "faith",
+        "peace",
+        "trials",
+        "trust in the Lord"
       ],
       "voicings": [
         {
@@ -169,6 +173,11 @@
       "sheetMusicAvailable": true,
       "videoAvailable": true,
       "tags": [
+        "Jesus Christ",
+        "gospel",
+        "grace",
+        "joy",
+        "mercy",
         "peace"
       ],
       "voicings": [],
@@ -383,11 +392,17 @@
       "sheetMusicAvailable": true,
       "videoAvailable": true,
       "tags": [
+        "Jesus Christ",
+        "comfort",
         "eternal life",
+        "grace",
         "hope",
+        "joy",
         "kindness",
         "love",
-        "peace"
+        "mercy",
+        "peace",
+        "praise"
       ],
       "voicings": [
         {
@@ -503,11 +518,13 @@
       "sheetMusicAvailable": true,
       "videoAvailable": true,
       "tags": [
+        "discipleship",
         "example",
         "gathering of Israel",
         "missionary work",
         "plan of salvation",
-        "sacrifice"
+        "sacrifice",
+        "youth"
       ],
       "voicings": [],
       "assets": [
@@ -613,8 +630,13 @@
       "sheetMusicAvailable": true,
       "videoAvailable": true,
       "tags": [
+        "Jesus Christ",
+        "compassion",
+        "grace",
         "love",
-        "peace"
+        "peace",
+        "praise",
+        "prayer"
       ],
       "voicings": [],
       "assets": [
@@ -715,12 +737,16 @@
       "videoAvailable": true,
       "tags": [
         "Heavenly Father",
+        "Jesus Christ",
         "Joseph Smith",
         "Restoration",
         "baptism",
+        "faith",
         "family",
         "love",
         "missionary work",
+        "nature",
+        "prayer",
         "priesthood",
         "scriptures",
         "temples",
@@ -844,8 +870,14 @@
       "sheetMusicAvailable": true,
       "videoAvailable": true,
       "tags": [
+        "commitment",
+        "consecration",
+        "faith",
+        "grace",
+        "humility",
         "love",
         "missionary work",
+        "prayer",
         "service"
       ],
       "voicings": [],
@@ -953,7 +985,12 @@
       "sheetMusicAvailable": true,
       "videoAvailable": true,
       "tags": [
-        "peace"
+        "Jesus Christ",
+        "comfort",
+        "grace",
+        "guidance",
+        "peace",
+        "shepherd"
       ],
       "voicings": [
         {
@@ -1060,7 +1097,12 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": true,
-      "tags": [],
+      "tags": [
+        "Atonement of Jesus Christ",
+        "Jesus Christ",
+        "faith",
+        "praise"
+      ],
       "voicings": [
         {
           "name": "TTBB"
@@ -1170,15 +1212,21 @@
       "sheetMusicAvailable": true,
       "videoAvailable": true,
       "tags": [
+        "Jesus Christ",
         "Joseph Smith",
         "baptism",
+        "comfort",
+        "faith",
         "family",
+        "grace",
         "love",
         "missionary work",
         "peace",
+        "prayer",
         "priesthood",
         "scriptures",
-        "temples"
+        "temples",
+        "trials"
       ],
       "voicings": [
         {
@@ -1289,8 +1337,14 @@
       "sheetMusicAvailable": true,
       "videoAvailable": true,
       "tags": [
+        "Jesus Christ",
         "Second Coming",
-        "gratitude"
+        "faith",
+        "grace",
+        "gratitude",
+        "mercy",
+        "praise",
+        "trials"
       ],
       "voicings": [
         {
@@ -1507,6 +1561,8 @@
       "sheetMusicAvailable": true,
       "videoAvailable": true,
       "tags": [
+        "Christmas",
+        "praise",
         "worship"
       ],
       "voicings": [
@@ -1611,8 +1667,13 @@
       "sheetMusicAvailable": true,
       "videoAvailable": true,
       "tags": [
+        "Christmas",
+        "Jesus Christ",
+        "adversity",
         "hope",
-        "peace"
+        "joy",
+        "peace",
+        "praise"
       ],
       "voicings": [
         {
@@ -1728,7 +1789,10 @@
       "sheetMusicAvailable": true,
       "videoAvailable": true,
       "tags": [
-        "Second Coming"
+        "Jesus Christ",
+        "Second Coming",
+        "discipleship",
+        "praise"
       ],
       "voicings": [],
       "assets": [
@@ -1835,7 +1899,11 @@
       "sheetMusicAvailable": true,
       "videoAvailable": true,
       "tags": [
-        "love"
+        "Christmas",
+        "Jesus Christ",
+        "joy",
+        "love",
+        "praise"
       ],
       "voicings": [
         {
@@ -1940,7 +2008,9 @@
       "videoAvailable": true,
       "tags": [
         "hope",
+        "joy",
         "plan of salvation",
+        "praise",
         "worship"
       ],
       "voicings": [

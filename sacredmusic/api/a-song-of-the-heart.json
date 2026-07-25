@@ -30,6 +30,9 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Joseph Smith",
+        "love",
+        "ministering",
         "service"
       ],
       "voicings": [],
@@ -173,6 +176,12 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "charity",
+        "compassion",
+        "discipleship",
+        "love",
+        "nature",
+        "praise",
         "service"
       ],
       "voicings": [
@@ -346,8 +355,12 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "faith",
         "learning",
-        "service"
+        "love",
+        "ministering",
+        "service",
+        "truth"
       ],
       "voicings": [
         {
@@ -469,7 +482,12 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "service"
+        "charity",
+        "child of God",
+        "family",
+        "plan of salvation",
+        "service",
+        "teaching"
       ],
       "voicings": [],
       "assets": [
@@ -664,6 +682,13 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Holy Ghost",
+        "Jesus Christ",
+        "faith",
+        "love",
+        "obedience",
+        "prayer",
+        "scriptures",
         "sharing"
       ],
       "voicings": [],
@@ -833,7 +858,10 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "eternal life"
+        "eternal life",
+        "family",
+        "love",
+        "plan of salvation"
       ],
       "voicings": [],
       "assets": [
@@ -1001,7 +1029,9 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "friendship"
+        "friendship",
+        "love",
+        "unity"
       ],
       "voicings": [],
       "assets": [
@@ -1223,7 +1253,14 @@
       "tags": [
         "agency",
         "divine worth",
-        "premortal existence"
+        "faith",
+        "joy",
+        "obedience",
+        "plan of salvation",
+        "premortal existence",
+        "prophecy",
+        "scriptures",
+        "trials"
       ],
       "voicings": [],
       "assets": [
@@ -1470,7 +1507,10 @@
       "videoAvailable": false,
       "tags": [
         "example",
-        "learning"
+        "family",
+        "learning",
+        "love",
+        "truth"
       ],
       "voicings": [],
       "assets": [
@@ -1720,6 +1760,8 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "joy",
+        "love",
         "sharing"
       ],
       "voicings": [],
@@ -2121,7 +2163,9 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "agency"
+        "agency",
+        "morality",
+        "music"
       ],
       "voicings": [
         {

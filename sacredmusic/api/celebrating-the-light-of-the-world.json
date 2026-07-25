@@ -39,7 +39,13 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
-      "tags": [],
+      "tags": [
+        "Christmas",
+        "Jesus Christ",
+        "joy",
+        "music",
+        "praise"
+      ],
       "voicings": [],
       "assets": [
         {
@@ -137,7 +143,10 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
-      "tags": [],
+      "tags": [
+        "Christmas",
+        "ministering"
+      ],
       "voicings": [],
       "assets": [
         {
@@ -247,8 +256,13 @@
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
+        "Christmas",
+        "Jesus Christ",
+        "grace",
         "lullaby",
         "peace",
+        "praise",
+        "shepherd",
         "worship"
       ],
       "voicings": [],
@@ -359,6 +373,9 @@
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
+        "Christmas",
+        "Jesus Christ",
+        "praise",
         "worship"
       ],
       "voicings": [],
@@ -463,6 +480,9 @@
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
+        "Christmas",
+        "praise",
+        "shepherd",
         "worship"
       ],
       "voicings": [],
@@ -571,7 +591,11 @@
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
-        "Second Coming"
+        "Christmas",
+        "Jesus Christ",
+        "Second Coming",
+        "joy",
+        "praise"
       ],
       "voicings": [],
       "assets": [
@@ -671,6 +695,15 @@
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
+        "Holy Ghost",
+        "Jesus Christ",
+        "faith",
+        "grace",
+        "guidance",
+        "joy",
+        "mercy",
+        "music",
+        "praise",
         "salvation"
       ],
       "voicings": [],
@@ -784,6 +817,11 @@
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
+        "Atonement of Jesus Christ",
+        "Christmas",
+        "Jesus Christ",
+        "praise",
+        "shepherd",
         "worship"
       ],
       "voicings": [],

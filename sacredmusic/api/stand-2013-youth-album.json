@@ -32,7 +32,10 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
-      "tags": [],
+      "tags": [
+        "discipleship",
+        "scriptures"
+      ],
       "voicings": [],
       "assets": [
         {
@@ -135,7 +138,10 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "faith",
+        "testimony"
+      ],
       "voicings": [],
       "assets": [
         {
@@ -260,7 +266,8 @@
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
-        "hope"
+        "hope",
+        "joy"
       ],
       "voicings": [],
       "assets": [
@@ -383,6 +390,7 @@
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
+        "faith",
         "friendship",
         "hope"
       ],
@@ -620,7 +628,10 @@
       "videoAvailable": false,
       "tags": [
         "gratitude",
-        "hope"
+        "happiness",
+        "hope",
+        "joy",
+        "plan of salvation"
       ],
       "voicings": [],
       "assets": [
@@ -743,6 +754,7 @@
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
+        "joy",
         "learning"
       ],
       "voicings": [],
@@ -865,7 +877,9 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "Holy Ghost"
+      ],
       "voicings": [],
       "assets": [
         {
@@ -987,7 +1001,10 @@
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
-        "hope"
+        "Jesus Christ",
+        "faith",
+        "hope",
+        "joy"
       ],
       "voicings": [],
       "assets": [
@@ -1234,8 +1251,10 @@
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
+        "family",
         "friendship",
-        "home"
+        "home",
+        "joy"
       ],
       "voicings": [],
       "assets": [
@@ -1342,7 +1361,8 @@
       "tags": [
         "friendship",
         "hope",
-        "kindness"
+        "kindness",
+        "love"
       ],
       "voicings": [],
       "assets": [

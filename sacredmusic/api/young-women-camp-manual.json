@@ -30,7 +30,10 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "Creation"
+        "Creation",
+        "Creator",
+        "Jesus Christ",
+        "nature"
       ],
       "voicings": [],
       "assets": [
@@ -86,7 +89,8 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "Creation"
+        "Creation",
+        "love"
       ],
       "voicings": [],
       "assets": [
@@ -154,7 +158,9 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "home"
+        "home",
+        "joy",
+        "music"
       ],
       "voicings": [],
       "assets": [
@@ -216,7 +222,9 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "Heavenly Father"
+        "Heavenly Father",
+        "child of God",
+        "love"
       ],
       "voicings": [],
       "assets": [
@@ -277,7 +285,9 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "peace"
+      ],
       "voicings": [],
       "assets": [
         {
@@ -331,7 +341,10 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "happiness",
+        "youth"
+      ],
       "voicings": [],
       "assets": [
         {
@@ -385,7 +398,9 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "happiness"
+      ],
       "voicings": [],
       "assets": [
         {
@@ -439,7 +454,9 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "music"
+      ],
       "voicings": [],
       "assets": [
         {
@@ -497,7 +514,9 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "happiness"
+      ],
       "voicings": [],
       "assets": [
         {
@@ -615,7 +634,9 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "music"
+      ],
       "voicings": [],
       "assets": [
         {
@@ -670,7 +691,9 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "nature"
+      ],
       "voicings": [],
       "assets": [
         {
@@ -726,7 +749,8 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "gratitude"
+        "gratitude",
+        "nature"
       ],
       "voicings": [],
       "assets": [
@@ -779,7 +803,11 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "gratitude"
+        "Jesus Christ",
+        "commitment",
+        "discipleship",
+        "gratitude",
+        "love"
       ],
       "voicings": [],
       "assets": [
@@ -835,7 +863,13 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "child of God",
         "divine worth",
+        "faith",
+        "grace",
+        "guidance",
+        "love",
+        "plan of salvation",
         "premortal existence"
       ],
       "voicings": [],
@@ -892,8 +926,12 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Holy Ghost",
+        "Jesus Christ",
+        "Second Coming",
         "example",
         "kindness",
+        "love",
         "service",
         "temptation"
       ],
@@ -957,6 +995,14 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Holy Ghost",
+        "Jesus Christ",
+        "commitment",
+        "consecration",
+        "discipleship",
+        "faith",
+        "love",
+        "peace",
         "service",
         "sharing"
       ],
@@ -1012,9 +1058,18 @@
       "videoAvailable": false,
       "tags": [
         "Heavenly Father",
+        "child of God",
+        "endure to the end",
         "eternal life",
+        "exaltation",
+        "faith",
+        "family",
+        "guidance",
         "home",
-        "learning"
+        "learning",
+        "obedience",
+        "plan of salvation",
+        "teaching"
       ],
       "voicings": [],
       "assets": [
@@ -1068,7 +1123,12 @@
       "videoAvailable": false,
       "tags": [
         "Heavenly Father",
+        "Jesus Christ",
+        "charity",
+        "commandments",
+        "discipleship",
         "kindness",
+        "love",
         "service"
       ],
       "voicings": [],
@@ -1179,8 +1239,20 @@
       "videoAvailable": false,
       "tags": [
         "Heavenly Father",
+        "Jesus Christ",
+        "commandments",
+        "exaltation",
+        "gospel",
         "gratitude",
-        "learning"
+        "guidance",
+        "joy",
+        "knowledge",
+        "learning",
+        "love",
+        "obedience",
+        "plan of salvation",
+        "praise",
+        "teaching"
       ],
       "voicings": [],
       "assets": [
@@ -1234,10 +1306,22 @@
       "videoAvailable": false,
       "tags": [
         "Heavenly Father",
+        "Zion",
         "eternal life",
+        "exaltation",
+        "faith",
+        "gospel",
+        "grace",
         "gratitude",
+        "guidance",
         "hope",
-        "service"
+        "obedience",
+        "peace",
+        "plan of salvation",
+        "praise",
+        "prophets",
+        "service",
+        "worship"
       ],
       "voicings": [],
       "assets": [
@@ -1294,7 +1378,17 @@
       "videoAvailable": false,
       "tags": [
         "Heavenly Father",
+        "Jesus Christ",
+        "Joseph Smith",
+        "Restoration",
+        "baptism",
+        "faith",
+        "family",
+        "love",
         "missionary work",
+        "nature",
+        "priesthood",
+        "scriptures",
         "temples",
         "temptation"
       ],
@@ -1348,7 +1442,11 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "Jesus Christ",
+        "grace",
+        "peace"
+      ],
       "voicings": [],
       "assets": [
         {
@@ -1400,7 +1498,18 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Jesus Christ",
+        "Joseph Smith",
+        "Millennium",
+        "Restoration",
+        "Second Coming",
+        "baptism",
+        "faith",
+        "family",
         "missionary work",
+        "praise",
+        "priesthood",
+        "scriptures",
         "temples"
       ],
       "voicings": [],

@@ -36,7 +36,11 @@
       "sheetMusicAvailable": true,
       "videoAvailable": true,
       "tags": [
-        "Heavenly Father"
+        "Heavenly Father",
+        "faith",
+        "love",
+        "prayer",
+        "wisdom"
       ],
       "voicings": [],
       "assets": [
@@ -255,7 +259,11 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": true,
-      "tags": [],
+      "tags": [
+        "family",
+        "joy",
+        "love"
+      ],
       "voicings": [],
       "assets": [
         {
@@ -391,8 +399,13 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "faith",
         "hope",
-        "plan of salvation"
+        "humility",
+        "love",
+        "plan of salvation",
+        "prayer",
+        "trials"
       ],
       "voicings": [],
       "assets": [
@@ -512,8 +525,11 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "adversity",
         "agency",
-        "hope"
+        "compassion",
+        "hope",
+        "trials"
       ],
       "voicings": [],
       "assets": [
@@ -624,8 +640,13 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Jesus Christ",
         "gratitude",
-        "hope"
+        "hope",
+        "joy",
+        "love",
+        "peace",
+        "prayer"
       ],
       "voicings": [],
       "assets": [
@@ -762,7 +783,9 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "gratitude"
+        "gratitude",
+        "prayer",
+        "repentance"
       ],
       "voicings": [],
       "assets": [
@@ -873,7 +896,9 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "agency"
+        "agency",
+        "faith",
+        "happiness"
       ],
       "voicings": [],
       "assets": [
@@ -987,7 +1012,8 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "divine worth"
+        "divine worth",
+        "self-esteem"
       ],
       "voicings": [],
       "assets": [
@@ -1108,6 +1134,9 @@
       "videoAvailable": false,
       "tags": [
         "hope",
+        "repentance",
+        "sacrament",
+        "testimony",
         "worthiness"
       ],
       "voicings": [],
@@ -1214,7 +1243,11 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "Heavenly Father"
+        "Heavenly Father",
+        "faith",
+        "love",
+        "prayer",
+        "wisdom"
       ],
       "voicings": [],
       "assets": [

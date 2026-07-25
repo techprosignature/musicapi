@@ -32,7 +32,14 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": true,
-      "tags": [],
+      "tags": [
+        "Jesus Christ",
+        "commitment",
+        "discipleship",
+        "grace",
+        "love",
+        "obedience"
+      ],
       "voicings": [
         {
           "name": "Unison"
@@ -173,6 +180,9 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Jesus Christ",
+        "comfort",
+        "guidance",
         "plan of salvation"
       ],
       "voicings": [],
@@ -308,7 +318,9 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "courage",
         "example",
+        "faith",
         "hope",
         "missionary work"
       ],
@@ -449,7 +461,13 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "hope"
+        "Jesus Christ",
+        "courage",
+        "hope",
+        "love",
+        "peace",
+        "prayer",
+        "trials"
       ],
       "voicings": [],
       "assets": [
@@ -586,7 +604,10 @@
       "tags": [
         "divine worth",
         "hope",
-        "temptation"
+        "repentance",
+        "self-esteem",
+        "temptation",
+        "trials"
       ],
       "voicings": [
         {
@@ -725,7 +746,12 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "Sabbath"
+        "Sabbath",
+        "faith",
+        "happiness",
+        "joy",
+        "prayer",
+        "testimony"
       ],
       "voicings": [
         {
@@ -863,7 +889,12 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "Jesus Christ",
+        "grace",
+        "love",
+        "mercy"
+      ],
       "voicings": [
         {
           "name": "Unison"
@@ -1000,7 +1031,14 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "Jesus Christ",
+        "comfort",
+        "grace",
+        "love",
+        "mercy",
+        "prayer"
+      ],
       "voicings": [
         {
           "name": "Unison"
@@ -1138,6 +1176,10 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Jesus Christ",
+        "guidance",
+        "love",
+        "mercy",
         "service"
       ],
       "voicings": [
@@ -1276,7 +1318,12 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "grace",
+        "guidance",
+        "love",
+        "prayer"
+      ],
       "voicings": [],
       "assets": [
         {
@@ -1410,7 +1457,14 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "Jesus Christ",
+        "commitment",
+        "discipleship",
+        "grace",
+        "love",
+        "obedience"
+      ],
       "voicings": [
         {
           "name": "Unison"

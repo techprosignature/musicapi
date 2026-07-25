@@ -53,7 +53,12 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": true,
-      "tags": [],
+      "tags": [
+        "commitment",
+        "courage",
+        "faith",
+        "humility"
+      ],
       "voicings": [],
       "assets": [
         {
@@ -147,10 +152,17 @@
       "sheetMusicAvailable": true,
       "videoAvailable": true,
       "tags": [
+        "Jesus Christ",
         "Restoration",
+        "Zion",
+        "commitment",
+        "exaltation",
         "learning",
+        "obedience",
         "service",
-        "temples"
+        "temples",
+        "truth",
+        "wisdom"
       ],
       "voicings": [
         {

@@ -33,7 +33,14 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "Jesus Christ",
+        "commitment",
+        "discipleship",
+        "grace",
+        "love",
+        "obedience"
+      ],
       "voicings": [],
       "assets": [
         {
@@ -154,7 +161,13 @@
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
-        "agency"
+        "Jesus Christ",
+        "agency",
+        "commitment",
+        "faith",
+        "guidance",
+        "love",
+        "plan of salvation"
       ],
       "voicings": [],
       "assets": [
@@ -276,7 +289,10 @@
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
-        "divine worth"
+        "child of God",
+        "courage",
+        "divine worth",
+        "repentance"
       ],
       "voicings": [],
       "assets": [
@@ -393,7 +409,13 @@
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
-        "hope"
+        "Creator",
+        "faith",
+        "happiness",
+        "hope",
+        "joy",
+        "love",
+        "trials"
       ],
       "voicings": [],
       "assets": [
@@ -555,7 +577,9 @@
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
+        "courage",
         "example",
+        "faith",
         "hope",
         "missionary work"
       ],
@@ -678,7 +702,11 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "Jesus Christ",
+        "child of God",
+        "faith"
+      ],
       "voicings": [],
       "assets": [
         {
@@ -799,6 +827,9 @@
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
+        "Jesus Christ",
+        "adversity",
+        "faith",
         "hope"
       ],
       "voicings": [],
@@ -921,7 +952,10 @@
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
-        "agency"
+        "adversity",
+        "agency",
+        "child of God",
+        "plan of salvation"
       ],
       "voicings": [],
       "assets": [
@@ -1039,7 +1073,10 @@
       "tags": [
         "divine worth",
         "hope",
-        "temptation"
+        "repentance",
+        "self-esteem",
+        "temptation",
+        "trials"
       ],
       "voicings": [],
       "assets": [

@@ -69,7 +69,12 @@
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
+        "Jesus Christ",
+        "comfort",
+        "grace",
         "gratitude",
+        "praise",
+        "prayer",
         "temptation"
       ],
       "voicings": [
@@ -187,6 +192,15 @@
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
+        "Holy Ghost",
+        "Jesus Christ",
+        "faith",
+        "grace",
+        "guidance",
+        "joy",
+        "mercy",
+        "music",
+        "praise",
         "salvation"
       ],
       "voicings": [
@@ -308,7 +322,19 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
-      "tags": [],
+      "tags": [
+        "Jesus Christ",
+        "Millennium",
+        "child of God",
+        "faith",
+        "joy",
+        "love",
+        "music",
+        "peace",
+        "praise",
+        "unity",
+        "worship"
+      ],
       "voicings": [],
       "assets": [
         {
@@ -427,7 +453,14 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
-      "tags": [],
+      "tags": [
+        "blessings",
+        "commitment",
+        "discipleship",
+        "praise",
+        "repentance",
+        "supplication"
+      ],
       "voicings": [],
       "assets": [
         {
@@ -553,8 +586,18 @@
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
+        "Jesus Christ",
+        "adversity",
+        "comfort",
+        "faith",
+        "grace",
         "hope",
-        "temptation"
+        "joy",
+        "obedience",
+        "peace",
+        "praise",
+        "temptation",
+        "trials"
       ],
       "voicings": [
         {
@@ -679,8 +722,18 @@
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
+        "Jesus Christ",
+        "Joseph Smith",
+        "Millennium",
         "Restoration",
+        "Second Coming",
+        "baptism",
+        "faith",
+        "family",
         "missionary work",
+        "praise",
+        "priesthood",
+        "scriptures",
         "temples"
       ],
       "voicings": [],
@@ -797,7 +850,10 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
-      "tags": [],
+      "tags": [
+        "praise",
+        "prayer"
+      ],
       "voicings": [
         {
           "name": "SATB"
@@ -1034,7 +1090,14 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
-      "tags": [],
+      "tags": [
+        "commitment",
+        "consecration",
+        "discipleship",
+        "ministering",
+        "obedience",
+        "prayer"
+      ],
       "voicings": [
         {
           "name": "Unison"
@@ -1262,7 +1325,12 @@
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
+        "Jesus Christ",
+        "commitment",
+        "endure to the end",
+        "faith",
         "missionary work",
+        "praise",
         "service"
       ],
       "voicings": [
@@ -1384,7 +1452,12 @@
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
-        "gratitude"
+        "adversity",
+        "endure to the end",
+        "faith",
+        "grace",
+        "gratitude",
+        "trials"
       ],
       "voicings": [
         {
@@ -1511,8 +1584,11 @@
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
+        "Jesus Christ",
         "Light of Christ",
-        "example"
+        "example",
+        "ministering",
+        "testimony"
       ],
       "voicings": [
         {
@@ -1642,7 +1718,15 @@
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
-        "hope"
+        "assurance",
+        "comfort",
+        "endure to the end",
+        "grace",
+        "hope",
+        "peace",
+        "praise",
+        "repentance",
+        "trials"
       ],
       "voicings": [
         {

@@ -37,12 +37,15 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Jesus Christ",
+        "Joseph Smith",
         "Millennium",
         "Second Coming",
         "baptism",
         "family",
         "missionary work",
         "peace",
+        "priesthood",
         "scriptures",
         "temples"
       ],
@@ -155,7 +158,11 @@
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
+        "Holy Ghost",
+        "Jesus Christ",
+        "discipleship",
         "love",
+        "ministering",
         "missionary work",
         "service"
       ],
@@ -649,7 +656,8 @@
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
-        "hope"
+        "hope",
+        "unity"
       ],
       "voicings": [],
       "assets": [
@@ -770,7 +778,10 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "discipleship",
+        "supplication"
+      ],
       "voicings": [],
       "assets": [
         {
@@ -892,6 +903,8 @@
       "videoAvailable": false,
       "tags": [
         "Heavenly Father",
+        "mercy",
+        "ministering",
         "salvation",
         "service"
       ],
@@ -1016,6 +1029,8 @@
       "videoAvailable": false,
       "tags": [
         "Heavenly Father",
+        "knowledge",
+        "mercy",
         "peace"
       ],
       "voicings": [],
@@ -1138,6 +1153,7 @@
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
+        "Jesus Christ",
         "missionary work",
         "service"
       ],
@@ -1261,8 +1277,11 @@
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
+        "Jesus Christ",
         "Second Coming",
-        "gratitude"
+        "grace",
+        "gratitude",
+        "mercy"
       ],
       "voicings": [],
       "assets": [
@@ -1503,7 +1522,9 @@
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
-        "Second Coming"
+        "Second Coming",
+        "mercy",
+        "supplication"
       ],
       "voicings": [],
       "assets": [
@@ -1625,8 +1646,12 @@
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
+        "Jesus Christ",
+        "discipleship",
+        "grace",
         "gratitude",
-        "love"
+        "love",
+        "mercy"
       ],
       "voicings": [],
       "assets": [
@@ -1739,10 +1764,12 @@
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
+        "Jesus Christ",
         "baptism",
         "eternal life",
         "example",
         "forgiveness",
+        "ordinances",
         "plan of salvation",
         "worthiness"
       ],
@@ -1813,6 +1840,7 @@
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
+        "Jesus Christ",
         "Second Coming",
         "peace"
       ],
@@ -1887,9 +1915,12 @@
       "videoAvailable": false,
       "tags": [
         "Easter",
+        "Jesus Christ",
         "forgiveness",
+        "grace",
         "gratitude",
         "love",
+        "mercy",
         "plan of salvation",
         "worship"
       ],
@@ -2020,6 +2051,8 @@
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
+        "Jesus Christ",
+        "grace",
         "lullaby",
         "peace",
         "worship"

@@ -39,7 +39,13 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": true,
-      "tags": [],
+      "tags": [
+        "Christmas",
+        "Jesus Christ",
+        "joy",
+        "music",
+        "praise"
+      ],
       "voicings": [],
       "assets": [
         {
@@ -144,7 +150,11 @@
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
-        "Second Coming"
+        "Christmas",
+        "Jesus Christ",
+        "Second Coming",
+        "joy",
+        "praise"
       ],
       "voicings": [],
       "assets": [
@@ -382,6 +392,11 @@
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
+        "Atonement of Jesus Christ",
+        "Christmas",
+        "Jesus Christ",
+        "praise",
+        "shepherd",
         "worship"
       ],
       "voicings": [],
@@ -901,7 +916,11 @@
       "sheetMusicAvailable": true,
       "videoAvailable": true,
       "tags": [
-        "love"
+        "Christmas",
+        "Jesus Christ",
+        "joy",
+        "love",
+        "praise"
       ],
       "voicings": [
         {
@@ -1230,8 +1249,11 @@
       "sheetMusicAvailable": true,
       "videoAvailable": true,
       "tags": [
+        "Christmas",
+        "Jesus Christ",
         "love",
-        "lullaby"
+        "lullaby",
+        "praise"
       ],
       "voicings": [],
       "assets": [
@@ -1355,9 +1377,17 @@
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
+        "Atonement of Jesus Christ",
+        "Christmas",
+        "Jesus Christ",
         "Second Coming",
+        "comfort",
         "eternal life",
+        "joy",
         "love",
+        "praise",
+        "prayer",
+        "sacrament",
         "worship"
       ],
       "voicings": [
@@ -1478,6 +1508,11 @@
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
+        "Christmas",
+        "Jesus Christ",
+        "grace",
+        "music",
+        "praise",
         "salvation"
       ],
       "voicings": [],

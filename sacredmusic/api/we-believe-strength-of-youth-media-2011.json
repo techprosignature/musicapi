@@ -32,6 +32,9 @@
       "sheetMusicAvailable": true,
       "videoAvailable": true,
       "tags": [
+        "Jesus Christ",
+        "endure to the end",
+        "faith",
         "hope",
         "love",
         "plan of salvation",
@@ -125,6 +128,7 @@
       "sheetMusicAvailable": true,
       "videoAvailable": true,
       "tags": [
+        "commitment",
         "learning",
         "missionary work",
         "priesthood"
@@ -221,10 +225,16 @@
       "sheetMusicAvailable": true,
       "videoAvailable": true,
       "tags": [
+        "commitment",
+        "courage",
+        "discipleship",
         "example",
+        "joy",
         "love",
+        "obedience",
         "service",
-        "virtue"
+        "virtue",
+        "youth"
       ],
       "voicings": [
         {
@@ -322,7 +332,9 @@
       "tags": [
         "Heavenly Father",
         "hope",
-        "love"
+        "joy",
+        "love",
+        "trials"
       ],
       "voicings": [],
       "assets": [
@@ -412,8 +424,15 @@
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
+        "Jesus Christ",
         "Jesus Christ's ministry",
+        "endure to the end",
         "eternal life",
+        "exaltation",
+        "faith",
+        "grace",
+        "joy",
+        "praise",
         "testimony"
       ],
       "voicings": [
@@ -509,7 +528,11 @@
       "videoAvailable": false,
       "tags": [
         "Israel",
-        "hope"
+        "Zion",
+        "commitment",
+        "hope",
+        "truth",
+        "youth"
       ],
       "voicings": [],
       "assets": [
