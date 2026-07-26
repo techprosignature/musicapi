@@ -33,6 +33,7 @@
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
+        "commitment",
         "discipleship",
         "scriptures"
       ],
@@ -754,8 +755,10 @@
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
+        "adversity",
         "joy",
-        "learning"
+        "learning",
+        "trials"
       ],
       "voicings": [],
       "assets": [
@@ -878,7 +881,9 @@
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
-        "Holy Ghost"
+        "Holy Ghost",
+        "guidance",
+        "prayer"
       ],
       "voicings": [],
       "assets": [
@@ -1359,6 +1364,7 @@
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
+        "comfort",
         "friendship",
         "hope",
         "kindness",
@@ -1492,7 +1498,8 @@
       "videoAvailable": false,
       "tags": [
         "agency",
-        "example"
+        "example",
+        "obedience"
       ],
       "voicings": [],
       "assets": [

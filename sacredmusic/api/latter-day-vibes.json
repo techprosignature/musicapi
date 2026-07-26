@@ -153,7 +153,8 @@
         "gratitude",
         "joy",
         "love",
-        "nature"
+        "nature",
+        "praise"
       ],
       "voicings": [],
       "assets": [
@@ -483,6 +484,7 @@
       "tags": [
         "Holy Ghost",
         "agency",
+        "guidance",
         "teaching",
         "worthiness"
       ],
@@ -3250,7 +3252,8 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "faith"
+        "faith",
+        "youth"
       ],
       "voicings": [],
       "assets": [
@@ -3418,7 +3421,9 @@
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
-        "hope"
+        "Atonement of Jesus Christ",
+        "hope",
+        "trials"
       ],
       "voicings": [],
       "assets": [
@@ -3613,7 +3618,9 @@
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
-        "Jesus Christ"
+        "Atonement of Jesus Christ",
+        "Jesus Christ",
+        "repentance"
       ],
       "voicings": [],
       "assets": [
@@ -3788,6 +3795,7 @@
       "videoAvailable": false,
       "tags": [
         "Jesus Christ",
+        "comfort",
         "faith"
       ],
       "voicings": [],
@@ -4303,7 +4311,9 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "youth"
+      ],
       "voicings": [],
       "assets": [
         {
@@ -4831,9 +4841,11 @@
       "videoAvailable": false,
       "tags": [
         "Jesus Christ",
+        "adversity",
         "child of God",
         "hope",
-        "love"
+        "love",
+        "truth"
       ],
       "voicings": [],
       "assets": [
@@ -4942,7 +4954,8 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "grace"
+        "grace",
+        "repentance"
       ],
       "voicings": [],
       "assets": [
@@ -5143,7 +5156,8 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "grace"
+        "grace",
+        "guidance"
       ],
       "voicings": [],
       "assets": [
@@ -5357,7 +5371,8 @@
       "videoAvailable": false,
       "tags": [
         "Jesus Christ",
-        "hope"
+        "hope",
+        "prayer"
       ],
       "voicings": [],
       "assets": [
@@ -5753,6 +5768,7 @@
       "videoAvailable": false,
       "tags": [
         "Jesus Christ",
+        "commitment",
         "hope",
         "love"
       ],
@@ -6156,7 +6172,8 @@
       "videoAvailable": false,
       "tags": [
         "Jesus Christ",
-        "gratitude"
+        "gratitude",
+        "youth"
       ],
       "voicings": [],
       "assets": [
@@ -6348,7 +6365,9 @@
       "recordingAvailable": true,
       "sheetMusicAvailable": false,
       "videoAvailable": false,
-      "tags": [],
+      "tags": [
+        "youth"
+      ],
       "voicings": [],
       "assets": [
         {
@@ -6514,7 +6533,8 @@
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
-        "Jesus Christ"
+        "Jesus Christ",
+        "youth"
       ],
       "voicings": [],
       "assets": [
@@ -6713,6 +6733,7 @@
         "joy",
         "music",
         "plan of salvation",
+        "praise",
         "worship"
       ],
       "voicings": [],
@@ -6776,7 +6797,9 @@
       "videoAvailable": true,
       "tags": [
         "faith",
-        "plan of salvation"
+        "guidance",
+        "plan of salvation",
+        "work"
       ],
       "voicings": [
         {
@@ -7062,8 +7085,11 @@
         "Heavenly Father",
         "Jesus Christ",
         "grace",
+        "guidance",
         "hope",
-        "love"
+        "love",
+        "prayer",
+        "trials"
       ],
       "voicings": [],
       "assets": [
@@ -7202,7 +7228,8 @@
       "videoAvailable": false,
       "tags": [
         "discipleship",
-        "faith"
+        "faith",
+        "obedience"
       ],
       "voicings": [],
       "assets": [
@@ -7485,7 +7512,9 @@
         "Jesus Christ",
         "child of God",
         "divine worth",
-        "love"
+        "love",
+        "obedience",
+        "prayer"
       ],
       "voicings": [],
       "assets": [
@@ -7627,6 +7656,7 @@
         "grace",
         "mercy",
         "nature",
+        "praise",
         "worship"
       ],
       "voicings": [],
@@ -7883,6 +7913,7 @@
       "tags": [
         "Jesus Christ",
         "example",
+        "guidance",
         "hope",
         "love"
       ],
@@ -8034,9 +8065,11 @@
       "videoAvailable": false,
       "tags": [
         "Jesus Christ",
+        "commitment",
         "discipleship",
         "grace",
-        "love"
+        "love",
+        "obedience"
       ],
       "voicings": [],
       "assets": [
@@ -8162,7 +8195,9 @@
       "tags": [
         "Jesus Christ",
         "agency",
+        "commitment",
         "faith",
+        "guidance",
         "love",
         "plan of salvation"
       ],
@@ -8289,7 +8324,9 @@
       "videoAvailable": false,
       "tags": [
         "child of God",
-        "divine worth"
+        "courage",
+        "divine worth",
+        "repentance"
       ],
       "voicings": [],
       "assets": [
@@ -8540,6 +8577,7 @@
       "videoAvailable": false,
       "tags": [
         "Jesus Christ",
+        "adversity",
         "faith",
         "hope"
       ],
@@ -8665,6 +8703,7 @@
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
+        "adversity",
         "agency",
         "child of God",
         "plan of salvation"
@@ -8787,8 +8826,10 @@
       "tags": [
         "divine worth",
         "hope",
+        "repentance",
         "self-esteem",
-        "temptation"
+        "temptation",
+        "trials"
       ],
       "voicings": [],
       "assets": [
@@ -8913,7 +8954,9 @@
         "Jesus Christ",
         "grace",
         "love",
-        "music"
+        "music",
+        "praise",
+        "wisdom"
       ],
       "voicings": [],
       "assets": [
@@ -9083,8 +9126,10 @@
       "tags": [
         "Creation",
         "Jesus Christ",
+        "commitment",
         "love",
-        "nature"
+        "nature",
+        "praise"
       ],
       "voicings": [],
       "assets": [
@@ -9251,6 +9296,7 @@
       "tags": [
         "Jesus Christ",
         "music",
+        "praise",
         "worship"
       ],
       "voicings": [],
@@ -9427,9 +9473,12 @@
       "tags": [
         "Heavenly Father",
         "Holy Ghost",
+        "adversity",
+        "comfort",
         "faith",
         "mercy",
         "peace",
+        "prayer",
         "worship"
       ],
       "voicings": [],
@@ -9599,6 +9648,7 @@
       "videoAvailable": false,
       "tags": [
         "Jesus Christ",
+        "comfort",
         "eternal life",
         "grace",
         "hope",
@@ -9606,7 +9656,8 @@
         "kindness",
         "love",
         "mercy",
-        "peace"
+        "peace",
+        "praise"
       ],
       "voicings": [],
       "assets": [
@@ -9782,13 +9833,17 @@
       "tags": [
         "Holy Ghost",
         "Jesus Christ",
+        "comfort",
+        "commitment",
         "consecration",
         "discipleship",
         "faith",
         "love",
         "peace",
+        "prayer",
         "service",
-        "sharing"
+        "sharing",
+        "shepherd"
       ],
       "voicings": [],
       "assets": [
@@ -9961,6 +10016,7 @@
         "faith",
         "hope",
         "peace",
+        "praise",
         "testimony",
         "worship"
       ],
@@ -10127,11 +10183,14 @@
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
+        "Atonement of Jesus Christ",
         "Jesus Christ",
         "Sabbath",
         "faith",
         "love",
-        "plan of salvation"
+        "plan of salvation",
+        "praise",
+        "sacrament"
       ],
       "voicings": [],
       "assets": [
@@ -10299,11 +10358,13 @@
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
+        "Creator",
         "Jesus Christ",
         "joy",
         "love",
         "mercy",
         "music",
+        "praise",
         "worship"
       ],
       "voicings": [],
@@ -10465,8 +10526,11 @@
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
+        "adversity",
         "faith",
-        "love"
+        "love",
+        "prayer",
+        "trials"
       ],
       "voicings": [],
       "assets": []
@@ -10507,9 +10571,12 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "Atonement of Jesus Christ",
         "Resurrection",
         "discipleship",
+        "endure to the end",
         "eternal life",
+        "exaltation",
         "faith",
         "joy"
       ],
@@ -10657,10 +10724,13 @@
       "sheetMusicAvailable": false,
       "videoAvailable": true,
       "tags": [
+        "Creator",
         "faith",
+        "happiness",
         "hope",
         "joy",
-        "love"
+        "love",
+        "trials"
       ],
       "voicings": [],
       "assets": [
@@ -10760,6 +10830,7 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "courage",
         "example",
         "faith",
         "hope",
@@ -11045,6 +11116,7 @@
       "videoAvailable": false,
       "tags": [
         "Jesus Christ",
+        "guidance",
         "love",
         "mercy",
         "service"
@@ -11187,7 +11259,9 @@
       "videoAvailable": false,
       "tags": [
         "grace",
-        "love"
+        "guidance",
+        "love",
+        "prayer"
       ],
       "voicings": [],
       "assets": [
@@ -11553,7 +11627,9 @@
       "tags": [
         "Heavenly Father",
         "faith",
-        "love"
+        "love",
+        "prayer",
+        "wisdom"
       ],
       "voicings": [],
       "assets": [
@@ -11672,7 +11748,9 @@
         "faith",
         "forgiveness",
         "hope",
-        "missionary work"
+        "missionary work",
+        "obedience",
+        "repentance"
       ],
       "voicings": [],
       "assets": [

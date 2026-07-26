@@ -154,6 +154,7 @@
       "videoAvailable": false,
       "tags": [
         "Jesus Christ",
+        "adversity",
         "faith",
         "hope"
       ],
@@ -266,6 +267,7 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "adversity",
         "agency",
         "child of God",
         "plan of salvation"
@@ -379,6 +381,7 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
+        "commitment",
         "family",
         "grace",
         "guidance",
@@ -504,7 +507,9 @@
       "tags": [
         "Atonement of Jesus Christ",
         "Jesus Christ",
-        "grace"
+        "grace",
+        "repentance",
+        "trials"
       ],
       "voicings": [],
       "assets": [
@@ -618,7 +623,8 @@
         "Heavenly Father",
         "child of God",
         "divine worth",
-        "love"
+        "love",
+        "prayer"
       ],
       "voicings": [],
       "assets": [
@@ -845,6 +851,7 @@
       "tags": [
         "Jesus Christ",
         "agency",
+        "commitment",
         "faith",
         "guidance",
         "love",
@@ -961,10 +968,13 @@
       "tags": [
         "Holy Ghost",
         "agency",
+        "comfort",
         "forgiveness",
         "hope",
         "ordinances",
-        "priesthood"
+        "prayer",
+        "priesthood",
+        "repentance"
       ],
       "voicings": [],
       "assets": [
@@ -1189,7 +1199,9 @@
       "videoAvailable": false,
       "tags": [
         "child of God",
-        "divine worth"
+        "courage",
+        "divine worth",
+        "repentance"
       ],
       "voicings": [],
       "assets": [

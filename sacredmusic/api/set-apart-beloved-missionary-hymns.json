@@ -41,10 +41,15 @@
         "Joseph Smith",
         "Millennium",
         "Second Coming",
+        "Zion",
         "baptism",
+        "faith",
         "family",
+        "gospel",
         "missionary work",
         "peace",
+        "praise",
+        "preparation",
         "priesthood",
         "scriptures",
         "temples"
@@ -160,10 +165,14 @@
       "tags": [
         "Holy Ghost",
         "Jesus Christ",
+        "commitment",
         "discipleship",
+        "faith",
+        "humility",
         "love",
         "ministering",
         "missionary work",
+        "obedience",
         "service"
       ],
       "voicings": [],
@@ -287,7 +296,12 @@
       "videoAvailable": false,
       "tags": [
         "agency",
-        "peace"
+        "commandments",
+        "faith",
+        "guidance",
+        "joy",
+        "peace",
+        "wisdom"
       ],
       "voicings": [],
       "assets": [
@@ -409,6 +423,9 @@
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
+        "endure to the end",
+        "exaltation",
+        "faith",
         "hope",
         "love",
         "scriptures"
@@ -656,7 +673,10 @@
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
+        "commitment",
+        "courage",
         "hope",
+        "praise",
         "unity"
       ],
       "voicings": [],
@@ -779,7 +799,11 @@
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
+        "blessings",
+        "commitment",
         "discipleship",
+        "praise",
+        "repentance",
         "supplication"
       ],
       "voicings": [],
@@ -903,10 +927,13 @@
       "videoAvailable": false,
       "tags": [
         "Heavenly Father",
+        "guidance",
         "mercy",
         "ministering",
+        "preparation",
         "salvation",
-        "service"
+        "service",
+        "trials"
       ],
       "voicings": [],
       "assets": [
@@ -1029,9 +1056,12 @@
       "videoAvailable": false,
       "tags": [
         "Heavenly Father",
+        "comfort",
         "knowledge",
         "mercy",
-        "peace"
+        "morality",
+        "peace",
+        "wisdom"
       ],
       "voicings": [],
       "assets": [
@@ -1154,7 +1184,11 @@
       "videoAvailable": false,
       "tags": [
         "Jesus Christ",
+        "commitment",
+        "endure to the end",
+        "faith",
         "missionary work",
+        "praise",
         "service"
       ],
       "voicings": [],
@@ -1279,9 +1313,12 @@
       "tags": [
         "Jesus Christ",
         "Second Coming",
+        "faith",
         "grace",
         "gratitude",
-        "mercy"
+        "mercy",
+        "praise",
+        "trials"
       ],
       "voicings": [],
       "assets": [
@@ -1400,7 +1437,10 @@
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
-        "scriptures"
+        "endure to the end",
+        "guidance",
+        "scriptures",
+        "truth"
       ],
       "voicings": [],
       "assets": [
@@ -1522,7 +1562,9 @@
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
+        "Christmas",
         "Second Coming",
+        "comfort",
         "mercy",
         "supplication"
       ],
@@ -1651,7 +1693,8 @@
         "grace",
         "gratitude",
         "love",
-        "mercy"
+        "mercy",
+        "praise"
       ],
       "voicings": [],
       "assets": [
@@ -1769,6 +1812,7 @@
         "eternal life",
         "example",
         "forgiveness",
+        "obedience",
         "ordinances",
         "plan of salvation",
         "worthiness"
@@ -1840,9 +1884,18 @@
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
+        "Atonement of Jesus Christ",
         "Jesus Christ",
         "Second Coming",
-        "peace"
+        "assurance",
+        "comfort",
+        "faith",
+        "peace",
+        "praise",
+        "repentance",
+        "sacrament",
+        "sorrow",
+        "trials"
       ],
       "voicings": [],
       "assets": [
@@ -1914,14 +1967,19 @@
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
+        "Atonement of Jesus Christ",
         "Easter",
         "Jesus Christ",
         "forgiveness",
         "grace",
         "gratitude",
+        "humility",
+        "joy",
         "love",
         "mercy",
         "plan of salvation",
+        "praise",
+        "sacrament",
         "worship"
       ],
       "voicings": [],
@@ -2051,10 +2109,13 @@
       "sheetMusicAvailable": false,
       "videoAvailable": false,
       "tags": [
+        "Christmas",
         "Jesus Christ",
         "grace",
         "lullaby",
         "peace",
+        "praise",
+        "shepherd",
         "worship"
       ],
       "voicings": [],
