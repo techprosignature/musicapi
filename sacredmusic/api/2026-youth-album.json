@@ -3812,9 +3812,205 @@
           }
         }
       ]
+    },
+    {
+      "title": "You Know Me",
+      "slug": "you-know-me-2027",
+      "bookSlug": "2026-youth-album",
+      "bookSectionTitle": "2026 Singles",
+      "songNumber": "9",
+      "songDate": "2026-08-07",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Grant Lemon"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Connor Austin"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Connor Austin"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/ba/vg/bavga609wcg8kjvv0noq4ovvpsttqnfilhizh5wm/you_know_me_2027.mp3",
+          "duration": 175000,
+          "lang": "eng",
+          "title": "You Know Me",
+          "description": "Accompaniment / instrumental track for “You Know Me\" from the 2027 Youth Album. English.",
+          "seoDescription": "Accompaniment / instrumental track for “You Know Me\" from the 2027 Youth Album. English.",
+          "seoTitle": "You Know Me",
+          "shareableTitle": "You Know Me",
+          "thumbnail": {
+            "description": "Album Cover for Youth Music Single, “You Know Me.”",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7y5t6hga9zlbzfjzfzcsoc2k9bybuivuulx5hwfv/full/1920,/0/default",
+            "seoDescription": "Album Cover for Youth Music Single, \"You Know Me.\"",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7y5t6hga9zlbzfjzfzcsoc2k9bybuivuulx5hwfv/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7y5t6hga9zlbzfjzfzcsoc2k9bybuivuulx5hwfv/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7y5t6hga9zlbzfjzfzcsoc2k9bybuivuulx5hwfv/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7y5t6hga9zlbzfjzfzcsoc2k9bybuivuulx5hwfv/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7y5t6hga9zlbzfjzfzcsoc2k9bybuivuulx5hwfv/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7y5t6hga9zlbzfjzfzcsoc2k9bybuivuulx5hwfv/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7y5t6hga9zlbzfjzfzcsoc2k9bybuivuulx5hwfv/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7y5t6hga9zlbzfjzfzcsoc2k9bybuivuulx5hwfv/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7y5t6hga9zlbzfjzfzcsoc2k9bybuivuulx5hwfv/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7y5t6hga9zlbzfjzfzcsoc2k9bybuivuulx5hwfv/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7y5t6hga9zlbzfjzfzcsoc2k9bybuivuulx5hwfv/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/h9/mj/h9mjj1di1tsk88lknt3jna8p51bcls3h2qorwuhv/you_know_me_2027.mp3",
+          "duration": 175000,
+          "lang": "eng",
+          "title": "You Know Me",
+          "description": "“You Know Me\" from the 2027 Youth Album. English.",
+          "seoDescription": "“You Know Me\" from the 2027 Youth Album. English.",
+          "seoTitle": "You Know Me",
+          "shareableTitle": "You Know Me",
+          "thumbnail": {
+            "description": "Album Cover for Youth Music Single, “You Know Me.”",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e74qd674fnppd2vaxaajtx3buptfdadrz8hxxf0f/full/1920,/0/default",
+            "seoDescription": "Album Cover for Youth Music Single, \"You Know Me.\"",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e74qd674fnppd2vaxaajtx3buptfdadrz8hxxf0f/full/!320%2C427/0/default",
+                "width": 320,
+                "height": 427
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e74qd674fnppd2vaxaajtx3buptfdadrz8hxxf0f/full/!640%2C853/0/default",
+                "width": 640,
+                "height": 853
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e74qd674fnppd2vaxaajtx3buptfdadrz8hxxf0f/full/!800%2C1067/0/default",
+                "width": 800,
+                "height": 1067
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e74qd674fnppd2vaxaajtx3buptfdadrz8hxxf0f/full/!1280%2C1707/0/default",
+                "width": 1280,
+                "height": 1707
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e74qd674fnppd2vaxaajtx3buptfdadrz8hxxf0f/full/!1600%2C2133/0/default",
+                "width": 1600,
+                "height": 2133
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e74qd674fnppd2vaxaajtx3buptfdadrz8hxxf0f/full/!1920%2C2560/0/default",
+                "width": 1920,
+                "height": 2560
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e74qd674fnppd2vaxaajtx3buptfdadrz8hxxf0f/full/!60%2C80/0/default",
+                "width": 60,
+                "height": 80
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e74qd674fnppd2vaxaajtx3buptfdadrz8hxxf0f/full/!250%2C333/0/default",
+                "width": 250,
+                "height": 333
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e74qd674fnppd2vaxaajtx3buptfdadrz8hxxf0f/full/!200%2C267/0/default",
+                "width": 200,
+                "height": 267
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e74qd674fnppd2vaxaajtx3buptfdadrz8hxxf0f/full/!100%2C133/0/default",
+                "width": 100,
+                "height": 133
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e74qd674fnppd2vaxaajtx3buptfdadrz8hxxf0f/full/!500%2C667/0/default",
+                "width": 500,
+                "height": 667
+              }
+            ]
+          }
+        }
+      ]
     }
   ],
   "limit": 500,
   "offset": 0,
-  "total": 20
+  "total": 21
 }
