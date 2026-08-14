@@ -25840,71 +25840,6 @@
       "assets": []
     },
     {
-      "title": "The Miracle",
-      "slug": "the-miracle-simplified",
-      "bookSlug": "music-from-the-friend",
-      "bookSectionTitle": "2018",
-      "songNumber": "",
-      "songDate": "2018-06-01",
-      "arrangers": [],
-      "artists": [],
-      "authors": [
-        {
-          "personName": "Shawna Belt Edwards"
-        }
-      ],
-      "composers": [
-        {
-          "personName": "Shawna Belt Edwards"
-        }
-      ],
-      "instrumentations": [
-        {
-          "name": "Voice"
-        },
-        {
-          "name": "Piano"
-        }
-      ],
-      "musicalFeatures": [],
-      "recordingAvailable": true,
-      "sheetMusicAvailable": true,
-      "videoAvailable": false,
-      "tags": [
-        "Atonement of Jesus Christ",
-        "faith",
-        "healing",
-        "trust in the Lord"
-      ],
-      "voicings": [
-        {
-          "name": "Unison"
-        }
-      ],
-      "assets": [
-        {
-          "assetType": "AUDIO_VOCAL",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/2b/f2/2bf25bb7ecd711ec9324eeeeac1e9466d661b66d/the_miracle_bradshaw.mp3",
-          "duration": 199000,
-          "lang": "eng",
-          "title": "The Miracle",
-          "description": "“The Miracle” from Music from the Ensign (1971–2018) (English, 1973-12-01).",
-          "seoDescription": "“The Miracle” from Music from the Ensign (1971–2018) (English, 1973-12-01).",
-          "seoTitle": "The Miracle",
-          "shareableTitle": "The Miracle",
-          "thumbnail": {
-            "description": "",
-            "distributionUrl": "",
-            "seoDescription": "",
-            "seoTitle": "",
-            "shareableTitle": "",
-            "title": "",
-            "renditions": []
-          }
-        }
-      ]
-    },
-    {
       "title": "Family History Is the Story of Me",
       "slug": "family-history-is-the-story-of-me-howe",
       "bookSlug": "music-from-the-friend",
@@ -29286,5 +29221,5 @@
   ],
   "limit": 500,
   "offset": 0,
-  "total": 357
+  "total": 358
 }
