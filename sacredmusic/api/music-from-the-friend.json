@@ -29217,9 +29217,58 @@
         }
       ],
       "assets": []
+    },
+    {
+      "title": "Living the Gospel of Jesus Christ",
+      "slug": "living-the-gospel-of-jesus-christ-kelly",
+      "bookSlug": "music-from-the-friend",
+      "bookSectionTitle": "2026",
+      "songNumber": "",
+      "songDate": "2026-09-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Kathleen Kelly"
+        },
+        {
+          "personName": " Natalie Adams"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Kathleen Kelly"
+        },
+        {
+          "personName": " Natalie Adams"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Jesus Christ",
+        "children",
+        "gospel"
+      ],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": []
     }
   ],
   "limit": 500,
   "offset": 0,
-  "total": 358
+  "total": 357
 }
