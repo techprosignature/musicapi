@@ -8192,26 +8192,6 @@
       ],
       "assets": [
         {
-          "assetType": "AUDIO_ACCOMPANIMENT",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/a2/f4/a2f45b4993f888e251c768b5937e73dbad719262/raise_your_voices_to_the_lord_accompaniment_eng.mp3",
-          "duration": 87000,
-          "lang": "eng",
-          "title": "Raise Your Voices to the Lord",
-          "description": "“Raise Your Voices to the Lord” from Hymns (English).",
-          "seoDescription": "“Raise Your Voices to the Lord” from Hymns (English).",
-          "seoTitle": "Raise Your Voices to the Lord",
-          "shareableTitle": "Raise Your Voices to the Lord",
-          "thumbnail": {
-            "description": "",
-            "distributionUrl": "",
-            "seoDescription": "",
-            "seoTitle": "",
-            "shareableTitle": "",
-            "title": "",
-            "renditions": []
-          }
-        },
-        {
           "assetType": "AUDIO_VOCAL_CONGREGATION",
           "distributionUrl": "https://assets.churchofjesuschrist.org/70/a5/70a5c350a3f415916319a642eeae3216a21fd7fb/raise_your_voices_to_the_lord_vocal_accompaniment_eng.mp3",
           "duration": 87000,
