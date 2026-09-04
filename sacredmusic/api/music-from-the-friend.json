@@ -15375,11 +15375,11 @@
     },
     {
       "title": "I Know That My Savior Loves Me",
-      "slug": "i-know-that-my-savior-loves-me-2010",
+      "slug": "i-know-that-my-savior-loves-me",
       "bookSlug": "music-from-the-friend",
-      "bookSectionTitle": "2002",
+      "bookSectionTitle": "2025",
       "songNumber": "",
-      "songDate": "2002-10-01",
+      "songDate": "2025-02-13",
       "arrangers": [],
       "artists": [],
       "authors": [
@@ -15401,12 +15401,15 @@
         },
         {
           "name": "Piano"
+        },
+        {
+          "name": "Guitar"
         }
       ],
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "Book of Mormon",
         "Jesus Christ",
@@ -15426,64 +15429,59 @@
       "assets": [
         {
           "assetType": "AUDIO_ACCOMPANIMENT",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/5b/5a/5b5abd692e63887ce767f91843118dfc697c1f90/i_know_that_my_savior_loves_me_accompaniment_eng.mp3",
-          "duration": 160705,
+          "distributionUrl": "https://assets.churchofjesuschrist.org/wc/be/wcbewc0zgxwmqbimzsrwquw079e269lh7u3pio0i/i_know_that_my_savior_loves_me.mp3",
+          "duration": 159000,
           "lang": "eng",
           "title": "I Know That My Savior Loves Me",
-          "description": "“I Know That My Savior Loves Me” (CSMP 2010, 2015) from Additional Songs for Children (English, 2010-01-01).",
-          "seoDescription": "“I Know That My Savior Loves Me” (CSMP 2010, 2015) from Additional Songs for Children (English, 2010-01-01).",
+          "description": "I Know That My Savior Loves Me",
+          "seoDescription": "I Know That My Savior Loves Me",
           "seoTitle": "I Know That My Savior Loves Me",
           "shareableTitle": "I Know That My Savior Loves Me",
           "thumbnail": {
-            "description": "Cover art for the Children’s Songbook.",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7acbd321fb315aa8d91fa10e1bf058342be4e829/full/1280,/0/default",
-            "seoDescription": "Cover art for the Children's Songbook.",
+            "description": "Sacred Music",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
+            "seoDescription": "Sacred Music",
             "seoTitle": "No Title",
             "shareableTitle": "No Title",
             "title": "No Title",
             "renditions": [
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7acbd321fb315aa8d91fa10e1bf058342be4e829/full/!320%2C320/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
                 "width": 320,
                 "height": 320
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7acbd321fb315aa8d91fa10e1bf058342be4e829/full/!640%2C640/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!640%2C640/0/default",
                 "width": 640,
                 "height": 640
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7acbd321fb315aa8d91fa10e1bf058342be4e829/full/!800%2C800/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!800%2C800/0/default",
                 "width": 800,
                 "height": 800
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7acbd321fb315aa8d91fa10e1bf058342be4e829/full/!1280%2C1280/0/default",
-                "width": 1280,
-                "height": 1280
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7acbd321fb315aa8d91fa10e1bf058342be4e829/full/!60%2C60/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!60%2C60/0/default",
                 "width": 60,
                 "height": 60
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7acbd321fb315aa8d91fa10e1bf058342be4e829/full/!250%2C250/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!250%2C250/0/default",
                 "width": 250,
                 "height": 250
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7acbd321fb315aa8d91fa10e1bf058342be4e829/full/!200%2C200/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!200%2C200/0/default",
                 "width": 200,
                 "height": 200
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7acbd321fb315aa8d91fa10e1bf058342be4e829/full/!100%2C100/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!100%2C100/0/default",
                 "width": 100,
                 "height": 100
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7acbd321fb315aa8d91fa10e1bf058342be4e829/full/!500%2C500/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!500%2C500/0/default",
                 "width": 500,
                 "height": 500
               }
@@ -15491,23 +15489,125 @@
           }
         },
         {
-          "assetType": "AUDIO_VOCAL",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/ae/5a/ae5a8b30b8c2a1961ee42b51990baa78463fe254/i_know_that_my_savior_loves_me_vocal_accompaniment_eng.mp3",
-          "duration": 169996,
+          "assetType": "AUDIO_ACCOMPANIMENT_GUITAR",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/oi/ve/oiveewixe4bokcwr9g4m07s9iejdq212tk4i2rlq/i_know_that_my_savior_loves_me.mp3",
+          "duration": 159000,
           "lang": "eng",
           "title": "I Know That My Savior Loves Me",
-          "description": "“I Know That My Savior Loves Me” (CSMP 2010, 2015) from Additional Songs for Children (English, 2010-01-01).",
-          "seoDescription": "“I Know That My Savior Loves Me” (CSMP 2010, 2015) from Additional Songs for Children (English, 2010-01-01).",
+          "description": "I Know That My Savior Loves Me",
+          "seoDescription": "I Know That My Savior Loves Me",
           "seoTitle": "I Know That My Savior Loves Me",
           "shareableTitle": "I Know That My Savior Loves Me",
           "thumbnail": {
-            "description": "",
-            "distributionUrl": "",
-            "seoDescription": "",
-            "seoTitle": "",
-            "shareableTitle": "",
-            "title": "",
-            "renditions": []
+            "description": "Sacred Music",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
+            "seoDescription": "Sacred Music",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL_CHILDREN",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/0x/bn/0xbnicf9djzuerxxiseaxuzlh33u5fpycmaxlvc7/i_know_that_my_savior_loves_me.mp3",
+          "duration": 159000,
+          "lang": "eng",
+          "title": "I Know That My Savior Loves Me",
+          "description": "Vocal solo recording of “I Know That My Savior Loves Me” from Hymns—For Home and Church. English.",
+          "seoDescription": "Vocal solo recording of “I Know That My Savior Loves Me” from Hymns—For Home and Church. English.",
+          "seoTitle": "I Know That My Savior Loves Me",
+          "shareableTitle": "I Know That My Savior Loves Me",
+          "thumbnail": {
+            "description": "Sacred Music",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
+            "seoDescription": "Sacred Music",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
           }
         }
       ]
