@@ -20,7 +20,7 @@ Apps may start with `/index.json` to discover the current version or request `/v
 Fetch the search index only when global search is used, and fetch a collection only when it is opened. The catalog schema has an integer `schemaVersion`; consumers must reject unsupported versions rather than guessing.
 
 ```js
-const apiRoot = new URL("https://techprosignature.github.io/musicapi/");
+const apiRoot = new URL("https://living-music.github.io/musicapi/");
 const manifest = await fetch(new URL("index.json", apiRoot)).then((response) => response.json());
 const indexUrl = new URL(manifest.href, apiRoot);
 const index = await fetch(indexUrl).then((response) => response.json());
