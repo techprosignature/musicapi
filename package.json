@@ -1,0 +1,14 @@
+{
+  "name": "musicapi",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A versioned mirror and compact catalog of Church music metadata and media URLs.",
+  "scripts": {
+    "refresh": "node fetchProcess.js refresh",
+    "validate": "node fetchProcess.js validate",
+    "build": "node fetchProcess.js build"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

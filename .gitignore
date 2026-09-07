@@ -1,1 +1,7 @@
 node_modules/
+.DS_Store
+publish/
+.sacredmusic-refresh-*/
+.sacredmusic-backup-*/
+sacredmusic/.catalog-build-*/
+sacredmusic/.catalog-backup-*/

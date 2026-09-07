@@ -1,0 +1,67 @@
+name: Refresh and publish catalog
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: musicapi-publish
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Check out source
+        uses: actions/checkout@v4
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Refresh catalog
+        if: github.event_name != 'push'
+        run: node fetchProcess.js refresh
+      - name: Rebuild app catalog
+        run: node fetchProcess.js build
+      - name: Validate catalog
+        run: node fetchProcess.js validate
+      - name: Verify generated catalog is committed
+        if: github.event_name == 'push'
+        run: git diff --exit-code -- sacredmusic/catalog
+      - name: Commit refreshed snapshot
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add sacredmusic/
+          if git diff --cached --quiet; then
+            echo "Catalog is already current."
+          else
+            git commit -m "Refresh music catalog $(date -u +'%Y-%m-%d')"
+            git push
+          fi
+      - name: Prepare Pages artifact
+        run: |
+          mkdir -p publish/sacredmusic
+          cp -R sacredmusic/. publish/sacredmusic/
+          touch publish/.nojekyll
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: publish
+      - name: Deploy to Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
