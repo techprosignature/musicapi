@@ -1,5 +1,6 @@
 const fs = require("node:fs/promises");
 const path = require("node:path");
+const crypto = require("node:crypto");
 
 const ROOT = __dirname;
 const DATA_DIRECTORY = path.join(ROOT, "sacredmusic");
@@ -8,9 +9,29 @@ const LANGUAGE = "eng";
 const PAGE_SIZE = 500;
 const CONCURRENCY = 4;
 const AUDIO_PREFIX = "AUDIO_";
+const CATALOG_VERSION = "v1";
+const ARTWORK_TYPE_PRIORITY = [
+  "AUDIO_VOCAL",
+  "AUDIO_VOCAL_YOUTH",
+  "AUDIO_VOCAL_CHILDREN",
+  "AUDIO_VOCAL_FAMILY",
+  "AUDIO_VOCAL_CONGREGATION",
+  "AUDIO_INSTRUMENTAL",
+  "AUDIO_ACCOMPANIMENT",
+  "AUDIO_ACCOMPANIMENT_GUITAR",
+];
 
 function fail(message) {
   throw new Error(message);
+}
+
+function contentRevision(value) {
+  const digest = crypto.createHash("sha256").update(JSON.stringify(value)).digest("hex");
+  return `sha256:${digest}`;
+}
+
+function revisionToken(revision) {
+  return revision.slice("sha256:".length, "sha256:".length + 12);
 }
 
 async function fetchWithRetry(url, attempts = 3) {
@@ -130,36 +151,72 @@ function recordingLabel(type) {
 function normalizeSong(song, collectionSlug) {
   const songId = `${collectionSlug}:${song.slug}`;
   const typeCounts = new Map();
-  const recordings = (song.assets || [])
-    .filter((asset) => asset.assetType?.startsWith(AUDIO_PREFIX) && asset.distributionUrl)
+  const audioAssets = (song.assets || [])
+    .filter((asset) => asset.assetType?.startsWith(AUDIO_PREFIX) && asset.distributionUrl);
+  const artworkAsset = [...audioAssets]
+    .filter((asset) => imageUrl(asset))
+    .sort((left, right) => {
+      const leftIndex = ARTWORK_TYPE_PRIORITY.indexOf(left.assetType);
+      const rightIndex = ARTWORK_TYPE_PRIORITY.indexOf(right.assetType);
+      return (leftIndex === -1 ? Infinity : leftIndex) - (rightIndex === -1 ? Infinity : rightIndex);
+    })[0];
+  const artworkUrl = artworkAsset ? imageUrl(artworkAsset) : null;
+  const recordings = audioAssets
     .map((asset) => {
       const count = (typeCounts.get(asset.assetType) || 0) + 1;
       typeCounts.set(asset.assetType, count);
       const suffix = count === 1 ? "" : `:${count}`;
+      const recordingArtworkUrl = imageUrl(asset);
       return {
         id: `${songId}:${asset.assetType.toLowerCase()}${suffix}`,
         type: asset.assetType,
         label: recordingLabel(asset.assetType),
         url: asset.distributionUrl,
-        durationMs: asset.duration || null,
         language: asset.lang || LANGUAGE,
-        artworkUrl: imageUrl(asset),
+        ...(asset.duration ? { durationMs: asset.duration } : {}),
+        ...(recordingArtworkUrl && recordingArtworkUrl !== artworkUrl
+          ? { artworkUrl: recordingArtworkUrl }
+          : {}),
       };
     });
   return {
     id: songId,
     slug: song.slug,
     title: song.title,
-    subtitle: song.subtitle || null,
-    number: song.songNumber || null,
-    section: song.bookSectionTitle || null,
-    date: song.songDate || null,
+    ...(song.subtitle ? { subtitle: song.subtitle } : {}),
+    ...(song.songNumber ? { number: song.songNumber } : {}),
+    ...(song.bookSectionTitle ? { section: song.bookSectionTitle } : {}),
+    ...(song.songDate ? { date: song.songDate } : {}),
+    ...(artworkUrl ? { artworkUrl } : {}),
     artists: people(song.artists),
     authors: people(song.authors),
     composers: people(song.composers),
     arrangers: people(song.arrangers),
     tags: song.tags || [],
     recordings,
+  };
+}
+
+function collectionCore(collection) {
+  return {
+    id: collection.id,
+    slug: collection.slug,
+    title: collection.title,
+    ...(collection.artworkUrl ? { artworkUrl: collection.artworkUrl } : {}),
+    sourceUrl: collection.sourceUrl,
+    songCount: collection.songCount,
+    playableSongCount: collection.playableSongCount,
+  };
+}
+
+function searchRecord(song, collectionId) {
+  return {
+    id: song.id,
+    title: song.title,
+    ...(song.number ? { number: song.number } : {}),
+    collectionId,
+    artists: song.artists,
+    recordingTypes: [...new Set(song.recordings.map((recording) => recording.type))],
   };
 }
 
@@ -200,25 +257,51 @@ async function validateSnapshot(directory) {
 
 async function validateCatalog(directory, rawStats) {
   const catalogDirectory = path.join(directory, "catalog");
-  const index = JSON.parse(await fs.readFile(path.join(catalogDirectory, "index.json"), "utf8"));
-  if (index.schemaVersion !== 1 || !Array.isArray(index.collections)) {
+  const manifest = JSON.parse(await fs.readFile(path.join(catalogDirectory, "index.json"), "utf8"));
+  if (manifest.schemaVersion !== 1 || manifest.currentVersion !== CATALOG_VERSION) {
     fail("catalog/index.json has an unsupported or malformed schema");
+  }
+  const expectedIndexHref = `${CATALOG_VERSION}/index.json?v=${revisionToken(manifest.revision)}`;
+  if (manifest.href !== expectedIndexHref) fail("catalog/index.json has an invalid version URL");
+
+  const versionDirectory = path.join(catalogDirectory, CATALOG_VERSION);
+  const index = JSON.parse(await fs.readFile(path.join(versionDirectory, "index.json"), "utf8"));
+  if (index.schemaVersion !== 1 || !Array.isArray(index.collections)) {
+    fail(`${CATALOG_VERSION}/index.json has an unsupported or malformed schema`);
+  }
+  const { revision: indexRevision, ...indexCore } = index;
+  if (contentRevision(indexCore) !== indexRevision || manifest.revision !== indexRevision) {
+    fail("Catalog index revision does not match its content");
   }
 
   const collectionIds = new Set();
   const songIds = new Set();
+  const expectedSearchRecords = [];
   let songs = 0;
   let playableSongs = 0;
   let recordings = 0;
   for (const collection of index.collections) {
     if (collectionIds.has(collection.id)) fail(`Duplicate catalog collection ID: ${collection.id}`);
     collectionIds.add(collection.id);
-    if (collection.href !== `collections/${collection.slug}.json`) {
+    const expectedHref = `collections/${collection.slug}.json?v=${revisionToken(collection.revision)}`;
+    if (collection.href !== expectedHref) {
       fail(`Unsafe or unexpected catalog path for ${collection.id}`);
     }
-    const payload = JSON.parse(await fs.readFile(path.join(catalogDirectory, collection.href), "utf8"));
+    const collectionPath = collection.href.split("?", 1)[0];
+    const payload = JSON.parse(await fs.readFile(path.join(versionDirectory, collectionPath), "utf8"));
     if (payload.schemaVersion !== 1 || payload.collection?.id !== collection.id || !Array.isArray(payload.songs)) {
       fail(`Malformed compact collection: ${collection.id}`);
+    }
+    if (JSON.stringify(payload.collection) !== JSON.stringify(collection)) {
+      fail(`Collection metadata differs between the index and payload: ${collection.id}`);
+    }
+    const payloadCore = {
+      schemaVersion: payload.schemaVersion,
+      collection: collectionCore(payload.collection),
+      songs: payload.songs,
+    };
+    if (contentRevision(payloadCore) !== payload.revision || payload.revision !== collection.revision) {
+      fail(`Catalog revision mismatch: ${collection.id}`);
     }
     if (payload.songs.length !== collection.songCount) fail(`Catalog song count mismatch: ${collection.id}`);
     for (const song of payload.songs) {
@@ -226,6 +309,7 @@ async function validateCatalog(directory, rawStats) {
         fail(`Invalid or duplicate catalog song ID: ${song.id}`);
       }
       songIds.add(song.id);
+      expectedSearchRecords.push(searchRecord(song, collection.id));
       songs += 1;
       playableSongs += Number(song.recordings.length > 0);
       for (const recording of song.recordings) {
@@ -246,7 +330,22 @@ async function validateCatalog(directory, rawStats) {
     || index.stats?.songCount !== stats.songs
     || index.stats?.playableSongCount !== stats.playableSongs
   ) {
-    fail("catalog/index.json summary counts do not match its collections");
+    fail(`${CATALOG_VERSION}/index.json summary counts do not match its collections`);
+  }
+
+  const expectedSearchHref = `search.json?v=${revisionToken(index.search?.revision || "")}`;
+  if (index.search?.href !== expectedSearchHref || index.search?.songCount !== songs) {
+    fail("Catalog search metadata is invalid");
+  }
+  const search = JSON.parse(await fs.readFile(path.join(versionDirectory, "search.json"), "utf8"));
+  const searchCore = { schemaVersion: search.schemaVersion, songs: search.songs };
+  if (
+    search.schemaVersion !== 1
+    || contentRevision(searchCore) !== search.revision
+    || search.revision !== index.search.revision
+    || JSON.stringify(search.songs) !== JSON.stringify(expectedSearchRecords)
+  ) {
+    fail("Catalog search index does not match the collection data");
   }
   return stats;
 }
@@ -257,41 +356,80 @@ async function buildCatalog(directory) {
   const catalogDirectory = path.join(directory, "catalog");
   const staging = path.join(directory, `.catalog-build-${process.pid}`);
   const backup = path.join(directory, `.catalog-backup-${process.pid}`);
-  const collectionDirectory = path.join(staging, "collections");
+  const versionDirectory = path.join(staging, CATALOG_VERSION);
+  const collectionDirectory = path.join(versionDirectory, "collections");
   await fs.rm(staging, { recursive: true, force: true });
 
   try {
     await fs.mkdir(collectionDirectory, { recursive: true });
-    const index = { schemaVersion: 1, language: LANGUAGE, collections: [] };
+    const indexCollections = [];
+    const searchRecords = [];
     for (const collection of collections) {
       const raw = JSON.parse(await fs.readFile(path.join(directory, "api", `${collection.slug}.json`), "utf8"));
       const songs = raw.data.map((song) => normalizeSong(song, collection.slug));
       const playableSongCount = songs.filter((song) => song.recordings.length > 0).length;
-      const coverUrl = collection.bookThumbnail?.renditions?.find((item) => item.distributionUrl)?.distributionUrl
+      const artworkUrl = collection.bookThumbnail?.renditions?.find((item) => item.distributionUrl)?.distributionUrl
         || collection.bookThumbnail?.distributionUrl
         || null;
-      const item = {
+      const core = {
         id: collection.slug,
         slug: collection.slug,
         title: collection.title,
-        coverUrl,
+        ...(artworkUrl ? { artworkUrl } : {}),
         sourceUrl: `https://www.churchofjesuschrist.org/media/music/collections/${collection.slug}?lang=eng`,
         songCount: songs.length,
         playableSongCount,
-        href: `collections/${collection.slug}.json`,
       };
-      index.collections.push(item);
+      const payloadCore = { schemaVersion: 1, collection: core, songs };
+      const revision = contentRevision(payloadCore);
+      const item = {
+        ...core,
+        revision,
+        href: `collections/${collection.slug}.json?v=${revisionToken(revision)}`,
+      };
+      indexCollections.push(item);
+      searchRecords.push(...songs.map((song) => searchRecord(song, collection.slug)));
       await fs.writeFile(
         path.join(collectionDirectory, `${collection.slug}.json`),
-        `${JSON.stringify({ schemaVersion: 1, collection: item, songs })}\n`,
+        `${JSON.stringify({ ...payloadCore, revision, collection: item })}\n`,
       );
     }
-    index.stats = {
-      collectionCount: index.collections.length,
-      songCount: index.collections.reduce((sum, item) => sum + item.songCount, 0),
-      playableSongCount: index.collections.reduce((sum, item) => sum + item.playableSongCount, 0),
+
+    const searchCore = { schemaVersion: 1, songs: searchRecords };
+    const searchRevision = contentRevision(searchCore);
+    const search = { ...searchCore, revision: searchRevision };
+    await fs.writeFile(path.join(versionDirectory, "search.json"), `${JSON.stringify(search)}\n`);
+
+    const stats = {
+      collectionCount: indexCollections.length,
+      songCount: indexCollections.reduce((sum, item) => sum + item.songCount, 0),
+      playableSongCount: indexCollections.reduce((sum, item) => sum + item.playableSongCount, 0),
     };
-    await fs.writeFile(path.join(staging, "index.json"), `${JSON.stringify(index)}\n`);
+    const indexCore = {
+      schemaVersion: 1,
+      language: LANGUAGE,
+      collections: indexCollections,
+      stats,
+      search: {
+        revision: searchRevision,
+        href: `search.json?v=${revisionToken(searchRevision)}`,
+        songCount: searchRecords.length,
+      },
+    };
+    const indexRevision = contentRevision(indexCore);
+    await fs.writeFile(
+      path.join(versionDirectory, "index.json"),
+      `${JSON.stringify({ ...indexCore, revision: indexRevision })}\n`,
+    );
+    await fs.writeFile(
+      path.join(staging, "index.json"),
+      `${JSON.stringify({
+        schemaVersion: 1,
+        currentVersion: CATALOG_VERSION,
+        revision: indexRevision,
+        href: `${CATALOG_VERSION}/index.json?v=${revisionToken(indexRevision)}`,
+      })}\n`,
+    );
 
     await fs.rm(backup, { recursive: true, force: true });
     let hadCatalog = true;

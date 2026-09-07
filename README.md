@@ -4,20 +4,35 @@
 
 This is an independent project. It is not an official Church API and is not affiliated with or endorsed by The Church of Jesus Christ of Latter-day Saints.
 
-## Published data
+## Published API
 
-GitHub Pages preserves the existing `/sacredmusic/` URL structure.
+GitHub Pages publishes only the optimized catalog. Raw source responses remain in the repository for validation and rebuilding, but they are not part of the public Pages artifact.
 
 | Path | Purpose |
 | --- | --- |
-| `sacredmusic/main.json` | Raw library hierarchy mirrored from the source page |
-| `sacredmusic/api/<collection>.json` | Raw response for one collection |
-| `sacredmusic/catalog/index.json` | Compact list of collections and counts for apps |
-| `sacredmusic/catalog/collections/<collection>.json` | Normalized songs and recordings for one collection |
+| `/index.json` | Small discovery document pointing to the current API version |
+| `/v1/index.json` | Collections, counts, revisions, and search metadata |
+| `/v1/search.json` | Lightweight global song-search records |
+| `/v1/collections/<collection>.json` | Normalized songs and recordings for one collection |
 
-Apps should start with `catalog/index.json`, then load only the selected collection. The catalog schema has an integer `schemaVersion`; consumers must reject unsupported major versions rather than guessing.
+Apps may start with `/index.json` to discover the current version or request `/v1/index.json` directly when pinned to version 1. Relative `href` values include a deterministic revision query, allowing normal browser caching while fetching new content immediately after the index changes.
 
-Song IDs use `<collection-slug>:<song-slug>`. Store favorites by song ID. Recording IDs add the normalized recording type. Media remains hosted by the Church; this repository stores URLs and metadata, not audio files.
+Fetch the search index only when global search is used, and fetch a collection only when it is opened. The catalog schema has an integer `schemaVersion`; consumers must reject unsupported versions rather than guessing.
+
+```js
+const apiRoot = new URL("https://techprosignature.github.io/musicapi/");
+const manifest = await fetch(new URL("index.json", apiRoot)).then((response) => response.json());
+const indexUrl = new URL(manifest.href, apiRoot);
+const index = await fetch(indexUrl).then((response) => response.json());
+
+// Resolve these against indexUrl because they are relative to the version directory.
+const searchUrl = new URL(index.search.href, indexUrl);
+const firstCollectionUrl = new URL(index.collections[0].href, indexUrl);
+```
+
+Cache search and collection responses using their `revision` values. A changed revision produces a changed query string in `href`, while unchanged content keeps the same URL.
+
+Song IDs use `<collection-slug>:<song-slug>`. Store favorites by song ID. Recording IDs add the normalized recording type. A song contains its default artwork; a recording contains `artworkUrl` only when that version has meaningfully different source artwork. Media remains hosted by the Church; this repository stores URLs and metadata, not audio files.
 
 ## Commands
 
@@ -39,7 +54,7 @@ Run `npm run validate` after any data or importer change. Do not hand-edit gener
 
 The `Refresh and publish catalog` workflow runs daily and can be started manually. Scheduled and manual runs refresh, rebuild, validate, commit changed data, and deploy that exact snapshot. Pushes to `main` rebuild and validate without contacting the upstream service; deployment stops if the committed compact catalog is stale.
 
-The workflow uploads only published data and keeps the historical `/sacredmusic/` prefix. In repository settings, GitHub Pages must use **GitHub Actions** as its source.
+The workflow uploads only `sacredmusic/catalog/`. In repository settings, GitHub Pages must use **GitHub Actions** as its source.
 
 ## Consumer guidance
 
@@ -54,4 +69,4 @@ The workflow uploads only published data and keeps the historical `/sacredmusic/
 
 The importer intentionally limits concurrency and retries transient request failures. Collection pagination continues until the reported total is reached. Any incomplete or malformed collection fails the run, leaving the previously published snapshot untouched.
 
-The raw mirror is retained for debugging and provenance. The compact catalog is the supported application-facing shape. Breaking changes require a new `schemaVersion` and a migration note in this README.
+The raw mirror is retained as internal build input for debugging and provenance. The versioned catalog is the only supported application-facing shape. Breaking changes require a new version directory and a migration note in this README.

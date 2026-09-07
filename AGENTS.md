@@ -10,8 +10,9 @@ This repository is a read-only metadata mirror and catalog builder for static mu
 - Preserve unrelated user changes. Do not rewrite or discard generated snapshots unless the task requires a refresh or catalog rebuild.
 - Treat `fetchProcess.js` as the source of truth. Files under `sacredmusic/` are generated outputs and should not be edited by hand.
 - Keep the project dependency-free unless a requested change cannot reasonably be implemented with Node.js built-ins.
-- Preserve the public `/sacredmusic/main.json` and `/sacredmusic/api/<slug>.json` paths for existing consumers.
-- Keep app-facing data under `/sacredmusic/catalog/` and bump `schemaVersion` for breaking field or identity changes.
+- Treat `/sacredmusic/main.json` and `/sacredmusic/api/<slug>.json` as internal build inputs. Do not add them to the GitHub Pages artifact.
+- Keep app-facing data under `/sacredmusic/catalog/`. Breaking changes require a new version directory such as `v2`; preserve released version directories until the owner explicitly retires them.
+- Keep the root catalog `index.json` as a small discovery document. Every version must provide an index, a global search index, and collection payloads with deterministic revision hashes.
 - Maintain stable song IDs (`<collection-slug>:<song-slug>`). If upstream identifiers change, add an explicit migration strategy before changing stored IDs.
 - Never select a recording by array position. Recording type and listener preference determine playback defaults.
 - Do not copy audio or artwork into the repository. Do not claim that availability implies permission to redistribute or reuse an asset.
@@ -32,4 +33,4 @@ Workflow changes must retain this order: refresh when appropriate, rebuild, vali
 
 ## Change notes
 
-In handoff summaries, state whether the work changed importer behavior, raw mirrored data, compact catalog schema, or public URLs. Report validation results and any checks that could not run.
+In handoff summaries, state whether the work changed importer behavior, raw mirrored data, versioned catalog schema, or public URLs. Report validation results and any checks that could not run.

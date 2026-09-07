@@ -53,8 +53,8 @@ jobs:
           fi
       - name: Prepare Pages artifact
         run: |
-          mkdir -p publish/sacredmusic
-          cp -R sacredmusic/. publish/sacredmusic/
+          mkdir -p publish
+          cp -R sacredmusic/catalog/. publish/
           touch publish/.nojekyll
       - name: Configure Pages
         uses: actions/configure-pages@v5
