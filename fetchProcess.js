@@ -323,12 +323,12 @@ async function refresh() {
     const main = parseRenderData(html);
     const collections = [...collectCollections(main?.data?.libraryData).values()];
     console.log(`Refreshing ${collections.length} collections...`);
-    await fs.writeFile(path.join(staging, "main.json"), `${JSON.stringify(main)}\n`);
+    await fs.writeFile(path.join(staging, "main.json"), JSON.stringify(main));
     await mapConcurrent(collections, CONCURRENCY, async (collection, index) => {
       const payload = await fetchCollection(collection.slug);
       await fs.writeFile(
         path.join(staging, "api", `${collection.slug}.json`),
-        `${JSON.stringify(payload, null, 2)}\n`,
+        JSON.stringify(payload, null, 2),
       );
       console.log(`[${index + 1}/${collections.length}] ${collection.slug}: ${payload.total}`);
     });
