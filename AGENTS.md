@@ -15,6 +15,7 @@ This repository is a read-only metadata mirror and catalog builder for static mu
 - Keep the root catalog `index.json` as a small discovery document. Every version must provide an index, a global search index, and collection payloads with deterministic revision hashes.
 - Maintain stable song IDs (`<collection-slug>:<song-slug>`). If upstream identifiers change, add an explicit migration strategy before changing stored IDs.
 - Never select a recording by array position. Recording type and listener preference determine playback defaults.
+- Preserve direct `AUDIO_*` priority. Page-level `VIDEO` assets are playback fallbacks only when the collection API has no direct audio; PDFs are never recordings.
 - Do not copy audio or artwork into the repository. Do not claim that availability implies permission to redistribute or reuse an asset.
 
 ## Verification
@@ -22,6 +23,7 @@ This repository is a read-only metadata mirror and catalog builder for static mu
 Use Node.js 22 or newer.
 
 ```sh
+npm test
 npm run validate
 npm run build
 git diff --check

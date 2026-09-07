@@ -85,7 +85,75 @@
         "teaching"
       ],
       "voicings": [],
-      "assets": []
+      "assets": [
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2011/2011-05-009-child-of-god-1080p-eng.mp4",
+          "title": "Child of God",
+          "description": "Remember—through a beloved children’s song—who you really are.",
+          "mimeType": "",
+          "duration": 174924,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2011-05-0009-child-of",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2011-05-0009-child-of-god-1280x720-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/1d23c3564b354c5f47983a32b94f0e24180bdfdd/full/1280,/0/default",
+            "seoDescription": "2011-05-0009-child-of-god-1280x720-thumb-master.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/1d23c3564b354c5f47983a32b94f0e24180bdfdd/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/1d23c3564b354c5f47983a32b94f0e24180bdfdd/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/1d23c3564b354c5f47983a32b94f0e24180bdfdd/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/1d23c3564b354c5f47983a32b94f0e24180bdfdd/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/1d23c3564b354c5f47983a32b94f0e24180bdfdd/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/1d23c3564b354c5f47983a32b94f0e24180bdfdd/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/1d23c3564b354c5f47983a32b94f0e24180bdfdd/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/1d23c3564b354c5f47983a32b94f0e24180bdfdd/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/1d23c3564b354c5f47983a32b94f0e24180bdfdd/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "Have I Done Any Good?",
@@ -231,7 +299,75 @@
         "salvation"
       ],
       "voicings": [],
-      "assets": []
+      "assets": [
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/mormon-channel/mormon-channel-videos/2012-00-0120-oh-come-emmanuel-1080p-eng.mp4",
+          "title": "O Come, O Come, Emmanuel (The Piano Guys)",
+          "description": "O Come, Emmanuel featuring the Piano Guys.",
+          "mimeType": "",
+          "duration": 327000,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2012-03-0120-o-come-o-come-emmanuel-the-piano-guys",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2012-12-0120-o-come-emmanuel-christmas-version-1280x720-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2a6fdc1021834dd34f6e68bf13fa37e1b7823449/full/1280,/0/default",
+            "seoDescription": "2012-12-0120-o-come-emmanuel-christmas-version-1280x720-thumb-master.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2a6fdc1021834dd34f6e68bf13fa37e1b7823449/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2a6fdc1021834dd34f6e68bf13fa37e1b7823449/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2a6fdc1021834dd34f6e68bf13fa37e1b7823449/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2a6fdc1021834dd34f6e68bf13fa37e1b7823449/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2a6fdc1021834dd34f6e68bf13fa37e1b7823449/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2a6fdc1021834dd34f6e68bf13fa37e1b7823449/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2a6fdc1021834dd34f6e68bf13fa37e1b7823449/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2a6fdc1021834dd34f6e68bf13fa37e1b7823449/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2a6fdc1021834dd34f6e68bf13fa37e1b7823449/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "See You On the Other Side",
@@ -448,7 +584,75 @@
       "videoAvailable": true,
       "tags": [],
       "voicings": [],
-      "assets": []
+      "assets": [
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/mormon-channel/mormon-channel-videos-2013/2013-12-009-what-shall-we-give-christmas-music-video-1080p-eng.mp4",
+          "title": "What Shall We Give? - Christmas Music Video",
+          "description": "In the midst of the holiday hustle and bustle, the Mormon Tabernacle Choir shares this modern take on the age-old question “What Shall We Give?” to the babe in the manger, to Christ the King of Kings.",
+          "mimeType": "",
+          "duration": 310583,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2013-12-0009-what-shall-we-give-christmas-music-video",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2013-12-0009-what-shall-we-give-christmas-music-video-1280x720-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eb807ee338b1e7e9f836c48b7752ad366f35b6b6/full/1280,/0/default",
+            "seoDescription": "2013-12-0009-what-shall-we-give-christmas-music-video-1280x720-thumb-master.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eb807ee338b1e7e9f836c48b7752ad366f35b6b6/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eb807ee338b1e7e9f836c48b7752ad366f35b6b6/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eb807ee338b1e7e9f836c48b7752ad366f35b6b6/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eb807ee338b1e7e9f836c48b7752ad366f35b6b6/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eb807ee338b1e7e9f836c48b7752ad366f35b6b6/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eb807ee338b1e7e9f836c48b7752ad366f35b6b6/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eb807ee338b1e7e9f836c48b7752ad366f35b6b6/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eb807ee338b1e7e9f836c48b7752ad366f35b6b6/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eb807ee338b1e7e9f836c48b7752ad366f35b6b6/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "Something Divine",
@@ -1315,7 +1519,70 @@
         "peace"
       ],
       "voicings": [],
-      "assets": []
+      "assets": [
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/mormon-channel/mormon-channel-music-videos-2015/2015-09-0100-love-at-home-1080p-eng.mp4",
+          "title": "Love at Home",
+          "description": "There is beauty all around when there’s love at home.",
+          "mimeType": "",
+          "duration": 169794,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2015-09-0100-love-at-home",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2015-09-0100-love-at-home-768x432-still.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3e011694954017f3e65c77bfb94b2c19119daf5f/full/800,/0/default",
+            "seoDescription": "2015-09-0100-love-at-home-768x432-still.jpg",
+            "seoTitle": "2015-09-0100-love-at-home-768x432-still.jpg",
+            "shareableTitle": "2015-09-0100-love-at-home-768x432-still.jpg",
+            "title": "2015-09-0100-love-at-home-768x432-still.jpg",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3e011694954017f3e65c77bfb94b2c19119daf5f/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3e011694954017f3e65c77bfb94b2c19119daf5f/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3e011694954017f3e65c77bfb94b2c19119daf5f/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3e011694954017f3e65c77bfb94b2c19119daf5f/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3e011694954017f3e65c77bfb94b2c19119daf5f/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3e011694954017f3e65c77bfb94b2c19119daf5f/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3e011694954017f3e65c77bfb94b2c19119daf5f/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3e011694954017f3e65c77bfb94b2c19119daf5f/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "I Am Here",
@@ -1505,7 +1772,85 @@
         "worship"
       ],
       "voicings": [],
-      "assets": []
+      "assets": [
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2017/2017-12-0010-i-stand-all-amazed-1080p-eng.mp4",
+          "title": "I Stand All Amazed",
+          "description": "As we ponder the life of Jesus Christ, we will come to know that His sacrifice for us is deeply personal and truly wonderful. BYU’s Vocal Point sings “I Stand All Amazed” in tribute to the mission of the Savior.",
+          "mimeType": "",
+          "duration": 315565,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2017-12-0010-i-stand-all-amazed",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2017-12-0010-i-stand-all-amazed-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/f2367cfa446f2c8111a035d2421888dd63683961/full/1920,/0/default",
+            "seoDescription": "2017-12-0010-i-stand-all-amazed-1920x1080-thumb-master.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/f2367cfa446f2c8111a035d2421888dd63683961/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/f2367cfa446f2c8111a035d2421888dd63683961/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/f2367cfa446f2c8111a035d2421888dd63683961/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/f2367cfa446f2c8111a035d2421888dd63683961/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/f2367cfa446f2c8111a035d2421888dd63683961/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/f2367cfa446f2c8111a035d2421888dd63683961/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/f2367cfa446f2c8111a035d2421888dd63683961/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/f2367cfa446f2c8111a035d2421888dd63683961/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/f2367cfa446f2c8111a035d2421888dd63683961/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/f2367cfa446f2c8111a035d2421888dd63683961/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/f2367cfa446f2c8111a035d2421888dd63683961/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "Did You Think to Pray?",
@@ -1552,7 +1897,70 @@
         "trials"
       ],
       "voicings": [],
-      "assets": []
+      "assets": [
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/mormon-channel/music-videos-2018/2018-06-0010-did-you-think-to-pray-1080p-eng.mp4",
+          "title": "Did You Think to Pray?",
+          "description": "Friends and families around the world are striving for feelings of peace and hope in their lives. What can you do today to join them? For a start, share this upbeat take on a classic hymn, sung by artists in Mongolia.",
+          "mimeType": "",
+          "duration": 265040,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2018-06-0010-did-you-think-to-pray",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2018-06-0010-did-you-think-to-pray-768x432-still.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/fb773be94fb1c690dcf7e8f41eb484fcd7cb89cc/full/800,/0/default",
+            "seoDescription": "2018-06-0010-did-you-think-to-pray-768x432-still.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/fb773be94fb1c690dcf7e8f41eb484fcd7cb89cc/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/fb773be94fb1c690dcf7e8f41eb484fcd7cb89cc/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/fb773be94fb1c690dcf7e8f41eb484fcd7cb89cc/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/fb773be94fb1c690dcf7e8f41eb484fcd7cb89cc/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/fb773be94fb1c690dcf7e8f41eb484fcd7cb89cc/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/fb773be94fb1c690dcf7e8f41eb484fcd7cb89cc/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/fb773be94fb1c690dcf7e8f41eb484fcd7cb89cc/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/fb773be94fb1c690dcf7e8f41eb484fcd7cb89cc/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "Come Thou Fount of Every Blessing",
@@ -1595,7 +2003,85 @@
         "supplication"
       ],
       "voicings": [],
-      "assets": []
+      "assets": [
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/mormon-channel/mormon-messages-2018/2018-01-0160-come-thou-fount-of-every-blessing-1080p-eng.mp4",
+          "title": "Come Thou Fount of Every Blessing",
+          "description": "BYU’s musical group, Noteworthy, sings Come Thou Fount of Every Blessing over the story of a run-away girl trying to make sense of life after her father’s death.",
+          "mimeType": "",
+          "duration": 311000,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2018-01-0160-come-thou-fount-of-every-blessing",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2018-01-0160-come-thou-fount-of-every-blessing-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e83eaf0fd3f9093eb5cb39e615ed9ed915db1864/full/1920,/0/default",
+            "seoDescription": "2018-01-0160-come-thou-fount-of-every-blessing-1920x1080-thumb-master.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e83eaf0fd3f9093eb5cb39e615ed9ed915db1864/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e83eaf0fd3f9093eb5cb39e615ed9ed915db1864/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e83eaf0fd3f9093eb5cb39e615ed9ed915db1864/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e83eaf0fd3f9093eb5cb39e615ed9ed915db1864/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e83eaf0fd3f9093eb5cb39e615ed9ed915db1864/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e83eaf0fd3f9093eb5cb39e615ed9ed915db1864/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e83eaf0fd3f9093eb5cb39e615ed9ed915db1864/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e83eaf0fd3f9093eb5cb39e615ed9ed915db1864/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e83eaf0fd3f9093eb5cb39e615ed9ed915db1864/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e83eaf0fd3f9093eb5cb39e615ed9ed915db1864/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e83eaf0fd3f9093eb5cb39e615ed9ed915db1864/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "Come Unto Jesus",
@@ -1637,7 +2123,85 @@
         "repentance"
       ],
       "voicings": [],
-      "assets": []
+      "assets": [
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/inspirational-messages/2019-inspirational-messages/2019-12-0080-come-unto-jesus-1080p-eng.mp4",
+          "title": "Come Unto Jesus",
+          "description": "No matter what situation in life we are in, Jesus Christ always invites you with open arms. We can follow his example by loving those around us.",
+          "mimeType": "",
+          "duration": 225892,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2019-12-0080-come-unto-jesus",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2019-12-0080-come-unto-jesus-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/274313ebecca7c9e7420f8f3ae9b5d3cbc0fc6b3/full/1920,/0/default",
+            "seoDescription": "2019-12-0080-come-unto-jesus-1920x1080-thumb-master.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/274313ebecca7c9e7420f8f3ae9b5d3cbc0fc6b3/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/274313ebecca7c9e7420f8f3ae9b5d3cbc0fc6b3/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/274313ebecca7c9e7420f8f3ae9b5d3cbc0fc6b3/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/274313ebecca7c9e7420f8f3ae9b5d3cbc0fc6b3/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/274313ebecca7c9e7420f8f3ae9b5d3cbc0fc6b3/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/274313ebecca7c9e7420f8f3ae9b5d3cbc0fc6b3/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/274313ebecca7c9e7420f8f3ae9b5d3cbc0fc6b3/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/274313ebecca7c9e7420f8f3ae9b5d3cbc0fc6b3/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/274313ebecca7c9e7420f8f3ae9b5d3cbc0fc6b3/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/274313ebecca7c9e7420f8f3ae9b5d3cbc0fc6b3/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/274313ebecca7c9e7420f8f3ae9b5d3cbc0fc6b3/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
     }
   ],
   "limit": 500,

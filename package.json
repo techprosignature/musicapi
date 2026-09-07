@@ -4,6 +4,7 @@
   "private": true,
   "description": "A versioned mirror and compact catalog of Church music metadata and media URLs.",
   "scripts": {
+    "test": "node --test fetchProcess.test.js",
     "refresh": "node fetchProcess.js refresh",
     "validate": "node fetchProcess.js validate",
     "build": "node fetchProcess.js build"

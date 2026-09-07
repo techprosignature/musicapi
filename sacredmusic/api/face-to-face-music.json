@@ -552,7 +552,85 @@
         "plan of salvation"
       ],
       "voicings": [],
-      "assets": []
+      "assets": [
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/other-broadcasts/face-to-face-with-elder-rasband-sister-oscarson-and-brother-owen/2016-01-1020-opening-song-press-forward-1080p-eng.mp4",
+          "title": "Opening song: “Press Forward”",
+          "description": "A question from the January 20, 2016 Face to Face event. Watch this event in whole or in part here: https://www.lds.org/broadcasts/face-to-face/rasband?lang=eng",
+          "mimeType": "",
+          "duration": 242875,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2016-01-1020-opening-song-press-forward",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2016-01-1020-opening-song-press-forward-1920x1080.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/de926591a257de5065b45e45f973b89f508cfb85/full/1920,/0/default",
+            "seoDescription": "2016-01-1020-opening-song-press-forward-1920x1080.jpg",
+            "seoTitle": "2016-01-1020-opening-song-press-forward-1920x1080.jpg",
+            "shareableTitle": "2016-01-1020-opening-song-press-forward-1920x1080.jpg",
+            "title": "2016-01-1020-opening-song-press-forward-1920x1080.jpg",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/de926591a257de5065b45e45f973b89f508cfb85/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/de926591a257de5065b45e45f973b89f508cfb85/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/de926591a257de5065b45e45f973b89f508cfb85/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/de926591a257de5065b45e45f973b89f508cfb85/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/de926591a257de5065b45e45f973b89f508cfb85/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/de926591a257de5065b45e45f973b89f508cfb85/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/de926591a257de5065b45e45f973b89f508cfb85/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/de926591a257de5065b45e45f973b89f508cfb85/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/de926591a257de5065b45e45f973b89f508cfb85/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/de926591a257de5065b45e45f973b89f508cfb85/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/de926591a257de5065b45e45f973b89f508cfb85/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "Savior, Redeemer of My Soul",
@@ -602,7 +680,85 @@
         "praise"
       ],
       "voicings": [],
-      "assets": []
+      "assets": [
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/other-broadcasts/face-to-face-with-elder-rasband-sister-oscarson-and-brother-owen/2016-01-1180-closing-song-savior-redeemer-of-my-soul-1080p-eng.mp4",
+          "title": "Closing Song: “Savior Redeemer of my Soul”",
+          "description": "A question from the January 20, 2016 Face to Face event. Watch this event in whole or in part here: https://www.lds.org/broadcasts/face-to-face/rasband?lang=eng",
+          "mimeType": "",
+          "duration": 287353,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2016-01-1180-closing-song-savior-redeemer-of-my-soul",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2016-01-1180-closing-song-savior-redeemer-of-my-soul-1920x1080.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/456AE441CB339C49F47CF1127145CE5AFF9A8AF5/full/1920,/0/default",
+            "seoDescription": "2016-01-1180-closing-song-savior-redeemer-of-my-soul-1920x1080.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/456AE441CB339C49F47CF1127145CE5AFF9A8AF5/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/456AE441CB339C49F47CF1127145CE5AFF9A8AF5/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/456AE441CB339C49F47CF1127145CE5AFF9A8AF5/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/456AE441CB339C49F47CF1127145CE5AFF9A8AF5/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/456AE441CB339C49F47CF1127145CE5AFF9A8AF5/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/456AE441CB339C49F47CF1127145CE5AFF9A8AF5/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/456AE441CB339C49F47CF1127145CE5AFF9A8AF5/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/456AE441CB339C49F47CF1127145CE5AFF9A8AF5/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/456AE441CB339C49F47CF1127145CE5AFF9A8AF5/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/456AE441CB339C49F47CF1127145CE5AFF9A8AF5/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/456AE441CB339C49F47CF1127145CE5AFF9A8AF5/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "Rock of Ages",
@@ -1741,7 +1897,85 @@
         "shepherd"
       ],
       "voicings": [],
-      "assets": []
+      "assets": [
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/other-broadcasts/face-to-face-with-elder-oaks-and-elder-ballard/2017-10-2001-i-feel-my-saviors-love-1080p-eng.mp4",
+          "title": "I Feel My Savior’s Love",
+          "description": "Song for the Face to Face with Elder Oaks and Elder Ballard event.",
+          "mimeType": "",
+          "duration": 231698,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2017-10-2001-i-feel-my-saviors-love",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2017-10-2001-i-feel-my-saviors-love-1920x1080.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b7e3b44b7787d93be1645c3d79d90b166da838b3/full/1920,/0/default",
+            "seoDescription": "2017-10-2001-i-feel-my-saviors-love-1920x1080.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b7e3b44b7787d93be1645c3d79d90b166da838b3/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b7e3b44b7787d93be1645c3d79d90b166da838b3/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b7e3b44b7787d93be1645c3d79d90b166da838b3/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b7e3b44b7787d93be1645c3d79d90b166da838b3/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b7e3b44b7787d93be1645c3d79d90b166da838b3/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b7e3b44b7787d93be1645c3d79d90b166da838b3/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b7e3b44b7787d93be1645c3d79d90b166da838b3/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b7e3b44b7787d93be1645c3d79d90b166da838b3/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b7e3b44b7787d93be1645c3d79d90b166da838b3/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b7e3b44b7787d93be1645c3d79d90b166da838b3/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b7e3b44b7787d93be1645c3d79d90b166da838b3/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "I Need Thee Every Hour",
@@ -1788,7 +2022,85 @@
         "temptation"
       ],
       "voicings": [],
-      "assets": []
+      "assets": [
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/other-broadcasts/face-to-face-with-elder-oaks-and-elder-ballard/2017-10-2021-i-need-thee-every-hour-1080p-eng.mp4",
+          "title": "I Need Thee Every Hour",
+          "description": "Song number during the Face to Face with Elder Oaks and Elder Ballard event.",
+          "mimeType": "",
+          "duration": 187353,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2017-10-2021-i-need-thee-every-hour",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2017-10-2021-i-need-thee-every-hour-1920x1080.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ea06c676b633a8c5a4bb4d3824bcf89cc7da96bd/full/1920,/0/default",
+            "seoDescription": "2017-10-2021-i-need-thee-every-hour-1920x1080.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ea06c676b633a8c5a4bb4d3824bcf89cc7da96bd/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ea06c676b633a8c5a4bb4d3824bcf89cc7da96bd/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ea06c676b633a8c5a4bb4d3824bcf89cc7da96bd/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ea06c676b633a8c5a4bb4d3824bcf89cc7da96bd/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ea06c676b633a8c5a4bb4d3824bcf89cc7da96bd/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ea06c676b633a8c5a4bb4d3824bcf89cc7da96bd/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ea06c676b633a8c5a4bb4d3824bcf89cc7da96bd/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ea06c676b633a8c5a4bb4d3824bcf89cc7da96bd/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ea06c676b633a8c5a4bb4d3824bcf89cc7da96bd/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ea06c676b633a8c5a4bb4d3824bcf89cc7da96bd/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ea06c676b633a8c5a4bb4d3824bcf89cc7da96bd/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "We Thank Thee, O God, for a Prophet",
@@ -2223,7 +2535,85 @@
         "temples"
       ],
       "voicings": [],
-      "assets": []
+      "assets": [
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/B813547156176D8265834667B3F2FCBCAB889396-1080p-en.mp4",
+          "title": "The Spirit of God",
+          "description": "The closing song for the Worldwide Devotional: A Face to Face Event with Elder Cook on September 9, 2018.",
+          "mimeType": "",
+          "duration": 309676,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2018-09-1101-the-spirit-of-god",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2018-09-1101-the-spirit-of-god-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b8202d698b2d39eef3ad1da25e1c8e8daf60f799/full/1920,/0/default",
+            "seoDescription": "2018-09-1101-the-spirit-of-god-1920x1080-thumb-master.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b8202d698b2d39eef3ad1da25e1c8e8daf60f799/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b8202d698b2d39eef3ad1da25e1c8e8daf60f799/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b8202d698b2d39eef3ad1da25e1c8e8daf60f799/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b8202d698b2d39eef3ad1da25e1c8e8daf60f799/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b8202d698b2d39eef3ad1da25e1c8e8daf60f799/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b8202d698b2d39eef3ad1da25e1c8e8daf60f799/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b8202d698b2d39eef3ad1da25e1c8e8daf60f799/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b8202d698b2d39eef3ad1da25e1c8e8daf60f799/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b8202d698b2d39eef3ad1da25e1c8e8daf60f799/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b8202d698b2d39eef3ad1da25e1c8e8daf60f799/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b8202d698b2d39eef3ad1da25e1c8e8daf60f799/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "Where Can I Turn for Peace?",
@@ -2281,7 +2671,85 @@
         "trials"
       ],
       "voicings": [],
-      "assets": []
+      "assets": [
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/worldwide-devotionals/2019-worldwide-devotional-for-young-adults/2019-09-3010-where-can-i-turn-for-peace-1080p-eng.mp4",
+          "title": "“Where Can I Turn for Peace?”",
+          "description": "Special musical number: “Where Can I Turn for Peace?”",
+          "mimeType": "",
+          "duration": 243710,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2019-09-3010-where-can-i-turn-for-peace",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2019-09-3010-where-can-i-turn-for-peace-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e4a3acca952851016bcb2a5fb4afac3985a456f0/full/1920,/0/default",
+            "seoDescription": "2019-09-3010-where-can-i-turn-for-peace-1920x1080-thumb-master.jpg",
+            "seoTitle": "2019-09-3010-where-can-i-turn-for-peace-1920x1080-thumb-master.jpg",
+            "shareableTitle": "2019-09-3010-where-can-i-turn-for-peace-1920x1080-thumb-master.jpg",
+            "title": "2019-09-3010-where-can-i-turn-for-peace-1920x1080-thumb-master.jpg",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e4a3acca952851016bcb2a5fb4afac3985a456f0/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e4a3acca952851016bcb2a5fb4afac3985a456f0/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e4a3acca952851016bcb2a5fb4afac3985a456f0/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e4a3acca952851016bcb2a5fb4afac3985a456f0/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e4a3acca952851016bcb2a5fb4afac3985a456f0/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e4a3acca952851016bcb2a5fb4afac3985a456f0/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e4a3acca952851016bcb2a5fb4afac3985a456f0/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e4a3acca952851016bcb2a5fb4afac3985a456f0/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e4a3acca952851016bcb2a5fb4afac3985a456f0/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e4a3acca952851016bcb2a5fb4afac3985a456f0/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e4a3acca952851016bcb2a5fb4afac3985a456f0/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "Hope of Israel",
@@ -2330,7 +2798,85 @@
         "youth"
       ],
       "voicings": [],
-      "assets": []
+      "assets": [
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/children-and-youth-a-face-to-face-event-with-elder-gerrit-w-gong/2019-11-1001-opening-video-and-song-1080p-eng.mp4",
+          "title": "Opening Video and Song",
+          "description": "The opening video and song, “Hope of Israel,” are played during the Children and Youth Face to Face event on November 17, 2019.",
+          "mimeType": "",
+          "duration": 327000,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2019-11-1001-opening-video-and-song",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2019-11-1001-opening-video-and-song-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7a7f7514c13e107161afb0b8f78a79a4bdd23952/full/1920,/0/default",
+            "seoDescription": "2019-11-1001-opening-video-and-song-1920x1080-thumb-master.jpg",
+            "seoTitle": "2019-11-1001-opening-video-and-song-1920x1080-thumb-master.jpg",
+            "shareableTitle": "2019-11-1001-opening-video-and-song-1920x1080-thumb-master.jpg",
+            "title": "2019-11-1001-opening-video-and-song-1920x1080-thumb-master.jpg",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7a7f7514c13e107161afb0b8f78a79a4bdd23952/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7a7f7514c13e107161afb0b8f78a79a4bdd23952/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7a7f7514c13e107161afb0b8f78a79a4bdd23952/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7a7f7514c13e107161afb0b8f78a79a4bdd23952/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7a7f7514c13e107161afb0b8f78a79a4bdd23952/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7a7f7514c13e107161afb0b8f78a79a4bdd23952/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7a7f7514c13e107161afb0b8f78a79a4bdd23952/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7a7f7514c13e107161afb0b8f78a79a4bdd23952/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7a7f7514c13e107161afb0b8f78a79a4bdd23952/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7a7f7514c13e107161afb0b8f78a79a4bdd23952/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7a7f7514c13e107161afb0b8f78a79a4bdd23952/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "I Will Go and Do",
@@ -2375,7 +2921,85 @@
         "truth"
       ],
       "voicings": [],
-      "assets": []
+      "assets": [
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/children-and-youth-a-face-to-face-event-with-elder-gerrit-w-gong/2019-11-1040-what-are-for-the-strength-of-youth-conferences-1080p-eng.mp4",
+          "title": "What are For the Strength of Youth Conferences?",
+          "description": "Elder Gong and General Officers talk about For the Strength of Youth conferences in the Children and Youth program.",
+          "mimeType": "",
+          "duration": 759592,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2019-11-1040-what-are-for-the-strength-of-youth-conferences",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2019-11-1040-what-are-for-the-strength-of-youth-conferences-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5fe27b70f897dc1d7b2e5f78f5fb404e011fc325/full/1920,/0/default",
+            "seoDescription": "2019-11-1040-what-are-for-the-strength-of-youth-conferences-1920x1080-thumb-master.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5fe27b70f897dc1d7b2e5f78f5fb404e011fc325/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5fe27b70f897dc1d7b2e5f78f5fb404e011fc325/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5fe27b70f897dc1d7b2e5f78f5fb404e011fc325/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5fe27b70f897dc1d7b2e5f78f5fb404e011fc325/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5fe27b70f897dc1d7b2e5f78f5fb404e011fc325/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5fe27b70f897dc1d7b2e5f78f5fb404e011fc325/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5fe27b70f897dc1d7b2e5f78f5fb404e011fc325/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5fe27b70f897dc1d7b2e5f78f5fb404e011fc325/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5fe27b70f897dc1d7b2e5f78f5fb404e011fc325/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5fe27b70f897dc1d7b2e5f78f5fb404e011fc325/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5fe27b70f897dc1d7b2e5f78f5fb404e011fc325/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "I Will Walk with Jesus",
@@ -3643,7 +4267,60 @@
           "name": "SSAA"
         }
       ],
-      "assets": []
+      "assets": [
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/face-to-face-with-the-yw-general-presidency-celebrating-150-years/2020-11-1061-glorious-featuring-byu-cougarettes-720p-eng.mp4",
+          "title": "Glorious (Featuring BYU Cougarettes)",
+          "description": "This segment is from the Face to Face Broadcast with the General Young Women’s Presidency.",
+          "mimeType": "",
+          "duration": 251117,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2020-11-1061-glorious-featuring-byu-cougarettes",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "This segment is from the Face to Face Broadcast with the General Young Women’s Presidency.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/BB4417AD9ED6D86C37941A6BB49B0E921EDD29E2/full/500,/0/default",
+            "seoDescription": "This segment is from the Face to Face Broadcast with the General Young Women's Presidency.",
+            "seoTitle": "2020-11-1061-glorious-featuring-byu-cougarettes-590x332-video.jpg",
+            "shareableTitle": "2020-11-1061-glorious-featuring-byu-cougarettes-590x332-video.jpg",
+            "title": "2020-11-1061-glorious-featuring-byu-cougarettes-590x332-video.jpg",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/BB4417AD9ED6D86C37941A6BB49B0E921EDD29E2/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/BB4417AD9ED6D86C37941A6BB49B0E921EDD29E2/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/BB4417AD9ED6D86C37941A6BB49B0E921EDD29E2/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/BB4417AD9ED6D86C37941A6BB49B0E921EDD29E2/full/!200%2C112/0/default",
+                "width": 200,
+                "height": 112
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/BB4417AD9ED6D86C37941A6BB49B0E921EDD29E2/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/BB4417AD9ED6D86C37941A6BB49B0E921EDD29E2/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "Lord, I Would Follow Thee",

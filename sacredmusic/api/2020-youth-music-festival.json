@@ -998,7 +998,85 @@
         "trials"
       ],
       "voicings": [],
-      "assets": []
+      "assets": [
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/2020-international-youth-music-festival/2020-07-2010-always-music-video-1080p-eng.mp4",
+          "title": "Always - Music Video",
+          "description": "A music video performance of ‘Always’ recorded during an international youth music festival held on July 29, 2020.",
+          "mimeType": "",
+          "duration": 241307,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2020-07-2010-always-music-video",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2020-07-2010-always-music-video-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/01336ba1e9e8be6ef688199ff3fe9bcff6d5b96e/full/1920,/0/default",
+            "seoDescription": "2020-07-2010-always-music-video-1920x1080-thumb-master.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/01336ba1e9e8be6ef688199ff3fe9bcff6d5b96e/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/01336ba1e9e8be6ef688199ff3fe9bcff6d5b96e/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/01336ba1e9e8be6ef688199ff3fe9bcff6d5b96e/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/01336ba1e9e8be6ef688199ff3fe9bcff6d5b96e/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/01336ba1e9e8be6ef688199ff3fe9bcff6d5b96e/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/01336ba1e9e8be6ef688199ff3fe9bcff6d5b96e/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/01336ba1e9e8be6ef688199ff3fe9bcff6d5b96e/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/01336ba1e9e8be6ef688199ff3fe9bcff6d5b96e/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/01336ba1e9e8be6ef688199ff3fe9bcff6d5b96e/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/01336ba1e9e8be6ef688199ff3fe9bcff6d5b96e/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/01336ba1e9e8be6ef688199ff3fe9bcff6d5b96e/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "Go and Do",
@@ -1033,7 +1111,85 @@
       "videoAvailable": true,
       "tags": [],
       "voicings": [],
-      "assets": []
+      "assets": [
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/2020-international-youth-music-festival/2020-07-2020-go-and-do-music-video-1080p-eng.mp4",
+          "title": "Go and Do - Music Video",
+          "description": "A music video performance of ‘Go and Do’ recorded during an international youth music festival held on July 29, 2020.",
+          "mimeType": "",
+          "duration": 224424,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2020-07-2020-go-and-do-music-video",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2020-07-2020-go-and-do-music-video-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b9a66ae51299e926c15a49664aad5e1de9264718/full/1920,/0/default",
+            "seoDescription": "2020-07-2020-go-and-do-music-video-1920x1080-thumb-master.jpg",
+            "seoTitle": "2020-07-2020-go-and-do-music-video-1920x1080-thumb-master.jpg",
+            "shareableTitle": "2020-07-2020-go-and-do-music-video-1920x1080-thumb-master.jpg",
+            "title": "2020-07-2020-go-and-do-music-video-1920x1080-thumb-master.jpg",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b9a66ae51299e926c15a49664aad5e1de9264718/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b9a66ae51299e926c15a49664aad5e1de9264718/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b9a66ae51299e926c15a49664aad5e1de9264718/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b9a66ae51299e926c15a49664aad5e1de9264718/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b9a66ae51299e926c15a49664aad5e1de9264718/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b9a66ae51299e926c15a49664aad5e1de9264718/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b9a66ae51299e926c15a49664aad5e1de9264718/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b9a66ae51299e926c15a49664aad5e1de9264718/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b9a66ae51299e926c15a49664aad5e1de9264718/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b9a66ae51299e926c15a49664aad5e1de9264718/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b9a66ae51299e926c15a49664aad5e1de9264718/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "He Will Never Change",
@@ -1074,7 +1230,85 @@
         "trials"
       ],
       "voicings": [],
-      "assets": []
+      "assets": [
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/2020-international-youth-music-festival/2020-07-2030-he-will-never-change-music-video-1080p-eng.mp4",
+          "title": "He Will Never Change - Music Video",
+          "description": "A music video performance of ‘He Will Never Change’ recorded during an international youth music festival held on July 29, 2020.",
+          "mimeType": "",
+          "duration": 220853,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2020-07-2030-he-will-never-change-music-video",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2020-07-2030-he-will-never-change-music-video-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/31f3452692e184141bd980f28db8f7b032facae0/full/1920,/0/default",
+            "seoDescription": "2020-07-2030-he-will-never-change-music-video-1920x1080-thumb-master.jpg",
+            "seoTitle": "2020-07-2030-he-will-never-change-music-video-1920x1080-thumb-master.jpg",
+            "shareableTitle": "2020-07-2030-he-will-never-change-music-video-1920x1080-thumb-master.jpg",
+            "title": "2020-07-2030-he-will-never-change-music-video-1920x1080-thumb-master.jpg",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/31f3452692e184141bd980f28db8f7b032facae0/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/31f3452692e184141bd980f28db8f7b032facae0/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/31f3452692e184141bd980f28db8f7b032facae0/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/31f3452692e184141bd980f28db8f7b032facae0/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/31f3452692e184141bd980f28db8f7b032facae0/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/31f3452692e184141bd980f28db8f7b032facae0/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/31f3452692e184141bd980f28db8f7b032facae0/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/31f3452692e184141bd980f28db8f7b032facae0/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/31f3452692e184141bd980f28db8f7b032facae0/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/31f3452692e184141bd980f28db8f7b032facae0/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/31f3452692e184141bd980f28db8f7b032facae0/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "Live Forever",
@@ -1118,7 +1352,85 @@
         "joy"
       ],
       "voicings": [],
-      "assets": []
+      "assets": [
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/2020-international-youth-music-festival/2020-07-2060-live-forever-music-video-1080p-eng.mp4",
+          "title": "Live Forever - Music Video",
+          "description": "A music video performance of ‘Live Forever’ recorded during an international youth music festival held on July 29, 2020.",
+          "mimeType": "",
+          "duration": 176276,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2020-07-2060-live-forever-music-video",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2020-07-2060-live-forever-music-video-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/11cc3de236cf23a0f413dd7e50c7d189898cbb4d/full/1920,/0/default",
+            "seoDescription": "2020-07-2060-live-forever-music-video-1920x1080-thumb-master.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/11cc3de236cf23a0f413dd7e50c7d189898cbb4d/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/11cc3de236cf23a0f413dd7e50c7d189898cbb4d/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/11cc3de236cf23a0f413dd7e50c7d189898cbb4d/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/11cc3de236cf23a0f413dd7e50c7d189898cbb4d/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/11cc3de236cf23a0f413dd7e50c7d189898cbb4d/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/11cc3de236cf23a0f413dd7e50c7d189898cbb4d/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/11cc3de236cf23a0f413dd7e50c7d189898cbb4d/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/11cc3de236cf23a0f413dd7e50c7d189898cbb4d/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/11cc3de236cf23a0f413dd7e50c7d189898cbb4d/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/11cc3de236cf23a0f413dd7e50c7d189898cbb4d/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/11cc3de236cf23a0f413dd7e50c7d189898cbb4d/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "Lonely",
@@ -1159,7 +1471,85 @@
         "trials"
       ],
       "voicings": [],
-      "assets": []
+      "assets": [
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/2020-international-youth-music-festival/2020-07-2070-lonely-music-video-1080p-eng.mp4",
+          "title": "Lonely - Music Video",
+          "description": "A music video performance of ‘Lonely’ recorded during an international youth music festival held on July 29, 2020.",
+          "mimeType": "",
+          "duration": 245311,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2020-07-2070-lonely-music-video",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2020-07-2070-lonely-music-video-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cc68cf029617090cf86d006a493c7b5b00b7f6f8/full/1920,/0/default",
+            "seoDescription": "2020-07-2070-lonely-music-video-1920x1080-thumb-master.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cc68cf029617090cf86d006a493c7b5b00b7f6f8/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cc68cf029617090cf86d006a493c7b5b00b7f6f8/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cc68cf029617090cf86d006a493c7b5b00b7f6f8/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cc68cf029617090cf86d006a493c7b5b00b7f6f8/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cc68cf029617090cf86d006a493c7b5b00b7f6f8/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cc68cf029617090cf86d006a493c7b5b00b7f6f8/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cc68cf029617090cf86d006a493c7b5b00b7f6f8/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cc68cf029617090cf86d006a493c7b5b00b7f6f8/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cc68cf029617090cf86d006a493c7b5b00b7f6f8/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cc68cf029617090cf86d006a493c7b5b00b7f6f8/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cc68cf029617090cf86d006a493c7b5b00b7f6f8/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "Pillar of Light",
@@ -1208,7 +1598,85 @@
         "truth"
       ],
       "voicings": [],
-      "assets": []
+      "assets": [
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/2020-international-youth-music-festival/2020-07-2090-pillar-of-light-music-video-1080p-eng.mp4",
+          "title": "Pillar of Light - Music Video",
+          "description": "A music video performance of ‘Pillar of Light’ recorded during an international youth music festival held on July 29, 2020.",
+          "mimeType": "",
+          "duration": 248881,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2020-07-2090-pillar-of-light-music-video-1080p-eng.MP4",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2020-07-2090-pillar-of-light-music-video-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/224d0f27362a1b2c0eaf96679f1ca748a95de44e/full/1920,/0/default",
+            "seoDescription": "2020-07-2090-pillar-of-light-music-video-1920x1080-thumb-master.jpg",
+            "seoTitle": "2020-07-2090-pillar-of-light-music-video-1920x1080-thumb-master.jpg",
+            "shareableTitle": "2020-07-2090-pillar-of-light-music-video-1920x1080-thumb-master.jpg",
+            "title": "2020-07-2090-pillar-of-light-music-video-1920x1080-thumb-master.jpg",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/224d0f27362a1b2c0eaf96679f1ca748a95de44e/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/224d0f27362a1b2c0eaf96679f1ca748a95de44e/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/224d0f27362a1b2c0eaf96679f1ca748a95de44e/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/224d0f27362a1b2c0eaf96679f1ca748a95de44e/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/224d0f27362a1b2c0eaf96679f1ca748a95de44e/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/224d0f27362a1b2c0eaf96679f1ca748a95de44e/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/224d0f27362a1b2c0eaf96679f1ca748a95de44e/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/224d0f27362a1b2c0eaf96679f1ca748a95de44e/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/224d0f27362a1b2c0eaf96679f1ca748a95de44e/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/224d0f27362a1b2c0eaf96679f1ca748a95de44e/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/224d0f27362a1b2c0eaf96679f1ca748a95de44e/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "Reaching Out",
@@ -1252,7 +1720,85 @@
         "plan of salvation"
       ],
       "voicings": [],
-      "assets": []
+      "assets": [
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/2020-international-youth-music-festival/2020-07-2100-reaching-out-music-video-1080p-eng.mp4",
+          "title": "Reaching Out - Music Video",
+          "description": "A music video performance of ‘Reaching Out’ recorded during an international youth music festival held on July 29, 2020.",
+          "mimeType": "",
+          "duration": 251000,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2020-07-2100-reaching-out-music-video",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2020-07-2100-reaching-out-music-video-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/22acd871b7350c27dbfd87908d4379b76e41bd87/full/1920,/0/default",
+            "seoDescription": "2020-07-2100-reaching-out-music-video-1920x1080-thumb-master.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/22acd871b7350c27dbfd87908d4379b76e41bd87/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/22acd871b7350c27dbfd87908d4379b76e41bd87/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/22acd871b7350c27dbfd87908d4379b76e41bd87/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/22acd871b7350c27dbfd87908d4379b76e41bd87/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/22acd871b7350c27dbfd87908d4379b76e41bd87/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/22acd871b7350c27dbfd87908d4379b76e41bd87/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/22acd871b7350c27dbfd87908d4379b76e41bd87/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/22acd871b7350c27dbfd87908d4379b76e41bd87/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/22acd871b7350c27dbfd87908d4379b76e41bd87/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/22acd871b7350c27dbfd87908d4379b76e41bd87/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/22acd871b7350c27dbfd87908d4379b76e41bd87/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "Su mano tenderá",
@@ -1338,7 +1884,85 @@
         "trials"
       ],
       "voicings": [],
-      "assets": []
+      "assets": [
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/2020-international-youth-music-festival/2020-07-2120-what-does-he-think-music-video-1080p-eng.mp4",
+          "title": "What Does He Think? - Music Video",
+          "description": "A music video performance of ‘What Does He Think’ recorded during an international youth music festival held on July 29, 2020.",
+          "mimeType": "",
+          "duration": 217000,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2020-07-2120-what-does-he-think-music-video",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2020-07-2120-what-does-he-think-music-video-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a0cda1ba12daa90a9be3276138cec7a3c0518deb/full/1920,/0/default",
+            "seoDescription": "2020-07-2120-what-does-he-think-music-video-1920x1080-thumb-master.jpg",
+            "seoTitle": "2020-07-2120-what-does-he-think-music-video-1920x1080-thumb-master.jpg",
+            "shareableTitle": "2020-07-2120-what-does-he-think-music-video-1920x1080-thumb-master.jpg",
+            "title": "2020-07-2120-what-does-he-think-music-video-1920x1080-thumb-master.jpg",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a0cda1ba12daa90a9be3276138cec7a3c0518deb/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a0cda1ba12daa90a9be3276138cec7a3c0518deb/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a0cda1ba12daa90a9be3276138cec7a3c0518deb/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a0cda1ba12daa90a9be3276138cec7a3c0518deb/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a0cda1ba12daa90a9be3276138cec7a3c0518deb/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a0cda1ba12daa90a9be3276138cec7a3c0518deb/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a0cda1ba12daa90a9be3276138cec7a3c0518deb/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a0cda1ba12daa90a9be3276138cec7a3c0518deb/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a0cda1ba12daa90a9be3276138cec7a3c0518deb/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a0cda1ba12daa90a9be3276138cec7a3c0518deb/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a0cda1ba12daa90a9be3276138cec7a3c0518deb/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
     }
   ],
   "limit": 500,

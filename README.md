@@ -39,12 +39,14 @@ Song IDs use `<collection-slug>:<song-slug>`. Store favorites by song ID. Record
 Node.js 22 or newer is required. There are no package dependencies.
 
 ```sh
+npm test
 npm run validate
 npm run build
 npm run refresh
 ```
 
-- `validate` checks that every advertised collection exists, totals match, song IDs are unique, audio URLs are HTTPS, and the compact catalog agrees with the raw mirror.
+- `test` checks page-data parsing, fallback selection, playable asset filtering, and URL deduplication.
+- `validate` checks that every advertised collection exists, totals match, song IDs are unique, playback URLs are HTTPS, and the compact catalog agrees with the raw mirror.
 - `build` regenerates the compact catalog from the checked-in raw mirror without network access.
 - `refresh` downloads a complete snapshot into a temporary directory, validates it, builds the compact catalog, and only then replaces `sacredmusic/`.
 
@@ -67,6 +69,6 @@ The workflow uploads only `sacredmusic/catalog/`. In repository settings, GitHub
 
 ## Maintenance notes
 
-The importer intentionally limits concurrency and retries transient request failures. Collection pagination continues until the reported total is reached. Any incomplete or malformed collection fails the run, leaving the previously published snapshot untouched.
+The importer intentionally limits concurrency and retries transient request failures. Collection pagination continues until the reported total is reached. When a collection record has no direct audio but indicates other media, the importer checks the song page and merges playable `AUDIO_*` or `VIDEO` assets from `window.renderData`. Direct audio retains priority, duplicate URLs are ignored, and PDFs are never exposed as recordings. Any incomplete or malformed collection fails the run, leaving the previously published snapshot untouched.
 
 The raw mirror is retained as internal build input for debugging and provenance. The versioned catalog is the only supported application-facing shape. Breaking changes require a new version directory and a migration note in this README.

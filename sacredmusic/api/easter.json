@@ -4883,7 +4883,85 @@
         "joy"
       ],
       "voicings": [],
-      "assets": []
+      "assets": [
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/2020-international-youth-music-festival/2020-07-2060-live-forever-music-video-1080p-eng.mp4",
+          "title": "Live Forever - Music Video",
+          "description": "A music video performance of ‘Live Forever’ recorded during an international youth music festival held on July 29, 2020.",
+          "mimeType": "",
+          "duration": 176276,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2020-07-2060-live-forever-music-video",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2020-07-2060-live-forever-music-video-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/11cc3de236cf23a0f413dd7e50c7d189898cbb4d/full/1920,/0/default",
+            "seoDescription": "2020-07-2060-live-forever-music-video-1920x1080-thumb-master.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/11cc3de236cf23a0f413dd7e50c7d189898cbb4d/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/11cc3de236cf23a0f413dd7e50c7d189898cbb4d/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/11cc3de236cf23a0f413dd7e50c7d189898cbb4d/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/11cc3de236cf23a0f413dd7e50c7d189898cbb4d/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/11cc3de236cf23a0f413dd7e50c7d189898cbb4d/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/11cc3de236cf23a0f413dd7e50c7d189898cbb4d/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/11cc3de236cf23a0f413dd7e50c7d189898cbb4d/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/11cc3de236cf23a0f413dd7e50c7d189898cbb4d/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/11cc3de236cf23a0f413dd7e50c7d189898cbb4d/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/11cc3de236cf23a0f413dd7e50c7d189898cbb4d/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/11cc3de236cf23a0f413dd7e50c7d189898cbb4d/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "Hallelujah Chorus from Handel’s Messiah",

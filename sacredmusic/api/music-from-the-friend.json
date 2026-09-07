@@ -15097,7 +15097,85 @@
           "name": "Unison"
         }
       ],
-      "assets": []
+      "assets": [
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/magazines/18341010/18341-2022-07-0010-thy-holy-temple-1080p-eng.mp4",
+          "title": "Thy Holy Temple",
+          "description": "Thy Holy Temple",
+          "mimeType": "",
+          "duration": 132632,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "18341_010",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "18341-2022-07-0010-thy-holy-temple.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/77b922af16194f5c4037db11fe4b99c1837e8e23/full/1920,/0/default",
+            "seoDescription": "18341-2022-07-0010-thy-holy-temple.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/77b922af16194f5c4037db11fe4b99c1837e8e23/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/77b922af16194f5c4037db11fe4b99c1837e8e23/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/77b922af16194f5c4037db11fe4b99c1837e8e23/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/77b922af16194f5c4037db11fe4b99c1837e8e23/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/77b922af16194f5c4037db11fe4b99c1837e8e23/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/77b922af16194f5c4037db11fe4b99c1837e8e23/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/77b922af16194f5c4037db11fe4b99c1837e8e23/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/77b922af16194f5c4037db11fe4b99c1837e8e23/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/77b922af16194f5c4037db11fe4b99c1837e8e23/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/77b922af16194f5c4037db11fe4b99c1837e8e23/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/77b922af16194f5c4037db11fe4b99c1837e8e23/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "Our Family Place",
@@ -23438,7 +23516,60 @@
           "name": "Unison"
         }
       ],
-      "assets": []
+      "assets": [
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/i-can-play-it-2015/2015-02-003-holding-hands-around-the-world-1080p-eng.mp4",
+          "title": "Holding Hands Around the World",
+          "description": "Holding Hands Around the World",
+          "mimeType": "",
+          "duration": 147447,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2015-02-0003-holding-hands-around-the-world",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "Holding Hands Around the World",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/B2B181142E19058E0E06F4E66C784F9C781BFF6F/full/500,/0/default",
+            "seoDescription": "Holding Hands Around the World",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/B2B181142E19058E0E06F4E66C784F9C781BFF6F/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/B2B181142E19058E0E06F4E66C784F9C781BFF6F/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/B2B181142E19058E0E06F4E66C784F9C781BFF6F/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/B2B181142E19058E0E06F4E66C784F9C781BFF6F/full/!200%2C112/0/default",
+                "width": 200,
+                "height": 112
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/B2B181142E19058E0E06F4E66C784F9C781BFF6F/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/B2B181142E19058E0E06F4E66C784F9C781BFF6F/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "When Jesus Christ Was Baptized",
@@ -23595,7 +23726,85 @@
           "name": "Unison"
         }
       ],
-      "assets": []
+      "assets": [
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/1573f9ac323d11eea8ffeeeeac1ed424939ee02b-1080p-en.mp4",
+          "title": "Tell Me the Stories of Jesus | App Version",
+          "description": "A musical video with lyrics and images for the children’s song “Tell Me the Stories of Jesus.”",
+          "mimeType": "",
+          "duration": 115000,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2023-07-0091-tell-me-the-stories-of-jesus-app-version",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2023-07-0091-tell-me-the-stories-of-jesus-app-version-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/01ecace66dca4cb76123288d6cef7d137e025e7f/full/1920,/0/default",
+            "seoDescription": "2023-07-0091-tell-me-the-stories-of-jesus-app-version-1920x1080-thumb-master.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/01ecace66dca4cb76123288d6cef7d137e025e7f/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/01ecace66dca4cb76123288d6cef7d137e025e7f/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/01ecace66dca4cb76123288d6cef7d137e025e7f/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/01ecace66dca4cb76123288d6cef7d137e025e7f/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/01ecace66dca4cb76123288d6cef7d137e025e7f/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/01ecace66dca4cb76123288d6cef7d137e025e7f/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/01ecace66dca4cb76123288d6cef7d137e025e7f/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/01ecace66dca4cb76123288d6cef7d137e025e7f/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/01ecace66dca4cb76123288d6cef7d137e025e7f/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/01ecace66dca4cb76123288d6cef7d137e025e7f/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/01ecace66dca4cb76123288d6cef7d137e025e7f/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "Teach Me to Walk in the Light",
@@ -23960,7 +24169,85 @@
           "name": "Unison"
         }
       ],
-      "assets": []
+      "assets": [
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/4b9287c1ab5811ee8ce0eeeeac1eb454831d4de5-1080p-en.mp4",
+          "title": "Give, Said the Little Stream | App Version",
+          "description": "A musical video with lyrics and images for the children’s song “Give, Said the Little Stream.”",
+          "mimeType": "",
+          "duration": 107857,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2023-07-0241-give-said-the-little-stream-app-version",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2023-07-0241-give-said-the-little-stream-app-version-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/1D1D2F9465CF14E1A1432DE6C5800D4CC750FADC/full/1920,/0/default",
+            "seoDescription": "2023-07-0241-give-said-the-little-stream-app-version-1920x1080-thumb-master.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/1D1D2F9465CF14E1A1432DE6C5800D4CC750FADC/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/1D1D2F9465CF14E1A1432DE6C5800D4CC750FADC/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/1D1D2F9465CF14E1A1432DE6C5800D4CC750FADC/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/1D1D2F9465CF14E1A1432DE6C5800D4CC750FADC/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/1D1D2F9465CF14E1A1432DE6C5800D4CC750FADC/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/1D1D2F9465CF14E1A1432DE6C5800D4CC750FADC/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/1D1D2F9465CF14E1A1432DE6C5800D4CC750FADC/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/1D1D2F9465CF14E1A1432DE6C5800D4CC750FADC/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/1D1D2F9465CF14E1A1432DE6C5800D4CC750FADC/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/1D1D2F9465CF14E1A1432DE6C5800D4CC750FADC/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/1D1D2F9465CF14E1A1432DE6C5800D4CC750FADC/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "The Way to Bethlehem",
@@ -24254,7 +24541,85 @@
           "name": "Unison"
         }
       ],
-      "assets": []
+      "assets": [
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/d3e634d8323c11ee9049eeeeac1e6e0530340e2b-1080p-en.mp4",
+          "title": "Stand for the Right | App Version",
+          "description": "A musical video with lyrics and images for the children’s song “Stand for the Right.”",
+          "mimeType": "",
+          "duration": 50000,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2023-07-0221-stand-for-the-right-app-version",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2023-07-0221-stand-for-the-right-app-version-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a685e8e1f1debff5fa9ae4830d15ce7d79fca5fd/full/1920,/0/default",
+            "seoDescription": "2023-07-0221-stand-for-the-right-app-version-1920x1080-thumb-master.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a685e8e1f1debff5fa9ae4830d15ce7d79fca5fd/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a685e8e1f1debff5fa9ae4830d15ce7d79fca5fd/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a685e8e1f1debff5fa9ae4830d15ce7d79fca5fd/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a685e8e1f1debff5fa9ae4830d15ce7d79fca5fd/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a685e8e1f1debff5fa9ae4830d15ce7d79fca5fd/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a685e8e1f1debff5fa9ae4830d15ce7d79fca5fd/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a685e8e1f1debff5fa9ae4830d15ce7d79fca5fd/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a685e8e1f1debff5fa9ae4830d15ce7d79fca5fd/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a685e8e1f1debff5fa9ae4830d15ce7d79fca5fd/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a685e8e1f1debff5fa9ae4830d15ce7d79fca5fd/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a685e8e1f1debff5fa9ae4830d15ce7d79fca5fd/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "Praise to the Man",
@@ -24532,7 +24897,85 @@
           "name": "Unison"
         }
       ],
-      "assets": []
+      "assets": [
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/054277a6323d11eeb542eeeeac1e7454a9f8e26a-1080p-en.mp4",
+          "title": "The Lord Gave Me a Temple | App Version",
+          "description": "A musical video with lyrics and images for the children’s song “The Lord Gave Me a Temple.”",
+          "mimeType": "",
+          "duration": 97000,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2023-07-0101-the-lord-gave-me-a-temple-app-version",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2023-07-0101-the-lord-gave-me-a-temple-app-version-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/47E6EF6F7EDFCD41A9CDA7BDA944EF60A2C07377/full/1920,/0/default",
+            "seoDescription": "2023-07-0101-the-lord-gave-me-a-temple-app-version-1920x1080-thumb-master.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/47E6EF6F7EDFCD41A9CDA7BDA944EF60A2C07377/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/47E6EF6F7EDFCD41A9CDA7BDA944EF60A2C07377/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/47E6EF6F7EDFCD41A9CDA7BDA944EF60A2C07377/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/47E6EF6F7EDFCD41A9CDA7BDA944EF60A2C07377/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/47E6EF6F7EDFCD41A9CDA7BDA944EF60A2C07377/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/47E6EF6F7EDFCD41A9CDA7BDA944EF60A2C07377/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/47E6EF6F7EDFCD41A9CDA7BDA944EF60A2C07377/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/47E6EF6F7EDFCD41A9CDA7BDA944EF60A2C07377/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/47E6EF6F7EDFCD41A9CDA7BDA944EF60A2C07377/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/47E6EF6F7EDFCD41A9CDA7BDA944EF60A2C07377/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/47E6EF6F7EDFCD41A9CDA7BDA944EF60A2C07377/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "Had I Been a Child",
@@ -25548,7 +25991,85 @@
           "name": "Unison"
         }
       ],
-      "assets": []
+      "assets": [
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/44ddeaa4ab5811eeb25feeeeac1e1a6c95fe45bb-1080p-en.mp4",
+          "title": "Called to Serve | App Version",
+          "description": "A musical video with lyrics and images for the children’s song “Called to Serve.”",
+          "mimeType": "",
+          "duration": 111528,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2023-07-0231-called-to-serve-app-version",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2023-07-0231-called-to-serve-app-version-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/30470365317D9EFF9B15FF9662D46A816197718C/full/1920,/0/default",
+            "seoDescription": "2023-07-0231-called-to-serve-app-version-1920x1080-thumb-master.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/30470365317D9EFF9B15FF9662D46A816197718C/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/30470365317D9EFF9B15FF9662D46A816197718C/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/30470365317D9EFF9B15FF9662D46A816197718C/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/30470365317D9EFF9B15FF9662D46A816197718C/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/30470365317D9EFF9B15FF9662D46A816197718C/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/30470365317D9EFF9B15FF9662D46A816197718C/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/30470365317D9EFF9B15FF9662D46A816197718C/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/30470365317D9EFF9B15FF9662D46A816197718C/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/30470365317D9EFF9B15FF9662D46A816197718C/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/30470365317D9EFF9B15FF9662D46A816197718C/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/30470365317D9EFF9B15FF9662D46A816197718C/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "Make Room for Him",
@@ -25841,7 +26362,80 @@
           "name": "Unison"
         }
       ],
-      "assets": []
+      "assets": [
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/friend-videos-2018/2018-03-0010-all-things-bright-and-beautiful-1080p-eng.mp4",
+          "title": "All Things Bright and Beautiful",
+          "description": "A musical montage and sing-along featuring the primary song, “All Things Bright and Beautiful”.",
+          "mimeType": "",
+          "duration": 186286,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2018-03-0010-all-things-bright-and-beautiful",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2018-03-0010-all-things-bright-and-beautiful-1832x1031.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/C391D512CE622A4B137DCF872F4E49687F8B9CEF/full/1600,/0/default",
+            "seoDescription": "2018-03-0010-all-things-bright-and-beautiful-1832x1031.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/C391D512CE622A4B137DCF872F4E49687F8B9CEF/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/C391D512CE622A4B137DCF872F4E49687F8B9CEF/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/C391D512CE622A4B137DCF872F4E49687F8B9CEF/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/C391D512CE622A4B137DCF872F4E49687F8B9CEF/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/C391D512CE622A4B137DCF872F4E49687F8B9CEF/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/C391D512CE622A4B137DCF872F4E49687F8B9CEF/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/C391D512CE622A4B137DCF872F4E49687F8B9CEF/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/C391D512CE622A4B137DCF872F4E49687F8B9CEF/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/C391D512CE622A4B137DCF872F4E49687F8B9CEF/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/C391D512CE622A4B137DCF872F4E49687F8B9CEF/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "Gethsemane",
@@ -25891,7 +26485,60 @@
           "name": "Unison"
         }
       ],
-      "assets": []
+      "assets": [
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/friend-videos-2018/2018-03-0020-gethsemane-1080p-eng.mp4",
+          "title": "Gethsemane",
+          "description": "A musical montage and sing-along featuring the song, “Gethsemane” by Melanie Hoffman.",
+          "mimeType": "",
+          "duration": 202902,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2018-03-0020-gethsemane",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "A musical montage and sing-along featuring the song, “Gethsemane” by Melanie Hoffman.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/886F40EA2336DD6E669EB3ED45D9DE599633682B/full/500,/0/default",
+            "seoDescription": "A musical montage and sing-along featuring the song, \"Gethsemane\" by Melanie Hoffman.",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/886F40EA2336DD6E669EB3ED45D9DE599633682B/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/886F40EA2336DD6E669EB3ED45D9DE599633682B/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/886F40EA2336DD6E669EB3ED45D9DE599633682B/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/886F40EA2336DD6E669EB3ED45D9DE599633682B/full/!200%2C112/0/default",
+                "width": 200,
+                "height": 112
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/886F40EA2336DD6E669EB3ED45D9DE599633682B/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/886F40EA2336DD6E669EB3ED45D9DE599633682B/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "With Priesthood Power",
@@ -26029,7 +26676,85 @@
           "name": "Unison"
         }
       ],
-      "assets": []
+      "assets": [
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/friend-videos-2018/2018-03-0080-i-pray-in-faith-1080p-eng.mp4",
+          "title": "I Pray in Faith",
+          "description": "A music video of “I Pray in Faith”.",
+          "mimeType": "",
+          "duration": 105038,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2018-03-0080-i-pray-in-faith",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2018-07-0080-i-pray-in-faith-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/134a9846af7893249ac1f8881e140a26f34d6139/full/1920,/0/default",
+            "seoDescription": "2018-07-0080-i-pray-in-faith-1920x1080-thumb-master.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/134a9846af7893249ac1f8881e140a26f34d6139/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/134a9846af7893249ac1f8881e140a26f34d6139/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/134a9846af7893249ac1f8881e140a26f34d6139/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/134a9846af7893249ac1f8881e140a26f34d6139/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/134a9846af7893249ac1f8881e140a26f34d6139/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/134a9846af7893249ac1f8881e140a26f34d6139/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/134a9846af7893249ac1f8881e140a26f34d6139/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/134a9846af7893249ac1f8881e140a26f34d6139/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/134a9846af7893249ac1f8881e140a26f34d6139/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/134a9846af7893249ac1f8881e140a26f34d6139/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/134a9846af7893249ac1f8881e140a26f34d6139/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "I Am Like a Star",
@@ -26247,7 +26972,85 @@
           "name": "Unison"
         }
       ],
-      "assets": []
+      "assets": [
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/friend-videos-2018/2018-03-0120-christmas-bells-1080p-eng.mp4",
+          "title": "Christmas Bells",
+          "description": "Hearing the beautiful “Christmas Bells” helps us remember Jesus’s birth in Bethlehem",
+          "mimeType": "",
+          "duration": 74000,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2018-03-0120-christmas-bells",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2018-03-0120-christmas-bells-1920x1080.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/f6efdef2bc84476d03821fd8ad9517416a55d425/full/1920,/0/default",
+            "seoDescription": "2018-03-0120-christmas-bells-1920x1080.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/f6efdef2bc84476d03821fd8ad9517416a55d425/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/f6efdef2bc84476d03821fd8ad9517416a55d425/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/f6efdef2bc84476d03821fd8ad9517416a55d425/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/f6efdef2bc84476d03821fd8ad9517416a55d425/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/f6efdef2bc84476d03821fd8ad9517416a55d425/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/f6efdef2bc84476d03821fd8ad9517416a55d425/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/f6efdef2bc84476d03821fd8ad9517416a55d425/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/f6efdef2bc84476d03821fd8ad9517416a55d425/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/f6efdef2bc84476d03821fd8ad9517416a55d425/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/f6efdef2bc84476d03821fd8ad9517416a55d425/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/f6efdef2bc84476d03821fd8ad9517416a55d425/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "Faith",
@@ -26720,7 +27523,85 @@
           "name": "Unison"
         }
       ],
-      "assets": []
+      "assets": [
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/childrens-website-videos-2019/2019-01-0120-my-christmas-testimony-1080p-eng.mp4",
+          "title": "My Christmas Testimony",
+          "description": "My Christmas Testimony",
+          "mimeType": "",
+          "duration": 124307,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2019-01-0120-my-christmas-testimony",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2019-01-0120-my-christmas-testimony-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2ACAEA47C71CABDC78F15E8424BE93B55CF65465/full/1920,/0/default",
+            "seoDescription": "2019-01-0120-my-christmas-testimony-1920x1080-thumb-master.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2ACAEA47C71CABDC78F15E8424BE93B55CF65465/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2ACAEA47C71CABDC78F15E8424BE93B55CF65465/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2ACAEA47C71CABDC78F15E8424BE93B55CF65465/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2ACAEA47C71CABDC78F15E8424BE93B55CF65465/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2ACAEA47C71CABDC78F15E8424BE93B55CF65465/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2ACAEA47C71CABDC78F15E8424BE93B55CF65465/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2ACAEA47C71CABDC78F15E8424BE93B55CF65465/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2ACAEA47C71CABDC78F15E8424BE93B55CF65465/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2ACAEA47C71CABDC78F15E8424BE93B55CF65465/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2ACAEA47C71CABDC78F15E8424BE93B55CF65465/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2ACAEA47C71CABDC78F15E8424BE93B55CF65465/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "The Book of Mormon Tells of Christ",
@@ -27337,7 +28218,85 @@
         "plan of salvation"
       ],
       "voicings": [],
-      "assets": []
+      "assets": [
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/magazines/16801019/16801-2020-10-0019-follow-me-piano-only-october-1080p-eng.mp4",
+          "title": "Come, Follow Me",
+          "description": "Come, Follow Me",
+          "mimeType": "",
+          "duration": 146713,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "16801_019",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "16801-2020-10-0019-follow-me-piano-only-october.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a078f2c7882cf69847fd37e2c8d0509749722882/full/1920,/0/default",
+            "seoDescription": "16801-2020-10-0019-follow-me-piano-only-october.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a078f2c7882cf69847fd37e2c8d0509749722882/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a078f2c7882cf69847fd37e2c8d0509749722882/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a078f2c7882cf69847fd37e2c8d0509749722882/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a078f2c7882cf69847fd37e2c8d0509749722882/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a078f2c7882cf69847fd37e2c8d0509749722882/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a078f2c7882cf69847fd37e2c8d0509749722882/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a078f2c7882cf69847fd37e2c8d0509749722882/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a078f2c7882cf69847fd37e2c8d0509749722882/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a078f2c7882cf69847fd37e2c8d0509749722882/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a078f2c7882cf69847fd37e2c8d0509749722882/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a078f2c7882cf69847fd37e2c8d0509749722882/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "Thankful",
@@ -27641,7 +28600,85 @@
           "name": "Unison"
         }
       ],
-      "assets": []
+      "assets": [
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/magazines/17708007/17708-2021-03-0006-jesus-has-risen-1080p-eng.mp4",
+          "title": "Jesus Has Risen",
+          "description": "Jesus Has Risen",
+          "mimeType": "",
+          "duration": 62378,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "17708_007",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "17708-2021-03-0006-jesus-has-risen.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/21005e2c181596ebed836e040d3ae424e2ef3bc9/full/1920,/0/default",
+            "seoDescription": "17708-2021-03-0006-jesus-has-risen.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/21005e2c181596ebed836e040d3ae424e2ef3bc9/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/21005e2c181596ebed836e040d3ae424e2ef3bc9/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/21005e2c181596ebed836e040d3ae424e2ef3bc9/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/21005e2c181596ebed836e040d3ae424e2ef3bc9/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/21005e2c181596ebed836e040d3ae424e2ef3bc9/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/21005e2c181596ebed836e040d3ae424e2ef3bc9/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/21005e2c181596ebed836e040d3ae424e2ef3bc9/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/21005e2c181596ebed836e040d3ae424e2ef3bc9/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/21005e2c181596ebed836e040d3ae424e2ef3bc9/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/21005e2c181596ebed836e040d3ae424e2ef3bc9/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/21005e2c181596ebed836e040d3ae424e2ef3bc9/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "My Power to Choose",
@@ -28002,7 +29039,85 @@
           "name": "Unison"
         }
       ],
-      "assets": []
+      "assets": [
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/68f67c83ab5811ee93bfeeeeac1e43bd3718b01a-1080p-en.mp4",
+          "title": "I Want to Live the Gospel | App Version",
+          "description": "A musical video with lyrics and images for the children’s song “I Want to Live the Gospel.”",
+          "mimeType": "",
+          "duration": 117000,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2023-07-0271-i-want-to-live-the-gospel-app-version",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2023-07-0271-i-want-to-live-the-gospel-app-version-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0D52AC41BD1676370F01F224361F2CCBBE07E05E/full/1920,/0/default",
+            "seoDescription": "2023-07-0271-i-want-to-live-the-gospel-app-version-1920x1080-thumb-master.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0D52AC41BD1676370F01F224361F2CCBBE07E05E/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0D52AC41BD1676370F01F224361F2CCBBE07E05E/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0D52AC41BD1676370F01F224361F2CCBBE07E05E/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0D52AC41BD1676370F01F224361F2CCBBE07E05E/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0D52AC41BD1676370F01F224361F2CCBBE07E05E/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0D52AC41BD1676370F01F224361F2CCBBE07E05E/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0D52AC41BD1676370F01F224361F2CCBBE07E05E/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0D52AC41BD1676370F01F224361F2CCBBE07E05E/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0D52AC41BD1676370F01F224361F2CCBBE07E05E/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0D52AC41BD1676370F01F224361F2CCBBE07E05E/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0D52AC41BD1676370F01F224361F2CCBBE07E05E/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "Tell Me the Stories of Jesus",
@@ -28419,7 +29534,85 @@
           "name": "Unison"
         }
       ],
-      "assets": []
+      "assets": [
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/00086c9c323d11ee85f9eeeeac1e1af678f1f886-1080p-en.mp4",
+          "title": "Baptism | App Version",
+          "description": "A musical video with lyrics and images for the children’s song “Baptism.”",
+          "mimeType": "",
+          "duration": 112000,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2023-07-0121-baptism-app-version",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2023-07-0121-baptism-app-version-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2e0a5e6a844f68eea8d228b41ab8266c39b2ad63/full/1920,/0/default",
+            "seoDescription": "2023-07-0121-baptism-app-version-1920x1080-thumb-master.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2e0a5e6a844f68eea8d228b41ab8266c39b2ad63/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2e0a5e6a844f68eea8d228b41ab8266c39b2ad63/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2e0a5e6a844f68eea8d228b41ab8266c39b2ad63/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2e0a5e6a844f68eea8d228b41ab8266c39b2ad63/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2e0a5e6a844f68eea8d228b41ab8266c39b2ad63/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2e0a5e6a844f68eea8d228b41ab8266c39b2ad63/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2e0a5e6a844f68eea8d228b41ab8266c39b2ad63/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2e0a5e6a844f68eea8d228b41ab8266c39b2ad63/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2e0a5e6a844f68eea8d228b41ab8266c39b2ad63/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2e0a5e6a844f68eea8d228b41ab8266c39b2ad63/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2e0a5e6a844f68eea8d228b41ab8266c39b2ad63/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "Liken the Scriptures",

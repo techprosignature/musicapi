@@ -9,6 +9,7 @@ const LANGUAGE = "eng";
 const PAGE_SIZE = 500;
 const CONCURRENCY = 4;
 const AUDIO_PREFIX = "AUDIO_";
+const VIDEO_ASSET_TYPE = "VIDEO";
 const CATALOG_VERSION = "v1";
 const ARTWORK_TYPE_PRIORITY = [
   "AUDIO_VOCAL",
@@ -19,6 +20,7 @@ const ARTWORK_TYPE_PRIORITY = [
   "AUDIO_INSTRUMENTAL",
   "AUDIO_ACCOMPANIMENT",
   "AUDIO_ACCOMPANIMENT_GUITAR",
+  VIDEO_ASSET_TYPE,
 ];
 
 function fail(message) {
@@ -52,13 +54,72 @@ async function fetchWithRetry(url, attempts = 3) {
 }
 
 function parseRenderData(html) {
-  const marker = "window.renderData=";
-  const start = html.indexOf(marker);
-  if (start === -1) fail("The music library page did not contain window.renderData");
-  const scriptEnd = html.indexOf("</script>", start);
+  const marker = /window\.renderData\s*=\s*/.exec(html);
+  if (!marker) fail("The music library page did not contain window.renderData");
+  const sourceStart = marker.index + marker[0].length;
+  const scriptEnd = html.indexOf("</script>", sourceStart);
   if (scriptEnd === -1) fail("Could not find the end of window.renderData");
-  const source = html.slice(start + marker.length, scriptEnd).trim().replace(/;$/, "");
+  const source = html.slice(sourceStart, scriptEnd).trim().replace(/;$/, "");
   return JSON.parse(source);
+}
+
+function isDirectAudioAsset(asset) {
+  return Boolean(asset?.assetType?.startsWith(AUDIO_PREFIX) && asset.distributionUrl?.startsWith("https://"));
+}
+
+function isPlaybackAsset(asset) {
+  return Boolean(
+    (asset?.assetType?.startsWith(AUDIO_PREFIX) || asset?.assetType === VIDEO_ASSET_TYPE)
+    && asset.distributionUrl?.startsWith("https://"),
+  );
+}
+
+function recordingAssets(assets) {
+  const directAudio = (assets || []).filter(isDirectAudioAsset);
+  return directAudio.length > 0
+    ? directAudio
+    : (assets || []).filter((asset) => asset?.assetType === VIDEO_ASSET_TYPE && isPlaybackAsset(asset));
+}
+
+function shouldFetchSongPage(song) {
+  if ((song.assets || []).some(isDirectAudioAsset)) return false;
+  return Boolean(song.videoAvailable || song.recordingAvailable || !song.sheetMusicAvailable);
+}
+
+function songPageUrl(slug) {
+  const url = new URL(`https://www.churchofjesuschrist.org/media/music/songs/${encodeURIComponent(slug)}`);
+  url.searchParams.set("lang", LANGUAGE);
+  return url;
+}
+
+function songPageAssets(html, expectedSlug) {
+  const renderData = parseRenderData(html);
+  const data = renderData?.data;
+  const song = data?.songData;
+  if (data?.slugName !== expectedSlug || !song || typeof song !== "object" || Array.isArray(song)) {
+    fail(`Song page ${expectedSlug} returned unexpected render data`);
+  }
+  if (Object.keys(song).length === 0 && data.sendToError === false) return [];
+  if (song.slug !== expectedSlug || !Array.isArray(song.assets)) {
+    fail(`Song page ${expectedSlug} returned unexpected song data`);
+  }
+  return song.assets.filter(isPlaybackAsset);
+}
+
+function mergePageAssets(song, pageAssets) {
+  const assets = [...(song.assets || [])];
+  const urls = new Set(assets.map((asset) => asset.distributionUrl).filter(Boolean));
+  for (const asset of pageAssets) {
+    if (!isPlaybackAsset(asset) || urls.has(asset.distributionUrl)) continue;
+    assets.push(asset);
+    urls.add(asset.distributionUrl);
+  }
+  return assets.length === (song.assets || []).length ? song : { ...song, assets };
+}
+
+async function fetchSongPageAssets(slug) {
+  const response = await fetchWithRetry(songPageUrl(slug));
+  return songPageAssets(await response.text(), slug);
 }
 
 function collectCollections(entry, collections = new Map()) {
@@ -144,16 +205,17 @@ function recordingLabel(type) {
     AUDIO_VOCAL_CONGREGATION: "Congregational vocal",
     AUDIO_VOCAL_FAMILY: "Family vocal",
     AUDIO_VOCAL_YOUTH: "Youth vocal",
+    VIDEO: "Music video",
   };
-  return labels[type] || type.slice(AUDIO_PREFIX.length).toLowerCase().replaceAll("_", " ");
+  const fallback = type.startsWith(AUDIO_PREFIX) ? type.slice(AUDIO_PREFIX.length) : type;
+  return labels[type] || fallback.toLowerCase().replaceAll("_", " ");
 }
 
 function normalizeSong(song, collectionSlug) {
   const songId = `${collectionSlug}:${song.slug}`;
   const typeCounts = new Map();
-  const audioAssets = (song.assets || [])
-    .filter((asset) => asset.assetType?.startsWith(AUDIO_PREFIX) && asset.distributionUrl);
-  const artworkAsset = [...audioAssets]
+  const playbackAssets = recordingAssets(song.assets);
+  const artworkAsset = [...playbackAssets]
     .filter((asset) => imageUrl(asset))
     .sort((left, right) => {
       const leftIndex = ARTWORK_TYPE_PRIORITY.indexOf(left.assetType);
@@ -161,7 +223,7 @@ function normalizeSong(song, collectionSlug) {
       return (leftIndex === -1 ? Infinity : leftIndex) - (rightIndex === -1 ? Infinity : rightIndex);
     })[0];
   const artworkUrl = artworkAsset ? imageUrl(artworkAsset) : null;
-  const recordings = audioAssets
+  const recordings = playbackAssets
     .map((asset) => {
       const count = (typeCounts.get(asset.assetType) || 0) + 1;
       typeCounts.set(asset.assetType, count);
@@ -243,13 +305,17 @@ async function validateSnapshot(directory) {
       if (songIds.has(id)) fail(`Duplicate song ID: ${id}`);
       songIds.add(id);
       songs += 1;
-      const audio = (song.assets || []).filter((asset) => asset.assetType?.startsWith(AUDIO_PREFIX));
-      if (song.recordingAvailable && audio.length === 0) fail(`${id} claims a recording but has no audio asset`);
-      for (const asset of audio) {
-        if (!asset.distributionUrl?.startsWith("https://")) fail(`${id} has an invalid audio URL`);
+      const mediaAssets = (song.assets || []).filter((asset) =>
+        asset?.assetType?.startsWith(AUDIO_PREFIX) || asset?.assetType === VIDEO_ASSET_TYPE);
+      for (const asset of mediaAssets) {
+        if (!asset.distributionUrl?.startsWith("https://")) fail(`${id} has an invalid playback URL`);
       }
-      if (audio.length > 0) playableSongs += 1;
-      recordings += audio.length;
+      const playbackAssets = recordingAssets(mediaAssets);
+      if (song.recordingAvailable && playbackAssets.length === 0) {
+        fail(`${id} claims a recording but has no playable asset`);
+      }
+      if (playbackAssets.length > 0) playableSongs += 1;
+      recordings += playbackAssets.length;
     }
   }
   return { collections: collections.length, songs, playableSongs, recordings };
@@ -462,14 +528,39 @@ async function refresh() {
     const collections = [...collectCollections(main?.data?.libraryData).values()];
     console.log(`Refreshing ${collections.length} collections...`);
     await fs.writeFile(path.join(staging, "main.json"), JSON.stringify(main));
-    await mapConcurrent(collections, CONCURRENCY, async (collection, index) => {
+    const payloads = await mapConcurrent(collections, CONCURRENCY, async (collection, index) => {
       const payload = await fetchCollection(collection.slug);
-      await fs.writeFile(
-        path.join(staging, "api", `${collection.slug}.json`),
-        JSON.stringify(payload, null, 2),
-      );
       console.log(`[${index + 1}/${collections.length}] ${collection.slug}: ${payload.total}`);
+      return { collection, payload };
     });
+
+    const fallbackGroups = new Map();
+    for (const entry of payloads) {
+      for (const song of entry.payload.data) {
+        if (!shouldFetchSongPage(song)) continue;
+        const group = fallbackGroups.get(song.slug) || [];
+        group.push(song);
+        fallbackGroups.set(song.slug, group);
+      }
+    }
+    const fallbackEntries = [...fallbackGroups.entries()];
+    console.log(`Checking ${fallbackEntries.length} song pages for fallback media...`);
+    await mapConcurrent(fallbackEntries, CONCURRENCY, async ([slug, songs], index) => {
+      const pageAssets = await fetchSongPageAssets(slug);
+      let added = 0;
+      for (let songIndex = 0; songIndex < songs.length; songIndex += 1) {
+        const original = songs[songIndex];
+        const merged = mergePageAssets(original, pageAssets);
+        added += (merged.assets || []).length - (original.assets || []).length;
+        if (merged !== original) Object.assign(original, merged);
+      }
+      console.log(`[page ${index + 1}/${fallbackEntries.length}] ${slug}: ${added} fallback asset${added === 1 ? "" : "s"}`);
+    });
+
+    await Promise.all(payloads.map(({ collection, payload }) => fs.writeFile(
+      path.join(staging, "api", `${collection.slug}.json`),
+      JSON.stringify(payload, null, 2),
+    )));
     const stats = await validateSnapshot(staging);
     await buildCatalog(staging);
     await validateCatalog(staging, stats);
@@ -506,7 +597,19 @@ async function main() {
   }
 }
 
-main().catch((error) => {
-  console.error(error);
-  process.exitCode = 1;
-});
+if (require.main === module) {
+  main().catch((error) => {
+    console.error(error);
+    process.exitCode = 1;
+  });
+}
+
+module.exports = {
+  isPlaybackAsset,
+  mergePageAssets,
+  recordingAssets,
+  parseRenderData,
+  shouldFetchSongPage,
+  songPageAssets,
+  songPageUrl,
+};

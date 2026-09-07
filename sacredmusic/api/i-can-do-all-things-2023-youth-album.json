@@ -2089,7 +2089,85 @@
           "name": "SATB"
         }
       ],
-      "assets": []
+      "assets": [
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/71fa1794152611ee92c0eeeeac1e7fc516d171ab-1080p-en.mp4",
+          "title": "I Can Do All Things Through Christ: 2023 Youth Theme – Music Lyric Video",
+          "description": "“I can do all things through Christ” music lyric video from the 2023 youth music album.",
+          "mimeType": "",
+          "duration": 233680,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2023-06-0030-i-can-do-all-things-through-christ-2023-youth-theme-music-lyric-video",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2023-06-0030-i-can-do-all-things-through-christ-2023-youth-theme-music-lyric-video-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/58d7531c718d8c59c699360c052c4fc4b561194c/full/1920,/0/default",
+            "seoDescription": "2023-06-0030-i-can-do-all-things-through-christ-2023-youth-theme-music-lyric-video-1920x1080-thumb-master.jpg",
+            "seoTitle": "2023-06-0030-i-can-do-all-things-through-christ-2023-youth-theme-music-lyric-video-1920x1080-thumb-master.jpg",
+            "shareableTitle": "2023-06-0030-i-can-do-all-things-through-christ-2023-youth-theme-music-lyric-video-1920x1080-thumb-master.jpg",
+            "title": "2023-06-0030-i-can-do-all-things-through-christ-2023-youth-theme-music-lyric-video-1920x1080-thumb-master.jpg",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/58d7531c718d8c59c699360c052c4fc4b561194c/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/58d7531c718d8c59c699360c052c4fc4b561194c/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/58d7531c718d8c59c699360c052c4fc4b561194c/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/58d7531c718d8c59c699360c052c4fc4b561194c/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/58d7531c718d8c59c699360c052c4fc4b561194c/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/58d7531c718d8c59c699360c052c4fc4b561194c/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/58d7531c718d8c59c699360c052c4fc4b561194c/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/58d7531c718d8c59c699360c052c4fc4b561194c/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/58d7531c718d8c59c699360c052c4fc4b561194c/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/58d7531c718d8c59c699360c052c4fc4b561194c/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/58d7531c718d8c59c699360c052c4fc4b561194c/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "It’s Not Hopeless",

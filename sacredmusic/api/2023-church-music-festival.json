@@ -22,7 +22,85 @@
       "videoAvailable": true,
       "tags": [],
       "voicings": [],
-      "assets": []
+      "assets": [
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/96f28105f35c11eeb98eeeeeac1e6d8e0d851575-1080p-en.mp4",
+          "title": "Church Music Festival Broadcast 2023",
+          "description": "Full broadcast of the 2023 Church Music Festival",
+          "mimeType": "",
+          "duration": 4148000,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2024-02-0010-church-music-festival-broadcast-2023",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2024-02-0010-church-music-festival-broadcast-2023-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/9266371b5c52c4a0944a5b7afc2f30dd56e76edd/full/1920,/0/default",
+            "seoDescription": "2024-02-0010-church-music-festival-broadcast-2023-1920x1080-thumb-master.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/9266371b5c52c4a0944a5b7afc2f30dd56e76edd/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/9266371b5c52c4a0944a5b7afc2f30dd56e76edd/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/9266371b5c52c4a0944a5b7afc2f30dd56e76edd/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/9266371b5c52c4a0944a5b7afc2f30dd56e76edd/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/9266371b5c52c4a0944a5b7afc2f30dd56e76edd/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/9266371b5c52c4a0944a5b7afc2f30dd56e76edd/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/9266371b5c52c4a0944a5b7afc2f30dd56e76edd/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/9266371b5c52c4a0944a5b7afc2f30dd56e76edd/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/9266371b5c52c4a0944a5b7afc2f30dd56e76edd/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/9266371b5c52c4a0944a5b7afc2f30dd56e76edd/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/9266371b5c52c4a0944a5b7afc2f30dd56e76edd/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "I Need thee Every Hour",

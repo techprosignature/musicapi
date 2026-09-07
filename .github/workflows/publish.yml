@@ -29,6 +29,8 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: "22"
+      - name: Test importer
+        run: npm test
       - name: Refresh catalog
         if: github.event_name != 'push'
         run: node fetchProcess.js refresh

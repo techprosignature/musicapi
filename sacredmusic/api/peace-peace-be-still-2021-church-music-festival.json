@@ -27,7 +27,85 @@
       "videoAvailable": true,
       "tags": [],
       "voicings": [],
-      "assets": []
+      "assets": [
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/peace-peace-be-still-2021-church-music-festival/2021-09-1000-peace-peace-be-still-2021-church-music-festival-1080p-eng.mp4",
+          "title": "Peace, Peace Be Still: 2021 Church Music Festival",
+          "description": "Choirs, soloists, and instrumentalists showcase music received from the annual Church Music Submission during the September 17, 2021 Church Music Festival.",
+          "mimeType": "",
+          "duration": 5234262,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2021-09-1000-peace-peace-be-still-2021-church-music-festival",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2021-09-1000-peace-peace-be-still-2021-church-music-festival-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b6bbd3ec86cd353f00ed656dcaf20f93089677e2/full/1920,/0/default",
+            "seoDescription": "2021-09-1000-peace-peace-be-still-2021-church-music-festival-1920x1080-thumb-master.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b6bbd3ec86cd353f00ed656dcaf20f93089677e2/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b6bbd3ec86cd353f00ed656dcaf20f93089677e2/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b6bbd3ec86cd353f00ed656dcaf20f93089677e2/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b6bbd3ec86cd353f00ed656dcaf20f93089677e2/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b6bbd3ec86cd353f00ed656dcaf20f93089677e2/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b6bbd3ec86cd353f00ed656dcaf20f93089677e2/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b6bbd3ec86cd353f00ed656dcaf20f93089677e2/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b6bbd3ec86cd353f00ed656dcaf20f93089677e2/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b6bbd3ec86cd353f00ed656dcaf20f93089677e2/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b6bbd3ec86cd353f00ed656dcaf20f93089677e2/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b6bbd3ec86cd353f00ed656dcaf20f93089677e2/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "Peace, Peace, Be Still",

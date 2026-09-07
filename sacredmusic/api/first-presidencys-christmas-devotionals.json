@@ -3465,7 +3465,85 @@
         "Christmas"
       ],
       "voicings": [],
-      "assets": []
+      "assets": [
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/pp2rg5l6nkodccyur83gmkpohyqh0ct214lzz3he-720p-en.mp4",
+          "title": "Carol of the Bells",
+          "description": "The Mormon Tabernacle Choir sings “Carol of the Bells.”",
+          "mimeType": "",
+          "duration": 94894,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2015-12-0031-carol-of-the-bells",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2015-12-0031-carol-of-the-bells-1920x1080.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/81125568e17a0db8e5d1eb8784f71068904a4178/full/1920,/0/default",
+            "seoDescription": "2015-12-0031-carol-of-the-bells-1920x1080.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/81125568e17a0db8e5d1eb8784f71068904a4178/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/81125568e17a0db8e5d1eb8784f71068904a4178/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/81125568e17a0db8e5d1eb8784f71068904a4178/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/81125568e17a0db8e5d1eb8784f71068904a4178/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/81125568e17a0db8e5d1eb8784f71068904a4178/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/81125568e17a0db8e5d1eb8784f71068904a4178/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/81125568e17a0db8e5d1eb8784f71068904a4178/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/81125568e17a0db8e5d1eb8784f71068904a4178/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/81125568e17a0db8e5d1eb8784f71068904a4178/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/81125568e17a0db8e5d1eb8784f71068904a4178/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/81125568e17a0db8e5d1eb8784f71068904a4178/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "Silent Night",
@@ -6464,7 +6542,85 @@
         "worship"
       ],
       "voicings": [],
-      "assets": []
+      "assets": [
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/missionary/christmas-2019/2019-09-0140-silent-night-7-year-old-claire-crosby-accompanied-by-president-russell-m-nelson-1080p-eng.mp4",
+          "title": "Silent Night (President Russell M. Nelson and Claire Crosby)",
+          "description": "Bring a little Christmas light into your life this holiday season. ⭐️ Check out this beautiful duet featuring President Russell M. Nelson and the talented 7-year-old Claire Crosby.",
+          "mimeType": "",
+          "duration": 175000,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2019-09-0140-silent-night-president-russell-m-nelson-and-claire-crosby",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2019-09-0140-silent-night-7-year-old-claire-crosby-accompanied-by-president-russell-m-nelson-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/62056e1658242109099f71d682a944a1873d8d63/full/1920,/0/default",
+            "seoDescription": "2019-09-0140-silent-night-7-year-old-claire-crosby-accompanied-by-president-russell-m-nelson-1920x1080-thumb-master.jpg",
+            "seoTitle": "2019-09-0140-silent-night-7-year-old-claire-crosby-accompanied-by-president-russell-m-nelson-1920x1080-thumb-master.jpg",
+            "shareableTitle": "2019-09-0140-silent-night-7-year-old-claire-crosby-accompanied-by-president-russell-m-nelson-1920x1080-thumb-master.jpg",
+            "title": "2019-09-0140-silent-night-7-year-old-claire-crosby-accompanied-by-president-russell-m-nelson-1920x1080-thumb-master.jpg",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/62056e1658242109099f71d682a944a1873d8d63/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/62056e1658242109099f71d682a944a1873d8d63/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/62056e1658242109099f71d682a944a1873d8d63/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/62056e1658242109099f71d682a944a1873d8d63/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/62056e1658242109099f71d682a944a1873d8d63/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/62056e1658242109099f71d682a944a1873d8d63/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/62056e1658242109099f71d682a944a1873d8d63/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/62056e1658242109099f71d682a944a1873d8d63/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/62056e1658242109099f71d682a944a1873d8d63/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/62056e1658242109099f71d682a944a1873d8d63/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/62056e1658242109099f71d682a944a1873d8d63/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "Silent Night",
@@ -6617,7 +6773,85 @@
         "praise"
       ],
       "voicings": [],
-      "assets": []
+      "assets": [
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/fcc2f101743b11edbfc7eeeeac1e240270e1208f-1080p-en.mp4",
+          "title": "Oh, Come, All Ye Faithful",
+          "description": "The Tabernacle Choir at Temple Square performs “Oh, Come, All Ye Faithful” during 2022 First Presidency’s Christmas devotional.",
+          "mimeType": "",
+          "duration": 188588,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2022-12-1001-oh-come-all-ye-faithful",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2022-12-1001-oh-come-all-ye-faithful-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/74abc3122d26faf87351b44289827940ca2af866/full/1920,/0/default",
+            "seoDescription": "2022-12-1001-oh-come-all-ye-faithful-1920x1080-thumb-master.jpg",
+            "seoTitle": "2022-12-1001-oh-come-all-ye-faithful-1920x1080-thumb-master.jpg",
+            "shareableTitle": "2022-12-1001-oh-come-all-ye-faithful-1920x1080-thumb-master.jpg",
+            "title": "2022-12-1001-oh-come-all-ye-faithful-1920x1080-thumb-master.jpg",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/74abc3122d26faf87351b44289827940ca2af866/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/74abc3122d26faf87351b44289827940ca2af866/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/74abc3122d26faf87351b44289827940ca2af866/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/74abc3122d26faf87351b44289827940ca2af866/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/74abc3122d26faf87351b44289827940ca2af866/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/74abc3122d26faf87351b44289827940ca2af866/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/74abc3122d26faf87351b44289827940ca2af866/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/74abc3122d26faf87351b44289827940ca2af866/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/74abc3122d26faf87351b44289827940ca2af866/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/74abc3122d26faf87351b44289827940ca2af866/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/74abc3122d26faf87351b44289827940ca2af866/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "O Come, Little Children",
@@ -6649,7 +6883,85 @@
       "videoAvailable": true,
       "tags": [],
       "voicings": [],
-      "assets": []
+      "assets": [
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/9feca7e6743c11eda201eeeeac1e668a43893ebc-1080p-en.mp4",
+          "title": "O Come, Little Children",
+          "description": "The Tabernacle Choir at Temple Square performs “O Come, Little Children” during 2022 First Presidency’s Christmas devotional.",
+          "mimeType": "",
+          "duration": 293000,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2022-12-1002-o-come-little-children",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2022 First Presidency’s Christmas Devotional",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/f94220717d8b11ed98f8eeeeac1e785240a383cd/full/1920,/0/default",
+            "seoDescription": "2022 First Presidency's Christmas Devotional",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/f94220717d8b11ed98f8eeeeac1e785240a383cd/full/!320%2C213/0/default",
+                "width": 320,
+                "height": 213
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/f94220717d8b11ed98f8eeeeac1e785240a383cd/full/!640%2C427/0/default",
+                "width": 640,
+                "height": 427
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/f94220717d8b11ed98f8eeeeac1e785240a383cd/full/!800%2C533/0/default",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/f94220717d8b11ed98f8eeeeac1e785240a383cd/full/!1280%2C853/0/default",
+                "width": 1280,
+                "height": 853
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/f94220717d8b11ed98f8eeeeac1e785240a383cd/full/!1600%2C1067/0/default",
+                "width": 1600,
+                "height": 1067
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/f94220717d8b11ed98f8eeeeac1e785240a383cd/full/!1920%2C1280/0/default",
+                "width": 1920,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/f94220717d8b11ed98f8eeeeac1e785240a383cd/full/!60%2C40/0/default",
+                "width": 60,
+                "height": 40
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/f94220717d8b11ed98f8eeeeac1e785240a383cd/full/!250%2C167/0/default",
+                "width": 250,
+                "height": 167
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/f94220717d8b11ed98f8eeeeac1e785240a383cd/full/!200%2C133/0/default",
+                "width": 200,
+                "height": 133
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/f94220717d8b11ed98f8eeeeac1e785240a383cd/full/!100%2C67/0/default",
+                "width": 100,
+                "height": 67
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/f94220717d8b11ed98f8eeeeac1e785240a383cd/full/!500%2C333/0/default",
+                "width": 500,
+                "height": 333
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "Christmas Bells Are Ringing",
@@ -6686,7 +6998,85 @@
         "worship"
       ],
       "voicings": [],
-      "assets": []
+      "assets": [
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/42388516744111ed8866eeeeac1ec67bd604c463-1080p-en.mp4",
+          "title": "Christmas Bells Are Ringing",
+          "description": "The Tabernacle Choir at Temple Square performs “Christmas Bells Are Ringing” during 2022 First Presidency’s Christmas devotional.",
+          "mimeType": "",
+          "duration": 135000,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2022-12-1021-christmas-bells-are-ringing",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2022-12-1021-christmas-bells-are-ringing-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/203bd6698560f219763f8af7e160f6d3d8009074/full/1920,/0/default",
+            "seoDescription": "2022-12-1021-christmas-bells-are-ringing-1920x1080-thumb-master.jpg",
+            "seoTitle": "2022-12-1021-christmas-bells-are-ringing-1920x1080-thumb-master.jpg",
+            "shareableTitle": "2022-12-1021-christmas-bells-are-ringing-1920x1080-thumb-master.jpg",
+            "title": "2022-12-1021-christmas-bells-are-ringing-1920x1080-thumb-master.jpg",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/203bd6698560f219763f8af7e160f6d3d8009074/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/203bd6698560f219763f8af7e160f6d3d8009074/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/203bd6698560f219763f8af7e160f6d3d8009074/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/203bd6698560f219763f8af7e160f6d3d8009074/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/203bd6698560f219763f8af7e160f6d3d8009074/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/203bd6698560f219763f8af7e160f6d3d8009074/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/203bd6698560f219763f8af7e160f6d3d8009074/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/203bd6698560f219763f8af7e160f6d3d8009074/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/203bd6698560f219763f8af7e160f6d3d8009074/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/203bd6698560f219763f8af7e160f6d3d8009074/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/203bd6698560f219763f8af7e160f6d3d8009074/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "The First Noel",
@@ -6731,7 +7121,85 @@
         "worship"
       ],
       "voicings": [],
-      "assets": []
+      "assets": [
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/b7cf3c84744911ed9dcbeeeeac1e9bbe9dd297aa-1080p-en.mp4",
+          "title": "The First Noel",
+          "description": "The Tabernacle Choir at Temple Square performs “The First Noel” during 2022 First Presidency’s Christmas devotional.",
+          "mimeType": "",
+          "duration": 319952,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2022-12-1031-the-first-noel",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2022-12-1031-the-first-noel-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/c74833ea8326a61b0eee575ab4e621c82ffb00c3/full/1920,/0/default",
+            "seoDescription": "2022-12-1031-the-first-noel-1920x1080-thumb-master.jpg",
+            "seoTitle": "2022-12-1031-the-first-noel-1920x1080-thumb-master.jpg",
+            "shareableTitle": "2022-12-1031-the-first-noel-1920x1080-thumb-master.jpg",
+            "title": "2022-12-1031-the-first-noel-1920x1080-thumb-master.jpg",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/c74833ea8326a61b0eee575ab4e621c82ffb00c3/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/c74833ea8326a61b0eee575ab4e621c82ffb00c3/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/c74833ea8326a61b0eee575ab4e621c82ffb00c3/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/c74833ea8326a61b0eee575ab4e621c82ffb00c3/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/c74833ea8326a61b0eee575ab4e621c82ffb00c3/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/c74833ea8326a61b0eee575ab4e621c82ffb00c3/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/c74833ea8326a61b0eee575ab4e621c82ffb00c3/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/c74833ea8326a61b0eee575ab4e621c82ffb00c3/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/c74833ea8326a61b0eee575ab4e621c82ffb00c3/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/c74833ea8326a61b0eee575ab4e621c82ffb00c3/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/c74833ea8326a61b0eee575ab4e621c82ffb00c3/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "Silent Night",
@@ -6772,7 +7240,85 @@
         "worship"
       ],
       "voicings": [],
-      "assets": []
+      "assets": [
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/290bad75744511edabd9eeeeac1e67a1c98979cc-1080p-en.mp4",
+          "title": "Silent Night",
+          "description": "The Tabernacle Choir at Temple Square and congregation perform “Silent Night” during First Presidency’s Christmas devotional broadcast.",
+          "mimeType": "",
+          "duration": 292091,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2022-12-1041-silent-night",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2022-12-1041-silent-night-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/fc0416d670fb30c1a7cb45185077d91b2f20c24e/full/1920,/0/default",
+            "seoDescription": "2022-12-1041-silent-night-1920x1080-thumb-master.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/fc0416d670fb30c1a7cb45185077d91b2f20c24e/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/fc0416d670fb30c1a7cb45185077d91b2f20c24e/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/fc0416d670fb30c1a7cb45185077d91b2f20c24e/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/fc0416d670fb30c1a7cb45185077d91b2f20c24e/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/fc0416d670fb30c1a7cb45185077d91b2f20c24e/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/fc0416d670fb30c1a7cb45185077d91b2f20c24e/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/fc0416d670fb30c1a7cb45185077d91b2f20c24e/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/fc0416d670fb30c1a7cb45185077d91b2f20c24e/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/fc0416d670fb30c1a7cb45185077d91b2f20c24e/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/fc0416d670fb30c1a7cb45185077d91b2f20c24e/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/fc0416d670fb30c1a7cb45185077d91b2f20c24e/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "Joy to the World",

@@ -23,7 +23,85 @@
       "videoAvailable": true,
       "tags": [],
       "voicings": [],
-      "assets": []
+      "assets": [
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/other-broadcasts/church-music-festival-2022/2022-08-1000-church-music-festival-full-session-1080p-eng.mp4",
+          "title": "2022 Church Music Festival: Rejoice!",
+          "description": "Local artists present the award-winning music from the annual Church Music Submission, including a variety of original compositions and arrangements for choirs, instrumentalists, and soloists. The music is written by members from around the world.",
+          "mimeType": "",
+          "duration": 4004000,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2022-08-1000-church-music-festival-full-session",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2022-08-1000-church-music-festival-full-session-3750x2105-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0282e3c0a802320013bf38682ae00da3f58f9cc2/full/1920,/0/default",
+            "seoDescription": "2022-08-1000-church-music-festival-full-session-3750x2105-thumb-master.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0282e3c0a802320013bf38682ae00da3f58f9cc2/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0282e3c0a802320013bf38682ae00da3f58f9cc2/full/!640%2C359/0/default",
+                "width": 640,
+                "height": 359
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0282e3c0a802320013bf38682ae00da3f58f9cc2/full/!800%2C449/0/default",
+                "width": 800,
+                "height": 449
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0282e3c0a802320013bf38682ae00da3f58f9cc2/full/!1280%2C719/0/default",
+                "width": 1280,
+                "height": 719
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0282e3c0a802320013bf38682ae00da3f58f9cc2/full/!1600%2C898/0/default",
+                "width": 1600,
+                "height": 898
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0282e3c0a802320013bf38682ae00da3f58f9cc2/full/!1920%2C1078/0/default",
+                "width": 1920,
+                "height": 1078
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0282e3c0a802320013bf38682ae00da3f58f9cc2/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0282e3c0a802320013bf38682ae00da3f58f9cc2/full/!250%2C140/0/default",
+                "width": 250,
+                "height": 140
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0282e3c0a802320013bf38682ae00da3f58f9cc2/full/!200%2C112/0/default",
+                "width": 200,
+                "height": 112
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0282e3c0a802320013bf38682ae00da3f58f9cc2/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0282e3c0a802320013bf38682ae00da3f58f9cc2/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "The Day Dawn Is Breaking",
