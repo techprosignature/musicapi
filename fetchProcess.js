@@ -259,6 +259,28 @@ function normalizeSong(song, collectionSlug) {
   };
 }
 
+function collectionArtworkUrl(collection, fallbackArtwork = new Map()) {
+  return collection.bookThumbnail?.renditions?.find((item) => item.distributionUrl)?.distributionUrl
+    || collection.bookThumbnail?.distributionUrl
+    || fallbackArtwork.get(collection.slug)
+    || null;
+}
+
+async function loadArtworkFallbacks(directory) {
+  try {
+    const data = JSON.parse(await fs.readFile(
+      path.join(directory, "catalog", CATALOG_VERSION, "index.json"),
+      "utf8",
+    ));
+    return new Map((data.collections || [])
+      .filter((collection) => collection.id && collection.artworkUrl)
+      .map((collection) => [collection.id, collection.artworkUrl]));
+  } catch (error) {
+    if (error.code === "ENOENT") return new Map();
+    throw error;
+  }
+}
+
 function collectionCore(collection) {
   return {
     id: collection.id,
@@ -416,7 +438,8 @@ async function validateCatalog(directory, rawStats) {
   return stats;
 }
 
-async function buildCatalog(directory) {
+async function buildCatalog(directory, suppliedArtworkFallbacks) {
+  const artworkFallbacks = suppliedArtworkFallbacks || await loadArtworkFallbacks(directory);
   const main = JSON.parse(await fs.readFile(path.join(directory, "main.json"), "utf8"));
   const collections = [...collectCollections(main.data.libraryData).values()];
   const catalogDirectory = path.join(directory, "catalog");
@@ -430,13 +453,14 @@ async function buildCatalog(directory) {
     await fs.mkdir(collectionDirectory, { recursive: true });
     const indexCollections = [];
     const searchRecords = [];
+    let preservedArtworkCount = 0;
     for (const collection of collections) {
       const raw = JSON.parse(await fs.readFile(path.join(directory, "api", `${collection.slug}.json`), "utf8"));
       const songs = raw.data.map((song) => normalizeSong(song, collection.slug));
       const playableSongCount = songs.filter((song) => song.recordings.length > 0).length;
-      const artworkUrl = collection.bookThumbnail?.renditions?.find((item) => item.distributionUrl)?.distributionUrl
-        || collection.bookThumbnail?.distributionUrl
-        || null;
+      const sourceArtworkUrl = collectionArtworkUrl(collection);
+      const artworkUrl = sourceArtworkUrl || artworkFallbacks.get(collection.slug) || null;
+      if (!sourceArtworkUrl && artworkUrl) preservedArtworkCount += 1;
       const core = {
         id: collection.slug,
         slug: collection.slug,
@@ -459,6 +483,10 @@ async function buildCatalog(directory) {
         path.join(collectionDirectory, `${collection.slug}.json`),
         `${JSON.stringify({ ...payloadCore, revision, collection: item })}\n`,
       );
+    }
+
+    if (preservedArtworkCount > 0) {
+      console.log(`Preserved last known artwork for ${preservedArtworkCount} collections omitted upstream.`);
     }
 
     const searchCore = { schemaVersion: 1, songs: searchRecords };
@@ -518,6 +546,7 @@ async function buildCatalog(directory) {
 }
 
 async function refresh() {
+  const artworkFallbacks = await loadArtworkFallbacks(DATA_DIRECTORY);
   const staging = path.join(ROOT, `.sacredmusic-refresh-${process.pid}`);
   const backup = path.join(ROOT, `.sacredmusic-backup-${process.pid}`);
   await fs.rm(staging, { recursive: true, force: true });
@@ -562,7 +591,7 @@ async function refresh() {
       JSON.stringify(payload, null, 2),
     )));
     const stats = await validateSnapshot(staging);
-    await buildCatalog(staging);
+    await buildCatalog(staging, artworkFallbacks);
     await validateCatalog(staging, stats);
     await fs.rm(backup, { recursive: true, force: true });
     await fs.rename(DATA_DIRECTORY, backup);
@@ -605,6 +634,7 @@ if (require.main === module) {
 }
 
 module.exports = {
+  collectionArtworkUrl,
   isPlaybackAsset,
   mergePageAssets,
   recordingAssets,

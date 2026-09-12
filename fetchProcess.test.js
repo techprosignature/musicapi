@@ -1,6 +1,7 @@
 const test = require("node:test");
 const assert = require("node:assert/strict");
 const {
+  collectionArtworkUrl,
   isPlaybackAsset,
   mergePageAssets,
   parseRenderData,
@@ -17,6 +18,15 @@ function renderData(song) {
     sendToError: false,
   } })};</script></html>`;
 }
+
+test("collection artwork falls back when an upstream refresh omits its thumbnail", () => {
+  const oldUrl = "https://images.example/old.jpg";
+  assert.equal(collectionArtworkUrl({ slug: "album" }, new Map([["album", oldUrl]])), oldUrl);
+  assert.equal(collectionArtworkUrl({
+    slug: "album",
+    bookThumbnail: { distributionUrl: "https://images.example/current.jpg" },
+  }, new Map([["album", oldUrl]])), "https://images.example/current.jpg");
+});
 
 test("parseRenderData accepts whitespace around the page assignment", () => {
   assert.deepEqual(parseRenderData(renderData({ slug: "song", assets: [] })).data.songData.assets, []);
